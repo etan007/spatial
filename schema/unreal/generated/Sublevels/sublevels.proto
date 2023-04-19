@@ -1,3 +1,0 @@
-syntax = "proto2";
-// Note that this file has been generated automatically
-package unreal.sublevels;
