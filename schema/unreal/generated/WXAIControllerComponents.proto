@@ -7,16 +7,16 @@ import "unreal/generated/Subobjects/PawnActionsComponent.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message PathFollowingComponent {
-	optional uint32 msg_cid = 1[default = 23730];
+	optional uint32 msg_cid = 1[default = 23735];
 	optional unreal.generated.PathFollowingComponent data = 2;
 }
 
 message ActionsComp {
-	optional uint32 msg_cid = 1[default = 23731];
+	optional uint32 msg_cid = 1[default = 23736];
 	optional unreal.generated.PawnActionsComponent data = 2;
 }
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 23732];
+	optional uint32 msg_cid = 1[default = 23737];
 	optional unreal.generated.SceneComponent data = 2;
 }

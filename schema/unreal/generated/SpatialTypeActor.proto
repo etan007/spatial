@@ -6,7 +6,7 @@ package unreal.generated.spatialtypeactor;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTypeActor {
-	optional uint32 msg_cid = 1[default = 22480];
+	optional uint32 msg_cid = 1[default = 22485];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message SpatialTypeActor {
 }
 
 message SpatialTypeActorServerOnly {
-	optional uint32 msg_cid = 1[default = 22481];
+	optional uint32 msg_cid = 1[default = 22486];
 	 optional bool bactorenablecollision = 6;
 }

@@ -6,7 +6,7 @@ package unreal.generated.datasmitharealightactor;
 import "unreal/gdk/core_types.proto";
 
 message DatasmithAreaLightActor {
-	optional uint32 msg_cid = 1[default = 11994];
+	optional uint32 msg_cid = 1[default = 11999];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message DatasmithAreaLightActor {
 }
 
 message DatasmithAreaLightActorServerOnly {
-	optional uint32 msg_cid = 1[default = 11995];
+	optional uint32 msg_cid = 1[default = 12000];
 	 optional bool bactorenablecollision = 6;
 }

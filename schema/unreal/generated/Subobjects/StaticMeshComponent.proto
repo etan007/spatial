@@ -27,151 +27,151 @@ message StaticMeshComponent {
 }
 
 message StaticMeshComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 11489];
-	optional StaticMeshComponent data = 2;
-}
-
-message StaticMeshComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 11490];
-	optional StaticMeshComponent data = 2;
-}
-
-message StaticMeshComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 11491];
-	optional StaticMeshComponent data = 2;
-}
-
-message StaticMeshComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 11492];
-	optional StaticMeshComponent data = 2;
-}
-
-message StaticMeshComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 11493];
-	optional StaticMeshComponent data = 2;
-}
-
-message StaticMeshComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11494];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic7 {
+message StaticMeshComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 11495];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic8 {
+message StaticMeshComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 11496];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic9 {
+message StaticMeshComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 11497];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic10 {
+message StaticMeshComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 11498];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic11 {
+message StaticMeshComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11499];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic12 {
+message StaticMeshComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 11500];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic13 {
+message StaticMeshComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 11501];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic14 {
+message StaticMeshComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 11502];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic15 {
+message StaticMeshComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 11503];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic16 {
+message StaticMeshComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 11504];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic17 {
+message StaticMeshComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 11505];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic18 {
+message StaticMeshComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 11506];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic19 {
+message StaticMeshComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 11507];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic20 {
+message StaticMeshComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 11508];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic21 {
+message StaticMeshComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 11509];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic22 {
+message StaticMeshComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 11510];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic23 {
+message StaticMeshComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 11511];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic24 {
+message StaticMeshComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 11512];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic25 {
+message StaticMeshComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 11513];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic26 {
+message StaticMeshComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 11514];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic27 {
+message StaticMeshComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 11515];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic28 {
+message StaticMeshComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 11516];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic29 {
+message StaticMeshComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 11517];
 	optional StaticMeshComponent data = 2;
 }
 
-message StaticMeshComponentDynamic30 {
+message StaticMeshComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 11518];
+	optional StaticMeshComponent data = 2;
+}
+
+message StaticMeshComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11519];
+	optional StaticMeshComponent data = 2;
+}
+
+message StaticMeshComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11520];
+	optional StaticMeshComponent data = 2;
+}
+
+message StaticMeshComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11521];
+	optional StaticMeshComponent data = 2;
+}
+
+message StaticMeshComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11522];
+	optional StaticMeshComponent data = 2;
+}
+
+message StaticMeshComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11523];
 	optional StaticMeshComponent data = 2;
 }

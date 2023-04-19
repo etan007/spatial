@@ -26,151 +26,151 @@ message GizmoCircleComponent {
 }
 
 message GizmoCircleComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 18451];
-	optional GizmoCircleComponent data = 2;
-}
-
-message GizmoCircleComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 18452];
-	optional GizmoCircleComponent data = 2;
-}
-
-message GizmoCircleComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 18453];
-	optional GizmoCircleComponent data = 2;
-}
-
-message GizmoCircleComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 18454];
-	optional GizmoCircleComponent data = 2;
-}
-
-message GizmoCircleComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 18455];
-	optional GizmoCircleComponent data = 2;
-}
-
-message GizmoCircleComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18456];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic7 {
+message GizmoCircleComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 18457];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic8 {
+message GizmoCircleComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 18458];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic9 {
+message GizmoCircleComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 18459];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic10 {
+message GizmoCircleComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 18460];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic11 {
+message GizmoCircleComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18461];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic12 {
+message GizmoCircleComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 18462];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic13 {
+message GizmoCircleComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 18463];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic14 {
+message GizmoCircleComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 18464];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic15 {
+message GizmoCircleComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 18465];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic16 {
+message GizmoCircleComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 18466];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic17 {
+message GizmoCircleComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 18467];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic18 {
+message GizmoCircleComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 18468];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic19 {
+message GizmoCircleComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 18469];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic20 {
+message GizmoCircleComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 18470];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic21 {
+message GizmoCircleComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 18471];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic22 {
+message GizmoCircleComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 18472];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic23 {
+message GizmoCircleComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 18473];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic24 {
+message GizmoCircleComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 18474];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic25 {
+message GizmoCircleComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 18475];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic26 {
+message GizmoCircleComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 18476];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic27 {
+message GizmoCircleComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 18477];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic28 {
+message GizmoCircleComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 18478];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic29 {
+message GizmoCircleComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 18479];
 	optional GizmoCircleComponent data = 2;
 }
 
-message GizmoCircleComponentDynamic30 {
+message GizmoCircleComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 18480];
+	optional GizmoCircleComponent data = 2;
+}
+
+message GizmoCircleComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18481];
+	optional GizmoCircleComponent data = 2;
+}
+
+message GizmoCircleComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18482];
+	optional GizmoCircleComponent data = 2;
+}
+
+message GizmoCircleComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18483];
+	optional GizmoCircleComponent data = 2;
+}
+
+message GizmoCircleComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18484];
+	optional GizmoCircleComponent data = 2;
+}
+
+message GizmoCircleComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18485];
 	optional GizmoCircleComponent data = 2;
 }

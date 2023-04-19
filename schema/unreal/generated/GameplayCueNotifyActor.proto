@@ -6,7 +6,7 @@ package unreal.generated.gameplaycuenotifyactor;
 import "unreal/gdk/core_types.proto";
 
 message GameplayCueNotifyActor {
-	optional uint32 msg_cid = 1[default = 17453];
+	optional uint32 msg_cid = 1[default = 17458];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message GameplayCueNotifyActor {
 }
 
 message GameplayCueNotifyActorServerOnly {
-	optional uint32 msg_cid = 1[default = 17454];
+	optional uint32 msg_cid = 1[default = 17459];
 	 optional bool bactorenablecollision = 6;
 }

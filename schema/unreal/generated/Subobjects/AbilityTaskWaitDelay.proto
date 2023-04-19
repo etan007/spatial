@@ -7,151 +7,151 @@ message AbilityTaskWaitDelay {
 }
 
 message AbilityTaskWaitDelayDynamic1 {
-	optional uint32 msg_cid = 1[default = 16776];
-	optional AbilityTaskWaitDelay data = 2;
-}
-
-message AbilityTaskWaitDelayDynamic2 {
-	optional uint32 msg_cid = 1[default = 16777];
-	optional AbilityTaskWaitDelay data = 2;
-}
-
-message AbilityTaskWaitDelayDynamic3 {
-	optional uint32 msg_cid = 1[default = 16778];
-	optional AbilityTaskWaitDelay data = 2;
-}
-
-message AbilityTaskWaitDelayDynamic4 {
-	optional uint32 msg_cid = 1[default = 16779];
-	optional AbilityTaskWaitDelay data = 2;
-}
-
-message AbilityTaskWaitDelayDynamic5 {
-	optional uint32 msg_cid = 1[default = 16780];
-	optional AbilityTaskWaitDelay data = 2;
-}
-
-message AbilityTaskWaitDelayDynamic6 {
 	optional uint32 msg_cid = 1[default = 16781];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic7 {
+message AbilityTaskWaitDelayDynamic2 {
 	optional uint32 msg_cid = 1[default = 16782];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic8 {
+message AbilityTaskWaitDelayDynamic3 {
 	optional uint32 msg_cid = 1[default = 16783];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic9 {
+message AbilityTaskWaitDelayDynamic4 {
 	optional uint32 msg_cid = 1[default = 16784];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic10 {
+message AbilityTaskWaitDelayDynamic5 {
 	optional uint32 msg_cid = 1[default = 16785];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic11 {
+message AbilityTaskWaitDelayDynamic6 {
 	optional uint32 msg_cid = 1[default = 16786];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic12 {
+message AbilityTaskWaitDelayDynamic7 {
 	optional uint32 msg_cid = 1[default = 16787];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic13 {
+message AbilityTaskWaitDelayDynamic8 {
 	optional uint32 msg_cid = 1[default = 16788];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic14 {
+message AbilityTaskWaitDelayDynamic9 {
 	optional uint32 msg_cid = 1[default = 16789];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic15 {
+message AbilityTaskWaitDelayDynamic10 {
 	optional uint32 msg_cid = 1[default = 16790];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic16 {
+message AbilityTaskWaitDelayDynamic11 {
 	optional uint32 msg_cid = 1[default = 16791];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic17 {
+message AbilityTaskWaitDelayDynamic12 {
 	optional uint32 msg_cid = 1[default = 16792];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic18 {
+message AbilityTaskWaitDelayDynamic13 {
 	optional uint32 msg_cid = 1[default = 16793];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic19 {
+message AbilityTaskWaitDelayDynamic14 {
 	optional uint32 msg_cid = 1[default = 16794];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic20 {
+message AbilityTaskWaitDelayDynamic15 {
 	optional uint32 msg_cid = 1[default = 16795];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic21 {
+message AbilityTaskWaitDelayDynamic16 {
 	optional uint32 msg_cid = 1[default = 16796];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic22 {
+message AbilityTaskWaitDelayDynamic17 {
 	optional uint32 msg_cid = 1[default = 16797];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic23 {
+message AbilityTaskWaitDelayDynamic18 {
 	optional uint32 msg_cid = 1[default = 16798];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic24 {
+message AbilityTaskWaitDelayDynamic19 {
 	optional uint32 msg_cid = 1[default = 16799];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic25 {
+message AbilityTaskWaitDelayDynamic20 {
 	optional uint32 msg_cid = 1[default = 16800];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic26 {
+message AbilityTaskWaitDelayDynamic21 {
 	optional uint32 msg_cid = 1[default = 16801];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic27 {
+message AbilityTaskWaitDelayDynamic22 {
 	optional uint32 msg_cid = 1[default = 16802];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic28 {
+message AbilityTaskWaitDelayDynamic23 {
 	optional uint32 msg_cid = 1[default = 16803];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic29 {
+message AbilityTaskWaitDelayDynamic24 {
 	optional uint32 msg_cid = 1[default = 16804];
 	optional AbilityTaskWaitDelay data = 2;
 }
 
-message AbilityTaskWaitDelayDynamic30 {
+message AbilityTaskWaitDelayDynamic25 {
 	optional uint32 msg_cid = 1[default = 16805];
+	optional AbilityTaskWaitDelay data = 2;
+}
+
+message AbilityTaskWaitDelayDynamic26 {
+	optional uint32 msg_cid = 1[default = 16806];
+	optional AbilityTaskWaitDelay data = 2;
+}
+
+message AbilityTaskWaitDelayDynamic27 {
+	optional uint32 msg_cid = 1[default = 16807];
+	optional AbilityTaskWaitDelay data = 2;
+}
+
+message AbilityTaskWaitDelayDynamic28 {
+	optional uint32 msg_cid = 1[default = 16808];
+	optional AbilityTaskWaitDelay data = 2;
+}
+
+message AbilityTaskWaitDelayDynamic29 {
+	optional uint32 msg_cid = 1[default = 16809];
+	optional AbilityTaskWaitDelay data = 2;
+}
+
+message AbilityTaskWaitDelayDynamic30 {
+	optional uint32 msg_cid = 1[default = 16810];
 	optional AbilityTaskWaitDelay data = 2;
 }

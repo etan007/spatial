@@ -26,151 +26,151 @@ message WXPropInteractBox {
 }
 
 message WXPropInteractBoxDynamic1 {
-	optional uint32 msg_cid = 1[default = 24648];
+	optional uint32 msg_cid = 1[default = 24796];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic2 {
-	optional uint32 msg_cid = 1[default = 24649];
+	optional uint32 msg_cid = 1[default = 24797];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic3 {
-	optional uint32 msg_cid = 1[default = 24650];
+	optional uint32 msg_cid = 1[default = 24798];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic4 {
-	optional uint32 msg_cid = 1[default = 24651];
+	optional uint32 msg_cid = 1[default = 24799];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic5 {
-	optional uint32 msg_cid = 1[default = 24652];
+	optional uint32 msg_cid = 1[default = 24800];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic6 {
-	optional uint32 msg_cid = 1[default = 24653];
+	optional uint32 msg_cid = 1[default = 24801];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic7 {
-	optional uint32 msg_cid = 1[default = 24654];
+	optional uint32 msg_cid = 1[default = 24802];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic8 {
-	optional uint32 msg_cid = 1[default = 24655];
+	optional uint32 msg_cid = 1[default = 24803];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic9 {
-	optional uint32 msg_cid = 1[default = 24656];
+	optional uint32 msg_cid = 1[default = 24804];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic10 {
-	optional uint32 msg_cid = 1[default = 24657];
+	optional uint32 msg_cid = 1[default = 24805];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic11 {
-	optional uint32 msg_cid = 1[default = 24658];
+	optional uint32 msg_cid = 1[default = 24806];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic12 {
-	optional uint32 msg_cid = 1[default = 24659];
+	optional uint32 msg_cid = 1[default = 24807];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic13 {
-	optional uint32 msg_cid = 1[default = 24660];
+	optional uint32 msg_cid = 1[default = 24808];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic14 {
-	optional uint32 msg_cid = 1[default = 24661];
+	optional uint32 msg_cid = 1[default = 24809];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic15 {
-	optional uint32 msg_cid = 1[default = 24662];
+	optional uint32 msg_cid = 1[default = 24810];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic16 {
-	optional uint32 msg_cid = 1[default = 24663];
+	optional uint32 msg_cid = 1[default = 24811];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic17 {
-	optional uint32 msg_cid = 1[default = 24664];
+	optional uint32 msg_cid = 1[default = 24812];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic18 {
-	optional uint32 msg_cid = 1[default = 24665];
+	optional uint32 msg_cid = 1[default = 24813];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic19 {
-	optional uint32 msg_cid = 1[default = 24666];
+	optional uint32 msg_cid = 1[default = 24814];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic20 {
-	optional uint32 msg_cid = 1[default = 24667];
+	optional uint32 msg_cid = 1[default = 24815];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic21 {
-	optional uint32 msg_cid = 1[default = 24668];
+	optional uint32 msg_cid = 1[default = 24816];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic22 {
-	optional uint32 msg_cid = 1[default = 24669];
+	optional uint32 msg_cid = 1[default = 24817];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic23 {
-	optional uint32 msg_cid = 1[default = 24670];
+	optional uint32 msg_cid = 1[default = 24818];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic24 {
-	optional uint32 msg_cid = 1[default = 24671];
+	optional uint32 msg_cid = 1[default = 24819];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic25 {
-	optional uint32 msg_cid = 1[default = 24672];
+	optional uint32 msg_cid = 1[default = 24820];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic26 {
-	optional uint32 msg_cid = 1[default = 24673];
+	optional uint32 msg_cid = 1[default = 24821];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic27 {
-	optional uint32 msg_cid = 1[default = 24674];
+	optional uint32 msg_cid = 1[default = 24822];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic28 {
-	optional uint32 msg_cid = 1[default = 24675];
+	optional uint32 msg_cid = 1[default = 24823];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic29 {
-	optional uint32 msg_cid = 1[default = 24676];
+	optional uint32 msg_cid = 1[default = 24824];
 	optional WXPropInteractBox data = 2;
 }
 
 message WXPropInteractBoxDynamic30 {
-	optional uint32 msg_cid = 1[default = 24677];
+	optional uint32 msg_cid = 1[default = 24825];
 	optional WXPropInteractBox data = 2;
 }

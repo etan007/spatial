@@ -6,7 +6,7 @@ package unreal.generated.rpcininterfaceactor;
 import "unreal/gdk/core_types.proto";
 
 message RPCInInterfaceActor {
-	optional uint32 msg_cid = 1[default = 21568];
+	optional uint32 msg_cid = 1[default = 21573];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message RPCInInterfaceActor {
 }
 
 message RPCInInterfaceActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21569];
+	optional uint32 msg_cid = 1[default = 21574];
 	 optional bool bactorenablecollision = 6;
 }

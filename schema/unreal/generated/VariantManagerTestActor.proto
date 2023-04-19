@@ -6,7 +6,7 @@ package unreal.generated.variantmanagertestactor;
 import "unreal/gdk/core_types.proto";
 
 message VariantManagerTestActor {
-	optional uint32 msg_cid = 1[default = 23152];
+	optional uint32 msg_cid = 1[default = 23157];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message VariantManagerTestActor {
 }
 
 message VariantManagerTestActorServerOnly {
-	optional uint32 msg_cid = 1[default = 23153];
+	optional uint32 msg_cid = 1[default = 23158];
 	 optional bool bactorenablecollision = 6;
 }

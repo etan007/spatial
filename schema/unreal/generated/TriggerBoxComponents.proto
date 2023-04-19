@@ -5,6 +5,6 @@ package unreal.generated.triggerbox.subobjects;
 import "unreal/generated/Subobjects/BoxComponent.proto";
 
 message CollisionComp {
-	optional uint32 msg_cid = 1[default = 14788];
+	optional uint32 msg_cid = 1[default = 14793];
 	optional unreal.generated.BoxComponent data = 2;
 }

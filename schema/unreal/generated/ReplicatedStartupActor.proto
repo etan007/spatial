@@ -6,7 +6,7 @@ package unreal.generated.replicatedstartupactor;
 import "unreal/gdk/core_types.proto";
 
 message ReplicatedStartupActor {
-	optional uint32 msg_cid = 1[default = 21544];
+	optional uint32 msg_cid = 1[default = 21549];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,6 +28,6 @@ message ReplicatedStartupActor {
 }
 
 message ReplicatedStartupActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21545];
+	optional uint32 msg_cid = 1[default = 21550];
 	 optional bool bactorenablecollision = 6;
 }

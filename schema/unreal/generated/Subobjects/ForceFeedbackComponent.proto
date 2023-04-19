@@ -26,151 +26,151 @@ message ForceFeedbackComponent {
 }
 
 message ForceFeedbackComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12834];
-	optional ForceFeedbackComponent data = 2;
-}
-
-message ForceFeedbackComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12835];
-	optional ForceFeedbackComponent data = 2;
-}
-
-message ForceFeedbackComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12836];
-	optional ForceFeedbackComponent data = 2;
-}
-
-message ForceFeedbackComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12837];
-	optional ForceFeedbackComponent data = 2;
-}
-
-message ForceFeedbackComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12838];
-	optional ForceFeedbackComponent data = 2;
-}
-
-message ForceFeedbackComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12839];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic7 {
+message ForceFeedbackComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12840];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic8 {
+message ForceFeedbackComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12841];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic9 {
+message ForceFeedbackComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12842];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic10 {
+message ForceFeedbackComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12843];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic11 {
+message ForceFeedbackComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12844];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic12 {
+message ForceFeedbackComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12845];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic13 {
+message ForceFeedbackComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12846];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic14 {
+message ForceFeedbackComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12847];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic15 {
+message ForceFeedbackComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12848];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic16 {
+message ForceFeedbackComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12849];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic17 {
+message ForceFeedbackComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12850];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic18 {
+message ForceFeedbackComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12851];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic19 {
+message ForceFeedbackComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12852];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic20 {
+message ForceFeedbackComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12853];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic21 {
+message ForceFeedbackComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12854];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic22 {
+message ForceFeedbackComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12855];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic23 {
+message ForceFeedbackComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12856];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic24 {
+message ForceFeedbackComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12857];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic25 {
+message ForceFeedbackComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12858];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic26 {
+message ForceFeedbackComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12859];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic27 {
+message ForceFeedbackComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12860];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic28 {
+message ForceFeedbackComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12861];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic29 {
+message ForceFeedbackComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12862];
 	optional ForceFeedbackComponent data = 2;
 }
 
-message ForceFeedbackComponentDynamic30 {
+message ForceFeedbackComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12863];
+	optional ForceFeedbackComponent data = 2;
+}
+
+message ForceFeedbackComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12864];
+	optional ForceFeedbackComponent data = 2;
+}
+
+message ForceFeedbackComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12865];
+	optional ForceFeedbackComponent data = 2;
+}
+
+message ForceFeedbackComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12866];
+	optional ForceFeedbackComponent data = 2;
+}
+
+message ForceFeedbackComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12867];
+	optional ForceFeedbackComponent data = 2;
+}
+
+message ForceFeedbackComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12868];
 	optional ForceFeedbackComponent data = 2;
 }

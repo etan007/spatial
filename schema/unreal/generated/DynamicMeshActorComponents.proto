@@ -5,6 +5,6 @@ package unreal.generated.dynamicmeshactor.subobjects;
 import "unreal/generated/Subobjects/DynamicMeshComponent.proto";
 
 message DynamicMeshComponent {
-	optional uint32 msg_cid = 1[default = 17872];
+	optional uint32 msg_cid = 1[default = 17877];
 	optional unreal.generated.DynamicMeshComponent data = 2;
 }

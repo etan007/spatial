@@ -26,151 +26,151 @@ message TriangleSetComponent {
 }
 
 message TriangleSetComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20120];
-	optional TriangleSetComponent data = 2;
-}
-
-message TriangleSetComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20121];
-	optional TriangleSetComponent data = 2;
-}
-
-message TriangleSetComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20122];
-	optional TriangleSetComponent data = 2;
-}
-
-message TriangleSetComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20123];
-	optional TriangleSetComponent data = 2;
-}
-
-message TriangleSetComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20124];
-	optional TriangleSetComponent data = 2;
-}
-
-message TriangleSetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20125];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic7 {
+message TriangleSetComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20126];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic8 {
+message TriangleSetComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20127];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic9 {
+message TriangleSetComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20128];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic10 {
+message TriangleSetComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20129];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic11 {
+message TriangleSetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20130];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic12 {
+message TriangleSetComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20131];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic13 {
+message TriangleSetComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20132];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic14 {
+message TriangleSetComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20133];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic15 {
+message TriangleSetComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20134];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic16 {
+message TriangleSetComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20135];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic17 {
+message TriangleSetComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20136];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic18 {
+message TriangleSetComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20137];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic19 {
+message TriangleSetComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20138];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic20 {
+message TriangleSetComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20139];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic21 {
+message TriangleSetComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20140];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic22 {
+message TriangleSetComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20141];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic23 {
+message TriangleSetComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20142];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic24 {
+message TriangleSetComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20143];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic25 {
+message TriangleSetComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20144];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic26 {
+message TriangleSetComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20145];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic27 {
+message TriangleSetComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20146];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic28 {
+message TriangleSetComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20147];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic29 {
+message TriangleSetComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20148];
 	optional TriangleSetComponent data = 2;
 }
 
-message TriangleSetComponentDynamic30 {
+message TriangleSetComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20149];
+	optional TriangleSetComponent data = 2;
+}
+
+message TriangleSetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20150];
+	optional TriangleSetComponent data = 2;
+}
+
+message TriangleSetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20151];
+	optional TriangleSetComponent data = 2;
+}
+
+message TriangleSetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20152];
+	optional TriangleSetComponent data = 2;
+}
+
+message TriangleSetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20153];
+	optional TriangleSetComponent data = 2;
+}
+
+message TriangleSetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20154];
 	optional TriangleSetComponent data = 2;
 }

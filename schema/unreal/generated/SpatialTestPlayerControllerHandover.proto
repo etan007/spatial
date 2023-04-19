@@ -6,7 +6,7 @@ package unreal.generated.spatialtestplayercontrollerhandover;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestPlayerControllerHandover {
-	optional uint32 msg_cid = 1[default = 21925];
+	optional uint32 msg_cid = 1[default = 21930];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -31,6 +31,6 @@ message SpatialTestPlayerControllerHandover {
 }
 
 message SpatialTestPlayerControllerHandoverServerOnly {
-	optional uint32 msg_cid = 1[default = 21926];
+	optional uint32 msg_cid = 1[default = 21931];
 	 optional bool bactorenablecollision = 6;
 }

@@ -6,7 +6,7 @@ package unreal.generated.owneronlytestpawn;
 import "unreal/gdk/core_types.proto";
 
 message OwnerOnlyTestPawn {
-	optional uint32 msg_cid = 1[default = 21505];
+	optional uint32 msg_cid = 1[default = 21510];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,11 +28,11 @@ message OwnerOnlyTestPawn {
 }
 
 message OwnerOnlyTestPawnOwnerOnly {
-	optional uint32 msg_cid = 1[default = 21506];
+	optional uint32 msg_cid = 1[default = 21511];
 	 optional int32 testint = 21;
 }
 
 message OwnerOnlyTestPawnServerOnly {
-	optional uint32 msg_cid = 1[default = 21507];
+	optional uint32 msg_cid = 1[default = 21512];
 	 optional bool bactorenablecollision = 6;
 }

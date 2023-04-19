@@ -26,151 +26,151 @@ message PivotRotationGizmoHandleGroup {
 }
 
 message PivotRotationGizmoHandleGroupDynamic1 {
-	optional uint32 msg_cid = 1[default = 23307];
-	optional PivotRotationGizmoHandleGroup data = 2;
-}
-
-message PivotRotationGizmoHandleGroupDynamic2 {
-	optional uint32 msg_cid = 1[default = 23308];
-	optional PivotRotationGizmoHandleGroup data = 2;
-}
-
-message PivotRotationGizmoHandleGroupDynamic3 {
-	optional uint32 msg_cid = 1[default = 23309];
-	optional PivotRotationGizmoHandleGroup data = 2;
-}
-
-message PivotRotationGizmoHandleGroupDynamic4 {
-	optional uint32 msg_cid = 1[default = 23310];
-	optional PivotRotationGizmoHandleGroup data = 2;
-}
-
-message PivotRotationGizmoHandleGroupDynamic5 {
-	optional uint32 msg_cid = 1[default = 23311];
-	optional PivotRotationGizmoHandleGroup data = 2;
-}
-
-message PivotRotationGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23312];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic7 {
+message PivotRotationGizmoHandleGroupDynamic2 {
 	optional uint32 msg_cid = 1[default = 23313];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic8 {
+message PivotRotationGizmoHandleGroupDynamic3 {
 	optional uint32 msg_cid = 1[default = 23314];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic9 {
+message PivotRotationGizmoHandleGroupDynamic4 {
 	optional uint32 msg_cid = 1[default = 23315];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic10 {
+message PivotRotationGizmoHandleGroupDynamic5 {
 	optional uint32 msg_cid = 1[default = 23316];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic11 {
+message PivotRotationGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23317];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic12 {
+message PivotRotationGizmoHandleGroupDynamic7 {
 	optional uint32 msg_cid = 1[default = 23318];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic13 {
+message PivotRotationGizmoHandleGroupDynamic8 {
 	optional uint32 msg_cid = 1[default = 23319];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic14 {
+message PivotRotationGizmoHandleGroupDynamic9 {
 	optional uint32 msg_cid = 1[default = 23320];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic15 {
+message PivotRotationGizmoHandleGroupDynamic10 {
 	optional uint32 msg_cid = 1[default = 23321];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic16 {
+message PivotRotationGizmoHandleGroupDynamic11 {
 	optional uint32 msg_cid = 1[default = 23322];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic17 {
+message PivotRotationGizmoHandleGroupDynamic12 {
 	optional uint32 msg_cid = 1[default = 23323];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic18 {
+message PivotRotationGizmoHandleGroupDynamic13 {
 	optional uint32 msg_cid = 1[default = 23324];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic19 {
+message PivotRotationGizmoHandleGroupDynamic14 {
 	optional uint32 msg_cid = 1[default = 23325];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic20 {
+message PivotRotationGizmoHandleGroupDynamic15 {
 	optional uint32 msg_cid = 1[default = 23326];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic21 {
+message PivotRotationGizmoHandleGroupDynamic16 {
 	optional uint32 msg_cid = 1[default = 23327];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic22 {
+message PivotRotationGizmoHandleGroupDynamic17 {
 	optional uint32 msg_cid = 1[default = 23328];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic23 {
+message PivotRotationGizmoHandleGroupDynamic18 {
 	optional uint32 msg_cid = 1[default = 23329];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic24 {
+message PivotRotationGizmoHandleGroupDynamic19 {
 	optional uint32 msg_cid = 1[default = 23330];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic25 {
+message PivotRotationGizmoHandleGroupDynamic20 {
 	optional uint32 msg_cid = 1[default = 23331];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic26 {
+message PivotRotationGizmoHandleGroupDynamic21 {
 	optional uint32 msg_cid = 1[default = 23332];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic27 {
+message PivotRotationGizmoHandleGroupDynamic22 {
 	optional uint32 msg_cid = 1[default = 23333];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic28 {
+message PivotRotationGizmoHandleGroupDynamic23 {
 	optional uint32 msg_cid = 1[default = 23334];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic29 {
+message PivotRotationGizmoHandleGroupDynamic24 {
 	optional uint32 msg_cid = 1[default = 23335];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }
 
-message PivotRotationGizmoHandleGroupDynamic30 {
+message PivotRotationGizmoHandleGroupDynamic25 {
 	optional uint32 msg_cid = 1[default = 23336];
+	optional PivotRotationGizmoHandleGroup data = 2;
+}
+
+message PivotRotationGizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23337];
+	optional PivotRotationGizmoHandleGroup data = 2;
+}
+
+message PivotRotationGizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23338];
+	optional PivotRotationGizmoHandleGroup data = 2;
+}
+
+message PivotRotationGizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23339];
+	optional PivotRotationGizmoHandleGroup data = 2;
+}
+
+message PivotRotationGizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23340];
+	optional PivotRotationGizmoHandleGroup data = 2;
+}
+
+message PivotRotationGizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23341];
 	optional PivotRotationGizmoHandleGroup data = 2;
 }

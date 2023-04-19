@@ -6,7 +6,7 @@ package unreal.generated.spatialtypeactorwithmultipleobjectcomponents;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTypeActorWithMultipleObjectComponents {
-	optional uint32 msg_cid = 1[default = 22522];
+	optional uint32 msg_cid = 1[default = 22527];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,6 +27,6 @@ message SpatialTypeActorWithMultipleObjectComponents {
 }
 
 message SpatialTypeActorWithMultipleObjectComponentsServerOnly {
-	optional uint32 msg_cid = 1[default = 22523];
+	optional uint32 msg_cid = 1[default = 22528];
 	 optional bool bactorenablecollision = 6;
 }

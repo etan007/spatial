@@ -6,7 +6,7 @@ package unreal.generated.levelinstancepivot;
 import "unreal/gdk/core_types.proto";
 
 message LevelInstancePivot {
-	optional uint32 msg_cid = 1[default = 13114];
+	optional uint32 msg_cid = 1[default = 13119];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message LevelInstancePivot {
 }
 
 message LevelInstancePivotServerOnly {
-	optional uint32 msg_cid = 1[default = 13115];
+	optional uint32 msg_cid = 1[default = 13120];
 	 optional bool bactorenablecollision = 6;
 }

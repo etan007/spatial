@@ -6,7 +6,7 @@ package unreal.generated.vreditoravataractor;
 import "unreal/gdk/core_types.proto";
 
 message VREditorAvatarActor {
-	optional uint32 msg_cid = 1[default = 23463];
+	optional uint32 msg_cid = 1[default = 23468];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message VREditorAvatarActor {
 }
 
 message VREditorAvatarActorServerOnly {
-	optional uint32 msg_cid = 1[default = 23464];
+	optional uint32 msg_cid = 1[default = 23469];
 	 optional bool bactorenablecollision = 6;
 }

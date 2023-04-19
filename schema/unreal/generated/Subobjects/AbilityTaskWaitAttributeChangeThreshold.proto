@@ -7,151 +7,151 @@ message AbilityTaskWaitAttributeChangeThreshold {
 }
 
 message AbilityTaskWaitAttributeChangeThresholdDynamic1 {
-	optional uint32 msg_cid = 1[default = 16656];
-	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeThresholdDynamic2 {
-	optional uint32 msg_cid = 1[default = 16657];
-	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeThresholdDynamic3 {
-	optional uint32 msg_cid = 1[default = 16658];
-	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeThresholdDynamic4 {
-	optional uint32 msg_cid = 1[default = 16659];
-	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeThresholdDynamic5 {
-	optional uint32 msg_cid = 1[default = 16660];
-	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeThresholdDynamic6 {
 	optional uint32 msg_cid = 1[default = 16661];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic7 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic2 {
 	optional uint32 msg_cid = 1[default = 16662];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic8 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic3 {
 	optional uint32 msg_cid = 1[default = 16663];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic9 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic4 {
 	optional uint32 msg_cid = 1[default = 16664];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic10 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic5 {
 	optional uint32 msg_cid = 1[default = 16665];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic11 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic6 {
 	optional uint32 msg_cid = 1[default = 16666];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic12 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic7 {
 	optional uint32 msg_cid = 1[default = 16667];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic13 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic8 {
 	optional uint32 msg_cid = 1[default = 16668];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic14 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic9 {
 	optional uint32 msg_cid = 1[default = 16669];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic15 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic10 {
 	optional uint32 msg_cid = 1[default = 16670];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic16 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic11 {
 	optional uint32 msg_cid = 1[default = 16671];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic17 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic12 {
 	optional uint32 msg_cid = 1[default = 16672];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic18 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic13 {
 	optional uint32 msg_cid = 1[default = 16673];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic19 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic14 {
 	optional uint32 msg_cid = 1[default = 16674];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic20 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic15 {
 	optional uint32 msg_cid = 1[default = 16675];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic21 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic16 {
 	optional uint32 msg_cid = 1[default = 16676];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic22 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic17 {
 	optional uint32 msg_cid = 1[default = 16677];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic23 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic18 {
 	optional uint32 msg_cid = 1[default = 16678];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic24 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic19 {
 	optional uint32 msg_cid = 1[default = 16679];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic25 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic20 {
 	optional uint32 msg_cid = 1[default = 16680];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic26 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic21 {
 	optional uint32 msg_cid = 1[default = 16681];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic27 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic22 {
 	optional uint32 msg_cid = 1[default = 16682];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic28 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic23 {
 	optional uint32 msg_cid = 1[default = 16683];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic29 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic24 {
 	optional uint32 msg_cid = 1[default = 16684];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeThresholdDynamic30 {
+message AbilityTaskWaitAttributeChangeThresholdDynamic25 {
 	optional uint32 msg_cid = 1[default = 16685];
+	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeThresholdDynamic26 {
+	optional uint32 msg_cid = 1[default = 16686];
+	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeThresholdDynamic27 {
+	optional uint32 msg_cid = 1[default = 16687];
+	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeThresholdDynamic28 {
+	optional uint32 msg_cid = 1[default = 16688];
+	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeThresholdDynamic29 {
+	optional uint32 msg_cid = 1[default = 16689];
+	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeThresholdDynamic30 {
+	optional uint32 msg_cid = 1[default = 16690];
 	optional AbilityTaskWaitAttributeChangeThreshold data = 2;
 }

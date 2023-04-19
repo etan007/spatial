@@ -7,151 +7,151 @@ message AbilityTaskWaitInputRelease {
 }
 
 message AbilityTaskWaitInputReleaseDynamic1 {
-	optional uint32 msg_cid = 1[default = 17166];
-	optional AbilityTaskWaitInputRelease data = 2;
-}
-
-message AbilityTaskWaitInputReleaseDynamic2 {
-	optional uint32 msg_cid = 1[default = 17167];
-	optional AbilityTaskWaitInputRelease data = 2;
-}
-
-message AbilityTaskWaitInputReleaseDynamic3 {
-	optional uint32 msg_cid = 1[default = 17168];
-	optional AbilityTaskWaitInputRelease data = 2;
-}
-
-message AbilityTaskWaitInputReleaseDynamic4 {
-	optional uint32 msg_cid = 1[default = 17169];
-	optional AbilityTaskWaitInputRelease data = 2;
-}
-
-message AbilityTaskWaitInputReleaseDynamic5 {
-	optional uint32 msg_cid = 1[default = 17170];
-	optional AbilityTaskWaitInputRelease data = 2;
-}
-
-message AbilityTaskWaitInputReleaseDynamic6 {
 	optional uint32 msg_cid = 1[default = 17171];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic7 {
+message AbilityTaskWaitInputReleaseDynamic2 {
 	optional uint32 msg_cid = 1[default = 17172];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic8 {
+message AbilityTaskWaitInputReleaseDynamic3 {
 	optional uint32 msg_cid = 1[default = 17173];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic9 {
+message AbilityTaskWaitInputReleaseDynamic4 {
 	optional uint32 msg_cid = 1[default = 17174];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic10 {
+message AbilityTaskWaitInputReleaseDynamic5 {
 	optional uint32 msg_cid = 1[default = 17175];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic11 {
+message AbilityTaskWaitInputReleaseDynamic6 {
 	optional uint32 msg_cid = 1[default = 17176];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic12 {
+message AbilityTaskWaitInputReleaseDynamic7 {
 	optional uint32 msg_cid = 1[default = 17177];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic13 {
+message AbilityTaskWaitInputReleaseDynamic8 {
 	optional uint32 msg_cid = 1[default = 17178];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic14 {
+message AbilityTaskWaitInputReleaseDynamic9 {
 	optional uint32 msg_cid = 1[default = 17179];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic15 {
+message AbilityTaskWaitInputReleaseDynamic10 {
 	optional uint32 msg_cid = 1[default = 17180];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic16 {
+message AbilityTaskWaitInputReleaseDynamic11 {
 	optional uint32 msg_cid = 1[default = 17181];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic17 {
+message AbilityTaskWaitInputReleaseDynamic12 {
 	optional uint32 msg_cid = 1[default = 17182];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic18 {
+message AbilityTaskWaitInputReleaseDynamic13 {
 	optional uint32 msg_cid = 1[default = 17183];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic19 {
+message AbilityTaskWaitInputReleaseDynamic14 {
 	optional uint32 msg_cid = 1[default = 17184];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic20 {
+message AbilityTaskWaitInputReleaseDynamic15 {
 	optional uint32 msg_cid = 1[default = 17185];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic21 {
+message AbilityTaskWaitInputReleaseDynamic16 {
 	optional uint32 msg_cid = 1[default = 17186];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic22 {
+message AbilityTaskWaitInputReleaseDynamic17 {
 	optional uint32 msg_cid = 1[default = 17187];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic23 {
+message AbilityTaskWaitInputReleaseDynamic18 {
 	optional uint32 msg_cid = 1[default = 17188];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic24 {
+message AbilityTaskWaitInputReleaseDynamic19 {
 	optional uint32 msg_cid = 1[default = 17189];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic25 {
+message AbilityTaskWaitInputReleaseDynamic20 {
 	optional uint32 msg_cid = 1[default = 17190];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic26 {
+message AbilityTaskWaitInputReleaseDynamic21 {
 	optional uint32 msg_cid = 1[default = 17191];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic27 {
+message AbilityTaskWaitInputReleaseDynamic22 {
 	optional uint32 msg_cid = 1[default = 17192];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic28 {
+message AbilityTaskWaitInputReleaseDynamic23 {
 	optional uint32 msg_cid = 1[default = 17193];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic29 {
+message AbilityTaskWaitInputReleaseDynamic24 {
 	optional uint32 msg_cid = 1[default = 17194];
 	optional AbilityTaskWaitInputRelease data = 2;
 }
 
-message AbilityTaskWaitInputReleaseDynamic30 {
+message AbilityTaskWaitInputReleaseDynamic25 {
 	optional uint32 msg_cid = 1[default = 17195];
+	optional AbilityTaskWaitInputRelease data = 2;
+}
+
+message AbilityTaskWaitInputReleaseDynamic26 {
+	optional uint32 msg_cid = 1[default = 17196];
+	optional AbilityTaskWaitInputRelease data = 2;
+}
+
+message AbilityTaskWaitInputReleaseDynamic27 {
+	optional uint32 msg_cid = 1[default = 17197];
+	optional AbilityTaskWaitInputRelease data = 2;
+}
+
+message AbilityTaskWaitInputReleaseDynamic28 {
+	optional uint32 msg_cid = 1[default = 17198];
+	optional AbilityTaskWaitInputRelease data = 2;
+}
+
+message AbilityTaskWaitInputReleaseDynamic29 {
+	optional uint32 msg_cid = 1[default = 17199];
+	optional AbilityTaskWaitInputRelease data = 2;
+}
+
+message AbilityTaskWaitInputReleaseDynamic30 {
+	optional uint32 msg_cid = 1[default = 17200];
 	optional AbilityTaskWaitInputRelease data = 2;
 }

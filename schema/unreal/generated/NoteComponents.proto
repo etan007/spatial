@@ -5,6 +5,6 @@ package unreal.generated.note.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message SceneComp {
-	optional uint32 msg_cid = 1[default = 13519];
+	optional uint32 msg_cid = 1[default = 13524];
 	optional unreal.generated.SceneComponent data = 2;
 }

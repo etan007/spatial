@@ -6,7 +6,7 @@ package unreal.generated.levelbounds;
 import "unreal/gdk/core_types.proto";
 
 message LevelBounds {
-	optional uint32 msg_cid = 1[default = 13074];
+	optional uint32 msg_cid = 1[default = 13079];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message LevelBounds {
 }
 
 message LevelBoundsServerOnly {
-	optional uint32 msg_cid = 1[default = 13075];
+	optional uint32 msg_cid = 1[default = 13080];
 	 optional bool bactorenablecollision = 6;
 }

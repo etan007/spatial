@@ -15,301 +15,301 @@ message WXServantTalentComponentOwnerOnly {
 }
 
 message WXServantTalentComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 25910];
+	optional uint32 msg_cid = 1[default = 25044];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic1 {
-	optional uint32 msg_cid = 1[default = 25911];
+	optional uint32 msg_cid = 1[default = 25045];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 25912];
+	optional uint32 msg_cid = 1[default = 25046];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic2 {
-	optional uint32 msg_cid = 1[default = 25913];
+	optional uint32 msg_cid = 1[default = 25047];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 25914];
+	optional uint32 msg_cid = 1[default = 25048];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic3 {
-	optional uint32 msg_cid = 1[default = 25915];
+	optional uint32 msg_cid = 1[default = 25049];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 25916];
+	optional uint32 msg_cid = 1[default = 25050];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic4 {
-	optional uint32 msg_cid = 1[default = 25917];
+	optional uint32 msg_cid = 1[default = 25051];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 25918];
+	optional uint32 msg_cid = 1[default = 25052];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic5 {
-	optional uint32 msg_cid = 1[default = 25919];
+	optional uint32 msg_cid = 1[default = 25053];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic6 {
-	optional uint32 msg_cid = 1[default = 25920];
+	optional uint32 msg_cid = 1[default = 25054];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic6 {
-	optional uint32 msg_cid = 1[default = 25921];
+	optional uint32 msg_cid = 1[default = 25055];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic7 {
-	optional uint32 msg_cid = 1[default = 25922];
+	optional uint32 msg_cid = 1[default = 25056];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic7 {
-	optional uint32 msg_cid = 1[default = 25923];
+	optional uint32 msg_cid = 1[default = 25057];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic8 {
-	optional uint32 msg_cid = 1[default = 25924];
+	optional uint32 msg_cid = 1[default = 25058];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic8 {
-	optional uint32 msg_cid = 1[default = 25925];
+	optional uint32 msg_cid = 1[default = 25059];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic9 {
-	optional uint32 msg_cid = 1[default = 25926];
+	optional uint32 msg_cid = 1[default = 25060];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic9 {
-	optional uint32 msg_cid = 1[default = 25927];
+	optional uint32 msg_cid = 1[default = 25061];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic10 {
-	optional uint32 msg_cid = 1[default = 25928];
+	optional uint32 msg_cid = 1[default = 25062];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic10 {
-	optional uint32 msg_cid = 1[default = 25929];
+	optional uint32 msg_cid = 1[default = 25063];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic11 {
-	optional uint32 msg_cid = 1[default = 25930];
+	optional uint32 msg_cid = 1[default = 25064];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic11 {
-	optional uint32 msg_cid = 1[default = 25931];
+	optional uint32 msg_cid = 1[default = 25065];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic12 {
-	optional uint32 msg_cid = 1[default = 25932];
+	optional uint32 msg_cid = 1[default = 25066];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic12 {
-	optional uint32 msg_cid = 1[default = 25933];
+	optional uint32 msg_cid = 1[default = 25067];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic13 {
-	optional uint32 msg_cid = 1[default = 25934];
+	optional uint32 msg_cid = 1[default = 25068];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic13 {
-	optional uint32 msg_cid = 1[default = 25935];
+	optional uint32 msg_cid = 1[default = 25069];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic14 {
-	optional uint32 msg_cid = 1[default = 25936];
+	optional uint32 msg_cid = 1[default = 25070];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic14 {
-	optional uint32 msg_cid = 1[default = 25937];
+	optional uint32 msg_cid = 1[default = 25071];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic15 {
-	optional uint32 msg_cid = 1[default = 25938];
+	optional uint32 msg_cid = 1[default = 25072];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic15 {
-	optional uint32 msg_cid = 1[default = 25939];
+	optional uint32 msg_cid = 1[default = 25073];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic16 {
-	optional uint32 msg_cid = 1[default = 25940];
+	optional uint32 msg_cid = 1[default = 25074];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic16 {
-	optional uint32 msg_cid = 1[default = 25941];
+	optional uint32 msg_cid = 1[default = 25075];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic17 {
-	optional uint32 msg_cid = 1[default = 25942];
+	optional uint32 msg_cid = 1[default = 25076];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic17 {
-	optional uint32 msg_cid = 1[default = 25943];
+	optional uint32 msg_cid = 1[default = 25077];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic18 {
-	optional uint32 msg_cid = 1[default = 25944];
+	optional uint32 msg_cid = 1[default = 25078];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic18 {
-	optional uint32 msg_cid = 1[default = 25945];
+	optional uint32 msg_cid = 1[default = 25079];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic19 {
-	optional uint32 msg_cid = 1[default = 25946];
+	optional uint32 msg_cid = 1[default = 25080];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic19 {
-	optional uint32 msg_cid = 1[default = 25947];
+	optional uint32 msg_cid = 1[default = 25081];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic20 {
-	optional uint32 msg_cid = 1[default = 25948];
+	optional uint32 msg_cid = 1[default = 25082];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic20 {
-	optional uint32 msg_cid = 1[default = 25949];
+	optional uint32 msg_cid = 1[default = 25083];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic21 {
-	optional uint32 msg_cid = 1[default = 25950];
+	optional uint32 msg_cid = 1[default = 25084];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic21 {
-	optional uint32 msg_cid = 1[default = 25951];
+	optional uint32 msg_cid = 1[default = 25085];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic22 {
-	optional uint32 msg_cid = 1[default = 25952];
+	optional uint32 msg_cid = 1[default = 25086];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic22 {
-	optional uint32 msg_cid = 1[default = 25953];
+	optional uint32 msg_cid = 1[default = 25087];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic23 {
-	optional uint32 msg_cid = 1[default = 25954];
+	optional uint32 msg_cid = 1[default = 25088];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic23 {
-	optional uint32 msg_cid = 1[default = 25955];
+	optional uint32 msg_cid = 1[default = 25089];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic24 {
-	optional uint32 msg_cid = 1[default = 25956];
+	optional uint32 msg_cid = 1[default = 25090];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic24 {
-	optional uint32 msg_cid = 1[default = 25957];
+	optional uint32 msg_cid = 1[default = 25091];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic25 {
-	optional uint32 msg_cid = 1[default = 25958];
+	optional uint32 msg_cid = 1[default = 25092];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic25 {
-	optional uint32 msg_cid = 1[default = 25959];
+	optional uint32 msg_cid = 1[default = 25093];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic26 {
-	optional uint32 msg_cid = 1[default = 25960];
+	optional uint32 msg_cid = 1[default = 25094];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic26 {
-	optional uint32 msg_cid = 1[default = 25961];
+	optional uint32 msg_cid = 1[default = 25095];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic27 {
-	optional uint32 msg_cid = 1[default = 25962];
+	optional uint32 msg_cid = 1[default = 25096];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic27 {
-	optional uint32 msg_cid = 1[default = 25963];
+	optional uint32 msg_cid = 1[default = 25097];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic28 {
-	optional uint32 msg_cid = 1[default = 25964];
+	optional uint32 msg_cid = 1[default = 25098];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic28 {
-	optional uint32 msg_cid = 1[default = 25965];
+	optional uint32 msg_cid = 1[default = 25099];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic29 {
-	optional uint32 msg_cid = 1[default = 25966];
+	optional uint32 msg_cid = 1[default = 25100];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic29 {
-	optional uint32 msg_cid = 1[default = 25967];
+	optional uint32 msg_cid = 1[default = 25101];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }
 
 message WXServantTalentComponentDynamic30 {
-	optional uint32 msg_cid = 1[default = 25968];
+	optional uint32 msg_cid = 1[default = 25102];
 	optional WXServantTalentComponent data = 2;
 }
 
 message WXServantTalentComponentOwnerOnlyDynamic30 {
-	optional uint32 msg_cid = 1[default = 25969];
+	optional uint32 msg_cid = 1[default = 25103];
 	optional WXServantTalentComponentOwnerOnly data = 2;
 }

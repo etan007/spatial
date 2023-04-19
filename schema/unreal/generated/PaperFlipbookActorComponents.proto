@@ -5,6 +5,6 @@ package unreal.generated.paperflipbookactor.subobjects;
 import "unreal/generated/Subobjects/PaperFlipbookComponent.proto";
 
 message RenderComponent {
-	optional uint32 msg_cid = 1[default = 20821];
+	optional uint32 msg_cid = 1[default = 20826];
 	optional unreal.generated.PaperFlipbookComponent data = 2;
 }

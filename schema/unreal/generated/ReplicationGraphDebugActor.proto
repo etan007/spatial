@@ -6,7 +6,7 @@ package unreal.generated.replicationgraphdebugactor;
 import "unreal/gdk/core_types.proto";
 
 message ReplicationGraphDebugActor {
-	optional uint32 msg_cid = 1[default = 20988];
+	optional uint32 msg_cid = 1[default = 20993];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message ReplicationGraphDebugActor {
 }
 
 message ReplicationGraphDebugActorServerOnly {
-	optional uint32 msg_cid = 1[default = 20989];
+	optional uint32 msg_cid = 1[default = 20994];
 	 optional bool bactorenablecollision = 6;
 }

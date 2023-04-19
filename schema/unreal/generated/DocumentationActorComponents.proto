@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/MaterialBillboardComponent.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message BillboardComponent {
-	optional uint32 msg_cid = 1[default = 12673];
+	optional uint32 msg_cid = 1[default = 12678];
 	optional unreal.generated.MaterialBillboardComponent data = 2;
 }
 
 message SceneComp {
-	optional uint32 msg_cid = 1[default = 12674];
+	optional uint32 msg_cid = 1[default = 12679];
 	optional unreal.generated.SceneComponent data = 2;
 }

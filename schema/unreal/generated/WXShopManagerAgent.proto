@@ -6,7 +6,7 @@ package unreal.generated.wxshopmanageragent;
 import "unreal/gdk/core_types.proto";
 
 message WXShopManagerAgent {
-	optional uint32 msg_cid = 1[default = 24888];
+	optional uint32 msg_cid = 1[default = 25104];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message WXShopManagerAgent {
 }
 
 message WXShopManagerAgentServerOnly {
-	optional uint32 msg_cid = 1[default = 24889];
+	optional uint32 msg_cid = 1[default = 25105];
 	 optional bool bactorenablecollision = 6;
 }

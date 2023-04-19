@@ -5,6 +5,6 @@ package unreal.generated.replicatedstartupactorplayercontroller.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 21552];
+	optional uint32 msg_cid = 1[default = 21557];
 	optional unreal.generated.SceneComponent data = 2;
 }

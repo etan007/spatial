@@ -6,7 +6,7 @@ package unreal.generated.gamemodereplicationtestgamemode;
 import "unreal/gdk/core_types.proto";
 
 message GameModeReplicationTestGameMode {
-	optional uint32 msg_cid = 1[default = 21413];
+	optional uint32 msg_cid = 1[default = 21418];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message GameModeReplicationTestGameMode {
 }
 
 message GameModeReplicationTestGameModeServerOnly {
-	optional uint32 msg_cid = 1[default = 21414];
+	optional uint32 msg_cid = 1[default = 21419];
 	 optional bool bactorenablecollision = 6;
 }

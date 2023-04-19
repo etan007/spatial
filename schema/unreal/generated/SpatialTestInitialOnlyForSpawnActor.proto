@@ -6,7 +6,7 @@ package unreal.generated.spatialtestinitialonlyforspawnactor;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestInitialOnlyForSpawnActor {
-	optional uint32 msg_cid = 1[default = 21825];
+	optional uint32 msg_cid = 1[default = 21830];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialTestInitialOnlyForSpawnActor {
 }
 
 message SpatialTestInitialOnlyForSpawnActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21826];
+	optional uint32 msg_cid = 1[default = 21831];
 	 optional bool bactorenablecollision = 6;
 }

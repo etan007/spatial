@@ -7,151 +7,151 @@ message WXTaskWaitVelocityOut {
 }
 
 message WXTaskWaitVelocityOutDynamic1 {
-	optional uint32 msg_cid = 1[default = 25011];
+	optional uint32 msg_cid = 1[default = 25227];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic2 {
-	optional uint32 msg_cid = 1[default = 25012];
+	optional uint32 msg_cid = 1[default = 25228];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic3 {
-	optional uint32 msg_cid = 1[default = 25013];
+	optional uint32 msg_cid = 1[default = 25229];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic4 {
-	optional uint32 msg_cid = 1[default = 25014];
+	optional uint32 msg_cid = 1[default = 25230];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic5 {
-	optional uint32 msg_cid = 1[default = 25015];
+	optional uint32 msg_cid = 1[default = 25231];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic6 {
-	optional uint32 msg_cid = 1[default = 25016];
+	optional uint32 msg_cid = 1[default = 25232];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic7 {
-	optional uint32 msg_cid = 1[default = 25017];
+	optional uint32 msg_cid = 1[default = 25233];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic8 {
-	optional uint32 msg_cid = 1[default = 25018];
+	optional uint32 msg_cid = 1[default = 25234];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic9 {
-	optional uint32 msg_cid = 1[default = 25019];
+	optional uint32 msg_cid = 1[default = 25235];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic10 {
-	optional uint32 msg_cid = 1[default = 25020];
+	optional uint32 msg_cid = 1[default = 25236];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic11 {
-	optional uint32 msg_cid = 1[default = 25021];
+	optional uint32 msg_cid = 1[default = 25237];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic12 {
-	optional uint32 msg_cid = 1[default = 25022];
+	optional uint32 msg_cid = 1[default = 25238];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic13 {
-	optional uint32 msg_cid = 1[default = 25023];
+	optional uint32 msg_cid = 1[default = 25239];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic14 {
-	optional uint32 msg_cid = 1[default = 25024];
+	optional uint32 msg_cid = 1[default = 25240];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic15 {
-	optional uint32 msg_cid = 1[default = 25025];
+	optional uint32 msg_cid = 1[default = 25241];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic16 {
-	optional uint32 msg_cid = 1[default = 25026];
+	optional uint32 msg_cid = 1[default = 25242];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic17 {
-	optional uint32 msg_cid = 1[default = 25027];
+	optional uint32 msg_cid = 1[default = 25243];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic18 {
-	optional uint32 msg_cid = 1[default = 25028];
+	optional uint32 msg_cid = 1[default = 25244];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic19 {
-	optional uint32 msg_cid = 1[default = 25029];
+	optional uint32 msg_cid = 1[default = 25245];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic20 {
-	optional uint32 msg_cid = 1[default = 25030];
+	optional uint32 msg_cid = 1[default = 25246];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic21 {
-	optional uint32 msg_cid = 1[default = 25031];
+	optional uint32 msg_cid = 1[default = 25247];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic22 {
-	optional uint32 msg_cid = 1[default = 25032];
+	optional uint32 msg_cid = 1[default = 25248];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic23 {
-	optional uint32 msg_cid = 1[default = 25033];
+	optional uint32 msg_cid = 1[default = 25249];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic24 {
-	optional uint32 msg_cid = 1[default = 25034];
+	optional uint32 msg_cid = 1[default = 25250];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic25 {
-	optional uint32 msg_cid = 1[default = 25035];
+	optional uint32 msg_cid = 1[default = 25251];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic26 {
-	optional uint32 msg_cid = 1[default = 25036];
+	optional uint32 msg_cid = 1[default = 25252];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic27 {
-	optional uint32 msg_cid = 1[default = 25037];
+	optional uint32 msg_cid = 1[default = 25253];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic28 {
-	optional uint32 msg_cid = 1[default = 25038];
+	optional uint32 msg_cid = 1[default = 25254];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic29 {
-	optional uint32 msg_cid = 1[default = 25039];
+	optional uint32 msg_cid = 1[default = 25255];
 	optional WXTaskWaitVelocityOut data = 2;
 }
 
 message WXTaskWaitVelocityOutDynamic30 {
-	optional uint32 msg_cid = 1[default = 25040];
+	optional uint32 msg_cid = 1[default = 25256];
 	optional WXTaskWaitVelocityOut data = 2;
 }

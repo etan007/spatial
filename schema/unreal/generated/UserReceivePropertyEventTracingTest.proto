@@ -6,7 +6,7 @@ package unreal.generated.userreceivepropertyeventtracingtest;
 import "unreal/gdk/core_types.proto";
 
 message UserReceivePropertyEventTracingTest {
-	optional uint32 msg_cid = 1[default = 22400];
+	optional uint32 msg_cid = 1[default = 22405];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message UserReceivePropertyEventTracingTest {
 }
 
 message UserReceivePropertyEventTracingTestServerOnly {
-	optional uint32 msg_cid = 1[default = 22401];
+	optional uint32 msg_cid = 1[default = 22406];
 	 optional bool bactorenablecollision = 6;
 }

@@ -6,7 +6,7 @@ package unreal.generated.debugcameracontroller;
 import "unreal/gdk/core_types.proto";
 
 message DebugCameraController {
-	optional uint32 msg_cid = 1[default = 12470];
+	optional uint32 msg_cid = 1[default = 12475];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,14 +27,14 @@ message DebugCameraController {
 }
 
 message DebugCameraControllerOwnerOnly {
-	optional uint32 msg_cid = 1[default = 12471];
+	optional uint32 msg_cid = 1[default = 12476];
 	 optional bytes targetviewrotation = 23;
 	 optional UnrealObjectRef asyncphysicsdatacomponent = 26;
 	 optional bytes spawnlocation = 28;
 }
 
 message DebugCameraControllerServerOnly {
-	optional uint32 msg_cid = 1[default = 12472];
+	optional uint32 msg_cid = 1[default = 12477];
 	 optional bool bactorenablecollision = 6;
 	 optional string statename = 19;
 	 optional bool bissimulated = 21;

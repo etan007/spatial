@@ -26,151 +26,151 @@ message SpotLightComponent {
 }
 
 message SpotLightComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12911];
-	optional SpotLightComponent data = 2;
-}
-
-message SpotLightComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12912];
-	optional SpotLightComponent data = 2;
-}
-
-message SpotLightComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12913];
-	optional SpotLightComponent data = 2;
-}
-
-message SpotLightComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12914];
-	optional SpotLightComponent data = 2;
-}
-
-message SpotLightComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12915];
-	optional SpotLightComponent data = 2;
-}
-
-message SpotLightComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12916];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic7 {
+message SpotLightComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12917];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic8 {
+message SpotLightComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12918];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic9 {
+message SpotLightComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12919];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic10 {
+message SpotLightComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12920];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic11 {
+message SpotLightComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12921];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic12 {
+message SpotLightComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12922];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic13 {
+message SpotLightComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12923];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic14 {
+message SpotLightComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12924];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic15 {
+message SpotLightComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12925];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic16 {
+message SpotLightComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12926];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic17 {
+message SpotLightComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12927];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic18 {
+message SpotLightComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12928];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic19 {
+message SpotLightComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12929];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic20 {
+message SpotLightComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12930];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic21 {
+message SpotLightComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12931];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic22 {
+message SpotLightComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12932];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic23 {
+message SpotLightComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12933];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic24 {
+message SpotLightComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12934];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic25 {
+message SpotLightComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12935];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic26 {
+message SpotLightComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12936];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic27 {
+message SpotLightComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12937];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic28 {
+message SpotLightComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12938];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic29 {
+message SpotLightComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12939];
 	optional SpotLightComponent data = 2;
 }
 
-message SpotLightComponentDynamic30 {
+message SpotLightComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12940];
+	optional SpotLightComponent data = 2;
+}
+
+message SpotLightComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12941];
+	optional SpotLightComponent data = 2;
+}
+
+message SpotLightComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12942];
+	optional SpotLightComponent data = 2;
+}
+
+message SpotLightComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12943];
+	optional SpotLightComponent data = 2;
+}
+
+message SpotLightComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12944];
+	optional SpotLightComponent data = 2;
+}
+
+message SpotLightComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12945];
 	optional SpotLightComponent data = 2;
 }

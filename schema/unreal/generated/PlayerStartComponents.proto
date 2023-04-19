@@ -5,6 +5,6 @@ package unreal.generated.playerstart.subobjects;
 import "unreal/generated/Subobjects/CapsuleComponent.proto";
 
 message CollisionCapsule {
-	optional uint32 msg_cid = 1[default = 13922];
+	optional uint32 msg_cid = 1[default = 13927];
 	optional unreal.generated.CapsuleComponent data = 2;
 }

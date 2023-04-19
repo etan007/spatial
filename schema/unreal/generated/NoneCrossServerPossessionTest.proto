@@ -6,7 +6,7 @@ package unreal.generated.nonecrossserverpossessiontest;
 import "unreal/gdk/core_types.proto";
 
 message NoneCrossServerPossessionTest {
-	optional uint32 msg_cid = 1[default = 21493];
+	optional uint32 msg_cid = 1[default = 21498];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,7 +30,7 @@ message NoneCrossServerPossessionTest {
 }
 
 message NoneCrossServerPossessionTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21494];
+	optional uint32 msg_cid = 1[default = 21499];
 	 optional bool bactorenablecollision = 6;
 	 repeated bytes originalpawns = 23;
 }

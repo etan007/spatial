@@ -6,7 +6,7 @@ package unreal.generated.nonpersistentactorsubclassofactorsubclassofexplicitpers
 import "unreal/gdk/core_types.proto";
 
 message NonPersistentActorSubclassOfActorSubclassOfExplicitPersistentSpatialActor {
-	optional uint32 msg_cid = 1[default = 22462];
+	optional uint32 msg_cid = 1[default = 22467];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message NonPersistentActorSubclassOfActorSubclassOfExplicitPersistentSpatialActo
 }
 
 message NonPersistentActorSubclassOfActorSubclassOfExplicitPersistentSpatialActorServerOnly {
-	optional uint32 msg_cid = 1[default = 22463];
+	optional uint32 msg_cid = 1[default = 22468];
 	 optional bool bactorenablecollision = 6;
 }

@@ -5,6 +5,6 @@ package unreal.generated.winddirectionalsource.subobjects;
 import "unreal/generated/Subobjects/WindDirectionalSourceComponent.proto";
 
 message WindDirectionalSourceComponent0 {
-	optional uint32 msg_cid = 1[default = 14905];
+	optional uint32 msg_cid = 1[default = 14910];
 	optional unreal.generated.WindDirectionalSourceComponent data = 2;
 }

@@ -116,301 +116,301 @@ message WXPlayerAttributeSetOwnerOnly {
 }
 
 message WXPlayerAttributeSetDynamic1 {
-	optional uint32 msg_cid = 1[default = 24088];
+	optional uint32 msg_cid = 1[default = 24158];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic1 {
-	optional uint32 msg_cid = 1[default = 24089];
+	optional uint32 msg_cid = 1[default = 24159];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic2 {
-	optional uint32 msg_cid = 1[default = 24090];
+	optional uint32 msg_cid = 1[default = 24160];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic2 {
-	optional uint32 msg_cid = 1[default = 24091];
+	optional uint32 msg_cid = 1[default = 24161];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic3 {
-	optional uint32 msg_cid = 1[default = 24092];
+	optional uint32 msg_cid = 1[default = 24162];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic3 {
-	optional uint32 msg_cid = 1[default = 24093];
+	optional uint32 msg_cid = 1[default = 24163];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic4 {
-	optional uint32 msg_cid = 1[default = 24094];
+	optional uint32 msg_cid = 1[default = 24164];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic4 {
-	optional uint32 msg_cid = 1[default = 24095];
+	optional uint32 msg_cid = 1[default = 24165];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic5 {
-	optional uint32 msg_cid = 1[default = 24096];
+	optional uint32 msg_cid = 1[default = 24166];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic5 {
-	optional uint32 msg_cid = 1[default = 24097];
+	optional uint32 msg_cid = 1[default = 24167];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic6 {
-	optional uint32 msg_cid = 1[default = 24098];
+	optional uint32 msg_cid = 1[default = 24168];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic6 {
-	optional uint32 msg_cid = 1[default = 24099];
+	optional uint32 msg_cid = 1[default = 24169];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic7 {
-	optional uint32 msg_cid = 1[default = 24100];
+	optional uint32 msg_cid = 1[default = 24170];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic7 {
-	optional uint32 msg_cid = 1[default = 24101];
+	optional uint32 msg_cid = 1[default = 24171];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic8 {
-	optional uint32 msg_cid = 1[default = 24102];
+	optional uint32 msg_cid = 1[default = 24172];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic8 {
-	optional uint32 msg_cid = 1[default = 24103];
+	optional uint32 msg_cid = 1[default = 24173];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic9 {
-	optional uint32 msg_cid = 1[default = 24104];
+	optional uint32 msg_cid = 1[default = 24174];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic9 {
-	optional uint32 msg_cid = 1[default = 24105];
+	optional uint32 msg_cid = 1[default = 24175];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic10 {
-	optional uint32 msg_cid = 1[default = 24106];
+	optional uint32 msg_cid = 1[default = 24176];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic10 {
-	optional uint32 msg_cid = 1[default = 24107];
+	optional uint32 msg_cid = 1[default = 24177];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic11 {
-	optional uint32 msg_cid = 1[default = 24108];
+	optional uint32 msg_cid = 1[default = 24178];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic11 {
-	optional uint32 msg_cid = 1[default = 24109];
+	optional uint32 msg_cid = 1[default = 24179];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic12 {
-	optional uint32 msg_cid = 1[default = 24110];
+	optional uint32 msg_cid = 1[default = 24180];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic12 {
-	optional uint32 msg_cid = 1[default = 24111];
+	optional uint32 msg_cid = 1[default = 24181];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic13 {
-	optional uint32 msg_cid = 1[default = 24112];
+	optional uint32 msg_cid = 1[default = 24182];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic13 {
-	optional uint32 msg_cid = 1[default = 24113];
+	optional uint32 msg_cid = 1[default = 24183];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic14 {
-	optional uint32 msg_cid = 1[default = 24114];
+	optional uint32 msg_cid = 1[default = 24184];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic14 {
-	optional uint32 msg_cid = 1[default = 24115];
+	optional uint32 msg_cid = 1[default = 24185];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic15 {
-	optional uint32 msg_cid = 1[default = 24116];
+	optional uint32 msg_cid = 1[default = 24186];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic15 {
-	optional uint32 msg_cid = 1[default = 24117];
+	optional uint32 msg_cid = 1[default = 24187];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic16 {
-	optional uint32 msg_cid = 1[default = 24118];
+	optional uint32 msg_cid = 1[default = 24188];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic16 {
-	optional uint32 msg_cid = 1[default = 24119];
+	optional uint32 msg_cid = 1[default = 24189];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic17 {
-	optional uint32 msg_cid = 1[default = 24120];
+	optional uint32 msg_cid = 1[default = 24190];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic17 {
-	optional uint32 msg_cid = 1[default = 24121];
+	optional uint32 msg_cid = 1[default = 24191];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic18 {
-	optional uint32 msg_cid = 1[default = 24122];
+	optional uint32 msg_cid = 1[default = 24192];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic18 {
-	optional uint32 msg_cid = 1[default = 24123];
+	optional uint32 msg_cid = 1[default = 24193];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic19 {
-	optional uint32 msg_cid = 1[default = 24124];
+	optional uint32 msg_cid = 1[default = 24194];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic19 {
-	optional uint32 msg_cid = 1[default = 24125];
+	optional uint32 msg_cid = 1[default = 24195];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic20 {
-	optional uint32 msg_cid = 1[default = 24126];
+	optional uint32 msg_cid = 1[default = 24196];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic20 {
-	optional uint32 msg_cid = 1[default = 24127];
+	optional uint32 msg_cid = 1[default = 24197];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic21 {
-	optional uint32 msg_cid = 1[default = 24128];
+	optional uint32 msg_cid = 1[default = 24198];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic21 {
-	optional uint32 msg_cid = 1[default = 24129];
+	optional uint32 msg_cid = 1[default = 24199];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic22 {
-	optional uint32 msg_cid = 1[default = 24130];
+	optional uint32 msg_cid = 1[default = 24200];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic22 {
-	optional uint32 msg_cid = 1[default = 24131];
+	optional uint32 msg_cid = 1[default = 24201];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic23 {
-	optional uint32 msg_cid = 1[default = 24132];
+	optional uint32 msg_cid = 1[default = 24202];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic23 {
-	optional uint32 msg_cid = 1[default = 24133];
+	optional uint32 msg_cid = 1[default = 24203];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic24 {
-	optional uint32 msg_cid = 1[default = 24134];
+	optional uint32 msg_cid = 1[default = 24204];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic24 {
-	optional uint32 msg_cid = 1[default = 24135];
+	optional uint32 msg_cid = 1[default = 24205];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic25 {
-	optional uint32 msg_cid = 1[default = 24136];
+	optional uint32 msg_cid = 1[default = 24206];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic25 {
-	optional uint32 msg_cid = 1[default = 24137];
+	optional uint32 msg_cid = 1[default = 24207];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic26 {
-	optional uint32 msg_cid = 1[default = 24138];
+	optional uint32 msg_cid = 1[default = 24208];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic26 {
-	optional uint32 msg_cid = 1[default = 24139];
+	optional uint32 msg_cid = 1[default = 24209];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic27 {
-	optional uint32 msg_cid = 1[default = 24140];
+	optional uint32 msg_cid = 1[default = 24210];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic27 {
-	optional uint32 msg_cid = 1[default = 24141];
+	optional uint32 msg_cid = 1[default = 24211];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic28 {
-	optional uint32 msg_cid = 1[default = 24142];
+	optional uint32 msg_cid = 1[default = 24212];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic28 {
-	optional uint32 msg_cid = 1[default = 24143];
+	optional uint32 msg_cid = 1[default = 24213];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic29 {
-	optional uint32 msg_cid = 1[default = 24144];
+	optional uint32 msg_cid = 1[default = 24214];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic29 {
-	optional uint32 msg_cid = 1[default = 24145];
+	optional uint32 msg_cid = 1[default = 24215];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }
 
 message WXPlayerAttributeSetDynamic30 {
-	optional uint32 msg_cid = 1[default = 24146];
+	optional uint32 msg_cid = 1[default = 24216];
 	optional WXPlayerAttributeSet data = 2;
 }
 
 message WXPlayerAttributeSetOwnerOnlyDynamic30 {
-	optional uint32 msg_cid = 1[default = 24147];
+	optional uint32 msg_cid = 1[default = 24217];
 	optional WXPlayerAttributeSetOwnerOnly data = 2;
 }

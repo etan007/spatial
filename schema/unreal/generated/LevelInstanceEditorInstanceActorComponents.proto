@@ -5,6 +5,6 @@ package unreal.generated.levelinstanceeditorinstanceactor.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message RootComponent {
-	optional uint32 msg_cid = 1[default = 13113];
+	optional uint32 msg_cid = 1[default = 13118];
 	optional unreal.generated.SceneComponent data = 2;
 }

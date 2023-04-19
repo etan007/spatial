@@ -6,7 +6,7 @@ package unreal.generated.sequencerkeyactor;
 import "unreal/gdk/core_types.proto";
 
 message SequencerKeyActor {
-	optional uint32 msg_cid = 1[default = 20993];
+	optional uint32 msg_cid = 1[default = 20998];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message SequencerKeyActor {
 }
 
 message SequencerKeyActorServerOnly {
-	optional uint32 msg_cid = 1[default = 20994];
+	optional uint32 msg_cid = 1[default = 20999];
 	 optional bool bactorenablecollision = 6;
 }

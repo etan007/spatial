@@ -6,7 +6,7 @@ package unreal.generated.vreditordockablecamerawindow;
 import "unreal/gdk/core_types.proto";
 
 message VREditorDockableCameraWindow {
-	optional uint32 msg_cid = 1[default = 23497];
+	optional uint32 msg_cid = 1[default = 23502];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message VREditorDockableCameraWindow {
 }
 
 message VREditorDockableCameraWindowServerOnly {
-	optional uint32 msg_cid = 1[default = 23498];
+	optional uint32 msg_cid = 1[default = 23503];
 	 optional bool bactorenablecollision = 6;
 }

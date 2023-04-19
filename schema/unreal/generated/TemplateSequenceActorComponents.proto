@@ -5,6 +5,6 @@ package unreal.generated.templatesequenceactor.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message SceneComp {
-	optional uint32 msg_cid = 1[default = 22744];
+	optional uint32 msg_cid = 1[default = 22749];
 	optional unreal.generated.SceneComponent data = 2;
 }

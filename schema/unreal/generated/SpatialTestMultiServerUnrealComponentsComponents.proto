@@ -5,6 +5,6 @@ package unreal.generated.spatialtestmultiserverunrealcomponents.subobjects;
 import "unreal/generated/Subobjects/BillboardComponent.proto";
 
 message Sprite {
-	optional uint32 msg_cid = 1[default = 21915];
+	optional uint32 msg_cid = 1[default = 21920];
 	optional unreal.generated.BillboardComponent data = 2;
 }

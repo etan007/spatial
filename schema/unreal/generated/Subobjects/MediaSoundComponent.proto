@@ -26,151 +26,151 @@ message MediaSoundComponent {
 }
 
 message MediaSoundComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 18861];
-	optional MediaSoundComponent data = 2;
-}
-
-message MediaSoundComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 18862];
-	optional MediaSoundComponent data = 2;
-}
-
-message MediaSoundComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 18863];
-	optional MediaSoundComponent data = 2;
-}
-
-message MediaSoundComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 18864];
-	optional MediaSoundComponent data = 2;
-}
-
-message MediaSoundComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 18865];
-	optional MediaSoundComponent data = 2;
-}
-
-message MediaSoundComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18866];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic7 {
+message MediaSoundComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 18867];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic8 {
+message MediaSoundComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 18868];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic9 {
+message MediaSoundComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 18869];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic10 {
+message MediaSoundComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 18870];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic11 {
+message MediaSoundComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18871];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic12 {
+message MediaSoundComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 18872];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic13 {
+message MediaSoundComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 18873];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic14 {
+message MediaSoundComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 18874];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic15 {
+message MediaSoundComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 18875];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic16 {
+message MediaSoundComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 18876];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic17 {
+message MediaSoundComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 18877];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic18 {
+message MediaSoundComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 18878];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic19 {
+message MediaSoundComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 18879];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic20 {
+message MediaSoundComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 18880];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic21 {
+message MediaSoundComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 18881];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic22 {
+message MediaSoundComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 18882];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic23 {
+message MediaSoundComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 18883];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic24 {
+message MediaSoundComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 18884];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic25 {
+message MediaSoundComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 18885];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic26 {
+message MediaSoundComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 18886];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic27 {
+message MediaSoundComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 18887];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic28 {
+message MediaSoundComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 18888];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic29 {
+message MediaSoundComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 18889];
 	optional MediaSoundComponent data = 2;
 }
 
-message MediaSoundComponentDynamic30 {
+message MediaSoundComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 18890];
+	optional MediaSoundComponent data = 2;
+}
+
+message MediaSoundComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18891];
+	optional MediaSoundComponent data = 2;
+}
+
+message MediaSoundComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18892];
+	optional MediaSoundComponent data = 2;
+}
+
+message MediaSoundComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18893];
+	optional MediaSoundComponent data = 2;
+}
+
+message MediaSoundComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18894];
+	optional MediaSoundComponent data = 2;
+}
+
+message MediaSoundComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18895];
 	optional MediaSoundComponent data = 2;
 }

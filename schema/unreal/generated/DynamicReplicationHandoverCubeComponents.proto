@@ -5,6 +5,6 @@ package unreal.generated.dynamicreplicationhandovercube.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21391];
+	optional uint32 msg_cid = 1[default = 21396];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

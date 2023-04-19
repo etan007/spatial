@@ -5,6 +5,6 @@ package unreal.generated.skylight.subobjects;
 import "unreal/generated/Subobjects/SkyLightComponent.proto";
 
 message SkyLightComponent0 {
-	optional uint32 msg_cid = 1[default = 14516];
+	optional uint32 msg_cid = 1[default = 14521];
 	optional unreal.generated.SkyLightComponent data = 2;
 }

@@ -15,151 +15,151 @@ message WXMountComponent {
 }
 
 message WXMountComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 24313];
+	optional uint32 msg_cid = 1[default = 24454];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 24314];
+	optional uint32 msg_cid = 1[default = 24455];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 24315];
+	optional uint32 msg_cid = 1[default = 24456];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 24316];
+	optional uint32 msg_cid = 1[default = 24457];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 24317];
+	optional uint32 msg_cid = 1[default = 24458];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic6 {
-	optional uint32 msg_cid = 1[default = 24318];
+	optional uint32 msg_cid = 1[default = 24459];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic7 {
-	optional uint32 msg_cid = 1[default = 24319];
+	optional uint32 msg_cid = 1[default = 24460];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic8 {
-	optional uint32 msg_cid = 1[default = 24320];
+	optional uint32 msg_cid = 1[default = 24461];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic9 {
-	optional uint32 msg_cid = 1[default = 24321];
+	optional uint32 msg_cid = 1[default = 24462];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic10 {
-	optional uint32 msg_cid = 1[default = 24322];
+	optional uint32 msg_cid = 1[default = 24463];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic11 {
-	optional uint32 msg_cid = 1[default = 24323];
+	optional uint32 msg_cid = 1[default = 24464];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic12 {
-	optional uint32 msg_cid = 1[default = 24324];
+	optional uint32 msg_cid = 1[default = 24465];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic13 {
-	optional uint32 msg_cid = 1[default = 24325];
+	optional uint32 msg_cid = 1[default = 24466];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic14 {
-	optional uint32 msg_cid = 1[default = 24326];
+	optional uint32 msg_cid = 1[default = 24467];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic15 {
-	optional uint32 msg_cid = 1[default = 24327];
+	optional uint32 msg_cid = 1[default = 24468];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic16 {
-	optional uint32 msg_cid = 1[default = 24328];
+	optional uint32 msg_cid = 1[default = 24469];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic17 {
-	optional uint32 msg_cid = 1[default = 24329];
+	optional uint32 msg_cid = 1[default = 24470];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic18 {
-	optional uint32 msg_cid = 1[default = 24330];
+	optional uint32 msg_cid = 1[default = 24471];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic19 {
-	optional uint32 msg_cid = 1[default = 24331];
+	optional uint32 msg_cid = 1[default = 24472];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic20 {
-	optional uint32 msg_cid = 1[default = 24332];
+	optional uint32 msg_cid = 1[default = 24473];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic21 {
-	optional uint32 msg_cid = 1[default = 24333];
+	optional uint32 msg_cid = 1[default = 24474];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic22 {
-	optional uint32 msg_cid = 1[default = 24334];
+	optional uint32 msg_cid = 1[default = 24475];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic23 {
-	optional uint32 msg_cid = 1[default = 24335];
+	optional uint32 msg_cid = 1[default = 24476];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic24 {
-	optional uint32 msg_cid = 1[default = 24336];
+	optional uint32 msg_cid = 1[default = 24477];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic25 {
-	optional uint32 msg_cid = 1[default = 24337];
+	optional uint32 msg_cid = 1[default = 24478];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic26 {
-	optional uint32 msg_cid = 1[default = 24338];
+	optional uint32 msg_cid = 1[default = 24479];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic27 {
-	optional uint32 msg_cid = 1[default = 24339];
+	optional uint32 msg_cid = 1[default = 24480];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic28 {
-	optional uint32 msg_cid = 1[default = 24340];
+	optional uint32 msg_cid = 1[default = 24481];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic29 {
-	optional uint32 msg_cid = 1[default = 24341];
+	optional uint32 msg_cid = 1[default = 24482];
 	optional WXMountComponent data = 2;
 }
 
 message WXMountComponentDynamic30 {
-	optional uint32 msg_cid = 1[default = 24342];
+	optional uint32 msg_cid = 1[default = 24483];
 	optional WXMountComponent data = 2;
 }

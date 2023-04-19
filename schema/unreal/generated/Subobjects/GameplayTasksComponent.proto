@@ -12,151 +12,151 @@ message GameplayTasksComponent {
 }
 
 message GameplayTasksComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 17645];
-	optional GameplayTasksComponent data = 2;
-}
-
-message GameplayTasksComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 17646];
-	optional GameplayTasksComponent data = 2;
-}
-
-message GameplayTasksComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 17647];
-	optional GameplayTasksComponent data = 2;
-}
-
-message GameplayTasksComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 17648];
-	optional GameplayTasksComponent data = 2;
-}
-
-message GameplayTasksComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 17649];
-	optional GameplayTasksComponent data = 2;
-}
-
-message GameplayTasksComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 17650];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic7 {
+message GameplayTasksComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 17651];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic8 {
+message GameplayTasksComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 17652];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic9 {
+message GameplayTasksComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 17653];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic10 {
+message GameplayTasksComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 17654];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic11 {
+message GameplayTasksComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 17655];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic12 {
+message GameplayTasksComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 17656];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic13 {
+message GameplayTasksComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 17657];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic14 {
+message GameplayTasksComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 17658];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic15 {
+message GameplayTasksComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 17659];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic16 {
+message GameplayTasksComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 17660];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic17 {
+message GameplayTasksComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 17661];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic18 {
+message GameplayTasksComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 17662];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic19 {
+message GameplayTasksComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 17663];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic20 {
+message GameplayTasksComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 17664];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic21 {
+message GameplayTasksComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 17665];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic22 {
+message GameplayTasksComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 17666];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic23 {
+message GameplayTasksComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 17667];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic24 {
+message GameplayTasksComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 17668];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic25 {
+message GameplayTasksComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 17669];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic26 {
+message GameplayTasksComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 17670];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic27 {
+message GameplayTasksComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 17671];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic28 {
+message GameplayTasksComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 17672];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic29 {
+message GameplayTasksComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 17673];
 	optional GameplayTasksComponent data = 2;
 }
 
-message GameplayTasksComponentDynamic30 {
+message GameplayTasksComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 17674];
+	optional GameplayTasksComponent data = 2;
+}
+
+message GameplayTasksComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 17675];
+	optional GameplayTasksComponent data = 2;
+}
+
+message GameplayTasksComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 17676];
+	optional GameplayTasksComponent data = 2;
+}
+
+message GameplayTasksComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 17677];
+	optional GameplayTasksComponent data = 2;
+}
+
+message GameplayTasksComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 17678];
+	optional GameplayTasksComponent data = 2;
+}
+
+message GameplayTasksComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 17679];
 	optional GameplayTasksComponent data = 2;
 }

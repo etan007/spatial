@@ -26,151 +26,151 @@ message GizmoRectangleComponent {
 }
 
 message GizmoRectangleComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 18511];
-	optional GizmoRectangleComponent data = 2;
-}
-
-message GizmoRectangleComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 18512];
-	optional GizmoRectangleComponent data = 2;
-}
-
-message GizmoRectangleComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 18513];
-	optional GizmoRectangleComponent data = 2;
-}
-
-message GizmoRectangleComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 18514];
-	optional GizmoRectangleComponent data = 2;
-}
-
-message GizmoRectangleComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 18515];
-	optional GizmoRectangleComponent data = 2;
-}
-
-message GizmoRectangleComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18516];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic7 {
+message GizmoRectangleComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 18517];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic8 {
+message GizmoRectangleComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 18518];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic9 {
+message GizmoRectangleComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 18519];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic10 {
+message GizmoRectangleComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 18520];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic11 {
+message GizmoRectangleComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18521];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic12 {
+message GizmoRectangleComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 18522];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic13 {
+message GizmoRectangleComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 18523];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic14 {
+message GizmoRectangleComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 18524];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic15 {
+message GizmoRectangleComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 18525];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic16 {
+message GizmoRectangleComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 18526];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic17 {
+message GizmoRectangleComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 18527];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic18 {
+message GizmoRectangleComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 18528];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic19 {
+message GizmoRectangleComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 18529];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic20 {
+message GizmoRectangleComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 18530];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic21 {
+message GizmoRectangleComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 18531];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic22 {
+message GizmoRectangleComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 18532];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic23 {
+message GizmoRectangleComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 18533];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic24 {
+message GizmoRectangleComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 18534];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic25 {
+message GizmoRectangleComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 18535];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic26 {
+message GizmoRectangleComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 18536];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic27 {
+message GizmoRectangleComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 18537];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic28 {
+message GizmoRectangleComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 18538];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic29 {
+message GizmoRectangleComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 18539];
 	optional GizmoRectangleComponent data = 2;
 }
 
-message GizmoRectangleComponentDynamic30 {
+message GizmoRectangleComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 18540];
+	optional GizmoRectangleComponent data = 2;
+}
+
+message GizmoRectangleComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18541];
+	optional GizmoRectangleComponent data = 2;
+}
+
+message GizmoRectangleComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18542];
+	optional GizmoRectangleComponent data = 2;
+}
+
+message GizmoRectangleComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18543];
+	optional GizmoRectangleComponent data = 2;
+}
+
+message GizmoRectangleComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18544];
+	optional GizmoRectangleComponent data = 2;
+}
+
+message GizmoRectangleComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18545];
 	optional GizmoRectangleComponent data = 2;
 }

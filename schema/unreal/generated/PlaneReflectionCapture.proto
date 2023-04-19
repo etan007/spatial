@@ -6,7 +6,7 @@ package unreal.generated.planereflectioncapture;
 import "unreal/gdk/core_types.proto";
 
 message PlaneReflectionCapture {
-	optional uint32 msg_cid = 1[default = 13848];
+	optional uint32 msg_cid = 1[default = 13853];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PlaneReflectionCapture {
 }
 
 message PlaneReflectionCaptureServerOnly {
-	optional uint32 msg_cid = 1[default = 13849];
+	optional uint32 msg_cid = 1[default = 13854];
 	 optional bool bactorenablecollision = 6;
 }

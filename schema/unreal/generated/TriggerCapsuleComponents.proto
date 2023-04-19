@@ -5,6 +5,6 @@ package unreal.generated.triggercapsule.subobjects;
 import "unreal/generated/Subobjects/CapsuleComponent.proto";
 
 message CollisionComp {
-	optional uint32 msg_cid = 1[default = 14791];
+	optional uint32 msg_cid = 1[default = 14796];
 	optional unreal.generated.CapsuleComponent data = 2;
 }

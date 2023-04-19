@@ -7,16 +7,16 @@ import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message MediaPlateComponent0 {
-	optional uint32 msg_cid = 1[default = 18893];
+	optional uint32 msg_cid = 1[default = 18898];
 	optional unreal.generated.MediaPlateComponent data = 2;
 }
 
 message StaticMeshComponent {
-	optional uint32 msg_cid = 1[default = 18894];
+	optional uint32 msg_cid = 1[default = 18899];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }
 
 message Root {
-	optional uint32 msg_cid = 1[default = 18895];
+	optional uint32 msg_cid = 1[default = 18900];
 	optional unreal.generated.SceneComponent data = 2;
 }

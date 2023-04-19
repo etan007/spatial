@@ -6,7 +6,7 @@ package unreal.generated.userprocessrpceventtracingtest;
 import "unreal/gdk/core_types.proto";
 
 message UserProcessRPCEventTracingTest {
-	optional uint32 msg_cid = 1[default = 22397];
+	optional uint32 msg_cid = 1[default = 22402];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message UserProcessRPCEventTracingTest {
 }
 
 message UserProcessRPCEventTracingTestServerOnly {
-	optional uint32 msg_cid = 1[default = 22398];
+	optional uint32 msg_cid = 1[default = 22403];
 	 optional bool bactorenablecollision = 6;
 }

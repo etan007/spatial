@@ -4,20 +4,20 @@ package unreal.ncdcomponents;
 
 // distance 225000000.000000
 message NetCullDistanceSquared225000000 {
-	optional uint32 msg_cid = 1[default = 25041];
+	optional uint32 msg_cid = 1[default = 25257];
 }
 
 // distance 1.000000
 message NetCullDistanceSquared1 {
-	optional uint32 msg_cid = 1[default = 25042];
+	optional uint32 msg_cid = 1[default = 25258];
 }
 
 // distance 0.000000
 message NetCullDistanceSquared0 {
-	optional uint32 msg_cid = 1[default = 25043];
+	optional uint32 msg_cid = 1[default = 25259];
 }
 
 // distance 1000000.000000
 message NetCullDistanceSquared1000000 {
-	optional uint32 msg_cid = 1[default = 25044];
+	optional uint32 msg_cid = 1[default = 25260];
 }

@@ -5,6 +5,6 @@ package unreal.generated.replicatedtestactorbaserepgraphalwaysreplicate.subobjec
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21564];
+	optional uint32 msg_cid = 1[default = 21569];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

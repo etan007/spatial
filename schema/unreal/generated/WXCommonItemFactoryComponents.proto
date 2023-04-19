@@ -9,26 +9,26 @@ import "unreal/generated/Subobjects/SceneComponent.proto";
 import "unreal/generated/Subobjects/WXInteractWidgetComponent.proto";
 
 message PowerElementComponent {
-	optional uint32 msg_cid = 1[default = 24150];
+	optional uint32 msg_cid = 1[default = 24220];
 	optional unreal.generated.WXPowerElementComponent data = 2;
 }
 
 message PropMakerComponent {
-	optional uint32 msg_cid = 1[default = 24151];
+	optional uint32 msg_cid = 1[default = 24221];
 	optional unreal.generated.CommonPropMakerComponent data = 2;
 }
 
 message InteractBox {
-	optional uint32 msg_cid = 1[default = 24152];
+	optional uint32 msg_cid = 1[default = 24222];
 	optional unreal.generated.ThingInteractBox data = 2;
 }
 
 message RootComponent {
-	optional uint32 msg_cid = 1[default = 24153];
+	optional uint32 msg_cid = 1[default = 24223];
 	optional unreal.generated.SceneComponent data = 2;
 }
 
 message WidgetCom {
-	optional uint32 msg_cid = 1[default = 24154];
+	optional uint32 msg_cid = 1[default = 24224];
 	optional unreal.generated.WXInteractWidgetComponent data = 2;
 }

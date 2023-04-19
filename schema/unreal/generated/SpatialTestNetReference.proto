@@ -6,7 +6,7 @@ package unreal.generated.spatialtestnetreference;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestNetReference {
-	optional uint32 msg_cid = 1[default = 21919];
+	optional uint32 msg_cid = 1[default = 21924];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialTestNetReference {
 }
 
 message SpatialTestNetReferenceServerOnly {
-	optional uint32 msg_cid = 1[default = 21920];
+	optional uint32 msg_cid = 1[default = 21925];
 	 optional bool bactorenablecollision = 6;
 }

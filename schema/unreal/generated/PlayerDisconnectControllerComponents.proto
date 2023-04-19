@@ -5,6 +5,6 @@ package unreal.generated.playerdisconnectcontroller.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 21525];
+	optional uint32 msg_cid = 1[default = 21530];
 	optional unreal.generated.SceneComponent data = 2;
 }

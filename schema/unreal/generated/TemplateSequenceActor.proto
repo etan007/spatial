@@ -6,7 +6,7 @@ package unreal.generated.templatesequenceactor;
 import "unreal/gdk/core_types.proto";
 
 message TemplateSequenceActor {
-	optional uint32 msg_cid = 1[default = 22742];
+	optional uint32 msg_cid = 1[default = 22747];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message TemplateSequenceActor {
 }
 
 message TemplateSequenceActorServerOnly {
-	optional uint32 msg_cid = 1[default = 22743];
+	optional uint32 msg_cid = 1[default = 22748];
 	 optional bool bactorenablecollision = 6;
 }

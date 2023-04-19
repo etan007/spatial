@@ -5,6 +5,6 @@ package unreal.generated.landscapeplaceholder.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message RootComponent0 {
-	optional uint32 msg_cid = 1[default = 18818];
+	optional uint32 msg_cid = 1[default = 18823];
 	optional unreal.generated.SceneComponent data = 2;
 }

@@ -5,6 +5,6 @@ package unreal.generated.vectorfieldvolume.subobjects;
 import "unreal/generated/Subobjects/VectorFieldComponent.proto";
 
 message VectorFieldComponent0 {
-	optional uint32 msg_cid = 1[default = 14830];
+	optional uint32 msg_cid = 1[default = 14835];
 	optional unreal.generated.VectorFieldComponent data = 2;
 }

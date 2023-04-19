@@ -6,7 +6,7 @@ package unreal.generated.skillprojectile;
 import "unreal/gdk/core_types.proto";
 
 message SkillProjectile {
-	optional uint32 msg_cid = 1[default = 23660];
+	optional uint32 msg_cid = 1[default = 23665];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message SkillProjectile {
 }
 
 message SkillProjectileServerOnly {
-	optional uint32 msg_cid = 1[default = 23661];
+	optional uint32 msg_cid = 1[default = 23666];
 	 optional bool bactorenablecollision = 6;
 }

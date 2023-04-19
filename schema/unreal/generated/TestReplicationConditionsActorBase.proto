@@ -6,7 +6,7 @@ package unreal.generated.testreplicationconditionsactorbase;
 import "unreal/gdk/core_types.proto";
 
 message TestReplicationConditionsActorBase {
-	optional uint32 msg_cid = 1[default = 22347];
+	optional uint32 msg_cid = 1[default = 22352];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message TestReplicationConditionsActorBase {
 }
 
 message TestReplicationConditionsActorBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 22348];
+	optional uint32 msg_cid = 1[default = 22353];
 	 optional bool bactorenablecollision = 6;
 }

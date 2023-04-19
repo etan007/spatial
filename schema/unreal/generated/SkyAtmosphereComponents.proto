@@ -5,6 +5,6 @@ package unreal.generated.skyatmosphere.subobjects;
 import "unreal/generated/Subobjects/SkyAtmosphereComponent.proto";
 
 message SkyAtmosphereComponent {
-	optional uint32 msg_cid = 1[default = 14483];
+	optional uint32 msg_cid = 1[default = 14488];
 	optional unreal.generated.SkyAtmosphereComponent data = 2;
 }

@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message KeyMesh {
-	optional uint32 msg_cid = 1[default = 11893];
+	optional uint32 msg_cid = 1[default = 11898];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }
 
 message SceneComponent {
-	optional uint32 msg_cid = 1[default = 11894];
+	optional uint32 msg_cid = 1[default = 11899];
 	optional unreal.generated.SceneComponent data = 2;
 }

@@ -7,151 +7,151 @@ message WXTaskInputPress {
 }
 
 message WXTaskInputPressDynamic1 {
-	optional uint32 msg_cid = 1[default = 24921];
+	optional uint32 msg_cid = 1[default = 25137];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic2 {
-	optional uint32 msg_cid = 1[default = 24922];
+	optional uint32 msg_cid = 1[default = 25138];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic3 {
-	optional uint32 msg_cid = 1[default = 24923];
+	optional uint32 msg_cid = 1[default = 25139];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic4 {
-	optional uint32 msg_cid = 1[default = 24924];
+	optional uint32 msg_cid = 1[default = 25140];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic5 {
-	optional uint32 msg_cid = 1[default = 24925];
+	optional uint32 msg_cid = 1[default = 25141];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic6 {
-	optional uint32 msg_cid = 1[default = 24926];
+	optional uint32 msg_cid = 1[default = 25142];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic7 {
-	optional uint32 msg_cid = 1[default = 24927];
+	optional uint32 msg_cid = 1[default = 25143];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic8 {
-	optional uint32 msg_cid = 1[default = 24928];
+	optional uint32 msg_cid = 1[default = 25144];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic9 {
-	optional uint32 msg_cid = 1[default = 24929];
+	optional uint32 msg_cid = 1[default = 25145];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic10 {
-	optional uint32 msg_cid = 1[default = 24930];
+	optional uint32 msg_cid = 1[default = 25146];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic11 {
-	optional uint32 msg_cid = 1[default = 24931];
+	optional uint32 msg_cid = 1[default = 25147];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic12 {
-	optional uint32 msg_cid = 1[default = 24932];
+	optional uint32 msg_cid = 1[default = 25148];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic13 {
-	optional uint32 msg_cid = 1[default = 24933];
+	optional uint32 msg_cid = 1[default = 25149];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic14 {
-	optional uint32 msg_cid = 1[default = 24934];
+	optional uint32 msg_cid = 1[default = 25150];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic15 {
-	optional uint32 msg_cid = 1[default = 24935];
+	optional uint32 msg_cid = 1[default = 25151];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic16 {
-	optional uint32 msg_cid = 1[default = 24936];
+	optional uint32 msg_cid = 1[default = 25152];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic17 {
-	optional uint32 msg_cid = 1[default = 24937];
+	optional uint32 msg_cid = 1[default = 25153];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic18 {
-	optional uint32 msg_cid = 1[default = 24938];
+	optional uint32 msg_cid = 1[default = 25154];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic19 {
-	optional uint32 msg_cid = 1[default = 24939];
+	optional uint32 msg_cid = 1[default = 25155];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic20 {
-	optional uint32 msg_cid = 1[default = 24940];
+	optional uint32 msg_cid = 1[default = 25156];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic21 {
-	optional uint32 msg_cid = 1[default = 24941];
+	optional uint32 msg_cid = 1[default = 25157];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic22 {
-	optional uint32 msg_cid = 1[default = 24942];
+	optional uint32 msg_cid = 1[default = 25158];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic23 {
-	optional uint32 msg_cid = 1[default = 24943];
+	optional uint32 msg_cid = 1[default = 25159];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic24 {
-	optional uint32 msg_cid = 1[default = 24944];
+	optional uint32 msg_cid = 1[default = 25160];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic25 {
-	optional uint32 msg_cid = 1[default = 24945];
+	optional uint32 msg_cid = 1[default = 25161];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic26 {
-	optional uint32 msg_cid = 1[default = 24946];
+	optional uint32 msg_cid = 1[default = 25162];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic27 {
-	optional uint32 msg_cid = 1[default = 24947];
+	optional uint32 msg_cid = 1[default = 25163];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic28 {
-	optional uint32 msg_cid = 1[default = 24948];
+	optional uint32 msg_cid = 1[default = 25164];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic29 {
-	optional uint32 msg_cid = 1[default = 24949];
+	optional uint32 msg_cid = 1[default = 25165];
 	optional WXTaskInputPress data = 2;
 }
 
 message WXTaskInputPressDynamic30 {
-	optional uint32 msg_cid = 1[default = 24950];
+	optional uint32 msg_cid = 1[default = 25166];
 	optional WXTaskInputPress data = 2;
 }

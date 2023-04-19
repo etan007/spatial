@@ -6,7 +6,7 @@ package unreal.generated.spatialauthoritytestactor;
 import "unreal/gdk/core_types.proto";
 
 message SpatialAuthorityTestActor {
-	optional uint32 msg_cid = 1[default = 21582];
+	optional uint32 msg_cid = 1[default = 21587];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message SpatialAuthorityTestActor {
 }
 
 message SpatialAuthorityTestActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21583];
+	optional uint32 msg_cid = 1[default = 21588];
 	 optional bool bactorenablecollision = 6;
 }

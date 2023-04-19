@@ -7,151 +7,151 @@ message WXGameplayAbilitySkill {
 }
 
 message WXGameplayAbilitySkillDynamic1 {
-	optional uint32 msg_cid = 1[default = 24217];
+	optional uint32 msg_cid = 1[default = 24388];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic2 {
-	optional uint32 msg_cid = 1[default = 24218];
+	optional uint32 msg_cid = 1[default = 24389];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic3 {
-	optional uint32 msg_cid = 1[default = 24219];
+	optional uint32 msg_cid = 1[default = 24390];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic4 {
-	optional uint32 msg_cid = 1[default = 24220];
+	optional uint32 msg_cid = 1[default = 24391];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic5 {
-	optional uint32 msg_cid = 1[default = 24221];
+	optional uint32 msg_cid = 1[default = 24392];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic6 {
-	optional uint32 msg_cid = 1[default = 24222];
+	optional uint32 msg_cid = 1[default = 24393];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic7 {
-	optional uint32 msg_cid = 1[default = 24223];
+	optional uint32 msg_cid = 1[default = 24394];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic8 {
-	optional uint32 msg_cid = 1[default = 24224];
+	optional uint32 msg_cid = 1[default = 24395];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic9 {
-	optional uint32 msg_cid = 1[default = 24225];
+	optional uint32 msg_cid = 1[default = 24396];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic10 {
-	optional uint32 msg_cid = 1[default = 24226];
+	optional uint32 msg_cid = 1[default = 24397];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic11 {
-	optional uint32 msg_cid = 1[default = 24227];
+	optional uint32 msg_cid = 1[default = 24398];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic12 {
-	optional uint32 msg_cid = 1[default = 24228];
+	optional uint32 msg_cid = 1[default = 24399];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic13 {
-	optional uint32 msg_cid = 1[default = 24229];
+	optional uint32 msg_cid = 1[default = 24400];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic14 {
-	optional uint32 msg_cid = 1[default = 24230];
+	optional uint32 msg_cid = 1[default = 24401];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic15 {
-	optional uint32 msg_cid = 1[default = 24231];
+	optional uint32 msg_cid = 1[default = 24402];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic16 {
-	optional uint32 msg_cid = 1[default = 24232];
+	optional uint32 msg_cid = 1[default = 24403];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic17 {
-	optional uint32 msg_cid = 1[default = 24233];
+	optional uint32 msg_cid = 1[default = 24404];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic18 {
-	optional uint32 msg_cid = 1[default = 24234];
+	optional uint32 msg_cid = 1[default = 24405];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic19 {
-	optional uint32 msg_cid = 1[default = 24235];
+	optional uint32 msg_cid = 1[default = 24406];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic20 {
-	optional uint32 msg_cid = 1[default = 24236];
+	optional uint32 msg_cid = 1[default = 24407];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic21 {
-	optional uint32 msg_cid = 1[default = 24237];
+	optional uint32 msg_cid = 1[default = 24408];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic22 {
-	optional uint32 msg_cid = 1[default = 24238];
+	optional uint32 msg_cid = 1[default = 24409];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic23 {
-	optional uint32 msg_cid = 1[default = 24239];
+	optional uint32 msg_cid = 1[default = 24410];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic24 {
-	optional uint32 msg_cid = 1[default = 24240];
+	optional uint32 msg_cid = 1[default = 24411];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic25 {
-	optional uint32 msg_cid = 1[default = 24241];
+	optional uint32 msg_cid = 1[default = 24412];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic26 {
-	optional uint32 msg_cid = 1[default = 24242];
+	optional uint32 msg_cid = 1[default = 24413];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic27 {
-	optional uint32 msg_cid = 1[default = 24243];
+	optional uint32 msg_cid = 1[default = 24414];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic28 {
-	optional uint32 msg_cid = 1[default = 24244];
+	optional uint32 msg_cid = 1[default = 24415];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic29 {
-	optional uint32 msg_cid = 1[default = 24245];
+	optional uint32 msg_cid = 1[default = 24416];
 	optional WXGameplayAbilitySkill data = 2;
 }
 
 message WXGameplayAbilitySkillDynamic30 {
-	optional uint32 msg_cid = 1[default = 24246];
+	optional uint32 msg_cid = 1[default = 24417];
 	optional WXGameplayAbilitySkill data = 2;
 }

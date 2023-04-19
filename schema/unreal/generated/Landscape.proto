@@ -6,7 +6,7 @@ package unreal.generated.landscape;
 import "unreal/gdk/core_types.proto";
 
 message Landscape {
-	optional uint32 msg_cid = 1[default = 18579];
+	optional uint32 msg_cid = 1[default = 18584];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message Landscape {
 }
 
 message LandscapeServerOnly {
-	optional uint32 msg_cid = 1[default = 18580];
+	optional uint32 msg_cid = 1[default = 18585];
 	 optional bool bactorenablecollision = 6;
 }

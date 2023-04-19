@@ -6,7 +6,7 @@ package unreal.generated.directionallight;
 import "unreal/gdk/core_types.proto";
 
 message DirectionalLight {
-	optional uint32 msg_cid = 1[default = 12638];
+	optional uint32 msg_cid = 1[default = 12643];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message DirectionalLight {
 }
 
 message DirectionalLightServerOnly {
-	optional uint32 msg_cid = 1[default = 12639];
+	optional uint32 msg_cid = 1[default = 12644];
 	 optional bool bactorenablecollision = 6;
 }

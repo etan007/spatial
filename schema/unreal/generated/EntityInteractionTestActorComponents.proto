@@ -5,6 +5,6 @@ package unreal.generated.entityinteractiontestactor.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message Root {
-	optional uint32 msg_cid = 1[default = 21400];
+	optional uint32 msg_cid = 1[default = 21405];
 	optional unreal.generated.SceneComponent data = 2;
 }

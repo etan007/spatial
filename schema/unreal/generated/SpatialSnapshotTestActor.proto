@@ -6,7 +6,7 @@ package unreal.generated.spatialsnapshottestactor;
 import "unreal/gdk/core_types.proto";
 
 message SpatialSnapshotTestActor {
-	optional uint32 msg_cid = 1[default = 21749];
+	optional uint32 msg_cid = 1[default = 21754];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -32,6 +32,6 @@ message SpatialSnapshotTestActor {
 }
 
 message SpatialSnapshotTestActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21750];
+	optional uint32 msg_cid = 1[default = 21755];
 	 optional bool bactorenablecollision = 6;
 }

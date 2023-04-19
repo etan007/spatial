@@ -6,16 +6,16 @@ import "unreal/generated/Subobjects/SpatialTestInitialOnlySpawnComponent.proto";
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message InitialOnlyComponent {
-	optional uint32 msg_cid = 1[default = 21837];
+	optional uint32 msg_cid = 1[default = 21842];
 	optional unreal.generated.SpatialTestInitialOnlySpawnComponent data = 2;
 }
 
 message InitialOnlyComponentInitialOnly {
-	optional uint32 msg_cid = 1[default = 21838];
+	optional uint32 msg_cid = 1[default = 21843];
 	optional unreal.generated.SpatialTestInitialOnlySpawnComponentInitialOnly data = 2;
 }
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21839];
+	optional uint32 msg_cid = 1[default = 21844];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

@@ -5,6 +5,6 @@ package unreal.generated.geometrycacheactor.subobjects;
 import "unreal/generated/Subobjects/GeometryCacheComponent.proto";
 
 message GeometryCacheComponent {
-	optional uint32 msg_cid = 1[default = 17677];
+	optional uint32 msg_cid = 1[default = 17682];
 	optional unreal.generated.GeometryCacheComponent data = 2;
 }

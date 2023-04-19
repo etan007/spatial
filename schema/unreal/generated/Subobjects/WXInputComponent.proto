@@ -9,151 +9,151 @@ message WXInputComponent {
 }
 
 message WXInputComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 24253];
+	optional uint32 msg_cid = 1[default = 24424];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 24254];
+	optional uint32 msg_cid = 1[default = 24425];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 24255];
+	optional uint32 msg_cid = 1[default = 24426];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 24256];
+	optional uint32 msg_cid = 1[default = 24427];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 24257];
+	optional uint32 msg_cid = 1[default = 24428];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic6 {
-	optional uint32 msg_cid = 1[default = 24258];
+	optional uint32 msg_cid = 1[default = 24429];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic7 {
-	optional uint32 msg_cid = 1[default = 24259];
+	optional uint32 msg_cid = 1[default = 24430];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic8 {
-	optional uint32 msg_cid = 1[default = 24260];
+	optional uint32 msg_cid = 1[default = 24431];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic9 {
-	optional uint32 msg_cid = 1[default = 24261];
+	optional uint32 msg_cid = 1[default = 24432];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic10 {
-	optional uint32 msg_cid = 1[default = 24262];
+	optional uint32 msg_cid = 1[default = 24433];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic11 {
-	optional uint32 msg_cid = 1[default = 24263];
+	optional uint32 msg_cid = 1[default = 24434];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic12 {
-	optional uint32 msg_cid = 1[default = 24264];
+	optional uint32 msg_cid = 1[default = 24435];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic13 {
-	optional uint32 msg_cid = 1[default = 24265];
+	optional uint32 msg_cid = 1[default = 24436];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic14 {
-	optional uint32 msg_cid = 1[default = 24266];
+	optional uint32 msg_cid = 1[default = 24437];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic15 {
-	optional uint32 msg_cid = 1[default = 24267];
+	optional uint32 msg_cid = 1[default = 24438];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic16 {
-	optional uint32 msg_cid = 1[default = 24268];
+	optional uint32 msg_cid = 1[default = 24439];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic17 {
-	optional uint32 msg_cid = 1[default = 24269];
+	optional uint32 msg_cid = 1[default = 24440];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic18 {
-	optional uint32 msg_cid = 1[default = 24270];
+	optional uint32 msg_cid = 1[default = 24441];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic19 {
-	optional uint32 msg_cid = 1[default = 24271];
+	optional uint32 msg_cid = 1[default = 24442];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic20 {
-	optional uint32 msg_cid = 1[default = 24272];
+	optional uint32 msg_cid = 1[default = 24443];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic21 {
-	optional uint32 msg_cid = 1[default = 24273];
+	optional uint32 msg_cid = 1[default = 24444];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic22 {
-	optional uint32 msg_cid = 1[default = 24274];
+	optional uint32 msg_cid = 1[default = 24445];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic23 {
-	optional uint32 msg_cid = 1[default = 24275];
+	optional uint32 msg_cid = 1[default = 24446];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic24 {
-	optional uint32 msg_cid = 1[default = 24276];
+	optional uint32 msg_cid = 1[default = 24447];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic25 {
-	optional uint32 msg_cid = 1[default = 24277];
+	optional uint32 msg_cid = 1[default = 24448];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic26 {
-	optional uint32 msg_cid = 1[default = 24278];
+	optional uint32 msg_cid = 1[default = 24449];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic27 {
-	optional uint32 msg_cid = 1[default = 24279];
+	optional uint32 msg_cid = 1[default = 24450];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic28 {
-	optional uint32 msg_cid = 1[default = 24280];
+	optional uint32 msg_cid = 1[default = 24451];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic29 {
-	optional uint32 msg_cid = 1[default = 24281];
+	optional uint32 msg_cid = 1[default = 24452];
 	optional WXInputComponent data = 2;
 }
 
 message WXInputComponentDynamic30 {
-	optional uint32 msg_cid = 1[default = 24282];
+	optional uint32 msg_cid = 1[default = 24453];
 	optional WXInputComponent data = 2;
 }

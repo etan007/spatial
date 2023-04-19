@@ -26,151 +26,151 @@ message FuncTestRenderingComponent {
 }
 
 message FuncTestRenderingComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 15929];
-	optional FuncTestRenderingComponent data = 2;
-}
-
-message FuncTestRenderingComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 15930];
-	optional FuncTestRenderingComponent data = 2;
-}
-
-message FuncTestRenderingComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 15931];
-	optional FuncTestRenderingComponent data = 2;
-}
-
-message FuncTestRenderingComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 15932];
-	optional FuncTestRenderingComponent data = 2;
-}
-
-message FuncTestRenderingComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 15933];
-	optional FuncTestRenderingComponent data = 2;
-}
-
-message FuncTestRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 15934];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic7 {
+message FuncTestRenderingComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 15935];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic8 {
+message FuncTestRenderingComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 15936];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic9 {
+message FuncTestRenderingComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 15937];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic10 {
+message FuncTestRenderingComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 15938];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic11 {
+message FuncTestRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 15939];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic12 {
+message FuncTestRenderingComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 15940];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic13 {
+message FuncTestRenderingComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 15941];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic14 {
+message FuncTestRenderingComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 15942];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic15 {
+message FuncTestRenderingComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 15943];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic16 {
+message FuncTestRenderingComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 15944];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic17 {
+message FuncTestRenderingComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 15945];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic18 {
+message FuncTestRenderingComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 15946];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic19 {
+message FuncTestRenderingComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 15947];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic20 {
+message FuncTestRenderingComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 15948];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic21 {
+message FuncTestRenderingComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 15949];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic22 {
+message FuncTestRenderingComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 15950];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic23 {
+message FuncTestRenderingComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 15951];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic24 {
+message FuncTestRenderingComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 15952];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic25 {
+message FuncTestRenderingComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 15953];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic26 {
+message FuncTestRenderingComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 15954];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic27 {
+message FuncTestRenderingComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 15955];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic28 {
+message FuncTestRenderingComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 15956];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic29 {
+message FuncTestRenderingComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 15957];
 	optional FuncTestRenderingComponent data = 2;
 }
 
-message FuncTestRenderingComponentDynamic30 {
+message FuncTestRenderingComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 15958];
+	optional FuncTestRenderingComponent data = 2;
+}
+
+message FuncTestRenderingComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 15959];
+	optional FuncTestRenderingComponent data = 2;
+}
+
+message FuncTestRenderingComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 15960];
+	optional FuncTestRenderingComponent data = 2;
+}
+
+message FuncTestRenderingComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 15961];
+	optional FuncTestRenderingComponent data = 2;
+}
+
+message FuncTestRenderingComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 15962];
+	optional FuncTestRenderingComponent data = 2;
+}
+
+message FuncTestRenderingComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 15963];
 	optional FuncTestRenderingComponent data = 2;
 }

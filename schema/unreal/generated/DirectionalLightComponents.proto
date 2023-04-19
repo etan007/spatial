@@ -5,6 +5,6 @@ package unreal.generated.directionallight.subobjects;
 import "unreal/generated/Subobjects/DirectionalLightComponent.proto";
 
 message LightComponent0 {
-	optional uint32 msg_cid = 1[default = 12640];
+	optional uint32 msg_cid = 1[default = 12645];
 	optional unreal.generated.DirectionalLightComponent data = 2;
 }

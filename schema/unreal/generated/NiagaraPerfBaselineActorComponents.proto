@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/TextRenderComponent.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message LabelText {
-	optional uint32 msg_cid = 1[default = 20726];
+	optional uint32 msg_cid = 1[default = 20731];
 	optional unreal.generated.TextRenderComponent data = 2;
 }
 
 message RootComponent {
-	optional uint32 msg_cid = 1[default = 20727];
+	optional uint32 msg_cid = 1[default = 20732];
 	optional unreal.generated.SceneComponent data = 2;
 }

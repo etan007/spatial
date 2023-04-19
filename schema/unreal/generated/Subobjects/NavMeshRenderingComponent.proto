@@ -26,151 +26,151 @@ message NavMeshRenderingComponent {
 }
 
 message NavMeshRenderingComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20559];
-	optional NavMeshRenderingComponent data = 2;
-}
-
-message NavMeshRenderingComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20560];
-	optional NavMeshRenderingComponent data = 2;
-}
-
-message NavMeshRenderingComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20561];
-	optional NavMeshRenderingComponent data = 2;
-}
-
-message NavMeshRenderingComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20562];
-	optional NavMeshRenderingComponent data = 2;
-}
-
-message NavMeshRenderingComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20563];
-	optional NavMeshRenderingComponent data = 2;
-}
-
-message NavMeshRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20564];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic7 {
+message NavMeshRenderingComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20565];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic8 {
+message NavMeshRenderingComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20566];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic9 {
+message NavMeshRenderingComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20567];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic10 {
+message NavMeshRenderingComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20568];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic11 {
+message NavMeshRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20569];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic12 {
+message NavMeshRenderingComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20570];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic13 {
+message NavMeshRenderingComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20571];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic14 {
+message NavMeshRenderingComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20572];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic15 {
+message NavMeshRenderingComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20573];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic16 {
+message NavMeshRenderingComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20574];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic17 {
+message NavMeshRenderingComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20575];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic18 {
+message NavMeshRenderingComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20576];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic19 {
+message NavMeshRenderingComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20577];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic20 {
+message NavMeshRenderingComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20578];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic21 {
+message NavMeshRenderingComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20579];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic22 {
+message NavMeshRenderingComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20580];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic23 {
+message NavMeshRenderingComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20581];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic24 {
+message NavMeshRenderingComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20582];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic25 {
+message NavMeshRenderingComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20583];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic26 {
+message NavMeshRenderingComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20584];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic27 {
+message NavMeshRenderingComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20585];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic28 {
+message NavMeshRenderingComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20586];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic29 {
+message NavMeshRenderingComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20587];
 	optional NavMeshRenderingComponent data = 2;
 }
 
-message NavMeshRenderingComponentDynamic30 {
+message NavMeshRenderingComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20588];
+	optional NavMeshRenderingComponent data = 2;
+}
+
+message NavMeshRenderingComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20589];
+	optional NavMeshRenderingComponent data = 2;
+}
+
+message NavMeshRenderingComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20590];
+	optional NavMeshRenderingComponent data = 2;
+}
+
+message NavMeshRenderingComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20591];
+	optional NavMeshRenderingComponent data = 2;
+}
+
+message NavMeshRenderingComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20592];
+	optional NavMeshRenderingComponent data = 2;
+}
+
+message NavMeshRenderingComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20593];
 	optional NavMeshRenderingComponent data = 2;
 }

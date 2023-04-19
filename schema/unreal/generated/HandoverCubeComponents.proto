@@ -5,6 +5,6 @@ package unreal.generated.handovercube.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21417];
+	optional uint32 msg_cid = 1[default = 21422];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

@@ -6,7 +6,7 @@ package unreal.generated.spatialtestsingleserverdynamiccomponents;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestSingleServerDynamicComponents {
-	optional uint32 msg_cid = 1[default = 21957];
+	optional uint32 msg_cid = 1[default = 21962];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -31,6 +31,6 @@ message SpatialTestSingleServerDynamicComponents {
 }
 
 message SpatialTestSingleServerDynamicComponentsServerOnly {
-	optional uint32 msg_cid = 1[default = 21958];
+	optional uint32 msg_cid = 1[default = 21963];
 	 optional bool bactorenablecollision = 6;
 }

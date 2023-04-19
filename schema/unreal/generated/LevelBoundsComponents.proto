@@ -5,6 +5,6 @@ package unreal.generated.levelbounds.subobjects;
 import "unreal/generated/Subobjects/BoxComponent.proto";
 
 message BoxComponent0 {
-	optional uint32 msg_cid = 1[default = 13076];
+	optional uint32 msg_cid = 1[default = 13081];
 	optional unreal.generated.BoxComponent data = 2;
 }

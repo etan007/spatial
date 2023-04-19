@@ -14,301 +14,301 @@ message WXTalentComponentOwnerOnly {
 }
 
 message WXTalentComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 24472];
+	optional uint32 msg_cid = 1[default = 24618];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic1 {
-	optional uint32 msg_cid = 1[default = 24473];
+	optional uint32 msg_cid = 1[default = 24619];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 24474];
+	optional uint32 msg_cid = 1[default = 24620];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic2 {
-	optional uint32 msg_cid = 1[default = 24475];
+	optional uint32 msg_cid = 1[default = 24621];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 24476];
+	optional uint32 msg_cid = 1[default = 24622];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic3 {
-	optional uint32 msg_cid = 1[default = 24477];
+	optional uint32 msg_cid = 1[default = 24623];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 24478];
+	optional uint32 msg_cid = 1[default = 24624];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic4 {
-	optional uint32 msg_cid = 1[default = 24479];
+	optional uint32 msg_cid = 1[default = 24625];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 24480];
+	optional uint32 msg_cid = 1[default = 24626];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic5 {
-	optional uint32 msg_cid = 1[default = 24481];
+	optional uint32 msg_cid = 1[default = 24627];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic6 {
-	optional uint32 msg_cid = 1[default = 24482];
+	optional uint32 msg_cid = 1[default = 24628];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic6 {
-	optional uint32 msg_cid = 1[default = 24483];
+	optional uint32 msg_cid = 1[default = 24629];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic7 {
-	optional uint32 msg_cid = 1[default = 24484];
+	optional uint32 msg_cid = 1[default = 24630];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic7 {
-	optional uint32 msg_cid = 1[default = 24485];
+	optional uint32 msg_cid = 1[default = 24631];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic8 {
-	optional uint32 msg_cid = 1[default = 24486];
+	optional uint32 msg_cid = 1[default = 24632];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic8 {
-	optional uint32 msg_cid = 1[default = 24487];
+	optional uint32 msg_cid = 1[default = 24633];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic9 {
-	optional uint32 msg_cid = 1[default = 24488];
+	optional uint32 msg_cid = 1[default = 24634];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic9 {
-	optional uint32 msg_cid = 1[default = 24489];
+	optional uint32 msg_cid = 1[default = 24635];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic10 {
-	optional uint32 msg_cid = 1[default = 24490];
+	optional uint32 msg_cid = 1[default = 24636];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic10 {
-	optional uint32 msg_cid = 1[default = 24491];
+	optional uint32 msg_cid = 1[default = 24637];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic11 {
-	optional uint32 msg_cid = 1[default = 24492];
+	optional uint32 msg_cid = 1[default = 24638];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic11 {
-	optional uint32 msg_cid = 1[default = 24493];
+	optional uint32 msg_cid = 1[default = 24639];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic12 {
-	optional uint32 msg_cid = 1[default = 24494];
+	optional uint32 msg_cid = 1[default = 24640];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic12 {
-	optional uint32 msg_cid = 1[default = 24495];
+	optional uint32 msg_cid = 1[default = 24641];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic13 {
-	optional uint32 msg_cid = 1[default = 24496];
+	optional uint32 msg_cid = 1[default = 24642];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic13 {
-	optional uint32 msg_cid = 1[default = 24497];
+	optional uint32 msg_cid = 1[default = 24643];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic14 {
-	optional uint32 msg_cid = 1[default = 24498];
+	optional uint32 msg_cid = 1[default = 24644];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic14 {
-	optional uint32 msg_cid = 1[default = 24499];
+	optional uint32 msg_cid = 1[default = 24645];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic15 {
-	optional uint32 msg_cid = 1[default = 24500];
+	optional uint32 msg_cid = 1[default = 24646];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic15 {
-	optional uint32 msg_cid = 1[default = 24501];
+	optional uint32 msg_cid = 1[default = 24647];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic16 {
-	optional uint32 msg_cid = 1[default = 24502];
+	optional uint32 msg_cid = 1[default = 24648];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic16 {
-	optional uint32 msg_cid = 1[default = 24503];
+	optional uint32 msg_cid = 1[default = 24649];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic17 {
-	optional uint32 msg_cid = 1[default = 24504];
+	optional uint32 msg_cid = 1[default = 24650];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic17 {
-	optional uint32 msg_cid = 1[default = 24505];
+	optional uint32 msg_cid = 1[default = 24651];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic18 {
-	optional uint32 msg_cid = 1[default = 24506];
+	optional uint32 msg_cid = 1[default = 24652];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic18 {
-	optional uint32 msg_cid = 1[default = 24507];
+	optional uint32 msg_cid = 1[default = 24653];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic19 {
-	optional uint32 msg_cid = 1[default = 24508];
+	optional uint32 msg_cid = 1[default = 24654];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic19 {
-	optional uint32 msg_cid = 1[default = 24509];
+	optional uint32 msg_cid = 1[default = 24655];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic20 {
-	optional uint32 msg_cid = 1[default = 24510];
+	optional uint32 msg_cid = 1[default = 24656];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic20 {
-	optional uint32 msg_cid = 1[default = 24511];
+	optional uint32 msg_cid = 1[default = 24657];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic21 {
-	optional uint32 msg_cid = 1[default = 24512];
+	optional uint32 msg_cid = 1[default = 24658];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic21 {
-	optional uint32 msg_cid = 1[default = 24513];
+	optional uint32 msg_cid = 1[default = 24659];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic22 {
-	optional uint32 msg_cid = 1[default = 24514];
+	optional uint32 msg_cid = 1[default = 24660];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic22 {
-	optional uint32 msg_cid = 1[default = 24515];
+	optional uint32 msg_cid = 1[default = 24661];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic23 {
-	optional uint32 msg_cid = 1[default = 24516];
+	optional uint32 msg_cid = 1[default = 24662];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic23 {
-	optional uint32 msg_cid = 1[default = 24517];
+	optional uint32 msg_cid = 1[default = 24663];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic24 {
-	optional uint32 msg_cid = 1[default = 24518];
+	optional uint32 msg_cid = 1[default = 24664];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic24 {
-	optional uint32 msg_cid = 1[default = 24519];
+	optional uint32 msg_cid = 1[default = 24665];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic25 {
-	optional uint32 msg_cid = 1[default = 24520];
+	optional uint32 msg_cid = 1[default = 24666];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic25 {
-	optional uint32 msg_cid = 1[default = 24521];
+	optional uint32 msg_cid = 1[default = 24667];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic26 {
-	optional uint32 msg_cid = 1[default = 24522];
+	optional uint32 msg_cid = 1[default = 24668];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic26 {
-	optional uint32 msg_cid = 1[default = 24523];
+	optional uint32 msg_cid = 1[default = 24669];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic27 {
-	optional uint32 msg_cid = 1[default = 24524];
+	optional uint32 msg_cid = 1[default = 24670];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic27 {
-	optional uint32 msg_cid = 1[default = 24525];
+	optional uint32 msg_cid = 1[default = 24671];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic28 {
-	optional uint32 msg_cid = 1[default = 24526];
+	optional uint32 msg_cid = 1[default = 24672];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic28 {
-	optional uint32 msg_cid = 1[default = 24527];
+	optional uint32 msg_cid = 1[default = 24673];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic29 {
-	optional uint32 msg_cid = 1[default = 24528];
+	optional uint32 msg_cid = 1[default = 24674];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic29 {
-	optional uint32 msg_cid = 1[default = 24529];
+	optional uint32 msg_cid = 1[default = 24675];
 	optional WXTalentComponentOwnerOnly data = 2;
 }
 
 message WXTalentComponentDynamic30 {
-	optional uint32 msg_cid = 1[default = 24530];
+	optional uint32 msg_cid = 1[default = 24676];
 	optional WXTalentComponent data = 2;
 }
 
 message WXTalentComponentOwnerOnlyDynamic30 {
-	optional uint32 msg_cid = 1[default = 24531];
+	optional uint32 msg_cid = 1[default = 24677];
 	optional WXTalentComponentOwnerOnly data = 2;
 }

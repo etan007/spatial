@@ -6,16 +6,16 @@ import "unreal/generated/Subobjects/SceneComponent.proto";
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message ToRemoveComponent1 {
-	optional uint32 msg_cid = 1[default = 21971];
+	optional uint32 msg_cid = 1[default = 21976];
 	optional unreal.generated.SceneComponent data = 2;
 }
 
 message ToRemoveComponent2 {
-	optional uint32 msg_cid = 1[default = 21972];
+	optional uint32 msg_cid = 1[default = 21977];
 	optional unreal.generated.SceneComponent data = 2;
 }
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21973];
+	optional uint32 msg_cid = 1[default = 21978];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

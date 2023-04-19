@@ -6,7 +6,7 @@ package unreal.generated.modulargamestatebase;
 import "unreal/gdk/core_types.proto";
 
 message ModularGameStateBase {
-	optional uint32 msg_cid = 1[default = 20318];
+	optional uint32 msg_cid = 1[default = 20323];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,11 +28,11 @@ message ModularGameStateBase {
 }
 
 message ModularGameStateBaseInitialOnly {
-	optional uint32 msg_cid = 1[default = 20319];
+	optional uint32 msg_cid = 1[default = 20324];
 	 optional UnrealObjectRef gamemodeclass = 18;
 }
 
 message ModularGameStateBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 20320];
+	optional uint32 msg_cid = 1[default = 20325];
 	 optional bool bactorenablecollision = 6;
 }

@@ -26,151 +26,151 @@ message BrushComponent {
 }
 
 message BrushComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12222];
-	optional BrushComponent data = 2;
-}
-
-message BrushComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12223];
-	optional BrushComponent data = 2;
-}
-
-message BrushComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12224];
-	optional BrushComponent data = 2;
-}
-
-message BrushComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12225];
-	optional BrushComponent data = 2;
-}
-
-message BrushComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12226];
-	optional BrushComponent data = 2;
-}
-
-message BrushComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12227];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic7 {
+message BrushComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12228];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic8 {
+message BrushComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12229];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic9 {
+message BrushComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12230];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic10 {
+message BrushComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12231];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic11 {
+message BrushComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12232];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic12 {
+message BrushComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12233];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic13 {
+message BrushComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12234];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic14 {
+message BrushComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12235];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic15 {
+message BrushComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12236];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic16 {
+message BrushComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12237];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic17 {
+message BrushComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12238];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic18 {
+message BrushComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12239];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic19 {
+message BrushComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12240];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic20 {
+message BrushComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12241];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic21 {
+message BrushComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12242];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic22 {
+message BrushComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12243];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic23 {
+message BrushComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12244];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic24 {
+message BrushComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12245];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic25 {
+message BrushComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12246];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic26 {
+message BrushComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12247];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic27 {
+message BrushComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12248];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic28 {
+message BrushComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12249];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic29 {
+message BrushComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12250];
 	optional BrushComponent data = 2;
 }
 
-message BrushComponentDynamic30 {
+message BrushComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12251];
+	optional BrushComponent data = 2;
+}
+
+message BrushComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12252];
+	optional BrushComponent data = 2;
+}
+
+message BrushComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12253];
+	optional BrushComponent data = 2;
+}
+
+message BrushComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12254];
+	optional BrushComponent data = 2;
+}
+
+message BrushComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12255];
+	optional BrushComponent data = 2;
+}
+
+message BrushComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12256];
 	optional BrushComponent data = 2;
 }

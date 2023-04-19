@@ -5,6 +5,6 @@ package unreal.generated.workerregion.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message WorkerRegionCuboid {
-	optional uint32 msg_cid = 1[default = 21130];
+	optional uint32 msg_cid = 1[default = 21135];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

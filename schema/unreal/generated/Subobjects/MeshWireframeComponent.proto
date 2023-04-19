@@ -26,151 +26,151 @@ message MeshWireframeComponent {
 }
 
 message MeshWireframeComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20026];
-	optional MeshWireframeComponent data = 2;
-}
-
-message MeshWireframeComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20027];
-	optional MeshWireframeComponent data = 2;
-}
-
-message MeshWireframeComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20028];
-	optional MeshWireframeComponent data = 2;
-}
-
-message MeshWireframeComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20029];
-	optional MeshWireframeComponent data = 2;
-}
-
-message MeshWireframeComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20030];
-	optional MeshWireframeComponent data = 2;
-}
-
-message MeshWireframeComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20031];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic7 {
+message MeshWireframeComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20032];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic8 {
+message MeshWireframeComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20033];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic9 {
+message MeshWireframeComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20034];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic10 {
+message MeshWireframeComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20035];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic11 {
+message MeshWireframeComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20036];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic12 {
+message MeshWireframeComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20037];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic13 {
+message MeshWireframeComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20038];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic14 {
+message MeshWireframeComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20039];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic15 {
+message MeshWireframeComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20040];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic16 {
+message MeshWireframeComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20041];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic17 {
+message MeshWireframeComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20042];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic18 {
+message MeshWireframeComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20043];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic19 {
+message MeshWireframeComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20044];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic20 {
+message MeshWireframeComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20045];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic21 {
+message MeshWireframeComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20046];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic22 {
+message MeshWireframeComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20047];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic23 {
+message MeshWireframeComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20048];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic24 {
+message MeshWireframeComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20049];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic25 {
+message MeshWireframeComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20050];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic26 {
+message MeshWireframeComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20051];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic27 {
+message MeshWireframeComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20052];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic28 {
+message MeshWireframeComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20053];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic29 {
+message MeshWireframeComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20054];
 	optional MeshWireframeComponent data = 2;
 }
 
-message MeshWireframeComponentDynamic30 {
+message MeshWireframeComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20055];
+	optional MeshWireframeComponent data = 2;
+}
+
+message MeshWireframeComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20056];
+	optional MeshWireframeComponent data = 2;
+}
+
+message MeshWireframeComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20057];
+	optional MeshWireframeComponent data = 2;
+}
+
+message MeshWireframeComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20058];
+	optional MeshWireframeComponent data = 2;
+}
+
+message MeshWireframeComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20059];
+	optional MeshWireframeComponent data = 2;
+}
+
+message MeshWireframeComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20060];
 	optional MeshWireframeComponent data = 2;
 }

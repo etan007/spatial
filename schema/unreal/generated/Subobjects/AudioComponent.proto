@@ -26,151 +26,151 @@ message AudioComponent {
 }
 
 message AudioComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12066];
-	optional AudioComponent data = 2;
-}
-
-message AudioComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12067];
-	optional AudioComponent data = 2;
-}
-
-message AudioComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12068];
-	optional AudioComponent data = 2;
-}
-
-message AudioComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12069];
-	optional AudioComponent data = 2;
-}
-
-message AudioComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12070];
-	optional AudioComponent data = 2;
-}
-
-message AudioComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12071];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic7 {
+message AudioComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12072];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic8 {
+message AudioComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12073];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic9 {
+message AudioComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12074];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic10 {
+message AudioComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12075];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic11 {
+message AudioComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12076];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic12 {
+message AudioComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12077];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic13 {
+message AudioComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12078];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic14 {
+message AudioComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12079];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic15 {
+message AudioComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12080];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic16 {
+message AudioComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12081];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic17 {
+message AudioComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12082];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic18 {
+message AudioComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12083];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic19 {
+message AudioComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12084];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic20 {
+message AudioComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12085];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic21 {
+message AudioComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12086];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic22 {
+message AudioComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12087];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic23 {
+message AudioComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12088];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic24 {
+message AudioComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12089];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic25 {
+message AudioComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12090];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic26 {
+message AudioComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12091];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic27 {
+message AudioComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12092];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic28 {
+message AudioComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12093];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic29 {
+message AudioComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12094];
 	optional AudioComponent data = 2;
 }
 
-message AudioComponentDynamic30 {
+message AudioComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12095];
+	optional AudioComponent data = 2;
+}
+
+message AudioComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12096];
+	optional AudioComponent data = 2;
+}
+
+message AudioComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12097];
+	optional AudioComponent data = 2;
+}
+
+message AudioComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12098];
+	optional AudioComponent data = 2;
+}
+
+message AudioComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12099];
+	optional AudioComponent data = 2;
+}
+
+message AudioComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12100];
 	optional AudioComponent data = 2;
 }

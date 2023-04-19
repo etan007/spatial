@@ -6,7 +6,7 @@ package unreal.generated.replicatedtestactor;
 import "unreal/gdk/core_types.proto";
 
 message ReplicatedTestActor {
-	optional uint32 msg_cid = 1[default = 21556];
+	optional uint32 msg_cid = 1[default = 21561];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message ReplicatedTestActor {
 }
 
 message ReplicatedTestActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21557];
+	optional uint32 msg_cid = 1[default = 21562];
 	 optional bool bactorenablecollision = 6;
 }

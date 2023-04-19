@@ -6,7 +6,7 @@ package unreal.generated.vreditorteleporter;
 import "unreal/gdk/core_types.proto";
 
 message VREditorTeleporter {
-	optional uint32 msg_cid = 1[default = 23508];
+	optional uint32 msg_cid = 1[default = 23513];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message VREditorTeleporter {
 }
 
 message VREditorTeleporterServerOnly {
-	optional uint32 msg_cid = 1[default = 23509];
+	optional uint32 msg_cid = 1[default = 23514];
 	 optional bool bactorenablecollision = 6;
 }

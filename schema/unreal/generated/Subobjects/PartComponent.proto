@@ -9,151 +9,151 @@ message PartComponent {
 }
 
 message PartComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 11620];
-	optional PartComponent data = 2;
-}
-
-message PartComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 11621];
-	optional PartComponent data = 2;
-}
-
-message PartComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 11622];
-	optional PartComponent data = 2;
-}
-
-message PartComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 11623];
-	optional PartComponent data = 2;
-}
-
-message PartComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 11624];
-	optional PartComponent data = 2;
-}
-
-message PartComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11625];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic7 {
+message PartComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 11626];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic8 {
+message PartComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 11627];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic9 {
+message PartComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 11628];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic10 {
+message PartComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 11629];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic11 {
+message PartComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11630];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic12 {
+message PartComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 11631];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic13 {
+message PartComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 11632];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic14 {
+message PartComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 11633];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic15 {
+message PartComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 11634];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic16 {
+message PartComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 11635];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic17 {
+message PartComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 11636];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic18 {
+message PartComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 11637];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic19 {
+message PartComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 11638];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic20 {
+message PartComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 11639];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic21 {
+message PartComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 11640];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic22 {
+message PartComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 11641];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic23 {
+message PartComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 11642];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic24 {
+message PartComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 11643];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic25 {
+message PartComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 11644];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic26 {
+message PartComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 11645];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic27 {
+message PartComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 11646];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic28 {
+message PartComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 11647];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic29 {
+message PartComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 11648];
 	optional PartComponent data = 2;
 }
 
-message PartComponentDynamic30 {
+message PartComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 11649];
+	optional PartComponent data = 2;
+}
+
+message PartComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11650];
+	optional PartComponent data = 2;
+}
+
+message PartComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11651];
+	optional PartComponent data = 2;
+}
+
+message PartComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11652];
+	optional PartComponent data = 2;
+}
+
+message PartComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11653];
+	optional PartComponent data = 2;
+}
+
+message PartComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11654];
 	optional PartComponent data = 2;
 }

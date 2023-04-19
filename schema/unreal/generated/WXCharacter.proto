@@ -6,7 +6,7 @@ package unreal.generated.wxcharacter;
 import "unreal/gdk/core_types.proto";
 
 message WXCharacter {
-	optional uint32 msg_cid = 1[default = 23853];
+	optional uint32 msg_cid = 1[default = 23858];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -62,12 +62,12 @@ message WXCharacter {
 }
 
 message WXCharacterOwnerOnly {
-	optional uint32 msg_cid = 1[default = 23854];
+	optional uint32 msg_cid = 1[default = 23859];
 	 optional bool bautomove = 55;
 }
 
 message WXCharacterServerOnly {
-	optional uint32 msg_cid = 1[default = 23855];
+	optional uint32 msg_cid = 1[default = 23860];
 	 optional bool bactorenablecollision = 6;
 	 optional float handoverclienttimestamp = 21;
 }

@@ -27,151 +27,151 @@ message InteractiveFoliageComponent {
 }
 
 message InteractiveFoliageComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 15862];
-	optional InteractiveFoliageComponent data = 2;
-}
-
-message InteractiveFoliageComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 15863];
-	optional InteractiveFoliageComponent data = 2;
-}
-
-message InteractiveFoliageComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 15864];
-	optional InteractiveFoliageComponent data = 2;
-}
-
-message InteractiveFoliageComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 15865];
-	optional InteractiveFoliageComponent data = 2;
-}
-
-message InteractiveFoliageComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 15866];
-	optional InteractiveFoliageComponent data = 2;
-}
-
-message InteractiveFoliageComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 15867];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic7 {
+message InteractiveFoliageComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 15868];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic8 {
+message InteractiveFoliageComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 15869];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic9 {
+message InteractiveFoliageComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 15870];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic10 {
+message InteractiveFoliageComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 15871];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic11 {
+message InteractiveFoliageComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 15872];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic12 {
+message InteractiveFoliageComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 15873];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic13 {
+message InteractiveFoliageComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 15874];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic14 {
+message InteractiveFoliageComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 15875];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic15 {
+message InteractiveFoliageComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 15876];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic16 {
+message InteractiveFoliageComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 15877];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic17 {
+message InteractiveFoliageComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 15878];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic18 {
+message InteractiveFoliageComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 15879];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic19 {
+message InteractiveFoliageComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 15880];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic20 {
+message InteractiveFoliageComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 15881];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic21 {
+message InteractiveFoliageComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 15882];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic22 {
+message InteractiveFoliageComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 15883];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic23 {
+message InteractiveFoliageComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 15884];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic24 {
+message InteractiveFoliageComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 15885];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic25 {
+message InteractiveFoliageComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 15886];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic26 {
+message InteractiveFoliageComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 15887];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic27 {
+message InteractiveFoliageComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 15888];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic28 {
+message InteractiveFoliageComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 15889];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic29 {
+message InteractiveFoliageComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 15890];
 	optional InteractiveFoliageComponent data = 2;
 }
 
-message InteractiveFoliageComponentDynamic30 {
+message InteractiveFoliageComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 15891];
+	optional InteractiveFoliageComponent data = 2;
+}
+
+message InteractiveFoliageComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 15892];
+	optional InteractiveFoliageComponent data = 2;
+}
+
+message InteractiveFoliageComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 15893];
+	optional InteractiveFoliageComponent data = 2;
+}
+
+message InteractiveFoliageComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 15894];
+	optional InteractiveFoliageComponent data = 2;
+}
+
+message InteractiveFoliageComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 15895];
+	optional InteractiveFoliageComponent data = 2;
+}
+
+message InteractiveFoliageComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 15896];
 	optional InteractiveFoliageComponent data = 2;
 }

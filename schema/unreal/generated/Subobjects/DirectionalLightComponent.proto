@@ -26,151 +26,151 @@ message DirectionalLightComponent {
 }
 
 message DirectionalLightComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12641];
-	optional DirectionalLightComponent data = 2;
-}
-
-message DirectionalLightComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12642];
-	optional DirectionalLightComponent data = 2;
-}
-
-message DirectionalLightComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12643];
-	optional DirectionalLightComponent data = 2;
-}
-
-message DirectionalLightComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12644];
-	optional DirectionalLightComponent data = 2;
-}
-
-message DirectionalLightComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12645];
-	optional DirectionalLightComponent data = 2;
-}
-
-message DirectionalLightComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12646];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic7 {
+message DirectionalLightComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12647];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic8 {
+message DirectionalLightComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12648];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic9 {
+message DirectionalLightComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12649];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic10 {
+message DirectionalLightComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12650];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic11 {
+message DirectionalLightComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12651];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic12 {
+message DirectionalLightComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12652];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic13 {
+message DirectionalLightComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12653];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic14 {
+message DirectionalLightComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12654];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic15 {
+message DirectionalLightComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12655];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic16 {
+message DirectionalLightComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12656];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic17 {
+message DirectionalLightComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12657];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic18 {
+message DirectionalLightComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12658];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic19 {
+message DirectionalLightComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12659];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic20 {
+message DirectionalLightComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12660];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic21 {
+message DirectionalLightComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12661];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic22 {
+message DirectionalLightComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12662];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic23 {
+message DirectionalLightComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12663];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic24 {
+message DirectionalLightComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12664];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic25 {
+message DirectionalLightComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12665];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic26 {
+message DirectionalLightComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12666];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic27 {
+message DirectionalLightComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12667];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic28 {
+message DirectionalLightComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12668];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic29 {
+message DirectionalLightComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12669];
 	optional DirectionalLightComponent data = 2;
 }
 
-message DirectionalLightComponentDynamic30 {
+message DirectionalLightComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12670];
+	optional DirectionalLightComponent data = 2;
+}
+
+message DirectionalLightComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12671];
+	optional DirectionalLightComponent data = 2;
+}
+
+message DirectionalLightComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12672];
+	optional DirectionalLightComponent data = 2;
+}
+
+message DirectionalLightComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12673];
+	optional DirectionalLightComponent data = 2;
+}
+
+message DirectionalLightComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12674];
+	optional DirectionalLightComponent data = 2;
+}
+
+message DirectionalLightComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12675];
 	optional DirectionalLightComponent data = 2;
 }

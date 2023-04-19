@@ -7,21 +7,21 @@ import "unreal/generated/Subobjects/MMOCharacterMovementComponent.proto";
 import "unreal/generated/Subobjects/CapsuleComponent.proto";
 
 message CharacterMesh0 {
-	optional uint32 msg_cid = 1[default = 18928];
+	optional uint32 msg_cid = 1[default = 18933];
 	optional unreal.generated.SkeletalMeshComponent data = 2;
 }
 
 message CharMoveComp {
-	optional uint32 msg_cid = 1[default = 18929];
+	optional uint32 msg_cid = 1[default = 18934];
 	optional unreal.generated.MMOCharacterMovementComponent data = 2;
 }
 
 message CharMoveCompServerOnly {
-	optional uint32 msg_cid = 1[default = 18930];
+	optional uint32 msg_cid = 1[default = 18935];
 	optional unreal.generated.MMOCharacterMovementComponentServerOnly data = 2;
 }
 
 message CollisionCylinder {
-	optional uint32 msg_cid = 1[default = 18931];
+	optional uint32 msg_cid = 1[default = 18936];
 	optional unreal.generated.CapsuleComponent data = 2;
 }

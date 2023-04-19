@@ -5,6 +5,6 @@ package unreal.generated.controlrigcontrolactor.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message SceneComponent0 {
-	optional uint32 msg_cid = 1[default = 11929];
+	optional uint32 msg_cid = 1[default = 11934];
 	optional unreal.generated.SceneComponent data = 2;
 }

@@ -5,6 +5,6 @@ package unreal.generated.niagaraactor.subobjects;
 import "unreal/generated/Subobjects/NiagaraComponent.proto";
 
 message NiagaraComponent0 {
-	optional uint32 msg_cid = 1[default = 20660];
+	optional uint32 msg_cid = 1[default = 20665];
 	optional unreal.generated.NiagaraComponent data = 2;
 }

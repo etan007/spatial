@@ -26,151 +26,151 @@ message GizmoHandleGroup {
 }
 
 message GizmoHandleGroupDynamic1 {
-	optional uint32 msg_cid = 1[default = 23217];
-	optional GizmoHandleGroup data = 2;
-}
-
-message GizmoHandleGroupDynamic2 {
-	optional uint32 msg_cid = 1[default = 23218];
-	optional GizmoHandleGroup data = 2;
-}
-
-message GizmoHandleGroupDynamic3 {
-	optional uint32 msg_cid = 1[default = 23219];
-	optional GizmoHandleGroup data = 2;
-}
-
-message GizmoHandleGroupDynamic4 {
-	optional uint32 msg_cid = 1[default = 23220];
-	optional GizmoHandleGroup data = 2;
-}
-
-message GizmoHandleGroupDynamic5 {
-	optional uint32 msg_cid = 1[default = 23221];
-	optional GizmoHandleGroup data = 2;
-}
-
-message GizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23222];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic7 {
+message GizmoHandleGroupDynamic2 {
 	optional uint32 msg_cid = 1[default = 23223];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic8 {
+message GizmoHandleGroupDynamic3 {
 	optional uint32 msg_cid = 1[default = 23224];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic9 {
+message GizmoHandleGroupDynamic4 {
 	optional uint32 msg_cid = 1[default = 23225];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic10 {
+message GizmoHandleGroupDynamic5 {
 	optional uint32 msg_cid = 1[default = 23226];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic11 {
+message GizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23227];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic12 {
+message GizmoHandleGroupDynamic7 {
 	optional uint32 msg_cid = 1[default = 23228];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic13 {
+message GizmoHandleGroupDynamic8 {
 	optional uint32 msg_cid = 1[default = 23229];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic14 {
+message GizmoHandleGroupDynamic9 {
 	optional uint32 msg_cid = 1[default = 23230];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic15 {
+message GizmoHandleGroupDynamic10 {
 	optional uint32 msg_cid = 1[default = 23231];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic16 {
+message GizmoHandleGroupDynamic11 {
 	optional uint32 msg_cid = 1[default = 23232];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic17 {
+message GizmoHandleGroupDynamic12 {
 	optional uint32 msg_cid = 1[default = 23233];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic18 {
+message GizmoHandleGroupDynamic13 {
 	optional uint32 msg_cid = 1[default = 23234];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic19 {
+message GizmoHandleGroupDynamic14 {
 	optional uint32 msg_cid = 1[default = 23235];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic20 {
+message GizmoHandleGroupDynamic15 {
 	optional uint32 msg_cid = 1[default = 23236];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic21 {
+message GizmoHandleGroupDynamic16 {
 	optional uint32 msg_cid = 1[default = 23237];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic22 {
+message GizmoHandleGroupDynamic17 {
 	optional uint32 msg_cid = 1[default = 23238];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic23 {
+message GizmoHandleGroupDynamic18 {
 	optional uint32 msg_cid = 1[default = 23239];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic24 {
+message GizmoHandleGroupDynamic19 {
 	optional uint32 msg_cid = 1[default = 23240];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic25 {
+message GizmoHandleGroupDynamic20 {
 	optional uint32 msg_cid = 1[default = 23241];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic26 {
+message GizmoHandleGroupDynamic21 {
 	optional uint32 msg_cid = 1[default = 23242];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic27 {
+message GizmoHandleGroupDynamic22 {
 	optional uint32 msg_cid = 1[default = 23243];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic28 {
+message GizmoHandleGroupDynamic23 {
 	optional uint32 msg_cid = 1[default = 23244];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic29 {
+message GizmoHandleGroupDynamic24 {
 	optional uint32 msg_cid = 1[default = 23245];
 	optional GizmoHandleGroup data = 2;
 }
 
-message GizmoHandleGroupDynamic30 {
+message GizmoHandleGroupDynamic25 {
 	optional uint32 msg_cid = 1[default = 23246];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23247];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23248];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23249];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23250];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23251];
 	optional GizmoHandleGroup data = 2;
 }

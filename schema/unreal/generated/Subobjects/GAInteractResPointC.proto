@@ -7,151 +7,151 @@ message GAInteractResPointC {
 }
 
 message GAInteractResPointCDynamic1 {
-	optional uint32 msg_cid = 1[default = 25213];
+	optional uint32 msg_cid = 1[default = 25475];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic2 {
-	optional uint32 msg_cid = 1[default = 25214];
+	optional uint32 msg_cid = 1[default = 25476];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic3 {
-	optional uint32 msg_cid = 1[default = 25215];
+	optional uint32 msg_cid = 1[default = 25477];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic4 {
-	optional uint32 msg_cid = 1[default = 25216];
+	optional uint32 msg_cid = 1[default = 25478];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic5 {
-	optional uint32 msg_cid = 1[default = 25217];
+	optional uint32 msg_cid = 1[default = 25479];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic6 {
-	optional uint32 msg_cid = 1[default = 25218];
+	optional uint32 msg_cid = 1[default = 25480];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic7 {
-	optional uint32 msg_cid = 1[default = 25219];
+	optional uint32 msg_cid = 1[default = 25481];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic8 {
-	optional uint32 msg_cid = 1[default = 25220];
+	optional uint32 msg_cid = 1[default = 25482];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic9 {
-	optional uint32 msg_cid = 1[default = 25221];
+	optional uint32 msg_cid = 1[default = 25483];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic10 {
-	optional uint32 msg_cid = 1[default = 25222];
+	optional uint32 msg_cid = 1[default = 25484];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic11 {
-	optional uint32 msg_cid = 1[default = 25223];
+	optional uint32 msg_cid = 1[default = 25485];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic12 {
-	optional uint32 msg_cid = 1[default = 25224];
+	optional uint32 msg_cid = 1[default = 25486];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic13 {
-	optional uint32 msg_cid = 1[default = 25225];
+	optional uint32 msg_cid = 1[default = 25487];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic14 {
-	optional uint32 msg_cid = 1[default = 25226];
+	optional uint32 msg_cid = 1[default = 25488];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic15 {
-	optional uint32 msg_cid = 1[default = 25227];
+	optional uint32 msg_cid = 1[default = 25489];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic16 {
-	optional uint32 msg_cid = 1[default = 25228];
+	optional uint32 msg_cid = 1[default = 25490];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic17 {
-	optional uint32 msg_cid = 1[default = 25229];
+	optional uint32 msg_cid = 1[default = 25491];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic18 {
-	optional uint32 msg_cid = 1[default = 25230];
+	optional uint32 msg_cid = 1[default = 25492];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic19 {
-	optional uint32 msg_cid = 1[default = 25231];
+	optional uint32 msg_cid = 1[default = 25493];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic20 {
-	optional uint32 msg_cid = 1[default = 25232];
+	optional uint32 msg_cid = 1[default = 25494];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic21 {
-	optional uint32 msg_cid = 1[default = 25233];
+	optional uint32 msg_cid = 1[default = 25495];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic22 {
-	optional uint32 msg_cid = 1[default = 25234];
+	optional uint32 msg_cid = 1[default = 25496];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic23 {
-	optional uint32 msg_cid = 1[default = 25235];
+	optional uint32 msg_cid = 1[default = 25497];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic24 {
-	optional uint32 msg_cid = 1[default = 25236];
+	optional uint32 msg_cid = 1[default = 25498];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic25 {
-	optional uint32 msg_cid = 1[default = 25237];
+	optional uint32 msg_cid = 1[default = 25499];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic26 {
-	optional uint32 msg_cid = 1[default = 25238];
+	optional uint32 msg_cid = 1[default = 25500];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic27 {
-	optional uint32 msg_cid = 1[default = 25239];
+	optional uint32 msg_cid = 1[default = 25501];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic28 {
-	optional uint32 msg_cid = 1[default = 25240];
+	optional uint32 msg_cid = 1[default = 25502];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic29 {
-	optional uint32 msg_cid = 1[default = 25241];
+	optional uint32 msg_cid = 1[default = 25503];
 	optional GAInteractResPointC data = 2;
 }
 
 message GAInteractResPointCDynamic30 {
-	optional uint32 msg_cid = 1[default = 25242];
+	optional uint32 msg_cid = 1[default = 25504];
 	optional GAInteractResPointC data = 2;
 }

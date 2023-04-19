@@ -6,7 +6,7 @@ package unreal.generated.triggersphere;
 import "unreal/gdk/core_types.proto";
 
 message TriggerSphere {
-	optional uint32 msg_cid = 1[default = 14792];
+	optional uint32 msg_cid = 1[default = 14797];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message TriggerSphere {
 }
 
 message TriggerSphereServerOnly {
-	optional uint32 msg_cid = 1[default = 14793];
+	optional uint32 msg_cid = 1[default = 14798];
 	 optional bool bactorenablecollision = 6;
 }

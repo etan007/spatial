@@ -6,7 +6,7 @@ package unreal.generated.wxaicontroller;
 import "unreal/gdk/core_types.proto";
 
 message WXAIController {
-	optional uint32 msg_cid = 1[default = 23728];
+	optional uint32 msg_cid = 1[default = 23733];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,7 +27,7 @@ message WXAIController {
 }
 
 message WXAIControllerServerOnly {
-	optional uint32 msg_cid = 1[default = 23729];
+	optional uint32 msg_cid = 1[default = 23734];
 	 optional bool bactorenablecollision = 6;
 	 optional string statename = 19;
 	 optional bool bissimulated = 21;

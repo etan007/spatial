@@ -6,7 +6,7 @@ package unreal.generated.niagarapreviewgrid;
 import "unreal/gdk/core_types.proto";
 
 message NiagaraPreviewGrid {
-	optional uint32 msg_cid = 1[default = 20730];
+	optional uint32 msg_cid = 1[default = 20735];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message NiagaraPreviewGrid {
 }
 
 message NiagaraPreviewGridServerOnly {
-	optional uint32 msg_cid = 1[default = 20731];
+	optional uint32 msg_cid = 1[default = 20736];
 	 optional bool bactorenablecollision = 6;
 }

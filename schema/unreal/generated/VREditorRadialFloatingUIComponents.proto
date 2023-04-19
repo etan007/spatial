@@ -5,6 +5,6 @@ package unreal.generated.vreditorradialfloatingui.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message SceneComponent {
-	optional uint32 msg_cid = 1[default = 23507];
+	optional uint32 msg_cid = 1[default = 23512];
 	optional unreal.generated.SceneComponent data = 2;
 }

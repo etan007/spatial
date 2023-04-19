@@ -26,151 +26,151 @@ message PaperSpriteComponent {
 }
 
 message PaperSpriteComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20858];
-	optional PaperSpriteComponent data = 2;
-}
-
-message PaperSpriteComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20859];
-	optional PaperSpriteComponent data = 2;
-}
-
-message PaperSpriteComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20860];
-	optional PaperSpriteComponent data = 2;
-}
-
-message PaperSpriteComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20861];
-	optional PaperSpriteComponent data = 2;
-}
-
-message PaperSpriteComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20862];
-	optional PaperSpriteComponent data = 2;
-}
-
-message PaperSpriteComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20863];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic7 {
+message PaperSpriteComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20864];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic8 {
+message PaperSpriteComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20865];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic9 {
+message PaperSpriteComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20866];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic10 {
+message PaperSpriteComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20867];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic11 {
+message PaperSpriteComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20868];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic12 {
+message PaperSpriteComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20869];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic13 {
+message PaperSpriteComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20870];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic14 {
+message PaperSpriteComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20871];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic15 {
+message PaperSpriteComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20872];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic16 {
+message PaperSpriteComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20873];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic17 {
+message PaperSpriteComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20874];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic18 {
+message PaperSpriteComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20875];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic19 {
+message PaperSpriteComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20876];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic20 {
+message PaperSpriteComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20877];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic21 {
+message PaperSpriteComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20878];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic22 {
+message PaperSpriteComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20879];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic23 {
+message PaperSpriteComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20880];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic24 {
+message PaperSpriteComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20881];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic25 {
+message PaperSpriteComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20882];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic26 {
+message PaperSpriteComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20883];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic27 {
+message PaperSpriteComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20884];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic28 {
+message PaperSpriteComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20885];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic29 {
+message PaperSpriteComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20886];
 	optional PaperSpriteComponent data = 2;
 }
 
-message PaperSpriteComponentDynamic30 {
+message PaperSpriteComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20887];
+	optional PaperSpriteComponent data = 2;
+}
+
+message PaperSpriteComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20888];
+	optional PaperSpriteComponent data = 2;
+}
+
+message PaperSpriteComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20889];
+	optional PaperSpriteComponent data = 2;
+}
+
+message PaperSpriteComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20890];
+	optional PaperSpriteComponent data = 2;
+}
+
+message PaperSpriteComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20891];
+	optional PaperSpriteComponent data = 2;
+}
+
+message PaperSpriteComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20892];
 	optional PaperSpriteComponent data = 2;
 }

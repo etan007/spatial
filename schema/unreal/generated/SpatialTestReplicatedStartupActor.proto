@@ -6,7 +6,7 @@ package unreal.generated.spatialtestreplicatedstartupactor;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestReplicatedStartupActor {
-	optional uint32 msg_cid = 1[default = 21942];
+	optional uint32 msg_cid = 1[default = 21947];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -31,6 +31,6 @@ message SpatialTestReplicatedStartupActor {
 }
 
 message SpatialTestReplicatedStartupActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21943];
+	optional uint32 msg_cid = 1[default = 21948];
 	 optional bool bactorenablecollision = 6;
 }

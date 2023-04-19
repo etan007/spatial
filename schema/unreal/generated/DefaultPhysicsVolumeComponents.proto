@@ -5,6 +5,6 @@ package unreal.generated.defaultphysicsvolume.subobjects;
 import "unreal/generated/Subobjects/BrushComponent.proto";
 
 message BrushComponent0 {
-	optional uint32 msg_cid = 1[default = 12637];
+	optional uint32 msg_cid = 1[default = 12642];
 	optional unreal.generated.BrushComponent data = 2;
 }

@@ -6,7 +6,7 @@ package unreal.generated.nonreplicatedcrossserverrpccube;
 import "unreal/gdk/core_types.proto";
 
 message NonReplicatedCrossServerRPCCube {
-	optional uint32 msg_cid = 1[default = 21496];
+	optional uint32 msg_cid = 1[default = 21501];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,6 +27,6 @@ message NonReplicatedCrossServerRPCCube {
 }
 
 message NonReplicatedCrossServerRPCCubeServerOnly {
-	optional uint32 msg_cid = 1[default = 21497];
+	optional uint32 msg_cid = 1[default = 21502];
 	 optional bool bactorenablecollision = 6;
 }

@@ -6,7 +6,7 @@ package unreal.generated.gameplaydebuggercategoryreplicator;
 import "unreal/gdk/core_types.proto";
 
 message GameplayDebuggerCategoryReplicator {
-	optional uint32 msg_cid = 1[default = 17461];
+	optional uint32 msg_cid = 1[default = 17466];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -33,6 +33,6 @@ message GameplayDebuggerCategoryReplicator {
 }
 
 message GameplayDebuggerCategoryReplicatorServerOnly {
-	optional uint32 msg_cid = 1[default = 17462];
+	optional uint32 msg_cid = 1[default = 17467];
 	 optional bool bactorenablecollision = 6;
 }

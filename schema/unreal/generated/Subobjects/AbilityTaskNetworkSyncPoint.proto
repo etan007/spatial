@@ -7,151 +7,151 @@ message AbilityTaskNetworkSyncPoint {
 }
 
 message AbilityTaskNetworkSyncPointDynamic1 {
-	optional uint32 msg_cid = 1[default = 16356];
-	optional AbilityTaskNetworkSyncPoint data = 2;
-}
-
-message AbilityTaskNetworkSyncPointDynamic2 {
-	optional uint32 msg_cid = 1[default = 16357];
-	optional AbilityTaskNetworkSyncPoint data = 2;
-}
-
-message AbilityTaskNetworkSyncPointDynamic3 {
-	optional uint32 msg_cid = 1[default = 16358];
-	optional AbilityTaskNetworkSyncPoint data = 2;
-}
-
-message AbilityTaskNetworkSyncPointDynamic4 {
-	optional uint32 msg_cid = 1[default = 16359];
-	optional AbilityTaskNetworkSyncPoint data = 2;
-}
-
-message AbilityTaskNetworkSyncPointDynamic5 {
-	optional uint32 msg_cid = 1[default = 16360];
-	optional AbilityTaskNetworkSyncPoint data = 2;
-}
-
-message AbilityTaskNetworkSyncPointDynamic6 {
 	optional uint32 msg_cid = 1[default = 16361];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic7 {
+message AbilityTaskNetworkSyncPointDynamic2 {
 	optional uint32 msg_cid = 1[default = 16362];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic8 {
+message AbilityTaskNetworkSyncPointDynamic3 {
 	optional uint32 msg_cid = 1[default = 16363];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic9 {
+message AbilityTaskNetworkSyncPointDynamic4 {
 	optional uint32 msg_cid = 1[default = 16364];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic10 {
+message AbilityTaskNetworkSyncPointDynamic5 {
 	optional uint32 msg_cid = 1[default = 16365];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic11 {
+message AbilityTaskNetworkSyncPointDynamic6 {
 	optional uint32 msg_cid = 1[default = 16366];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic12 {
+message AbilityTaskNetworkSyncPointDynamic7 {
 	optional uint32 msg_cid = 1[default = 16367];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic13 {
+message AbilityTaskNetworkSyncPointDynamic8 {
 	optional uint32 msg_cid = 1[default = 16368];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic14 {
+message AbilityTaskNetworkSyncPointDynamic9 {
 	optional uint32 msg_cid = 1[default = 16369];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic15 {
+message AbilityTaskNetworkSyncPointDynamic10 {
 	optional uint32 msg_cid = 1[default = 16370];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic16 {
+message AbilityTaskNetworkSyncPointDynamic11 {
 	optional uint32 msg_cid = 1[default = 16371];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic17 {
+message AbilityTaskNetworkSyncPointDynamic12 {
 	optional uint32 msg_cid = 1[default = 16372];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic18 {
+message AbilityTaskNetworkSyncPointDynamic13 {
 	optional uint32 msg_cid = 1[default = 16373];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic19 {
+message AbilityTaskNetworkSyncPointDynamic14 {
 	optional uint32 msg_cid = 1[default = 16374];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic20 {
+message AbilityTaskNetworkSyncPointDynamic15 {
 	optional uint32 msg_cid = 1[default = 16375];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic21 {
+message AbilityTaskNetworkSyncPointDynamic16 {
 	optional uint32 msg_cid = 1[default = 16376];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic22 {
+message AbilityTaskNetworkSyncPointDynamic17 {
 	optional uint32 msg_cid = 1[default = 16377];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic23 {
+message AbilityTaskNetworkSyncPointDynamic18 {
 	optional uint32 msg_cid = 1[default = 16378];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic24 {
+message AbilityTaskNetworkSyncPointDynamic19 {
 	optional uint32 msg_cid = 1[default = 16379];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic25 {
+message AbilityTaskNetworkSyncPointDynamic20 {
 	optional uint32 msg_cid = 1[default = 16380];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic26 {
+message AbilityTaskNetworkSyncPointDynamic21 {
 	optional uint32 msg_cid = 1[default = 16381];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic27 {
+message AbilityTaskNetworkSyncPointDynamic22 {
 	optional uint32 msg_cid = 1[default = 16382];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic28 {
+message AbilityTaskNetworkSyncPointDynamic23 {
 	optional uint32 msg_cid = 1[default = 16383];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic29 {
+message AbilityTaskNetworkSyncPointDynamic24 {
 	optional uint32 msg_cid = 1[default = 16384];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }
 
-message AbilityTaskNetworkSyncPointDynamic30 {
+message AbilityTaskNetworkSyncPointDynamic25 {
 	optional uint32 msg_cid = 1[default = 16385];
+	optional AbilityTaskNetworkSyncPoint data = 2;
+}
+
+message AbilityTaskNetworkSyncPointDynamic26 {
+	optional uint32 msg_cid = 1[default = 16386];
+	optional AbilityTaskNetworkSyncPoint data = 2;
+}
+
+message AbilityTaskNetworkSyncPointDynamic27 {
+	optional uint32 msg_cid = 1[default = 16387];
+	optional AbilityTaskNetworkSyncPoint data = 2;
+}
+
+message AbilityTaskNetworkSyncPointDynamic28 {
+	optional uint32 msg_cid = 1[default = 16388];
+	optional AbilityTaskNetworkSyncPoint data = 2;
+}
+
+message AbilityTaskNetworkSyncPointDynamic29 {
+	optional uint32 msg_cid = 1[default = 16389];
+	optional AbilityTaskNetworkSyncPoint data = 2;
+}
+
+message AbilityTaskNetworkSyncPointDynamic30 {
+	optional uint32 msg_cid = 1[default = 16390];
 	optional AbilityTaskNetworkSyncPoint data = 2;
 }

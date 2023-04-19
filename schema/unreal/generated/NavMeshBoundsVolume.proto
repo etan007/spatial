@@ -6,7 +6,7 @@ package unreal.generated.navmeshboundsvolume;
 import "unreal/gdk/core_types.proto";
 
 message NavMeshBoundsVolume {
-	optional uint32 msg_cid = 1[default = 20556];
+	optional uint32 msg_cid = 1[default = 20561];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message NavMeshBoundsVolume {
 }
 
 message NavMeshBoundsVolumeServerOnly {
-	optional uint32 msg_cid = 1[default = 20557];
+	optional uint32 msg_cid = 1[default = 20562];
 	 optional bool bactorenablecollision = 6;
 }

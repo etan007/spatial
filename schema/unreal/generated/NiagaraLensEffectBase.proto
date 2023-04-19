@@ -6,7 +6,7 @@ package unreal.generated.niagaralenseffectbase;
 import "unreal/gdk/core_types.proto";
 
 message NiagaraLensEffectBase {
-	optional uint32 msg_cid = 1[default = 20721];
+	optional uint32 msg_cid = 1[default = 20726];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message NiagaraLensEffectBase {
 }
 
 message NiagaraLensEffectBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 20722];
+	optional uint32 msg_cid = 1[default = 20727];
 	 optional bool bactorenablecollision = 6;
 }

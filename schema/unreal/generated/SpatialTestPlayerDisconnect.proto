@@ -6,7 +6,7 @@ package unreal.generated.spatialtestplayerdisconnect;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestPlayerDisconnect {
-	optional uint32 msg_cid = 1[default = 21930];
+	optional uint32 msg_cid = 1[default = 21935];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialTestPlayerDisconnect {
 }
 
 message SpatialTestPlayerDisconnectServerOnly {
-	optional uint32 msg_cid = 1[default = 21931];
+	optional uint32 msg_cid = 1[default = 21936];
 	 optional bool bactorenablecollision = 6;
 }

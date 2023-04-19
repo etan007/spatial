@@ -5,6 +5,6 @@ package unreal.generated.paperspriteactor.subobjects;
 import "unreal/generated/Subobjects/PaperSpriteComponent.proto";
 
 message RenderComponent {
-	optional uint32 msg_cid = 1[default = 20857];
+	optional uint32 msg_cid = 1[default = 20862];
 	optional unreal.generated.PaperSpriteComponent data = 2;
 }

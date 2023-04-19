@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/CameraComponent.proto";
 import "unreal/generated/Subobjects/BillboardComponent.proto";
 
 message Camera {
-	optional uint32 msg_cid = 1[default = 15980];
+	optional uint32 msg_cid = 1[default = 15985];
 	optional unreal.generated.CameraComponent data = 2;
 }
 
 message Sprite {
-	optional uint32 msg_cid = 1[default = 15981];
+	optional uint32 msg_cid = 1[default = 15986];
 	optional unreal.generated.BillboardComponent data = 2;
 }

@@ -6,7 +6,7 @@ package unreal.generated.multipleownershippawn;
 import "unreal/gdk/core_types.proto";
 
 message MultipleOwnershipPawn {
-	optional uint32 msg_cid = 1[default = 21486];
+	optional uint32 msg_cid = 1[default = 21491];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -29,6 +29,6 @@ message MultipleOwnershipPawn {
 }
 
 message MultipleOwnershipPawnServerOnly {
-	optional uint32 msg_cid = 1[default = 21487];
+	optional uint32 msg_cid = 1[default = 21492];
 	 optional bool bactorenablecollision = 6;
 }

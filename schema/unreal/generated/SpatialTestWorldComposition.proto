@@ -6,7 +6,7 @@ package unreal.generated.spatialtestworldcomposition;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestWorldComposition {
-	optional uint32 msg_cid = 1[default = 21963];
+	optional uint32 msg_cid = 1[default = 21968];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialTestWorldComposition {
 }
 
 message SpatialTestWorldCompositionServerOnly {
-	optional uint32 msg_cid = 1[default = 21964];
+	optional uint32 msg_cid = 1[default = 21969];
 	 optional bool bactorenablecollision = 6;
 }

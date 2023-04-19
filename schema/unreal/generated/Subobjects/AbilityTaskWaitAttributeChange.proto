@@ -7,151 +7,151 @@ message AbilityTaskWaitAttributeChange {
 }
 
 message AbilityTaskWaitAttributeChangeDynamic1 {
-	optional uint32 msg_cid = 1[default = 16596];
-	optional AbilityTaskWaitAttributeChange data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeDynamic2 {
-	optional uint32 msg_cid = 1[default = 16597];
-	optional AbilityTaskWaitAttributeChange data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeDynamic3 {
-	optional uint32 msg_cid = 1[default = 16598];
-	optional AbilityTaskWaitAttributeChange data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeDynamic4 {
-	optional uint32 msg_cid = 1[default = 16599];
-	optional AbilityTaskWaitAttributeChange data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeDynamic5 {
-	optional uint32 msg_cid = 1[default = 16600];
-	optional AbilityTaskWaitAttributeChange data = 2;
-}
-
-message AbilityTaskWaitAttributeChangeDynamic6 {
 	optional uint32 msg_cid = 1[default = 16601];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic7 {
+message AbilityTaskWaitAttributeChangeDynamic2 {
 	optional uint32 msg_cid = 1[default = 16602];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic8 {
+message AbilityTaskWaitAttributeChangeDynamic3 {
 	optional uint32 msg_cid = 1[default = 16603];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic9 {
+message AbilityTaskWaitAttributeChangeDynamic4 {
 	optional uint32 msg_cid = 1[default = 16604];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic10 {
+message AbilityTaskWaitAttributeChangeDynamic5 {
 	optional uint32 msg_cid = 1[default = 16605];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic11 {
+message AbilityTaskWaitAttributeChangeDynamic6 {
 	optional uint32 msg_cid = 1[default = 16606];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic12 {
+message AbilityTaskWaitAttributeChangeDynamic7 {
 	optional uint32 msg_cid = 1[default = 16607];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic13 {
+message AbilityTaskWaitAttributeChangeDynamic8 {
 	optional uint32 msg_cid = 1[default = 16608];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic14 {
+message AbilityTaskWaitAttributeChangeDynamic9 {
 	optional uint32 msg_cid = 1[default = 16609];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic15 {
+message AbilityTaskWaitAttributeChangeDynamic10 {
 	optional uint32 msg_cid = 1[default = 16610];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic16 {
+message AbilityTaskWaitAttributeChangeDynamic11 {
 	optional uint32 msg_cid = 1[default = 16611];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic17 {
+message AbilityTaskWaitAttributeChangeDynamic12 {
 	optional uint32 msg_cid = 1[default = 16612];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic18 {
+message AbilityTaskWaitAttributeChangeDynamic13 {
 	optional uint32 msg_cid = 1[default = 16613];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic19 {
+message AbilityTaskWaitAttributeChangeDynamic14 {
 	optional uint32 msg_cid = 1[default = 16614];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic20 {
+message AbilityTaskWaitAttributeChangeDynamic15 {
 	optional uint32 msg_cid = 1[default = 16615];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic21 {
+message AbilityTaskWaitAttributeChangeDynamic16 {
 	optional uint32 msg_cid = 1[default = 16616];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic22 {
+message AbilityTaskWaitAttributeChangeDynamic17 {
 	optional uint32 msg_cid = 1[default = 16617];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic23 {
+message AbilityTaskWaitAttributeChangeDynamic18 {
 	optional uint32 msg_cid = 1[default = 16618];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic24 {
+message AbilityTaskWaitAttributeChangeDynamic19 {
 	optional uint32 msg_cid = 1[default = 16619];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic25 {
+message AbilityTaskWaitAttributeChangeDynamic20 {
 	optional uint32 msg_cid = 1[default = 16620];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic26 {
+message AbilityTaskWaitAttributeChangeDynamic21 {
 	optional uint32 msg_cid = 1[default = 16621];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic27 {
+message AbilityTaskWaitAttributeChangeDynamic22 {
 	optional uint32 msg_cid = 1[default = 16622];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic28 {
+message AbilityTaskWaitAttributeChangeDynamic23 {
 	optional uint32 msg_cid = 1[default = 16623];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic29 {
+message AbilityTaskWaitAttributeChangeDynamic24 {
 	optional uint32 msg_cid = 1[default = 16624];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }
 
-message AbilityTaskWaitAttributeChangeDynamic30 {
+message AbilityTaskWaitAttributeChangeDynamic25 {
 	optional uint32 msg_cid = 1[default = 16625];
+	optional AbilityTaskWaitAttributeChange data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeDynamic26 {
+	optional uint32 msg_cid = 1[default = 16626];
+	optional AbilityTaskWaitAttributeChange data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeDynamic27 {
+	optional uint32 msg_cid = 1[default = 16627];
+	optional AbilityTaskWaitAttributeChange data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeDynamic28 {
+	optional uint32 msg_cid = 1[default = 16628];
+	optional AbilityTaskWaitAttributeChange data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeDynamic29 {
+	optional uint32 msg_cid = 1[default = 16629];
+	optional AbilityTaskWaitAttributeChange data = 2;
+}
+
+message AbilityTaskWaitAttributeChangeDynamic30 {
+	optional uint32 msg_cid = 1[default = 16630];
 	optional AbilityTaskWaitAttributeChange data = 2;
 }

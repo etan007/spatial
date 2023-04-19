@@ -26,151 +26,151 @@ message DebugDrawComponent {
 }
 
 message DebugDrawComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12476];
-	optional DebugDrawComponent data = 2;
-}
-
-message DebugDrawComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12477];
-	optional DebugDrawComponent data = 2;
-}
-
-message DebugDrawComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12478];
-	optional DebugDrawComponent data = 2;
-}
-
-message DebugDrawComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12479];
-	optional DebugDrawComponent data = 2;
-}
-
-message DebugDrawComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12480];
-	optional DebugDrawComponent data = 2;
-}
-
-message DebugDrawComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12481];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic7 {
+message DebugDrawComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12482];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic8 {
+message DebugDrawComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12483];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic9 {
+message DebugDrawComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12484];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic10 {
+message DebugDrawComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12485];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic11 {
+message DebugDrawComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12486];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic12 {
+message DebugDrawComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12487];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic13 {
+message DebugDrawComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12488];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic14 {
+message DebugDrawComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12489];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic15 {
+message DebugDrawComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12490];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic16 {
+message DebugDrawComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12491];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic17 {
+message DebugDrawComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12492];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic18 {
+message DebugDrawComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12493];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic19 {
+message DebugDrawComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12494];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic20 {
+message DebugDrawComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12495];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic21 {
+message DebugDrawComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12496];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic22 {
+message DebugDrawComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12497];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic23 {
+message DebugDrawComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12498];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic24 {
+message DebugDrawComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12499];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic25 {
+message DebugDrawComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12500];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic26 {
+message DebugDrawComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12501];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic27 {
+message DebugDrawComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12502];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic28 {
+message DebugDrawComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12503];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic29 {
+message DebugDrawComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12504];
 	optional DebugDrawComponent data = 2;
 }
 
-message DebugDrawComponentDynamic30 {
+message DebugDrawComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12505];
+	optional DebugDrawComponent data = 2;
+}
+
+message DebugDrawComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12506];
+	optional DebugDrawComponent data = 2;
+}
+
+message DebugDrawComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12507];
+	optional DebugDrawComponent data = 2;
+}
+
+message DebugDrawComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12508];
+	optional DebugDrawComponent data = 2;
+}
+
+message DebugDrawComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12509];
+	optional DebugDrawComponent data = 2;
+}
+
+message DebugDrawComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12510];
 	optional DebugDrawComponent data = 2;
 }

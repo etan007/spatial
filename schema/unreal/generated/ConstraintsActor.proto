@@ -6,7 +6,7 @@ package unreal.generated.constraintsactor;
 import "unreal/gdk/core_types.proto";
 
 message ConstraintsActor {
-	optional uint32 msg_cid = 1[default = 11895];
+	optional uint32 msg_cid = 1[default = 11900];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message ConstraintsActor {
 }
 
 message ConstraintsActorServerOnly {
-	optional uint32 msg_cid = 1[default = 11896];
+	optional uint32 msg_cid = 1[default = 11901];
 	 optional bool bactorenablecollision = 6;
 }

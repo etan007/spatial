@@ -5,6 +5,6 @@ package unreal.generated.gameplaycuenotifylooping.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message RootComponent {
-	optional uint32 msg_cid = 1[default = 17460];
+	optional uint32 msg_cid = 1[default = 17465];
 	optional unreal.generated.SceneComponent data = 2;
 }

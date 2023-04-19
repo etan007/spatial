@@ -6,7 +6,7 @@ package unreal.generated.dormancytestactor;
 import "unreal/gdk/core_types.proto";
 
 message DormancyTestActor {
-	optional uint32 msg_cid = 1[default = 21386];
+	optional uint32 msg_cid = 1[default = 21391];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message DormancyTestActor {
 }
 
 message DormancyTestActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21387];
+	optional uint32 msg_cid = 1[default = 21392];
 	 optional bool bactorenablecollision = 6;
 }

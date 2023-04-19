@@ -6,7 +6,7 @@ package unreal.generated.vreditorradialfloatingui;
 import "unreal/gdk/core_types.proto";
 
 message VREditorRadialFloatingUI {
-	optional uint32 msg_cid = 1[default = 23505];
+	optional uint32 msg_cid = 1[default = 23510];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message VREditorRadialFloatingUI {
 }
 
 message VREditorRadialFloatingUIServerOnly {
-	optional uint32 msg_cid = 1[default = 23506];
+	optional uint32 msg_cid = 1[default = 23511];
 	 optional bool bactorenablecollision = 6;
 }

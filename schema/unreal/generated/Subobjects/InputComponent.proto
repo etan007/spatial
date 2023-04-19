@@ -9,151 +9,151 @@ message InputComponent {
 }
 
 message InputComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12945];
-	optional InputComponent data = 2;
-}
-
-message InputComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12946];
-	optional InputComponent data = 2;
-}
-
-message InputComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12947];
-	optional InputComponent data = 2;
-}
-
-message InputComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12948];
-	optional InputComponent data = 2;
-}
-
-message InputComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12949];
-	optional InputComponent data = 2;
-}
-
-message InputComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12950];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic7 {
+message InputComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12951];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic8 {
+message InputComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12952];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic9 {
+message InputComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12953];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic10 {
+message InputComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12954];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic11 {
+message InputComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12955];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic12 {
+message InputComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12956];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic13 {
+message InputComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12957];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic14 {
+message InputComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12958];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic15 {
+message InputComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12959];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic16 {
+message InputComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12960];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic17 {
+message InputComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12961];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic18 {
+message InputComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12962];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic19 {
+message InputComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12963];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic20 {
+message InputComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12964];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic21 {
+message InputComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12965];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic22 {
+message InputComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12966];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic23 {
+message InputComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12967];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic24 {
+message InputComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12968];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic25 {
+message InputComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12969];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic26 {
+message InputComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12970];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic27 {
+message InputComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12971];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic28 {
+message InputComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12972];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic29 {
+message InputComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12973];
 	optional InputComponent data = 2;
 }
 
-message InputComponentDynamic30 {
+message InputComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12974];
+	optional InputComponent data = 2;
+}
+
+message InputComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12975];
+	optional InputComponent data = 2;
+}
+
+message InputComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12976];
+	optional InputComponent data = 2;
+}
+
+message InputComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12977];
+	optional InputComponent data = 2;
+}
+
+message InputComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12978];
+	optional InputComponent data = 2;
+}
+
+message InputComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12979];
 	optional InputComponent data = 2;
 }

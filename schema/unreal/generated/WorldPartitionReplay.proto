@@ -6,7 +6,7 @@ package unreal.generated.worldpartitionreplay;
 import "unreal/gdk/core_types.proto";
 
 message WorldPartitionReplay {
-	optional uint32 msg_cid = 1[default = 14945];
+	optional uint32 msg_cid = 1[default = 14950];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message WorldPartitionReplay {
 }
 
 message WorldPartitionReplayServerOnly {
-	optional uint32 msg_cid = 1[default = 14946];
+	optional uint32 msg_cid = 1[default = 14951];
 	 optional bool bactorenablecollision = 6;
 }

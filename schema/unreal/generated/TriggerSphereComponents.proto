@@ -5,6 +5,6 @@ package unreal.generated.triggersphere.subobjects;
 import "unreal/generated/Subobjects/SphereComponent.proto";
 
 message CollisionComp {
-	optional uint32 msg_cid = 1[default = 14794];
+	optional uint32 msg_cid = 1[default = 14799];
 	optional unreal.generated.SphereComponent data = 2;
 }

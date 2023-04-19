@@ -5,6 +5,6 @@ package unreal.generated.testreplicationconditionsactorcustom.subobjects;
 import "unreal/generated/Subobjects/TestReplicationConditionsComponentCustom.proto";
 
 message UTestReplicationConditionsComponentCustom {
-	optional uint32 msg_cid = 1[default = 22283];
+	optional uint32 msg_cid = 1[default = 22288];
 	optional unreal.generated.TestReplicationConditionsComponentCustom data = 2;
 }

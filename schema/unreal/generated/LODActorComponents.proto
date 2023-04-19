@@ -5,6 +5,6 @@ package unreal.generated.lodactor.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message StaticMeshComponent0 {
-	optional uint32 msg_cid = 1[default = 13294];
+	optional uint32 msg_cid = 1[default = 13299];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

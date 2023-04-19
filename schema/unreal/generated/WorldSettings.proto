@@ -6,7 +6,7 @@ package unreal.generated.worldsettings;
 import "unreal/gdk/core_types.proto";
 
 message WorldSettings {
-	optional uint32 msg_cid = 1[default = 14980];
+	optional uint32 msg_cid = 1[default = 14985];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message WorldSettings {
 }
 
 message WorldSettingsServerOnly {
-	optional uint32 msg_cid = 1[default = 14981];
+	optional uint32 msg_cid = 1[default = 14986];
 	 optional bool bactorenablecollision = 6;
 }

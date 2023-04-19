@@ -5,6 +5,6 @@ package unreal.generated.emittercameralenseffectbase.subobjects;
 import "unreal/generated/Subobjects/ParticleSystemComponent.proto";
 
 message ParticleSystemComponent0 {
-	optional uint32 msg_cid = 1[default = 12800];
+	optional uint32 msg_cid = 1[default = 12805];
 	optional unreal.generated.ParticleSystemComponent data = 2;
 }

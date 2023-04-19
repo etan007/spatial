@@ -5,6 +5,6 @@ package unreal.generated.spatialauthoritytestreplicatedactor.subobjects;
 import "unreal/generated/Subobjects/SpatialAuthorityTestActorComponent.proto";
 
 message AuthorityComponent {
-	optional uint32 msg_cid = 1[default = 21624];
+	optional uint32 msg_cid = 1[default = 21629];
 	optional unreal.generated.SpatialAuthorityTestActorComponent data = 2;
 }

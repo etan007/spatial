@@ -6,7 +6,7 @@ package unreal.generated.crossserverandclientorchestrationtest;
 import "unreal/gdk/core_types.proto";
 
 message CrossServerAndClientOrchestrationTest {
-	optional uint32 msg_cid = 1[default = 21153];
+	optional uint32 msg_cid = 1[default = 21158];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -32,6 +32,6 @@ message CrossServerAndClientOrchestrationTest {
 }
 
 message CrossServerAndClientOrchestrationTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21154];
+	optional uint32 msg_cid = 1[default = 21159];
 	 optional bool bactorenablecollision = 6;
 }

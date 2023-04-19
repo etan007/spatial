@@ -26,151 +26,151 @@ message AxisGizmoHandleGroup {
 }
 
 message AxisGizmoHandleGroupDynamic1 {
-	optional uint32 msg_cid = 1[default = 23154];
-	optional AxisGizmoHandleGroup data = 2;
-}
-
-message AxisGizmoHandleGroupDynamic2 {
-	optional uint32 msg_cid = 1[default = 23155];
-	optional AxisGizmoHandleGroup data = 2;
-}
-
-message AxisGizmoHandleGroupDynamic3 {
-	optional uint32 msg_cid = 1[default = 23156];
-	optional AxisGizmoHandleGroup data = 2;
-}
-
-message AxisGizmoHandleGroupDynamic4 {
-	optional uint32 msg_cid = 1[default = 23157];
-	optional AxisGizmoHandleGroup data = 2;
-}
-
-message AxisGizmoHandleGroupDynamic5 {
-	optional uint32 msg_cid = 1[default = 23158];
-	optional AxisGizmoHandleGroup data = 2;
-}
-
-message AxisGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23159];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic7 {
+message AxisGizmoHandleGroupDynamic2 {
 	optional uint32 msg_cid = 1[default = 23160];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic8 {
+message AxisGizmoHandleGroupDynamic3 {
 	optional uint32 msg_cid = 1[default = 23161];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic9 {
+message AxisGizmoHandleGroupDynamic4 {
 	optional uint32 msg_cid = 1[default = 23162];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic10 {
+message AxisGizmoHandleGroupDynamic5 {
 	optional uint32 msg_cid = 1[default = 23163];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic11 {
+message AxisGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23164];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic12 {
+message AxisGizmoHandleGroupDynamic7 {
 	optional uint32 msg_cid = 1[default = 23165];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic13 {
+message AxisGizmoHandleGroupDynamic8 {
 	optional uint32 msg_cid = 1[default = 23166];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic14 {
+message AxisGizmoHandleGroupDynamic9 {
 	optional uint32 msg_cid = 1[default = 23167];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic15 {
+message AxisGizmoHandleGroupDynamic10 {
 	optional uint32 msg_cid = 1[default = 23168];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic16 {
+message AxisGizmoHandleGroupDynamic11 {
 	optional uint32 msg_cid = 1[default = 23169];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic17 {
+message AxisGizmoHandleGroupDynamic12 {
 	optional uint32 msg_cid = 1[default = 23170];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic18 {
+message AxisGizmoHandleGroupDynamic13 {
 	optional uint32 msg_cid = 1[default = 23171];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic19 {
+message AxisGizmoHandleGroupDynamic14 {
 	optional uint32 msg_cid = 1[default = 23172];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic20 {
+message AxisGizmoHandleGroupDynamic15 {
 	optional uint32 msg_cid = 1[default = 23173];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic21 {
+message AxisGizmoHandleGroupDynamic16 {
 	optional uint32 msg_cid = 1[default = 23174];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic22 {
+message AxisGizmoHandleGroupDynamic17 {
 	optional uint32 msg_cid = 1[default = 23175];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic23 {
+message AxisGizmoHandleGroupDynamic18 {
 	optional uint32 msg_cid = 1[default = 23176];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic24 {
+message AxisGizmoHandleGroupDynamic19 {
 	optional uint32 msg_cid = 1[default = 23177];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic25 {
+message AxisGizmoHandleGroupDynamic20 {
 	optional uint32 msg_cid = 1[default = 23178];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic26 {
+message AxisGizmoHandleGroupDynamic21 {
 	optional uint32 msg_cid = 1[default = 23179];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic27 {
+message AxisGizmoHandleGroupDynamic22 {
 	optional uint32 msg_cid = 1[default = 23180];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic28 {
+message AxisGizmoHandleGroupDynamic23 {
 	optional uint32 msg_cid = 1[default = 23181];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic29 {
+message AxisGizmoHandleGroupDynamic24 {
 	optional uint32 msg_cid = 1[default = 23182];
 	optional AxisGizmoHandleGroup data = 2;
 }
 
-message AxisGizmoHandleGroupDynamic30 {
+message AxisGizmoHandleGroupDynamic25 {
 	optional uint32 msg_cid = 1[default = 23183];
+	optional AxisGizmoHandleGroup data = 2;
+}
+
+message AxisGizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23184];
+	optional AxisGizmoHandleGroup data = 2;
+}
+
+message AxisGizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23185];
+	optional AxisGizmoHandleGroup data = 2;
+}
+
+message AxisGizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23186];
+	optional AxisGizmoHandleGroup data = 2;
+}
+
+message AxisGizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23187];
+	optional AxisGizmoHandleGroup data = 2;
+}
+
+message AxisGizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23188];
 	optional AxisGizmoHandleGroup data = 2;
 }

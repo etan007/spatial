@@ -5,6 +5,6 @@ package unreal.generated.physicsthruster.subobjects;
 import "unreal/generated/Subobjects/PhysicsThrusterComponent.proto";
 
 message Thruster0 {
-	optional uint32 msg_cid = 1[default = 13779];
+	optional uint32 msg_cid = 1[default = 13784];
 	optional unreal.generated.PhysicsThrusterComponent data = 2;
 }

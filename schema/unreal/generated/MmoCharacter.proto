@@ -6,7 +6,7 @@ package unreal.generated.mmocharacter;
 import "unreal/gdk/core_types.proto";
 
 message MmoCharacter {
-	optional uint32 msg_cid = 1[default = 18926];
+	optional uint32 msg_cid = 1[default = 18931];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -60,7 +60,7 @@ message MmoCharacter {
 }
 
 message MmoCharacterServerOnly {
-	optional uint32 msg_cid = 1[default = 18927];
+	optional uint32 msg_cid = 1[default = 18932];
 	 optional bool bactorenablecollision = 6;
 	 optional float handoverclienttimestamp = 21;
 }

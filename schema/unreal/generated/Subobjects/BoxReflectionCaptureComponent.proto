@@ -26,151 +26,151 @@ message BoxReflectionCaptureComponent {
 }
 
 message BoxReflectionCaptureComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12352];
-	optional BoxReflectionCaptureComponent data = 2;
-}
-
-message BoxReflectionCaptureComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12353];
-	optional BoxReflectionCaptureComponent data = 2;
-}
-
-message BoxReflectionCaptureComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12354];
-	optional BoxReflectionCaptureComponent data = 2;
-}
-
-message BoxReflectionCaptureComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12355];
-	optional BoxReflectionCaptureComponent data = 2;
-}
-
-message BoxReflectionCaptureComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12356];
-	optional BoxReflectionCaptureComponent data = 2;
-}
-
-message BoxReflectionCaptureComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12357];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic7 {
+message BoxReflectionCaptureComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12358];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic8 {
+message BoxReflectionCaptureComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12359];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic9 {
+message BoxReflectionCaptureComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12360];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic10 {
+message BoxReflectionCaptureComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12361];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic11 {
+message BoxReflectionCaptureComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12362];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic12 {
+message BoxReflectionCaptureComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12363];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic13 {
+message BoxReflectionCaptureComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12364];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic14 {
+message BoxReflectionCaptureComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12365];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic15 {
+message BoxReflectionCaptureComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12366];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic16 {
+message BoxReflectionCaptureComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12367];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic17 {
+message BoxReflectionCaptureComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12368];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic18 {
+message BoxReflectionCaptureComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12369];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic19 {
+message BoxReflectionCaptureComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12370];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic20 {
+message BoxReflectionCaptureComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12371];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic21 {
+message BoxReflectionCaptureComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12372];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic22 {
+message BoxReflectionCaptureComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12373];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic23 {
+message BoxReflectionCaptureComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12374];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic24 {
+message BoxReflectionCaptureComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12375];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic25 {
+message BoxReflectionCaptureComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12376];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic26 {
+message BoxReflectionCaptureComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12377];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic27 {
+message BoxReflectionCaptureComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12378];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic28 {
+message BoxReflectionCaptureComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12379];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic29 {
+message BoxReflectionCaptureComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12380];
 	optional BoxReflectionCaptureComponent data = 2;
 }
 
-message BoxReflectionCaptureComponentDynamic30 {
+message BoxReflectionCaptureComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12381];
+	optional BoxReflectionCaptureComponent data = 2;
+}
+
+message BoxReflectionCaptureComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12382];
+	optional BoxReflectionCaptureComponent data = 2;
+}
+
+message BoxReflectionCaptureComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12383];
+	optional BoxReflectionCaptureComponent data = 2;
+}
+
+message BoxReflectionCaptureComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12384];
+	optional BoxReflectionCaptureComponent data = 2;
+}
+
+message BoxReflectionCaptureComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12385];
+	optional BoxReflectionCaptureComponent data = 2;
+}
+
+message BoxReflectionCaptureComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12386];
 	optional BoxReflectionCaptureComponent data = 2;
 }

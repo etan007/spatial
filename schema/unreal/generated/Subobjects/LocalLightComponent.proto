@@ -26,151 +26,151 @@ message LocalLightComponent {
 }
 
 message LocalLightComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 13259];
-	optional LocalLightComponent data = 2;
-}
-
-message LocalLightComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 13260];
-	optional LocalLightComponent data = 2;
-}
-
-message LocalLightComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 13261];
-	optional LocalLightComponent data = 2;
-}
-
-message LocalLightComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 13262];
-	optional LocalLightComponent data = 2;
-}
-
-message LocalLightComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 13263];
-	optional LocalLightComponent data = 2;
-}
-
-message LocalLightComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 13264];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic7 {
+message LocalLightComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 13265];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic8 {
+message LocalLightComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 13266];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic9 {
+message LocalLightComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 13267];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic10 {
+message LocalLightComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 13268];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic11 {
+message LocalLightComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 13269];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic12 {
+message LocalLightComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 13270];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic13 {
+message LocalLightComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 13271];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic14 {
+message LocalLightComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 13272];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic15 {
+message LocalLightComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 13273];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic16 {
+message LocalLightComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 13274];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic17 {
+message LocalLightComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 13275];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic18 {
+message LocalLightComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 13276];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic19 {
+message LocalLightComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 13277];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic20 {
+message LocalLightComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 13278];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic21 {
+message LocalLightComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 13279];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic22 {
+message LocalLightComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 13280];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic23 {
+message LocalLightComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 13281];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic24 {
+message LocalLightComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 13282];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic25 {
+message LocalLightComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 13283];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic26 {
+message LocalLightComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 13284];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic27 {
+message LocalLightComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 13285];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic28 {
+message LocalLightComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 13286];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic29 {
+message LocalLightComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 13287];
 	optional LocalLightComponent data = 2;
 }
 
-message LocalLightComponentDynamic30 {
+message LocalLightComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 13288];
+	optional LocalLightComponent data = 2;
+}
+
+message LocalLightComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13289];
+	optional LocalLightComponent data = 2;
+}
+
+message LocalLightComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13290];
+	optional LocalLightComponent data = 2;
+}
+
+message LocalLightComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13291];
+	optional LocalLightComponent data = 2;
+}
+
+message LocalLightComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13292];
+	optional LocalLightComponent data = 2;
+}
+
+message LocalLightComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13293];
 	optional LocalLightComponent data = 2;
 }

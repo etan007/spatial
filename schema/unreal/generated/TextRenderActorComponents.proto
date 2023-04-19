@@ -5,6 +5,6 @@ package unreal.generated.textrenderactor.subobjects;
 import "unreal/generated/Subobjects/TextRenderComponent.proto";
 
 message NewTextRenderComponent {
-	optional uint32 msg_cid = 1[default = 14723];
+	optional uint32 msg_cid = 1[default = 14728];
 	optional unreal.generated.TextRenderComponent data = 2;
 }

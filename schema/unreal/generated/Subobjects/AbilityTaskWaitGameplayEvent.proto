@@ -7,151 +7,151 @@ message AbilityTaskWaitGameplayEvent {
 }
 
 message AbilityTaskWaitGameplayEventDynamic1 {
-	optional uint32 msg_cid = 1[default = 16986];
-	optional AbilityTaskWaitGameplayEvent data = 2;
-}
-
-message AbilityTaskWaitGameplayEventDynamic2 {
-	optional uint32 msg_cid = 1[default = 16987];
-	optional AbilityTaskWaitGameplayEvent data = 2;
-}
-
-message AbilityTaskWaitGameplayEventDynamic3 {
-	optional uint32 msg_cid = 1[default = 16988];
-	optional AbilityTaskWaitGameplayEvent data = 2;
-}
-
-message AbilityTaskWaitGameplayEventDynamic4 {
-	optional uint32 msg_cid = 1[default = 16989];
-	optional AbilityTaskWaitGameplayEvent data = 2;
-}
-
-message AbilityTaskWaitGameplayEventDynamic5 {
-	optional uint32 msg_cid = 1[default = 16990];
-	optional AbilityTaskWaitGameplayEvent data = 2;
-}
-
-message AbilityTaskWaitGameplayEventDynamic6 {
 	optional uint32 msg_cid = 1[default = 16991];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic7 {
+message AbilityTaskWaitGameplayEventDynamic2 {
 	optional uint32 msg_cid = 1[default = 16992];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic8 {
+message AbilityTaskWaitGameplayEventDynamic3 {
 	optional uint32 msg_cid = 1[default = 16993];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic9 {
+message AbilityTaskWaitGameplayEventDynamic4 {
 	optional uint32 msg_cid = 1[default = 16994];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic10 {
+message AbilityTaskWaitGameplayEventDynamic5 {
 	optional uint32 msg_cid = 1[default = 16995];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic11 {
+message AbilityTaskWaitGameplayEventDynamic6 {
 	optional uint32 msg_cid = 1[default = 16996];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic12 {
+message AbilityTaskWaitGameplayEventDynamic7 {
 	optional uint32 msg_cid = 1[default = 16997];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic13 {
+message AbilityTaskWaitGameplayEventDynamic8 {
 	optional uint32 msg_cid = 1[default = 16998];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic14 {
+message AbilityTaskWaitGameplayEventDynamic9 {
 	optional uint32 msg_cid = 1[default = 16999];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic15 {
+message AbilityTaskWaitGameplayEventDynamic10 {
 	optional uint32 msg_cid = 1[default = 17000];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic16 {
+message AbilityTaskWaitGameplayEventDynamic11 {
 	optional uint32 msg_cid = 1[default = 17001];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic17 {
+message AbilityTaskWaitGameplayEventDynamic12 {
 	optional uint32 msg_cid = 1[default = 17002];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic18 {
+message AbilityTaskWaitGameplayEventDynamic13 {
 	optional uint32 msg_cid = 1[default = 17003];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic19 {
+message AbilityTaskWaitGameplayEventDynamic14 {
 	optional uint32 msg_cid = 1[default = 17004];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic20 {
+message AbilityTaskWaitGameplayEventDynamic15 {
 	optional uint32 msg_cid = 1[default = 17005];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic21 {
+message AbilityTaskWaitGameplayEventDynamic16 {
 	optional uint32 msg_cid = 1[default = 17006];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic22 {
+message AbilityTaskWaitGameplayEventDynamic17 {
 	optional uint32 msg_cid = 1[default = 17007];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic23 {
+message AbilityTaskWaitGameplayEventDynamic18 {
 	optional uint32 msg_cid = 1[default = 17008];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic24 {
+message AbilityTaskWaitGameplayEventDynamic19 {
 	optional uint32 msg_cid = 1[default = 17009];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic25 {
+message AbilityTaskWaitGameplayEventDynamic20 {
 	optional uint32 msg_cid = 1[default = 17010];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic26 {
+message AbilityTaskWaitGameplayEventDynamic21 {
 	optional uint32 msg_cid = 1[default = 17011];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic27 {
+message AbilityTaskWaitGameplayEventDynamic22 {
 	optional uint32 msg_cid = 1[default = 17012];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic28 {
+message AbilityTaskWaitGameplayEventDynamic23 {
 	optional uint32 msg_cid = 1[default = 17013];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic29 {
+message AbilityTaskWaitGameplayEventDynamic24 {
 	optional uint32 msg_cid = 1[default = 17014];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }
 
-message AbilityTaskWaitGameplayEventDynamic30 {
+message AbilityTaskWaitGameplayEventDynamic25 {
 	optional uint32 msg_cid = 1[default = 17015];
+	optional AbilityTaskWaitGameplayEvent data = 2;
+}
+
+message AbilityTaskWaitGameplayEventDynamic26 {
+	optional uint32 msg_cid = 1[default = 17016];
+	optional AbilityTaskWaitGameplayEvent data = 2;
+}
+
+message AbilityTaskWaitGameplayEventDynamic27 {
+	optional uint32 msg_cid = 1[default = 17017];
+	optional AbilityTaskWaitGameplayEvent data = 2;
+}
+
+message AbilityTaskWaitGameplayEventDynamic28 {
+	optional uint32 msg_cid = 1[default = 17018];
+	optional AbilityTaskWaitGameplayEvent data = 2;
+}
+
+message AbilityTaskWaitGameplayEventDynamic29 {
+	optional uint32 msg_cid = 1[default = 17019];
+	optional AbilityTaskWaitGameplayEvent data = 2;
+}
+
+message AbilityTaskWaitGameplayEventDynamic30 {
+	optional uint32 msg_cid = 1[default = 17020];
 	optional AbilityTaskWaitGameplayEvent data = 2;
 }

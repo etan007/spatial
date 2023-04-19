@@ -6,7 +6,7 @@ package unreal.generated.wxplayercontrollerbase;
 import "unreal/gdk/core_types.proto";
 
 message WXPlayerControllerBase {
-	optional uint32 msg_cid = 1[default = 24731];
+	optional uint32 msg_cid = 1[default = 24881];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,14 +27,14 @@ message WXPlayerControllerBase {
 }
 
 message WXPlayerControllerBaseOwnerOnly {
-	optional uint32 msg_cid = 1[default = 24732];
+	optional uint32 msg_cid = 1[default = 24882];
 	 optional bytes targetviewrotation = 23;
 	 optional UnrealObjectRef asyncphysicsdatacomponent = 26;
 	 optional bytes spawnlocation = 28;
 }
 
 message WXPlayerControllerBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 24733];
+	optional uint32 msg_cid = 1[default = 24883];
 	 optional bool bactorenablecollision = 6;
 	 optional string statename = 19;
 	 optional bool bissimulated = 21;

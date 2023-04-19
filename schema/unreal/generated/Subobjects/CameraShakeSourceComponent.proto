@@ -26,151 +26,151 @@ message CameraShakeSourceComponent {
 }
 
 message CameraShakeSourceComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12398];
-	optional CameraShakeSourceComponent data = 2;
-}
-
-message CameraShakeSourceComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12399];
-	optional CameraShakeSourceComponent data = 2;
-}
-
-message CameraShakeSourceComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12400];
-	optional CameraShakeSourceComponent data = 2;
-}
-
-message CameraShakeSourceComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12401];
-	optional CameraShakeSourceComponent data = 2;
-}
-
-message CameraShakeSourceComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12402];
-	optional CameraShakeSourceComponent data = 2;
-}
-
-message CameraShakeSourceComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12403];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic7 {
+message CameraShakeSourceComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12404];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic8 {
+message CameraShakeSourceComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12405];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic9 {
+message CameraShakeSourceComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12406];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic10 {
+message CameraShakeSourceComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12407];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic11 {
+message CameraShakeSourceComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12408];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic12 {
+message CameraShakeSourceComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12409];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic13 {
+message CameraShakeSourceComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12410];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic14 {
+message CameraShakeSourceComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12411];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic15 {
+message CameraShakeSourceComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12412];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic16 {
+message CameraShakeSourceComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12413];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic17 {
+message CameraShakeSourceComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12414];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic18 {
+message CameraShakeSourceComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12415];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic19 {
+message CameraShakeSourceComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12416];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic20 {
+message CameraShakeSourceComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12417];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic21 {
+message CameraShakeSourceComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12418];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic22 {
+message CameraShakeSourceComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12419];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic23 {
+message CameraShakeSourceComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12420];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic24 {
+message CameraShakeSourceComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12421];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic25 {
+message CameraShakeSourceComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12422];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic26 {
+message CameraShakeSourceComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12423];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic27 {
+message CameraShakeSourceComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12424];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic28 {
+message CameraShakeSourceComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12425];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic29 {
+message CameraShakeSourceComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12426];
 	optional CameraShakeSourceComponent data = 2;
 }
 
-message CameraShakeSourceComponentDynamic30 {
+message CameraShakeSourceComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12427];
+	optional CameraShakeSourceComponent data = 2;
+}
+
+message CameraShakeSourceComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12428];
+	optional CameraShakeSourceComponent data = 2;
+}
+
+message CameraShakeSourceComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12429];
+	optional CameraShakeSourceComponent data = 2;
+}
+
+message CameraShakeSourceComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12430];
+	optional CameraShakeSourceComponent data = 2;
+}
+
+message CameraShakeSourceComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12431];
+	optional CameraShakeSourceComponent data = 2;
+}
+
+message CameraShakeSourceComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12432];
 	optional CameraShakeSourceComponent data = 2;
 }

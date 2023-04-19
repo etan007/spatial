@@ -26,151 +26,151 @@ message PointSetComponent {
 }
 
 message PointSetComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20086];
-	optional PointSetComponent data = 2;
-}
-
-message PointSetComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20087];
-	optional PointSetComponent data = 2;
-}
-
-message PointSetComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20088];
-	optional PointSetComponent data = 2;
-}
-
-message PointSetComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20089];
-	optional PointSetComponent data = 2;
-}
-
-message PointSetComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20090];
-	optional PointSetComponent data = 2;
-}
-
-message PointSetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20091];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic7 {
+message PointSetComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20092];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic8 {
+message PointSetComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20093];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic9 {
+message PointSetComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20094];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic10 {
+message PointSetComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20095];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic11 {
+message PointSetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20096];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic12 {
+message PointSetComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20097];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic13 {
+message PointSetComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20098];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic14 {
+message PointSetComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20099];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic15 {
+message PointSetComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20100];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic16 {
+message PointSetComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20101];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic17 {
+message PointSetComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20102];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic18 {
+message PointSetComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20103];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic19 {
+message PointSetComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20104];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic20 {
+message PointSetComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20105];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic21 {
+message PointSetComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20106];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic22 {
+message PointSetComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20107];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic23 {
+message PointSetComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20108];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic24 {
+message PointSetComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20109];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic25 {
+message PointSetComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20110];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic26 {
+message PointSetComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20111];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic27 {
+message PointSetComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20112];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic28 {
+message PointSetComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20113];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic29 {
+message PointSetComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20114];
 	optional PointSetComponent data = 2;
 }
 
-message PointSetComponentDynamic30 {
+message PointSetComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20115];
+	optional PointSetComponent data = 2;
+}
+
+message PointSetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20116];
+	optional PointSetComponent data = 2;
+}
+
+message PointSetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20117];
+	optional PointSetComponent data = 2;
+}
+
+message PointSetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20118];
+	optional PointSetComponent data = 2;
+}
+
+message PointSetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20119];
+	optional PointSetComponent data = 2;
+}
+
+message PointSetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20120];
 	optional PointSetComponent data = 2;
 }

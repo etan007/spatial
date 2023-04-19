@@ -5,6 +5,6 @@ package unreal.generated.navigationobjectbase.subobjects;
 import "unreal/generated/Subobjects/CapsuleComponent.proto";
 
 message CollisionCapsule {
-	optional uint32 msg_cid = 1[default = 13456];
+	optional uint32 msg_cid = 1[default = 13461];
 	optional unreal.generated.CapsuleComponent data = 2;
 }

@@ -6,7 +6,7 @@ package unreal.generated.packedlevelactor;
 import "unreal/gdk/core_types.proto";
 
 message PackedLevelActor {
-	optional uint32 msg_cid = 1[default = 13520];
+	optional uint32 msg_cid = 1[default = 13525];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,7 +25,7 @@ message PackedLevelActor {
 }
 
 message PackedLevelActorInitialOnly {
-	optional uint32 msg_cid = 1[default = 13521];
+	optional uint32 msg_cid = 1[default = 13526];
 	 optional int32 levelinstancespawnguid_a = 18;
 	 optional int32 levelinstancespawnguid_b = 19;
 	 optional int32 levelinstancespawnguid_c = 20;
@@ -33,6 +33,6 @@ message PackedLevelActorInitialOnly {
 }
 
 message PackedLevelActorServerOnly {
-	optional uint32 msg_cid = 1[default = 13522];
+	optional uint32 msg_cid = 1[default = 13527];
 	 optional bool bactorenablecollision = 6;
 }

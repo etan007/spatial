@@ -6,7 +6,7 @@ package unreal.generated.pivottransformgizmo;
 import "unreal/gdk/core_types.proto";
 
 message PivotTransformGizmo {
-	optional uint32 msg_cid = 1[default = 23367];
+	optional uint32 msg_cid = 1[default = 23372];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PivotTransformGizmo {
 }
 
 message PivotTransformGizmoServerOnly {
-	optional uint32 msg_cid = 1[default = 23368];
+	optional uint32 msg_cid = 1[default = 23373];
 	 optional bool bactorenablecollision = 6;
 }

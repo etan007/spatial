@@ -6,7 +6,7 @@ package unreal.generated.landscapeblueprintbrushbase;
 import "unreal/gdk/core_types.proto";
 
 message LandscapeBlueprintBrushBase {
-	optional uint32 msg_cid = 1[default = 18582];
+	optional uint32 msg_cid = 1[default = 18587];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message LandscapeBlueprintBrushBase {
 }
 
 message LandscapeBlueprintBrushBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 18583];
+	optional uint32 msg_cid = 1[default = 18588];
 	 optional bool bactorenablecollision = 6;
 }

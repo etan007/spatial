@@ -6,7 +6,7 @@ package unreal.generated.navigationdatachunkactor;
 import "unreal/gdk/core_types.proto";
 
 message NavigationDataChunkActor {
-	optional uint32 msg_cid = 1[default = 13451];
+	optional uint32 msg_cid = 1[default = 13456];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message NavigationDataChunkActor {
 }
 
 message NavigationDataChunkActorServerOnly {
-	optional uint32 msg_cid = 1[default = 13452];
+	optional uint32 msg_cid = 1[default = 13457];
 	 optional bool bactorenablecollision = 6;
 }

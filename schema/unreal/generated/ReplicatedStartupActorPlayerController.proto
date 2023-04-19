@@ -6,7 +6,7 @@ package unreal.generated.replicatedstartupactorplayercontroller;
 import "unreal/gdk/core_types.proto";
 
 message ReplicatedStartupActorPlayerController {
-	optional uint32 msg_cid = 1[default = 21549];
+	optional uint32 msg_cid = 1[default = 21554];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,14 +27,14 @@ message ReplicatedStartupActorPlayerController {
 }
 
 message ReplicatedStartupActorPlayerControllerOwnerOnly {
-	optional uint32 msg_cid = 1[default = 21550];
+	optional uint32 msg_cid = 1[default = 21555];
 	 optional bytes targetviewrotation = 23;
 	 optional UnrealObjectRef asyncphysicsdatacomponent = 26;
 	 optional bytes spawnlocation = 28;
 }
 
 message ReplicatedStartupActorPlayerControllerServerOnly {
-	optional uint32 msg_cid = 1[default = 21551];
+	optional uint32 msg_cid = 1[default = 21556];
 	 optional bool bactorenablecollision = 6;
 	 optional string statename = 19;
 	 optional bool bissimulated = 21;

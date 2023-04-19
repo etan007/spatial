@@ -6,7 +6,7 @@ package unreal.generated.nonpersistentactorsubclassofexpicitpersistentspatialact
 import "unreal/gdk/core_types.proto";
 
 message NonPersistentActorSubclassOfExpicitPersistentSpatialActor {
-	optional uint32 msg_cid = 1[default = 22466];
+	optional uint32 msg_cid = 1[default = 22471];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message NonPersistentActorSubclassOfExpicitPersistentSpatialActor {
 }
 
 message NonPersistentActorSubclassOfExpicitPersistentSpatialActorServerOnly {
-	optional uint32 msg_cid = 1[default = 22467];
+	optional uint32 msg_cid = 1[default = 22472];
 	 optional bool bactorenablecollision = 6;
 }

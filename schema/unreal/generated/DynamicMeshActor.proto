@@ -6,7 +6,7 @@ package unreal.generated.dynamicmeshactor;
 import "unreal/gdk/core_types.proto";
 
 message DynamicMeshActor {
-	optional uint32 msg_cid = 1[default = 17870];
+	optional uint32 msg_cid = 1[default = 17875];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message DynamicMeshActor {
 }
 
 message DynamicMeshActorServerOnly {
-	optional uint32 msg_cid = 1[default = 17871];
+	optional uint32 msg_cid = 1[default = 17876];
 	 optional bool bactorenablecollision = 6;
 }

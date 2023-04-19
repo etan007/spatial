@@ -6,7 +6,7 @@ package unreal.generated.decalactor;
 import "unreal/gdk/core_types.proto";
 
 message DecalActor {
-	optional uint32 msg_cid = 1[default = 12506];
+	optional uint32 msg_cid = 1[default = 12511];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message DecalActor {
 }
 
 message DecalActorServerOnly {
-	optional uint32 msg_cid = 1[default = 12507];
+	optional uint32 msg_cid = 1[default = 12512];
 	 optional bool bactorenablecollision = 6;
 }

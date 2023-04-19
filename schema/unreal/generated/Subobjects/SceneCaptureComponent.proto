@@ -26,151 +26,151 @@ message SceneCaptureComponent {
 }
 
 message SceneCaptureComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 14351];
-	optional SceneCaptureComponent data = 2;
-}
-
-message SceneCaptureComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 14352];
-	optional SceneCaptureComponent data = 2;
-}
-
-message SceneCaptureComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 14353];
-	optional SceneCaptureComponent data = 2;
-}
-
-message SceneCaptureComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 14354];
-	optional SceneCaptureComponent data = 2;
-}
-
-message SceneCaptureComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 14355];
-	optional SceneCaptureComponent data = 2;
-}
-
-message SceneCaptureComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 14356];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic7 {
+message SceneCaptureComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 14357];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic8 {
+message SceneCaptureComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 14358];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic9 {
+message SceneCaptureComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 14359];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic10 {
+message SceneCaptureComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 14360];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic11 {
+message SceneCaptureComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 14361];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic12 {
+message SceneCaptureComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 14362];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic13 {
+message SceneCaptureComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 14363];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic14 {
+message SceneCaptureComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 14364];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic15 {
+message SceneCaptureComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 14365];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic16 {
+message SceneCaptureComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 14366];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic17 {
+message SceneCaptureComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 14367];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic18 {
+message SceneCaptureComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 14368];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic19 {
+message SceneCaptureComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 14369];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic20 {
+message SceneCaptureComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 14370];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic21 {
+message SceneCaptureComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 14371];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic22 {
+message SceneCaptureComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 14372];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic23 {
+message SceneCaptureComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 14373];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic24 {
+message SceneCaptureComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 14374];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic25 {
+message SceneCaptureComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 14375];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic26 {
+message SceneCaptureComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 14376];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic27 {
+message SceneCaptureComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 14377];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic28 {
+message SceneCaptureComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 14378];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic29 {
+message SceneCaptureComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 14379];
 	optional SceneCaptureComponent data = 2;
 }
 
-message SceneCaptureComponentDynamic30 {
+message SceneCaptureComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 14380];
+	optional SceneCaptureComponent data = 2;
+}
+
+message SceneCaptureComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14381];
+	optional SceneCaptureComponent data = 2;
+}
+
+message SceneCaptureComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14382];
+	optional SceneCaptureComponent data = 2;
+}
+
+message SceneCaptureComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14383];
+	optional SceneCaptureComponent data = 2;
+}
+
+message SceneCaptureComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14384];
+	optional SceneCaptureComponent data = 2;
+}
+
+message SceneCaptureComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14385];
 	optional SceneCaptureComponent data = 2;
 }

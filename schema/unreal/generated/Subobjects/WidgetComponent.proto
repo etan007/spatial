@@ -26,151 +26,151 @@ message WidgetComponent {
 }
 
 message WidgetComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 22745];
-	optional WidgetComponent data = 2;
-}
-
-message WidgetComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 22746];
-	optional WidgetComponent data = 2;
-}
-
-message WidgetComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 22747];
-	optional WidgetComponent data = 2;
-}
-
-message WidgetComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 22748];
-	optional WidgetComponent data = 2;
-}
-
-message WidgetComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 22749];
-	optional WidgetComponent data = 2;
-}
-
-message WidgetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 22750];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic7 {
+message WidgetComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 22751];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic8 {
+message WidgetComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 22752];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic9 {
+message WidgetComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 22753];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic10 {
+message WidgetComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 22754];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic11 {
+message WidgetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 22755];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic12 {
+message WidgetComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 22756];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic13 {
+message WidgetComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 22757];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic14 {
+message WidgetComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 22758];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic15 {
+message WidgetComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 22759];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic16 {
+message WidgetComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 22760];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic17 {
+message WidgetComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 22761];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic18 {
+message WidgetComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 22762];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic19 {
+message WidgetComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 22763];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic20 {
+message WidgetComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 22764];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic21 {
+message WidgetComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 22765];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic22 {
+message WidgetComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 22766];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic23 {
+message WidgetComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 22767];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic24 {
+message WidgetComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 22768];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic25 {
+message WidgetComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 22769];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic26 {
+message WidgetComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 22770];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic27 {
+message WidgetComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 22771];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic28 {
+message WidgetComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 22772];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic29 {
+message WidgetComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 22773];
 	optional WidgetComponent data = 2;
 }
 
-message WidgetComponentDynamic30 {
+message WidgetComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 22774];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 22775];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 22776];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 22777];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 22778];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 22779];
 	optional WidgetComponent data = 2;
 }

@@ -5,6 +5,6 @@ package unreal.generated.nonreplicatedcrossserverrpccube.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21498];
+	optional uint32 msg_cid = 1[default = 21503];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

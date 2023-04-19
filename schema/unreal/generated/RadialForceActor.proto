@@ -6,7 +6,7 @@ package unreal.generated.radialforceactor;
 import "unreal/gdk/core_types.proto";
 
 message RadialForceActor {
-	optional uint32 msg_cid = 1[default = 14121];
+	optional uint32 msg_cid = 1[default = 14126];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message RadialForceActor {
 }
 
 message RadialForceActorServerOnly {
-	optional uint32 msg_cid = 1[default = 14122];
+	optional uint32 msg_cid = 1[default = 14127];
 	 optional bool bactorenablecollision = 6;
 }

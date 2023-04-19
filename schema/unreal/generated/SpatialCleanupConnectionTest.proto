@@ -6,7 +6,7 @@ package unreal.generated.spatialcleanupconnectiontest;
 import "unreal/gdk/core_types.proto";
 
 message SpatialCleanupConnectionTest {
-	optional uint32 msg_cid = 1[default = 21625];
+	optional uint32 msg_cid = 1[default = 21630];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialCleanupConnectionTest {
 }
 
 message SpatialCleanupConnectionTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21626];
+	optional uint32 msg_cid = 1[default = 21631];
 	 optional bool bactorenablecollision = 6;
 }

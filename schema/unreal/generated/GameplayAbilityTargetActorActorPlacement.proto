@@ -6,7 +6,7 @@ package unreal.generated.gameplayabilitytargetactoractorplacement;
 import "unreal/gdk/core_types.proto";
 
 message GameplayAbilityTargetActorActorPlacement {
-	optional uint32 msg_cid = 1[default = 17438];
+	optional uint32 msg_cid = 1[default = 17443];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -29,6 +29,6 @@ message GameplayAbilityTargetActorActorPlacement {
 }
 
 message GameplayAbilityTargetActorActorPlacementServerOnly {
-	optional uint32 msg_cid = 1[default = 17439];
+	optional uint32 msg_cid = 1[default = 17444];
 	 optional bool bactorenablecollision = 6;
 }

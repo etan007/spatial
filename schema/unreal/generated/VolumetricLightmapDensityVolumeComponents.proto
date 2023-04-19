@@ -5,6 +5,6 @@ package unreal.generated.volumetriclightmapdensityvolume.subobjects;
 import "unreal/generated/Subobjects/BrushComponent.proto";
 
 message BrushComponent0 {
-	optional uint32 msg_cid = 1[default = 14902];
+	optional uint32 msg_cid = 1[default = 14907];
 	optional unreal.generated.BrushComponent data = 2;
 }

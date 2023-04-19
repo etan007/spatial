@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/SceneCaptureComponentCube.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message NewSceneCaptureComponentCube {
-	optional uint32 msg_cid = 1[default = 14413];
+	optional uint32 msg_cid = 1[default = 14418];
 	optional unreal.generated.SceneCaptureComponentCube data = 2;
 }
 
 message SceneComponent {
-	optional uint32 msg_cid = 1[default = 14414];
+	optional uint32 msg_cid = 1[default = 14419];
 	optional unreal.generated.SceneComponent data = 2;
 }

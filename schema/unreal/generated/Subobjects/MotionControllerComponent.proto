@@ -26,151 +26,151 @@ message MotionControllerComponent {
 }
 
 message MotionControllerComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 17903];
-	optional MotionControllerComponent data = 2;
-}
-
-message MotionControllerComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 17904];
-	optional MotionControllerComponent data = 2;
-}
-
-message MotionControllerComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 17905];
-	optional MotionControllerComponent data = 2;
-}
-
-message MotionControllerComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 17906];
-	optional MotionControllerComponent data = 2;
-}
-
-message MotionControllerComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 17907];
-	optional MotionControllerComponent data = 2;
-}
-
-message MotionControllerComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 17908];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic7 {
+message MotionControllerComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 17909];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic8 {
+message MotionControllerComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 17910];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic9 {
+message MotionControllerComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 17911];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic10 {
+message MotionControllerComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 17912];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic11 {
+message MotionControllerComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 17913];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic12 {
+message MotionControllerComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 17914];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic13 {
+message MotionControllerComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 17915];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic14 {
+message MotionControllerComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 17916];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic15 {
+message MotionControllerComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 17917];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic16 {
+message MotionControllerComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 17918];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic17 {
+message MotionControllerComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 17919];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic18 {
+message MotionControllerComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 17920];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic19 {
+message MotionControllerComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 17921];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic20 {
+message MotionControllerComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 17922];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic21 {
+message MotionControllerComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 17923];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic22 {
+message MotionControllerComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 17924];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic23 {
+message MotionControllerComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 17925];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic24 {
+message MotionControllerComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 17926];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic25 {
+message MotionControllerComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 17927];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic26 {
+message MotionControllerComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 17928];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic27 {
+message MotionControllerComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 17929];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic28 {
+message MotionControllerComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 17930];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic29 {
+message MotionControllerComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 17931];
 	optional MotionControllerComponent data = 2;
 }
 
-message MotionControllerComponentDynamic30 {
+message MotionControllerComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 17932];
+	optional MotionControllerComponent data = 2;
+}
+
+message MotionControllerComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 17933];
+	optional MotionControllerComponent data = 2;
+}
+
+message MotionControllerComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 17934];
+	optional MotionControllerComponent data = 2;
+}
+
+message MotionControllerComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 17935];
+	optional MotionControllerComponent data = 2;
+}
+
+message MotionControllerComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 17936];
+	optional MotionControllerComponent data = 2;
+}
+
+message MotionControllerComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 17937];
 	optional MotionControllerComponent data = 2;
 }

@@ -7,16 +7,16 @@ import "unreal/generated/Subobjects/NavTestRenderingComponent.proto";
 import "unreal/generated/Subobjects/NavigationInvokerComponent.proto";
 
 message CollisionCylinder {
-	optional uint32 msg_cid = 1[default = 20463];
+	optional uint32 msg_cid = 1[default = 20468];
 	optional unreal.generated.CapsuleComponent data = 2;
 }
 
 message EdRenderComp {
-	optional uint32 msg_cid = 1[default = 20464];
+	optional uint32 msg_cid = 1[default = 20469];
 	optional unreal.generated.NavTestRenderingComponent data = 2;
 }
 
 message InvokerComponent {
-	optional uint32 msg_cid = 1[default = 20465];
+	optional uint32 msg_cid = 1[default = 20470];
 	optional unreal.generated.NavigationInvokerComponent data = 2;
 }

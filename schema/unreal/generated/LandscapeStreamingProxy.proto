@@ -6,7 +6,7 @@ package unreal.generated.landscapestreamingproxy;
 import "unreal/gdk/core_types.proto";
 
 message LandscapeStreamingProxy {
-	optional uint32 msg_cid = 1[default = 18813];
+	optional uint32 msg_cid = 1[default = 18818];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message LandscapeStreamingProxy {
 }
 
 message LandscapeStreamingProxyServerOnly {
-	optional uint32 msg_cid = 1[default = 18814];
+	optional uint32 msg_cid = 1[default = 18819];
 	 optional bool bactorenablecollision = 6;
 }

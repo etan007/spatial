@@ -6,7 +6,7 @@ package unreal.generated.spatialtestmultiserverunrealcomponents;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestMultiServerUnrealComponents {
-	optional uint32 msg_cid = 1[default = 21913];
+	optional uint32 msg_cid = 1[default = 21918];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -31,6 +31,6 @@ message SpatialTestMultiServerUnrealComponents {
 }
 
 message SpatialTestMultiServerUnrealComponentsServerOnly {
-	optional uint32 msg_cid = 1[default = 21914];
+	optional uint32 msg_cid = 1[default = 21919];
 	 optional bool bactorenablecollision = 6;
 }

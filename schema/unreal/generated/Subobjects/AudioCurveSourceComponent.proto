@@ -26,151 +26,151 @@ message AudioCurveSourceComponent {
 }
 
 message AudioCurveSourceComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 15012];
-	optional AudioCurveSourceComponent data = 2;
-}
-
-message AudioCurveSourceComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 15013];
-	optional AudioCurveSourceComponent data = 2;
-}
-
-message AudioCurveSourceComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 15014];
-	optional AudioCurveSourceComponent data = 2;
-}
-
-message AudioCurveSourceComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 15015];
-	optional AudioCurveSourceComponent data = 2;
-}
-
-message AudioCurveSourceComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 15016];
-	optional AudioCurveSourceComponent data = 2;
-}
-
-message AudioCurveSourceComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 15017];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic7 {
+message AudioCurveSourceComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 15018];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic8 {
+message AudioCurveSourceComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 15019];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic9 {
+message AudioCurveSourceComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 15020];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic10 {
+message AudioCurveSourceComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 15021];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic11 {
+message AudioCurveSourceComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 15022];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic12 {
+message AudioCurveSourceComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 15023];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic13 {
+message AudioCurveSourceComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 15024];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic14 {
+message AudioCurveSourceComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 15025];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic15 {
+message AudioCurveSourceComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 15026];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic16 {
+message AudioCurveSourceComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 15027];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic17 {
+message AudioCurveSourceComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 15028];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic18 {
+message AudioCurveSourceComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 15029];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic19 {
+message AudioCurveSourceComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 15030];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic20 {
+message AudioCurveSourceComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 15031];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic21 {
+message AudioCurveSourceComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 15032];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic22 {
+message AudioCurveSourceComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 15033];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic23 {
+message AudioCurveSourceComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 15034];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic24 {
+message AudioCurveSourceComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 15035];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic25 {
+message AudioCurveSourceComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 15036];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic26 {
+message AudioCurveSourceComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 15037];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic27 {
+message AudioCurveSourceComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 15038];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic28 {
+message AudioCurveSourceComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 15039];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic29 {
+message AudioCurveSourceComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 15040];
 	optional AudioCurveSourceComponent data = 2;
 }
 
-message AudioCurveSourceComponentDynamic30 {
+message AudioCurveSourceComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 15041];
+	optional AudioCurveSourceComponent data = 2;
+}
+
+message AudioCurveSourceComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 15042];
+	optional AudioCurveSourceComponent data = 2;
+}
+
+message AudioCurveSourceComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 15043];
+	optional AudioCurveSourceComponent data = 2;
+}
+
+message AudioCurveSourceComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 15044];
+	optional AudioCurveSourceComponent data = 2;
+}
+
+message AudioCurveSourceComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 15045];
+	optional AudioCurveSourceComponent data = 2;
+}
+
+message AudioCurveSourceComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 15046];
 	optional AudioCurveSourceComponent data = 2;
 }

@@ -5,6 +5,6 @@ package unreal.generated.modularplayercontroller.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 20326];
+	optional uint32 msg_cid = 1[default = 20331];
 	optional unreal.generated.SceneComponent data = 2;
 }

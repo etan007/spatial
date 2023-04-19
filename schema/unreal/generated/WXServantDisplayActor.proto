@@ -6,7 +6,7 @@ package unreal.generated.wxservantdisplayactor;
 import "unreal/gdk/core_types.proto";
 
 message WXServantDisplayActor {
-	optional uint32 msg_cid = 1[default = 24880];
+	optional uint32 msg_cid = 1[default = 25032];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,7 +25,7 @@ message WXServantDisplayActor {
 }
 
 message WXServantDisplayActorOwnerOnly {
-	optional uint32 msg_cid = 1[default = 24881];
+	optional uint32 msg_cid = 1[default = 25033];
 	 repeated bytes allskills = 18;
 	 optional int32 servantid = 19;
 	 optional int32 servantuid = 20;
@@ -40,6 +40,6 @@ message WXServantDisplayActorOwnerOnly {
 }
 
 message WXServantDisplayActorServerOnly {
-	optional uint32 msg_cid = 1[default = 24882];
+	optional uint32 msg_cid = 1[default = 25034];
 	 optional bool bactorenablecollision = 6;
 }

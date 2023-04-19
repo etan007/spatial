@@ -26,151 +26,151 @@ message GizmoBaseComponent {
 }
 
 message GizmoBaseComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 18391];
-	optional GizmoBaseComponent data = 2;
-}
-
-message GizmoBaseComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 18392];
-	optional GizmoBaseComponent data = 2;
-}
-
-message GizmoBaseComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 18393];
-	optional GizmoBaseComponent data = 2;
-}
-
-message GizmoBaseComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 18394];
-	optional GizmoBaseComponent data = 2;
-}
-
-message GizmoBaseComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 18395];
-	optional GizmoBaseComponent data = 2;
-}
-
-message GizmoBaseComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18396];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic7 {
+message GizmoBaseComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 18397];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic8 {
+message GizmoBaseComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 18398];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic9 {
+message GizmoBaseComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 18399];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic10 {
+message GizmoBaseComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 18400];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic11 {
+message GizmoBaseComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18401];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic12 {
+message GizmoBaseComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 18402];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic13 {
+message GizmoBaseComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 18403];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic14 {
+message GizmoBaseComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 18404];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic15 {
+message GizmoBaseComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 18405];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic16 {
+message GizmoBaseComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 18406];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic17 {
+message GizmoBaseComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 18407];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic18 {
+message GizmoBaseComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 18408];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic19 {
+message GizmoBaseComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 18409];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic20 {
+message GizmoBaseComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 18410];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic21 {
+message GizmoBaseComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 18411];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic22 {
+message GizmoBaseComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 18412];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic23 {
+message GizmoBaseComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 18413];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic24 {
+message GizmoBaseComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 18414];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic25 {
+message GizmoBaseComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 18415];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic26 {
+message GizmoBaseComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 18416];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic27 {
+message GizmoBaseComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 18417];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic28 {
+message GizmoBaseComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 18418];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic29 {
+message GizmoBaseComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 18419];
 	optional GizmoBaseComponent data = 2;
 }
 
-message GizmoBaseComponentDynamic30 {
+message GizmoBaseComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 18420];
+	optional GizmoBaseComponent data = 2;
+}
+
+message GizmoBaseComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18421];
+	optional GizmoBaseComponent data = 2;
+}
+
+message GizmoBaseComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18422];
+	optional GizmoBaseComponent data = 2;
+}
+
+message GizmoBaseComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18423];
+	optional GizmoBaseComponent data = 2;
+}
+
+message GizmoBaseComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18424];
+	optional GizmoBaseComponent data = 2;
+}
+
+message GizmoBaseComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18425];
 	optional GizmoBaseComponent data = 2;
 }

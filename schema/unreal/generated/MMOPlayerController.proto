@@ -6,7 +6,7 @@ package unreal.generated.mmoplayercontroller;
 import "unreal/gdk/core_types.proto";
 
 message MMOPlayerController {
-	optional uint32 msg_cid = 1[default = 18992];
+	optional uint32 msg_cid = 1[default = 18997];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,14 +27,14 @@ message MMOPlayerController {
 }
 
 message MMOPlayerControllerOwnerOnly {
-	optional uint32 msg_cid = 1[default = 18993];
+	optional uint32 msg_cid = 1[default = 18998];
 	 optional bytes targetviewrotation = 23;
 	 optional UnrealObjectRef asyncphysicsdatacomponent = 26;
 	 optional bytes spawnlocation = 28;
 }
 
 message MMOPlayerControllerServerOnly {
-	optional uint32 msg_cid = 1[default = 18994];
+	optional uint32 msg_cid = 1[default = 18999];
 	 optional bool bactorenablecollision = 6;
 	 optional string statename = 19;
 	 optional bool bissimulated = 21;

@@ -6,7 +6,7 @@ package unreal.generated.floatingtext;
 import "unreal/gdk/core_types.proto";
 
 message FloatingText {
-	optional uint32 msg_cid = 1[default = 23460];
+	optional uint32 msg_cid = 1[default = 23465];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message FloatingText {
 }
 
 message FloatingTextServerOnly {
-	optional uint32 msg_cid = 1[default = 23461];
+	optional uint32 msg_cid = 1[default = 23466];
 	 optional bool bactorenablecollision = 6;
 }

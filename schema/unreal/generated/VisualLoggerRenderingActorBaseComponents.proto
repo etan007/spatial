@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/SceneComponent.proto";
 import "unreal/generated/Subobjects/VisualLoggerRenderingComponent.proto";
 
 message SceneComp {
-	optional uint32 msg_cid = 1[default = 25743];
+	optional uint32 msg_cid = 1[default = 25727];
 	optional unreal.generated.SceneComponent data = 2;
 }
 
 message RenderingComponent {
-	optional uint32 msg_cid = 1[default = 25744];
+	optional uint32 msg_cid = 1[default = 25728];
 	optional unreal.generated.VisualLoggerRenderingComponent data = 2;
 }

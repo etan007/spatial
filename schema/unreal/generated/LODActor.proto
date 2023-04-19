@@ -6,7 +6,7 @@ package unreal.generated.lodactor;
 import "unreal/gdk/core_types.proto";
 
 message LODActor {
-	optional uint32 msg_cid = 1[default = 13292];
+	optional uint32 msg_cid = 1[default = 13297];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message LODActor {
 }
 
 message LODActorServerOnly {
-	optional uint32 msg_cid = 1[default = 13293];
+	optional uint32 msg_cid = 1[default = 13298];
 	 optional bool bactorenablecollision = 6;
 }

@@ -6,7 +6,7 @@ package unreal.generated.materialinstanceactor;
 import "unreal/gdk/core_types.proto";
 
 message MaterialInstanceActor {
-	optional uint32 msg_cid = 1[default = 13325];
+	optional uint32 msg_cid = 1[default = 13330];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message MaterialInstanceActor {
 }
 
 message MaterialInstanceActorServerOnly {
-	optional uint32 msg_cid = 1[default = 13326];
+	optional uint32 msg_cid = 1[default = 13331];
 	 optional bool bactorenablecollision = 6;
 }

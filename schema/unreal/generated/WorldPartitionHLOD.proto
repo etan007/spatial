@@ -6,7 +6,7 @@ package unreal.generated.worldpartitionhlod;
 import "unreal/gdk/core_types.proto";
 
 message WorldPartitionHLOD {
-	optional uint32 msg_cid = 1[default = 14938];
+	optional uint32 msg_cid = 1[default = 14943];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message WorldPartitionHLOD {
 }
 
 message WorldPartitionHLODServerOnly {
-	optional uint32 msg_cid = 1[default = 14939];
+	optional uint32 msg_cid = 1[default = 14944];
 	 optional bool bactorenablecollision = 6;
 }

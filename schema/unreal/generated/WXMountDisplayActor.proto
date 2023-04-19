@@ -6,7 +6,7 @@ package unreal.generated.wxmountdisplayactor;
 import "unreal/gdk/core_types.proto";
 
 message WXMountDisplayActor {
-	optional uint32 msg_cid = 1[default = 24343];
+	optional uint32 msg_cid = 1[default = 24484];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,7 +25,7 @@ message WXMountDisplayActor {
 }
 
 message WXMountDisplayActorOwnerOnly {
-	optional uint32 msg_cid = 1[default = 25895];
+	optional uint32 msg_cid = 1[default = 24485];
 	 repeated bytes allskills = 18;
 	 optional int32 uid = 19;
 	 optional int32 id = 20;
@@ -38,6 +38,6 @@ message WXMountDisplayActorOwnerOnly {
 }
 
 message WXMountDisplayActorServerOnly {
-	optional uint32 msg_cid = 1[default = 24344];
+	optional uint32 msg_cid = 1[default = 24486];
 	 optional bool bactorenablecollision = 6;
 }

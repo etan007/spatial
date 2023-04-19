@@ -6,7 +6,7 @@ package unreal.generated.wxmountplayer;
 import "unreal/gdk/core_types.proto";
 
 message WXMountPlayer {
-	optional uint32 msg_cid = 1[default = 24350];
+	optional uint32 msg_cid = 1[default = 24494];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -65,12 +65,12 @@ message WXMountPlayer {
 }
 
 message WXMountPlayerOwnerOnly {
-	optional uint32 msg_cid = 1[default = 24351];
+	optional uint32 msg_cid = 1[default = 24495];
 	 optional bool bautomove = 55;
 }
 
 message WXMountPlayerServerOnly {
-	optional uint32 msg_cid = 1[default = 24352];
+	optional uint32 msg_cid = 1[default = 24496];
 	 optional bool bactorenablecollision = 6;
 	 optional float handoverclienttimestamp = 21;
 }

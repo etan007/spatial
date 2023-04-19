@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/CapsuleComponent.proto";
 import "unreal/generated/Subobjects/InteractiveFoliageComponent.proto";
 
 message CollisionCylinder {
-	optional uint32 msg_cid = 1[default = 15860];
+	optional uint32 msg_cid = 1[default = 15865];
 	optional unreal.generated.CapsuleComponent data = 2;
 }
 
 message StaticMeshComponent0 {
-	optional uint32 msg_cid = 1[default = 15861];
+	optional uint32 msg_cid = 1[default = 15866];
 	optional unreal.generated.InteractiveFoliageComponent data = 2;
 }

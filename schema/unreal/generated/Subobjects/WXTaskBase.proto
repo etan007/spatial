@@ -7,151 +7,151 @@ message WXTaskBase {
 }
 
 message WXTaskBaseDynamic1 {
-	optional uint32 msg_cid = 1[default = 24891];
+	optional uint32 msg_cid = 1[default = 25107];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic2 {
-	optional uint32 msg_cid = 1[default = 24892];
+	optional uint32 msg_cid = 1[default = 25108];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic3 {
-	optional uint32 msg_cid = 1[default = 24893];
+	optional uint32 msg_cid = 1[default = 25109];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic4 {
-	optional uint32 msg_cid = 1[default = 24894];
+	optional uint32 msg_cid = 1[default = 25110];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic5 {
-	optional uint32 msg_cid = 1[default = 24895];
+	optional uint32 msg_cid = 1[default = 25111];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic6 {
-	optional uint32 msg_cid = 1[default = 24896];
+	optional uint32 msg_cid = 1[default = 25112];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic7 {
-	optional uint32 msg_cid = 1[default = 24897];
+	optional uint32 msg_cid = 1[default = 25113];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic8 {
-	optional uint32 msg_cid = 1[default = 24898];
+	optional uint32 msg_cid = 1[default = 25114];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic9 {
-	optional uint32 msg_cid = 1[default = 24899];
+	optional uint32 msg_cid = 1[default = 25115];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic10 {
-	optional uint32 msg_cid = 1[default = 24900];
+	optional uint32 msg_cid = 1[default = 25116];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic11 {
-	optional uint32 msg_cid = 1[default = 24901];
+	optional uint32 msg_cid = 1[default = 25117];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic12 {
-	optional uint32 msg_cid = 1[default = 24902];
+	optional uint32 msg_cid = 1[default = 25118];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic13 {
-	optional uint32 msg_cid = 1[default = 24903];
+	optional uint32 msg_cid = 1[default = 25119];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic14 {
-	optional uint32 msg_cid = 1[default = 24904];
+	optional uint32 msg_cid = 1[default = 25120];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic15 {
-	optional uint32 msg_cid = 1[default = 24905];
+	optional uint32 msg_cid = 1[default = 25121];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic16 {
-	optional uint32 msg_cid = 1[default = 24906];
+	optional uint32 msg_cid = 1[default = 25122];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic17 {
-	optional uint32 msg_cid = 1[default = 24907];
+	optional uint32 msg_cid = 1[default = 25123];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic18 {
-	optional uint32 msg_cid = 1[default = 24908];
+	optional uint32 msg_cid = 1[default = 25124];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic19 {
-	optional uint32 msg_cid = 1[default = 24909];
+	optional uint32 msg_cid = 1[default = 25125];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic20 {
-	optional uint32 msg_cid = 1[default = 24910];
+	optional uint32 msg_cid = 1[default = 25126];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic21 {
-	optional uint32 msg_cid = 1[default = 24911];
+	optional uint32 msg_cid = 1[default = 25127];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic22 {
-	optional uint32 msg_cid = 1[default = 24912];
+	optional uint32 msg_cid = 1[default = 25128];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic23 {
-	optional uint32 msg_cid = 1[default = 24913];
+	optional uint32 msg_cid = 1[default = 25129];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic24 {
-	optional uint32 msg_cid = 1[default = 24914];
+	optional uint32 msg_cid = 1[default = 25130];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic25 {
-	optional uint32 msg_cid = 1[default = 24915];
+	optional uint32 msg_cid = 1[default = 25131];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic26 {
-	optional uint32 msg_cid = 1[default = 24916];
+	optional uint32 msg_cid = 1[default = 25132];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic27 {
-	optional uint32 msg_cid = 1[default = 24917];
+	optional uint32 msg_cid = 1[default = 25133];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic28 {
-	optional uint32 msg_cid = 1[default = 24918];
+	optional uint32 msg_cid = 1[default = 25134];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic29 {
-	optional uint32 msg_cid = 1[default = 24919];
+	optional uint32 msg_cid = 1[default = 25135];
 	optional WXTaskBase data = 2;
 }
 
 message WXTaskBaseDynamic30 {
-	optional uint32 msg_cid = 1[default = 24920];
+	optional uint32 msg_cid = 1[default = 25136];
 	optional WXTaskBase data = 2;
 }

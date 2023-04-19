@@ -26,151 +26,151 @@ message VREditorWidgetComponent {
 }
 
 message VREditorWidgetComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 23510];
-	optional VREditorWidgetComponent data = 2;
-}
-
-message VREditorWidgetComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 23511];
-	optional VREditorWidgetComponent data = 2;
-}
-
-message VREditorWidgetComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 23512];
-	optional VREditorWidgetComponent data = 2;
-}
-
-message VREditorWidgetComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 23513];
-	optional VREditorWidgetComponent data = 2;
-}
-
-message VREditorWidgetComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 23514];
-	optional VREditorWidgetComponent data = 2;
-}
-
-message VREditorWidgetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 23515];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic7 {
+message VREditorWidgetComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 23516];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic8 {
+message VREditorWidgetComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 23517];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic9 {
+message VREditorWidgetComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 23518];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic10 {
+message VREditorWidgetComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 23519];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic11 {
+message VREditorWidgetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 23520];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic12 {
+message VREditorWidgetComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 23521];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic13 {
+message VREditorWidgetComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 23522];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic14 {
+message VREditorWidgetComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 23523];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic15 {
+message VREditorWidgetComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 23524];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic16 {
+message VREditorWidgetComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 23525];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic17 {
+message VREditorWidgetComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 23526];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic18 {
+message VREditorWidgetComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 23527];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic19 {
+message VREditorWidgetComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 23528];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic20 {
+message VREditorWidgetComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 23529];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic21 {
+message VREditorWidgetComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 23530];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic22 {
+message VREditorWidgetComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 23531];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic23 {
+message VREditorWidgetComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 23532];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic24 {
+message VREditorWidgetComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 23533];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic25 {
+message VREditorWidgetComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 23534];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic26 {
+message VREditorWidgetComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 23535];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic27 {
+message VREditorWidgetComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 23536];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic28 {
+message VREditorWidgetComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 23537];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic29 {
+message VREditorWidgetComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 23538];
 	optional VREditorWidgetComponent data = 2;
 }
 
-message VREditorWidgetComponentDynamic30 {
+message VREditorWidgetComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 23539];
+	optional VREditorWidgetComponent data = 2;
+}
+
+message VREditorWidgetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 23540];
+	optional VREditorWidgetComponent data = 2;
+}
+
+message VREditorWidgetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 23541];
+	optional VREditorWidgetComponent data = 2;
+}
+
+message VREditorWidgetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 23542];
+	optional VREditorWidgetComponent data = 2;
+}
+
+message VREditorWidgetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 23543];
+	optional VREditorWidgetComponent data = 2;
+}
+
+message VREditorWidgetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 23544];
 	optional VREditorWidgetComponent data = 2;
 }

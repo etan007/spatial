@@ -5,6 +5,6 @@ package unreal.generated.skeletalmeshactor.subobjects;
 import "unreal/generated/Subobjects/SkeletalMeshComponent.proto";
 
 message SkeletalMeshComponent0 {
-	optional uint32 msg_cid = 1[default = 14450];
+	optional uint32 msg_cid = 1[default = 14455];
 	optional unreal.generated.SkeletalMeshComponent data = 2;
 }

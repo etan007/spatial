@@ -9,151 +9,151 @@ message NavRelevantComponent {
 }
 
 message NavRelevantComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20622];
-	optional NavRelevantComponent data = 2;
-}
-
-message NavRelevantComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20623];
-	optional NavRelevantComponent data = 2;
-}
-
-message NavRelevantComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20624];
-	optional NavRelevantComponent data = 2;
-}
-
-message NavRelevantComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20625];
-	optional NavRelevantComponent data = 2;
-}
-
-message NavRelevantComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20626];
-	optional NavRelevantComponent data = 2;
-}
-
-message NavRelevantComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20627];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic7 {
+message NavRelevantComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20628];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic8 {
+message NavRelevantComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20629];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic9 {
+message NavRelevantComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20630];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic10 {
+message NavRelevantComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20631];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic11 {
+message NavRelevantComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20632];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic12 {
+message NavRelevantComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20633];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic13 {
+message NavRelevantComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20634];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic14 {
+message NavRelevantComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20635];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic15 {
+message NavRelevantComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20636];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic16 {
+message NavRelevantComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20637];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic17 {
+message NavRelevantComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20638];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic18 {
+message NavRelevantComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20639];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic19 {
+message NavRelevantComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20640];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic20 {
+message NavRelevantComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20641];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic21 {
+message NavRelevantComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20642];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic22 {
+message NavRelevantComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20643];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic23 {
+message NavRelevantComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20644];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic24 {
+message NavRelevantComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20645];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic25 {
+message NavRelevantComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20646];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic26 {
+message NavRelevantComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20647];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic27 {
+message NavRelevantComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20648];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic28 {
+message NavRelevantComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20649];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic29 {
+message NavRelevantComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20650];
 	optional NavRelevantComponent data = 2;
 }
 
-message NavRelevantComponentDynamic30 {
+message NavRelevantComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20651];
+	optional NavRelevantComponent data = 2;
+}
+
+message NavRelevantComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20652];
+	optional NavRelevantComponent data = 2;
+}
+
+message NavRelevantComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20653];
+	optional NavRelevantComponent data = 2;
+}
+
+message NavRelevantComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20654];
+	optional NavRelevantComponent data = 2;
+}
+
+message NavRelevantComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20655];
+	optional NavRelevantComponent data = 2;
+}
+
+message NavRelevantComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20656];
 	optional NavRelevantComponent data = 2;
 }

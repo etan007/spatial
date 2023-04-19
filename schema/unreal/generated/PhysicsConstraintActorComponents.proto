@@ -5,6 +5,6 @@ package unreal.generated.physicsconstraintactor.subobjects;
 import "unreal/generated/Subobjects/PhysicsConstraintComponent.proto";
 
 message MyConstraintComp {
-	optional uint32 msg_cid = 1[default = 13656];
+	optional uint32 msg_cid = 1[default = 13661];
 	optional unreal.generated.PhysicsConstraintComponent data = 2;
 }

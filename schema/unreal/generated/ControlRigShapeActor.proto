@@ -6,7 +6,7 @@ package unreal.generated.controlrigshapeactor;
 import "unreal/gdk/core_types.proto";
 
 message ControlRigShapeActor {
-	optional uint32 msg_cid = 1[default = 11930];
+	optional uint32 msg_cid = 1[default = 11935];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message ControlRigShapeActor {
 }
 
 message ControlRigShapeActorServerOnly {
-	optional uint32 msg_cid = 1[default = 11931];
+	optional uint32 msg_cid = 1[default = 11936];
 	 optional bool bactorenablecollision = 6;
 }

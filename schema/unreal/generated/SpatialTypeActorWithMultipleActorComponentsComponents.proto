@@ -5,11 +5,11 @@ package unreal.generated.spatialtypeactorwithmultipleactorcomponents.subobjects;
 import "unreal/generated/Subobjects/SpatialTypeActorComponent.proto";
 
 message FirstSpatialActorComponent {
-	optional uint32 msg_cid = 1[default = 22520];
+	optional uint32 msg_cid = 1[default = 22525];
 	optional unreal.generated.SpatialTypeActorComponent data = 2;
 }
 
 message SecondSpatialActorComponent {
-	optional uint32 msg_cid = 1[default = 22521];
+	optional uint32 msg_cid = 1[default = 22526];
 	optional unreal.generated.SpatialTypeActorComponent data = 2;
 }

@@ -5,6 +5,6 @@ package unreal.generated.eventtracingtest.subobjects;
 import "unreal/generated/Subobjects/BillboardComponent.proto";
 
 message Sprite {
-	optional uint32 msg_cid = 1[default = 21409];
+	optional uint32 msg_cid = 1[default = 21414];
 	optional unreal.generated.BillboardComponent data = 2;
 }

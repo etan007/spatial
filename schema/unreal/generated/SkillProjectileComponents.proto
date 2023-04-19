@@ -6,16 +6,16 @@ import "unreal/generated/Subobjects/SphereComponent.proto";
 import "unreal/generated/Subobjects/ProjectileMovementComponent.proto";
 
 message SphereComponent {
-	optional uint32 msg_cid = 1[default = 23662];
+	optional uint32 msg_cid = 1[default = 23667];
 	optional unreal.generated.SphereComponent data = 2;
 }
 
 message ProjectileMovement {
-	optional uint32 msg_cid = 1[default = 23663];
+	optional uint32 msg_cid = 1[default = 23668];
 	optional unreal.generated.ProjectileMovementComponent data = 2;
 }
 
 message ProjectileMovementServerOnly {
-	optional uint32 msg_cid = 1[default = 23664];
+	optional uint32 msg_cid = 1[default = 23669];
 	optional unreal.generated.ProjectileMovementComponentServerOnly data = 2;
 }

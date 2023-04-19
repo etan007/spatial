@@ -6,7 +6,7 @@ package unreal.generated.culldistancevolume;
 import "unreal/gdk/core_types.proto";
 
 message CullDistanceVolume {
-	optional uint32 msg_cid = 1[default = 12467];
+	optional uint32 msg_cid = 1[default = 12472];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message CullDistanceVolume {
 }
 
 message CullDistanceVolumeServerOnly {
-	optional uint32 msg_cid = 1[default = 12468];
+	optional uint32 msg_cid = 1[default = 12473];
 	 optional bool bactorenablecollision = 6;
 }

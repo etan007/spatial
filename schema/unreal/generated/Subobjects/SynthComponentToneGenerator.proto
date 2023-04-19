@@ -26,151 +26,151 @@ message SynthComponentToneGenerator {
 }
 
 message SynthComponentToneGeneratorDynamic1 {
-	optional uint32 msg_cid = 1[default = 22682];
-	optional SynthComponentToneGenerator data = 2;
-}
-
-message SynthComponentToneGeneratorDynamic2 {
-	optional uint32 msg_cid = 1[default = 22683];
-	optional SynthComponentToneGenerator data = 2;
-}
-
-message SynthComponentToneGeneratorDynamic3 {
-	optional uint32 msg_cid = 1[default = 22684];
-	optional SynthComponentToneGenerator data = 2;
-}
-
-message SynthComponentToneGeneratorDynamic4 {
-	optional uint32 msg_cid = 1[default = 22685];
-	optional SynthComponentToneGenerator data = 2;
-}
-
-message SynthComponentToneGeneratorDynamic5 {
-	optional uint32 msg_cid = 1[default = 22686];
-	optional SynthComponentToneGenerator data = 2;
-}
-
-message SynthComponentToneGeneratorDynamic6 {
 	optional uint32 msg_cid = 1[default = 22687];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic7 {
+message SynthComponentToneGeneratorDynamic2 {
 	optional uint32 msg_cid = 1[default = 22688];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic8 {
+message SynthComponentToneGeneratorDynamic3 {
 	optional uint32 msg_cid = 1[default = 22689];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic9 {
+message SynthComponentToneGeneratorDynamic4 {
 	optional uint32 msg_cid = 1[default = 22690];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic10 {
+message SynthComponentToneGeneratorDynamic5 {
 	optional uint32 msg_cid = 1[default = 22691];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic11 {
+message SynthComponentToneGeneratorDynamic6 {
 	optional uint32 msg_cid = 1[default = 22692];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic12 {
+message SynthComponentToneGeneratorDynamic7 {
 	optional uint32 msg_cid = 1[default = 22693];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic13 {
+message SynthComponentToneGeneratorDynamic8 {
 	optional uint32 msg_cid = 1[default = 22694];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic14 {
+message SynthComponentToneGeneratorDynamic9 {
 	optional uint32 msg_cid = 1[default = 22695];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic15 {
+message SynthComponentToneGeneratorDynamic10 {
 	optional uint32 msg_cid = 1[default = 22696];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic16 {
+message SynthComponentToneGeneratorDynamic11 {
 	optional uint32 msg_cid = 1[default = 22697];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic17 {
+message SynthComponentToneGeneratorDynamic12 {
 	optional uint32 msg_cid = 1[default = 22698];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic18 {
+message SynthComponentToneGeneratorDynamic13 {
 	optional uint32 msg_cid = 1[default = 22699];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic19 {
+message SynthComponentToneGeneratorDynamic14 {
 	optional uint32 msg_cid = 1[default = 22700];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic20 {
+message SynthComponentToneGeneratorDynamic15 {
 	optional uint32 msg_cid = 1[default = 22701];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic21 {
+message SynthComponentToneGeneratorDynamic16 {
 	optional uint32 msg_cid = 1[default = 22702];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic22 {
+message SynthComponentToneGeneratorDynamic17 {
 	optional uint32 msg_cid = 1[default = 22703];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic23 {
+message SynthComponentToneGeneratorDynamic18 {
 	optional uint32 msg_cid = 1[default = 22704];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic24 {
+message SynthComponentToneGeneratorDynamic19 {
 	optional uint32 msg_cid = 1[default = 22705];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic25 {
+message SynthComponentToneGeneratorDynamic20 {
 	optional uint32 msg_cid = 1[default = 22706];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic26 {
+message SynthComponentToneGeneratorDynamic21 {
 	optional uint32 msg_cid = 1[default = 22707];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic27 {
+message SynthComponentToneGeneratorDynamic22 {
 	optional uint32 msg_cid = 1[default = 22708];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic28 {
+message SynthComponentToneGeneratorDynamic23 {
 	optional uint32 msg_cid = 1[default = 22709];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic29 {
+message SynthComponentToneGeneratorDynamic24 {
 	optional uint32 msg_cid = 1[default = 22710];
 	optional SynthComponentToneGenerator data = 2;
 }
 
-message SynthComponentToneGeneratorDynamic30 {
+message SynthComponentToneGeneratorDynamic25 {
 	optional uint32 msg_cid = 1[default = 22711];
+	optional SynthComponentToneGenerator data = 2;
+}
+
+message SynthComponentToneGeneratorDynamic26 {
+	optional uint32 msg_cid = 1[default = 22712];
+	optional SynthComponentToneGenerator data = 2;
+}
+
+message SynthComponentToneGeneratorDynamic27 {
+	optional uint32 msg_cid = 1[default = 22713];
+	optional SynthComponentToneGenerator data = 2;
+}
+
+message SynthComponentToneGeneratorDynamic28 {
+	optional uint32 msg_cid = 1[default = 22714];
+	optional SynthComponentToneGenerator data = 2;
+}
+
+message SynthComponentToneGeneratorDynamic29 {
+	optional uint32 msg_cid = 1[default = 22715];
+	optional SynthComponentToneGenerator data = 2;
+}
+
+message SynthComponentToneGeneratorDynamic30 {
+	optional uint32 msg_cid = 1[default = 22716];
 	optional SynthComponentToneGenerator data = 2;
 }

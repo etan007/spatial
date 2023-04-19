@@ -6,7 +6,7 @@ package unreal.generated.killzvolume;
 import "unreal/gdk/core_types.proto";
 
 message KillZVolume {
-	optional uint32 msg_cid = 1[default = 13071];
+	optional uint32 msg_cid = 1[default = 13076];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message KillZVolume {
 }
 
 message KillZVolumeServerOnly {
-	optional uint32 msg_cid = 1[default = 13072];
+	optional uint32 msg_cid = 1[default = 13077];
 	 optional bool bactorenablecollision = 6;
 }

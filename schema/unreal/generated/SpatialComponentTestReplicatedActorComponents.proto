@@ -5,6 +5,6 @@ package unreal.generated.spatialcomponenttestreplicatedactor.subobjects;
 import "unreal/generated/Subobjects/SpatialComponentTestCallbackComponent.proto";
 
 message CallbackComponent {
-	optional uint32 msg_cid = 1[default = 21699];
+	optional uint32 msg_cid = 1[default = 21704];
 	optional unreal.generated.SpatialComponentTestCallbackComponent data = 2;
 }

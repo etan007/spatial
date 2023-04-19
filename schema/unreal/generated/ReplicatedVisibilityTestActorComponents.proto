@@ -5,6 +5,6 @@ package unreal.generated.replicatedvisibilitytestactor.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21567];
+	optional uint32 msg_cid = 1[default = 21572];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

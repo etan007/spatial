@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/BoxComponent.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message GeneratedBox {
-	optional uint32 msg_cid = 1[default = 24850];
+	optional uint32 msg_cid = 1[default = 25000];
 	optional unreal.generated.BoxComponent data = 2;
 }
 
 message RootComponent {
-	optional uint32 msg_cid = 1[default = 24851];
+	optional uint32 msg_cid = 1[default = 25001];
 	optional unreal.generated.SceneComponent data = 2;
 }

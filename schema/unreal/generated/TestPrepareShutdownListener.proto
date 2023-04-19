@@ -6,7 +6,7 @@ package unreal.generated.testprepareshutdownlistener;
 import "unreal/gdk/core_types.proto";
 
 message TestPrepareShutdownListener {
-	optional uint32 msg_cid = 1[default = 22118];
+	optional uint32 msg_cid = 1[default = 22123];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message TestPrepareShutdownListener {
 }
 
 message TestPrepareShutdownListenerServerOnly {
-	optional uint32 msg_cid = 1[default = 22119];
+	optional uint32 msg_cid = 1[default = 22124];
 	 optional bool bactorenablecollision = 6;
 }

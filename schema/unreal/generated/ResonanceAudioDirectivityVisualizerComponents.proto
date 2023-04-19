@@ -5,6 +5,6 @@ package unreal.generated.resonanceaudiodirectivityvisualizer.subobjects;
 import "unreal/generated/Subobjects/ProceduralMeshComponent.proto";
 
 message VisualizationMesh {
-	optional uint32 msg_cid = 1[default = 20992];
+	optional uint32 msg_cid = 1[default = 20997];
 	optional unreal.generated.ProceduralMeshComponent data = 2;
 }

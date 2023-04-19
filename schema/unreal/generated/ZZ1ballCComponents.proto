@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/ArrowComponent.proto";
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message Arrow1 {
-	optional uint32 msg_cid = 1[default = 25625];
+	optional uint32 msg_cid = 1[default = 25769];
 	optional unreal.generated.ArrowComponent data = 2;
 }
 
 message Root {
-	optional uint32 msg_cid = 1[default = 25626];
+	optional uint32 msg_cid = 1[default = 25770];
 	optional unreal.generated.SceneComponent data = 2;
 }

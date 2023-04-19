@@ -5,6 +5,6 @@ package unreal.generated.locationvolume.subobjects;
 import "unreal/generated/Subobjects/BrushComponent.proto";
 
 message BrushComponent0 {
-	optional uint32 msg_cid = 1[default = 13291];
+	optional uint32 msg_cid = 1[default = 13296];
 	optional unreal.generated.BrushComponent data = 2;
 }

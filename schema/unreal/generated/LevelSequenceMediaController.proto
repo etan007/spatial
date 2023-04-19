@@ -6,7 +6,7 @@ package unreal.generated.levelsequencemediacontroller;
 import "unreal/gdk/core_types.proto";
 
 message LevelSequenceMediaController {
-	optional uint32 msg_cid = 1[default = 18825];
+	optional uint32 msg_cid = 1[default = 18830];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message LevelSequenceMediaController {
 }
 
 message LevelSequenceMediaControllerServerOnly {
-	optional uint32 msg_cid = 1[default = 18826];
+	optional uint32 msg_cid = 1[default = 18831];
 	 optional bool bactorenablecollision = 6;
 }

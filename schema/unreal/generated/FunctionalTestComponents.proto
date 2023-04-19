@@ -5,6 +5,6 @@ package unreal.generated.functionaltest.subobjects;
 import "unreal/generated/Subobjects/BillboardComponent.proto";
 
 message Sprite {
-	optional uint32 msg_cid = 1[default = 15967];
+	optional uint32 msg_cid = 1[default = 15972];
 	optional unreal.generated.BillboardComponent data = 2;
 }

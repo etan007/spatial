@@ -26,151 +26,151 @@ message NavLinkComponent {
 }
 
 message NavLinkComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20496];
-	optional NavLinkComponent data = 2;
-}
-
-message NavLinkComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20497];
-	optional NavLinkComponent data = 2;
-}
-
-message NavLinkComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20498];
-	optional NavLinkComponent data = 2;
-}
-
-message NavLinkComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20499];
-	optional NavLinkComponent data = 2;
-}
-
-message NavLinkComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20500];
-	optional NavLinkComponent data = 2;
-}
-
-message NavLinkComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20501];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic7 {
+message NavLinkComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20502];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic8 {
+message NavLinkComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20503];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic9 {
+message NavLinkComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20504];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic10 {
+message NavLinkComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20505];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic11 {
+message NavLinkComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20506];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic12 {
+message NavLinkComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20507];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic13 {
+message NavLinkComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20508];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic14 {
+message NavLinkComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20509];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic15 {
+message NavLinkComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20510];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic16 {
+message NavLinkComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20511];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic17 {
+message NavLinkComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20512];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic18 {
+message NavLinkComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20513];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic19 {
+message NavLinkComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20514];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic20 {
+message NavLinkComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20515];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic21 {
+message NavLinkComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20516];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic22 {
+message NavLinkComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20517];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic23 {
+message NavLinkComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20518];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic24 {
+message NavLinkComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20519];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic25 {
+message NavLinkComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20520];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic26 {
+message NavLinkComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20521];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic27 {
+message NavLinkComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20522];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic28 {
+message NavLinkComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20523];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic29 {
+message NavLinkComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20524];
 	optional NavLinkComponent data = 2;
 }
 
-message NavLinkComponentDynamic30 {
+message NavLinkComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20525];
+	optional NavLinkComponent data = 2;
+}
+
+message NavLinkComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20526];
+	optional NavLinkComponent data = 2;
+}
+
+message NavLinkComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20527];
+	optional NavLinkComponent data = 2;
+}
+
+message NavLinkComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20528];
+	optional NavLinkComponent data = 2;
+}
+
+message NavLinkComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20529];
+	optional NavLinkComponent data = 2;
+}
+
+message NavLinkComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20530];
 	optional NavLinkComponent data = 2;
 }

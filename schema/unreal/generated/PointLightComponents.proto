@@ -5,6 +5,6 @@ package unreal.generated.pointlight.subobjects;
 import "unreal/generated/Subobjects/PointLightComponent.proto";
 
 message LightComponent0 {
-	optional uint32 msg_cid = 1[default = 13931];
+	optional uint32 msg_cid = 1[default = 13936];
 	optional unreal.generated.PointLightComponent data = 2;
 }

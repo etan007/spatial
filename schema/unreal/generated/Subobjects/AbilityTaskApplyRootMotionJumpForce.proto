@@ -21,151 +21,151 @@ message AbilityTaskApplyRootMotionJumpForce {
 }
 
 message AbilityTaskApplyRootMotionJumpForceDynamic1 {
-	optional uint32 msg_cid = 1[default = 16206];
-	optional AbilityTaskApplyRootMotionJumpForce data = 2;
-}
-
-message AbilityTaskApplyRootMotionJumpForceDynamic2 {
-	optional uint32 msg_cid = 1[default = 16207];
-	optional AbilityTaskApplyRootMotionJumpForce data = 2;
-}
-
-message AbilityTaskApplyRootMotionJumpForceDynamic3 {
-	optional uint32 msg_cid = 1[default = 16208];
-	optional AbilityTaskApplyRootMotionJumpForce data = 2;
-}
-
-message AbilityTaskApplyRootMotionJumpForceDynamic4 {
-	optional uint32 msg_cid = 1[default = 16209];
-	optional AbilityTaskApplyRootMotionJumpForce data = 2;
-}
-
-message AbilityTaskApplyRootMotionJumpForceDynamic5 {
-	optional uint32 msg_cid = 1[default = 16210];
-	optional AbilityTaskApplyRootMotionJumpForce data = 2;
-}
-
-message AbilityTaskApplyRootMotionJumpForceDynamic6 {
 	optional uint32 msg_cid = 1[default = 16211];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic7 {
+message AbilityTaskApplyRootMotionJumpForceDynamic2 {
 	optional uint32 msg_cid = 1[default = 16212];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic8 {
+message AbilityTaskApplyRootMotionJumpForceDynamic3 {
 	optional uint32 msg_cid = 1[default = 16213];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic9 {
+message AbilityTaskApplyRootMotionJumpForceDynamic4 {
 	optional uint32 msg_cid = 1[default = 16214];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic10 {
+message AbilityTaskApplyRootMotionJumpForceDynamic5 {
 	optional uint32 msg_cid = 1[default = 16215];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic11 {
+message AbilityTaskApplyRootMotionJumpForceDynamic6 {
 	optional uint32 msg_cid = 1[default = 16216];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic12 {
+message AbilityTaskApplyRootMotionJumpForceDynamic7 {
 	optional uint32 msg_cid = 1[default = 16217];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic13 {
+message AbilityTaskApplyRootMotionJumpForceDynamic8 {
 	optional uint32 msg_cid = 1[default = 16218];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic14 {
+message AbilityTaskApplyRootMotionJumpForceDynamic9 {
 	optional uint32 msg_cid = 1[default = 16219];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic15 {
+message AbilityTaskApplyRootMotionJumpForceDynamic10 {
 	optional uint32 msg_cid = 1[default = 16220];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic16 {
+message AbilityTaskApplyRootMotionJumpForceDynamic11 {
 	optional uint32 msg_cid = 1[default = 16221];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic17 {
+message AbilityTaskApplyRootMotionJumpForceDynamic12 {
 	optional uint32 msg_cid = 1[default = 16222];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic18 {
+message AbilityTaskApplyRootMotionJumpForceDynamic13 {
 	optional uint32 msg_cid = 1[default = 16223];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic19 {
+message AbilityTaskApplyRootMotionJumpForceDynamic14 {
 	optional uint32 msg_cid = 1[default = 16224];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic20 {
+message AbilityTaskApplyRootMotionJumpForceDynamic15 {
 	optional uint32 msg_cid = 1[default = 16225];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic21 {
+message AbilityTaskApplyRootMotionJumpForceDynamic16 {
 	optional uint32 msg_cid = 1[default = 16226];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic22 {
+message AbilityTaskApplyRootMotionJumpForceDynamic17 {
 	optional uint32 msg_cid = 1[default = 16227];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic23 {
+message AbilityTaskApplyRootMotionJumpForceDynamic18 {
 	optional uint32 msg_cid = 1[default = 16228];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic24 {
+message AbilityTaskApplyRootMotionJumpForceDynamic19 {
 	optional uint32 msg_cid = 1[default = 16229];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic25 {
+message AbilityTaskApplyRootMotionJumpForceDynamic20 {
 	optional uint32 msg_cid = 1[default = 16230];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic26 {
+message AbilityTaskApplyRootMotionJumpForceDynamic21 {
 	optional uint32 msg_cid = 1[default = 16231];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic27 {
+message AbilityTaskApplyRootMotionJumpForceDynamic22 {
 	optional uint32 msg_cid = 1[default = 16232];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic28 {
+message AbilityTaskApplyRootMotionJumpForceDynamic23 {
 	optional uint32 msg_cid = 1[default = 16233];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic29 {
+message AbilityTaskApplyRootMotionJumpForceDynamic24 {
 	optional uint32 msg_cid = 1[default = 16234];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }
 
-message AbilityTaskApplyRootMotionJumpForceDynamic30 {
+message AbilityTaskApplyRootMotionJumpForceDynamic25 {
 	optional uint32 msg_cid = 1[default = 16235];
+	optional AbilityTaskApplyRootMotionJumpForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionJumpForceDynamic26 {
+	optional uint32 msg_cid = 1[default = 16236];
+	optional AbilityTaskApplyRootMotionJumpForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionJumpForceDynamic27 {
+	optional uint32 msg_cid = 1[default = 16237];
+	optional AbilityTaskApplyRootMotionJumpForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionJumpForceDynamic28 {
+	optional uint32 msg_cid = 1[default = 16238];
+	optional AbilityTaskApplyRootMotionJumpForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionJumpForceDynamic29 {
+	optional uint32 msg_cid = 1[default = 16239];
+	optional AbilityTaskApplyRootMotionJumpForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionJumpForceDynamic30 {
+	optional uint32 msg_cid = 1[default = 16240];
 	optional AbilityTaskApplyRootMotionJumpForce data = 2;
 }

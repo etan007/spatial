@@ -7,151 +7,151 @@ message AbilityTaskVisualizeTargeting {
 }
 
 message AbilityTaskVisualizeTargetingDynamic1 {
-	optional uint32 msg_cid = 1[default = 16506];
-	optional AbilityTaskVisualizeTargeting data = 2;
-}
-
-message AbilityTaskVisualizeTargetingDynamic2 {
-	optional uint32 msg_cid = 1[default = 16507];
-	optional AbilityTaskVisualizeTargeting data = 2;
-}
-
-message AbilityTaskVisualizeTargetingDynamic3 {
-	optional uint32 msg_cid = 1[default = 16508];
-	optional AbilityTaskVisualizeTargeting data = 2;
-}
-
-message AbilityTaskVisualizeTargetingDynamic4 {
-	optional uint32 msg_cid = 1[default = 16509];
-	optional AbilityTaskVisualizeTargeting data = 2;
-}
-
-message AbilityTaskVisualizeTargetingDynamic5 {
-	optional uint32 msg_cid = 1[default = 16510];
-	optional AbilityTaskVisualizeTargeting data = 2;
-}
-
-message AbilityTaskVisualizeTargetingDynamic6 {
 	optional uint32 msg_cid = 1[default = 16511];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic7 {
+message AbilityTaskVisualizeTargetingDynamic2 {
 	optional uint32 msg_cid = 1[default = 16512];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic8 {
+message AbilityTaskVisualizeTargetingDynamic3 {
 	optional uint32 msg_cid = 1[default = 16513];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic9 {
+message AbilityTaskVisualizeTargetingDynamic4 {
 	optional uint32 msg_cid = 1[default = 16514];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic10 {
+message AbilityTaskVisualizeTargetingDynamic5 {
 	optional uint32 msg_cid = 1[default = 16515];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic11 {
+message AbilityTaskVisualizeTargetingDynamic6 {
 	optional uint32 msg_cid = 1[default = 16516];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic12 {
+message AbilityTaskVisualizeTargetingDynamic7 {
 	optional uint32 msg_cid = 1[default = 16517];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic13 {
+message AbilityTaskVisualizeTargetingDynamic8 {
 	optional uint32 msg_cid = 1[default = 16518];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic14 {
+message AbilityTaskVisualizeTargetingDynamic9 {
 	optional uint32 msg_cid = 1[default = 16519];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic15 {
+message AbilityTaskVisualizeTargetingDynamic10 {
 	optional uint32 msg_cid = 1[default = 16520];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic16 {
+message AbilityTaskVisualizeTargetingDynamic11 {
 	optional uint32 msg_cid = 1[default = 16521];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic17 {
+message AbilityTaskVisualizeTargetingDynamic12 {
 	optional uint32 msg_cid = 1[default = 16522];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic18 {
+message AbilityTaskVisualizeTargetingDynamic13 {
 	optional uint32 msg_cid = 1[default = 16523];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic19 {
+message AbilityTaskVisualizeTargetingDynamic14 {
 	optional uint32 msg_cid = 1[default = 16524];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic20 {
+message AbilityTaskVisualizeTargetingDynamic15 {
 	optional uint32 msg_cid = 1[default = 16525];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic21 {
+message AbilityTaskVisualizeTargetingDynamic16 {
 	optional uint32 msg_cid = 1[default = 16526];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic22 {
+message AbilityTaskVisualizeTargetingDynamic17 {
 	optional uint32 msg_cid = 1[default = 16527];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic23 {
+message AbilityTaskVisualizeTargetingDynamic18 {
 	optional uint32 msg_cid = 1[default = 16528];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic24 {
+message AbilityTaskVisualizeTargetingDynamic19 {
 	optional uint32 msg_cid = 1[default = 16529];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic25 {
+message AbilityTaskVisualizeTargetingDynamic20 {
 	optional uint32 msg_cid = 1[default = 16530];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic26 {
+message AbilityTaskVisualizeTargetingDynamic21 {
 	optional uint32 msg_cid = 1[default = 16531];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic27 {
+message AbilityTaskVisualizeTargetingDynamic22 {
 	optional uint32 msg_cid = 1[default = 16532];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic28 {
+message AbilityTaskVisualizeTargetingDynamic23 {
 	optional uint32 msg_cid = 1[default = 16533];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic29 {
+message AbilityTaskVisualizeTargetingDynamic24 {
 	optional uint32 msg_cid = 1[default = 16534];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }
 
-message AbilityTaskVisualizeTargetingDynamic30 {
+message AbilityTaskVisualizeTargetingDynamic25 {
 	optional uint32 msg_cid = 1[default = 16535];
+	optional AbilityTaskVisualizeTargeting data = 2;
+}
+
+message AbilityTaskVisualizeTargetingDynamic26 {
+	optional uint32 msg_cid = 1[default = 16536];
+	optional AbilityTaskVisualizeTargeting data = 2;
+}
+
+message AbilityTaskVisualizeTargetingDynamic27 {
+	optional uint32 msg_cid = 1[default = 16537];
+	optional AbilityTaskVisualizeTargeting data = 2;
+}
+
+message AbilityTaskVisualizeTargetingDynamic28 {
+	optional uint32 msg_cid = 1[default = 16538];
+	optional AbilityTaskVisualizeTargeting data = 2;
+}
+
+message AbilityTaskVisualizeTargetingDynamic29 {
+	optional uint32 msg_cid = 1[default = 16539];
+	optional AbilityTaskVisualizeTargeting data = 2;
+}
+
+message AbilityTaskVisualizeTargetingDynamic30 {
+	optional uint32 msg_cid = 1[default = 16540];
 	optional AbilityTaskVisualizeTargeting data = 2;
 }

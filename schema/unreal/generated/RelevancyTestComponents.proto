@@ -5,6 +5,6 @@ package unreal.generated.relevancytest.subobjects;
 import "unreal/generated/Subobjects/BillboardComponent.proto";
 
 message Sprite {
-	optional uint32 msg_cid = 1[default = 21543];
+	optional uint32 msg_cid = 1[default = 21548];
 	optional unreal.generated.BillboardComponent data = 2;
 }

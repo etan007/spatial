@@ -26,151 +26,151 @@ message WXResInteractBox {
 }
 
 message WXResInteractBoxDynamic1 {
-	optional uint32 msg_cid = 1[default = 24808];
+	optional uint32 msg_cid = 1[default = 24958];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic2 {
-	optional uint32 msg_cid = 1[default = 24809];
+	optional uint32 msg_cid = 1[default = 24959];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic3 {
-	optional uint32 msg_cid = 1[default = 24810];
+	optional uint32 msg_cid = 1[default = 24960];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic4 {
-	optional uint32 msg_cid = 1[default = 24811];
+	optional uint32 msg_cid = 1[default = 24961];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic5 {
-	optional uint32 msg_cid = 1[default = 24812];
+	optional uint32 msg_cid = 1[default = 24962];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic6 {
-	optional uint32 msg_cid = 1[default = 24813];
+	optional uint32 msg_cid = 1[default = 24963];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic7 {
-	optional uint32 msg_cid = 1[default = 24814];
+	optional uint32 msg_cid = 1[default = 24964];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic8 {
-	optional uint32 msg_cid = 1[default = 24815];
+	optional uint32 msg_cid = 1[default = 24965];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic9 {
-	optional uint32 msg_cid = 1[default = 24816];
+	optional uint32 msg_cid = 1[default = 24966];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic10 {
-	optional uint32 msg_cid = 1[default = 24817];
+	optional uint32 msg_cid = 1[default = 24967];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic11 {
-	optional uint32 msg_cid = 1[default = 24818];
+	optional uint32 msg_cid = 1[default = 24968];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic12 {
-	optional uint32 msg_cid = 1[default = 24819];
+	optional uint32 msg_cid = 1[default = 24969];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic13 {
-	optional uint32 msg_cid = 1[default = 24820];
+	optional uint32 msg_cid = 1[default = 24970];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic14 {
-	optional uint32 msg_cid = 1[default = 24821];
+	optional uint32 msg_cid = 1[default = 24971];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic15 {
-	optional uint32 msg_cid = 1[default = 24822];
+	optional uint32 msg_cid = 1[default = 24972];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic16 {
-	optional uint32 msg_cid = 1[default = 24823];
+	optional uint32 msg_cid = 1[default = 24973];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic17 {
-	optional uint32 msg_cid = 1[default = 24824];
+	optional uint32 msg_cid = 1[default = 24974];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic18 {
-	optional uint32 msg_cid = 1[default = 24825];
+	optional uint32 msg_cid = 1[default = 24975];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic19 {
-	optional uint32 msg_cid = 1[default = 24826];
+	optional uint32 msg_cid = 1[default = 24976];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic20 {
-	optional uint32 msg_cid = 1[default = 24827];
+	optional uint32 msg_cid = 1[default = 24977];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic21 {
-	optional uint32 msg_cid = 1[default = 24828];
+	optional uint32 msg_cid = 1[default = 24978];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic22 {
-	optional uint32 msg_cid = 1[default = 24829];
+	optional uint32 msg_cid = 1[default = 24979];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic23 {
-	optional uint32 msg_cid = 1[default = 24830];
+	optional uint32 msg_cid = 1[default = 24980];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic24 {
-	optional uint32 msg_cid = 1[default = 24831];
+	optional uint32 msg_cid = 1[default = 24981];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic25 {
-	optional uint32 msg_cid = 1[default = 24832];
+	optional uint32 msg_cid = 1[default = 24982];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic26 {
-	optional uint32 msg_cid = 1[default = 24833];
+	optional uint32 msg_cid = 1[default = 24983];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic27 {
-	optional uint32 msg_cid = 1[default = 24834];
+	optional uint32 msg_cid = 1[default = 24984];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic28 {
-	optional uint32 msg_cid = 1[default = 24835];
+	optional uint32 msg_cid = 1[default = 24985];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic29 {
-	optional uint32 msg_cid = 1[default = 24836];
+	optional uint32 msg_cid = 1[default = 24986];
 	optional WXResInteractBox data = 2;
 }
 
 message WXResInteractBoxDynamic30 {
-	optional uint32 msg_cid = 1[default = 24837];
+	optional uint32 msg_cid = 1[default = 24987];
 	optional WXResInteractBox data = 2;
 }

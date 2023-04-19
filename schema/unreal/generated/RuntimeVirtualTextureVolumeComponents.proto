@@ -5,6 +5,6 @@ package unreal.generated.runtimevirtualtexturevolume.subobjects;
 import "unreal/generated/Subobjects/RuntimeVirtualTextureComponent.proto";
 
 message VirtualTextureComponent {
-	optional uint32 msg_cid = 1[default = 14313];
+	optional uint32 msg_cid = 1[default = 14318];
 	optional unreal.generated.RuntimeVirtualTextureComponent data = 2;
 }

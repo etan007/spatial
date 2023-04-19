@@ -5,6 +5,6 @@ package unreal.generated.radialforceactor.subobjects;
 import "unreal/generated/Subobjects/RadialForceComponent.proto";
 
 message ForceComponent0 {
-	optional uint32 msg_cid = 1[default = 14123];
+	optional uint32 msg_cid = 1[default = 14128];
 	optional unreal.generated.RadialForceComponent data = 2;
 }

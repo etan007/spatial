@@ -5,6 +5,6 @@ package unreal.generated.geometrycollectionrenderlevelsetactor.subobjects;
 import "unreal/generated/Subobjects/PostProcessComponent.proto";
 
 message PostProcessComponent0 {
-	optional uint32 msg_cid = 1[default = 17839];
+	optional uint32 msg_cid = 1[default = 17844];
 	optional unreal.generated.PostProcessComponent data = 2;
 }

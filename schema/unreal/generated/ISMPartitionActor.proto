@@ -6,7 +6,7 @@ package unreal.generated.ismpartitionactor;
 import "unreal/gdk/core_types.proto";
 
 message ISMPartitionActor {
-	optional uint32 msg_cid = 1[default = 13068];
+	optional uint32 msg_cid = 1[default = 13073];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message ISMPartitionActor {
 }
 
 message ISMPartitionActorServerOnly {
-	optional uint32 msg_cid = 1[default = 13069];
+	optional uint32 msg_cid = 1[default = 13074];
 	 optional bool bactorenablecollision = 6;
 }

@@ -8,21 +8,21 @@ import "unreal/generated/Subobjects/SceneComponent.proto";
 import "unreal/generated/Subobjects/WXInteractWidgetComponent.proto";
 
 message Mesh {
-	optional uint32 msg_cid = 1[default = 24686];
+	optional uint32 msg_cid = 1[default = 24834];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }
 
 message InteractBox {
-	optional uint32 msg_cid = 1[default = 24687];
+	optional uint32 msg_cid = 1[default = 24835];
 	optional unreal.generated.WXPropInteractBox data = 2;
 }
 
 message RootCom {
-	optional uint32 msg_cid = 1[default = 24688];
+	optional uint32 msg_cid = 1[default = 24836];
 	optional unreal.generated.SceneComponent data = 2;
 }
 
 message WidgetCom {
-	optional uint32 msg_cid = 1[default = 24689];
+	optional uint32 msg_cid = 1[default = 24837];
 	optional unreal.generated.WXInteractWidgetComponent data = 2;
 }

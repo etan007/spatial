@@ -6,7 +6,7 @@ package unreal.generated.spatialcomponentsettingsoverride;
 import "unreal/gdk/core_types.proto";
 
 message SpatialComponentSettingsOverride {
-	optional uint32 msg_cid = 1[default = 21628];
+	optional uint32 msg_cid = 1[default = 21633];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialComponentSettingsOverride {
 }
 
 message SpatialComponentSettingsOverrideServerOnly {
-	optional uint32 msg_cid = 1[default = 21629];
+	optional uint32 msg_cid = 1[default = 21634];
 	 optional bool bactorenablecollision = 6;
 }

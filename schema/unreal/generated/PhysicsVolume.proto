@@ -6,7 +6,7 @@ package unreal.generated.physicsvolume;
 import "unreal/gdk/core_types.proto";
 
 message PhysicsVolume {
-	optional uint32 msg_cid = 1[default = 13810];
+	optional uint32 msg_cid = 1[default = 13815];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PhysicsVolume {
 }
 
 message PhysicsVolumeServerOnly {
-	optional uint32 msg_cid = 1[default = 13811];
+	optional uint32 msg_cid = 1[default = 13816];
 	 optional bool bactorenablecollision = 6;
 }

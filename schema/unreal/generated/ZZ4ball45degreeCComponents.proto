@@ -5,6 +5,6 @@ package unreal.generated.zz4ball45degreec.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message Root {
-	optional uint32 msg_cid = 1[default = 25629];
+	optional uint32 msg_cid = 1[default = 25773];
 	optional unreal.generated.SceneComponent data = 2;
 }

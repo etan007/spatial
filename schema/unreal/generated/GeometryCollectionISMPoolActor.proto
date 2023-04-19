@@ -6,7 +6,7 @@ package unreal.generated.geometrycollectionismpoolactor;
 import "unreal/gdk/core_types.proto";
 
 message GeometryCollectionISMPoolActor {
-	optional uint32 msg_cid = 1[default = 17804];
+	optional uint32 msg_cid = 1[default = 17809];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message GeometryCollectionISMPoolActor {
 }
 
 message GeometryCollectionISMPoolActorServerOnly {
-	optional uint32 msg_cid = 1[default = 17805];
+	optional uint32 msg_cid = 1[default = 17810];
 	 optional bool bactorenablecollision = 6;
 }

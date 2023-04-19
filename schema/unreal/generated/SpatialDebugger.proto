@@ -6,7 +6,7 @@ package unreal.generated.spatialdebugger;
 import "unreal/gdk/core_types.proto";
 
 message SpatialDebugger {
-	optional uint32 msg_cid = 1[default = 21060];
+	optional uint32 msg_cid = 1[default = 21065];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message SpatialDebugger {
 }
 
 message SpatialDebuggerServerOnly {
-	optional uint32 msg_cid = 1[default = 21061];
+	optional uint32 msg_cid = 1[default = 21066];
 	 optional bool bactorenablecollision = 6;
 }

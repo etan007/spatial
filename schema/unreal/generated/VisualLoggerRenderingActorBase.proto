@@ -6,7 +6,7 @@ package unreal.generated.visualloggerrenderingactorbase;
 import "unreal/gdk/core_types.proto";
 
 message VisualLoggerRenderingActorBase {
-	optional uint32 msg_cid = 1[default = 25741];
+	optional uint32 msg_cid = 1[default = 25725];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message VisualLoggerRenderingActorBase {
 }
 
 message VisualLoggerRenderingActorBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 25742];
+	optional uint32 msg_cid = 1[default = 25726];
 	 optional bool bactorenablecollision = 6;
 }

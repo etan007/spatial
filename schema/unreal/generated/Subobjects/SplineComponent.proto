@@ -26,151 +26,151 @@ message SplineComponent {
 }
 
 message SplineComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 11827];
-	optional SplineComponent data = 2;
-}
-
-message SplineComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 11828];
-	optional SplineComponent data = 2;
-}
-
-message SplineComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 11829];
-	optional SplineComponent data = 2;
-}
-
-message SplineComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 11830];
-	optional SplineComponent data = 2;
-}
-
-message SplineComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 11831];
-	optional SplineComponent data = 2;
-}
-
-message SplineComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11832];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic7 {
+message SplineComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 11833];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic8 {
+message SplineComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 11834];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic9 {
+message SplineComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 11835];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic10 {
+message SplineComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 11836];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic11 {
+message SplineComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11837];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic12 {
+message SplineComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 11838];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic13 {
+message SplineComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 11839];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic14 {
+message SplineComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 11840];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic15 {
+message SplineComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 11841];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic16 {
+message SplineComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 11842];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic17 {
+message SplineComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 11843];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic18 {
+message SplineComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 11844];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic19 {
+message SplineComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 11845];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic20 {
+message SplineComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 11846];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic21 {
+message SplineComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 11847];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic22 {
+message SplineComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 11848];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic23 {
+message SplineComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 11849];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic24 {
+message SplineComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 11850];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic25 {
+message SplineComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 11851];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic26 {
+message SplineComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 11852];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic27 {
+message SplineComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 11853];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic28 {
+message SplineComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 11854];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic29 {
+message SplineComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 11855];
 	optional SplineComponent data = 2;
 }
 
-message SplineComponentDynamic30 {
+message SplineComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 11856];
+	optional SplineComponent data = 2;
+}
+
+message SplineComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11857];
+	optional SplineComponent data = 2;
+}
+
+message SplineComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11858];
+	optional SplineComponent data = 2;
+}
+
+message SplineComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11859];
+	optional SplineComponent data = 2;
+}
+
+message SplineComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11860];
+	optional SplineComponent data = 2;
+}
+
+message SplineComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11861];
 	optional SplineComponent data = 2;
 }

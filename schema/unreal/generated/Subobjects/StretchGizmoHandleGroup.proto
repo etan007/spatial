@@ -26,151 +26,151 @@ message StretchGizmoHandleGroup {
 }
 
 message StretchGizmoHandleGroupDynamic1 {
-	optional uint32 msg_cid = 1[default = 23400];
-	optional StretchGizmoHandleGroup data = 2;
-}
-
-message StretchGizmoHandleGroupDynamic2 {
-	optional uint32 msg_cid = 1[default = 23401];
-	optional StretchGizmoHandleGroup data = 2;
-}
-
-message StretchGizmoHandleGroupDynamic3 {
-	optional uint32 msg_cid = 1[default = 23402];
-	optional StretchGizmoHandleGroup data = 2;
-}
-
-message StretchGizmoHandleGroupDynamic4 {
-	optional uint32 msg_cid = 1[default = 23403];
-	optional StretchGizmoHandleGroup data = 2;
-}
-
-message StretchGizmoHandleGroupDynamic5 {
-	optional uint32 msg_cid = 1[default = 23404];
-	optional StretchGizmoHandleGroup data = 2;
-}
-
-message StretchGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23405];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic7 {
+message StretchGizmoHandleGroupDynamic2 {
 	optional uint32 msg_cid = 1[default = 23406];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic8 {
+message StretchGizmoHandleGroupDynamic3 {
 	optional uint32 msg_cid = 1[default = 23407];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic9 {
+message StretchGizmoHandleGroupDynamic4 {
 	optional uint32 msg_cid = 1[default = 23408];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic10 {
+message StretchGizmoHandleGroupDynamic5 {
 	optional uint32 msg_cid = 1[default = 23409];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic11 {
+message StretchGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23410];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic12 {
+message StretchGizmoHandleGroupDynamic7 {
 	optional uint32 msg_cid = 1[default = 23411];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic13 {
+message StretchGizmoHandleGroupDynamic8 {
 	optional uint32 msg_cid = 1[default = 23412];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic14 {
+message StretchGizmoHandleGroupDynamic9 {
 	optional uint32 msg_cid = 1[default = 23413];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic15 {
+message StretchGizmoHandleGroupDynamic10 {
 	optional uint32 msg_cid = 1[default = 23414];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic16 {
+message StretchGizmoHandleGroupDynamic11 {
 	optional uint32 msg_cid = 1[default = 23415];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic17 {
+message StretchGizmoHandleGroupDynamic12 {
 	optional uint32 msg_cid = 1[default = 23416];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic18 {
+message StretchGizmoHandleGroupDynamic13 {
 	optional uint32 msg_cid = 1[default = 23417];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic19 {
+message StretchGizmoHandleGroupDynamic14 {
 	optional uint32 msg_cid = 1[default = 23418];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic20 {
+message StretchGizmoHandleGroupDynamic15 {
 	optional uint32 msg_cid = 1[default = 23419];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic21 {
+message StretchGizmoHandleGroupDynamic16 {
 	optional uint32 msg_cid = 1[default = 23420];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic22 {
+message StretchGizmoHandleGroupDynamic17 {
 	optional uint32 msg_cid = 1[default = 23421];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic23 {
+message StretchGizmoHandleGroupDynamic18 {
 	optional uint32 msg_cid = 1[default = 23422];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic24 {
+message StretchGizmoHandleGroupDynamic19 {
 	optional uint32 msg_cid = 1[default = 23423];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic25 {
+message StretchGizmoHandleGroupDynamic20 {
 	optional uint32 msg_cid = 1[default = 23424];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic26 {
+message StretchGizmoHandleGroupDynamic21 {
 	optional uint32 msg_cid = 1[default = 23425];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic27 {
+message StretchGizmoHandleGroupDynamic22 {
 	optional uint32 msg_cid = 1[default = 23426];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic28 {
+message StretchGizmoHandleGroupDynamic23 {
 	optional uint32 msg_cid = 1[default = 23427];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic29 {
+message StretchGizmoHandleGroupDynamic24 {
 	optional uint32 msg_cid = 1[default = 23428];
 	optional StretchGizmoHandleGroup data = 2;
 }
 
-message StretchGizmoHandleGroupDynamic30 {
+message StretchGizmoHandleGroupDynamic25 {
 	optional uint32 msg_cid = 1[default = 23429];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23430];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23431];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23432];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23433];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23434];
 	optional StretchGizmoHandleGroup data = 2;
 }

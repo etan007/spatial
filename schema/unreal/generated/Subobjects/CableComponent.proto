@@ -26,151 +26,151 @@ message CableComponent {
 }
 
 message CableComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 11683];
-	optional CableComponent data = 2;
-}
-
-message CableComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 11684];
-	optional CableComponent data = 2;
-}
-
-message CableComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 11685];
-	optional CableComponent data = 2;
-}
-
-message CableComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 11686];
-	optional CableComponent data = 2;
-}
-
-message CableComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 11687];
-	optional CableComponent data = 2;
-}
-
-message CableComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11688];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic7 {
+message CableComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 11689];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic8 {
+message CableComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 11690];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic9 {
+message CableComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 11691];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic10 {
+message CableComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 11692];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic11 {
+message CableComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11693];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic12 {
+message CableComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 11694];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic13 {
+message CableComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 11695];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic14 {
+message CableComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 11696];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic15 {
+message CableComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 11697];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic16 {
+message CableComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 11698];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic17 {
+message CableComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 11699];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic18 {
+message CableComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 11700];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic19 {
+message CableComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 11701];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic20 {
+message CableComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 11702];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic21 {
+message CableComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 11703];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic22 {
+message CableComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 11704];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic23 {
+message CableComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 11705];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic24 {
+message CableComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 11706];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic25 {
+message CableComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 11707];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic26 {
+message CableComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 11708];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic27 {
+message CableComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 11709];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic28 {
+message CableComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 11710];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic29 {
+message CableComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 11711];
 	optional CableComponent data = 2;
 }
 
-message CableComponentDynamic30 {
+message CableComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 11712];
+	optional CableComponent data = 2;
+}
+
+message CableComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11713];
+	optional CableComponent data = 2;
+}
+
+message CableComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11714];
+	optional CableComponent data = 2;
+}
+
+message CableComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11715];
+	optional CableComponent data = 2;
+}
+
+message CableComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11716];
+	optional CableComponent data = 2;
+}
+
+message CableComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11717];
 	optional CableComponent data = 2;
 }

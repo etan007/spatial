@@ -5,6 +5,6 @@ package unreal.generated.switchactor.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message Root {
-	optional uint32 msg_cid = 1[default = 23151];
+	optional uint32 msg_cid = 1[default = 23156];
 	optional unreal.generated.SceneComponent data = 2;
 }

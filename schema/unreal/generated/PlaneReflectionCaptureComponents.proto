@@ -7,16 +7,16 @@ import "unreal/generated/Subobjects/DrawSphereComponent.proto";
 import "unreal/generated/Subobjects/BoxComponent.proto";
 
 message NewReflectionComponent {
-	optional uint32 msg_cid = 1[default = 13850];
+	optional uint32 msg_cid = 1[default = 13855];
 	optional unreal.generated.PlaneReflectionCaptureComponent data = 2;
 }
 
 message DrawRadius0 {
-	optional uint32 msg_cid = 1[default = 13851];
+	optional uint32 msg_cid = 1[default = 13856];
 	optional unreal.generated.DrawSphereComponent data = 2;
 }
 
 message DrawBox1 {
-	optional uint32 msg_cid = 1[default = 13852];
+	optional uint32 msg_cid = 1[default = 13857];
 	optional unreal.generated.BoxComponent data = 2;
 }

@@ -7,151 +7,151 @@ message AbilityTaskWaitConfirmCancel {
 }
 
 message AbilityTaskWaitConfirmCancelDynamic1 {
-	optional uint32 msg_cid = 1[default = 16746];
-	optional AbilityTaskWaitConfirmCancel data = 2;
-}
-
-message AbilityTaskWaitConfirmCancelDynamic2 {
-	optional uint32 msg_cid = 1[default = 16747];
-	optional AbilityTaskWaitConfirmCancel data = 2;
-}
-
-message AbilityTaskWaitConfirmCancelDynamic3 {
-	optional uint32 msg_cid = 1[default = 16748];
-	optional AbilityTaskWaitConfirmCancel data = 2;
-}
-
-message AbilityTaskWaitConfirmCancelDynamic4 {
-	optional uint32 msg_cid = 1[default = 16749];
-	optional AbilityTaskWaitConfirmCancel data = 2;
-}
-
-message AbilityTaskWaitConfirmCancelDynamic5 {
-	optional uint32 msg_cid = 1[default = 16750];
-	optional AbilityTaskWaitConfirmCancel data = 2;
-}
-
-message AbilityTaskWaitConfirmCancelDynamic6 {
 	optional uint32 msg_cid = 1[default = 16751];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic7 {
+message AbilityTaskWaitConfirmCancelDynamic2 {
 	optional uint32 msg_cid = 1[default = 16752];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic8 {
+message AbilityTaskWaitConfirmCancelDynamic3 {
 	optional uint32 msg_cid = 1[default = 16753];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic9 {
+message AbilityTaskWaitConfirmCancelDynamic4 {
 	optional uint32 msg_cid = 1[default = 16754];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic10 {
+message AbilityTaskWaitConfirmCancelDynamic5 {
 	optional uint32 msg_cid = 1[default = 16755];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic11 {
+message AbilityTaskWaitConfirmCancelDynamic6 {
 	optional uint32 msg_cid = 1[default = 16756];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic12 {
+message AbilityTaskWaitConfirmCancelDynamic7 {
 	optional uint32 msg_cid = 1[default = 16757];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic13 {
+message AbilityTaskWaitConfirmCancelDynamic8 {
 	optional uint32 msg_cid = 1[default = 16758];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic14 {
+message AbilityTaskWaitConfirmCancelDynamic9 {
 	optional uint32 msg_cid = 1[default = 16759];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic15 {
+message AbilityTaskWaitConfirmCancelDynamic10 {
 	optional uint32 msg_cid = 1[default = 16760];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic16 {
+message AbilityTaskWaitConfirmCancelDynamic11 {
 	optional uint32 msg_cid = 1[default = 16761];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic17 {
+message AbilityTaskWaitConfirmCancelDynamic12 {
 	optional uint32 msg_cid = 1[default = 16762];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic18 {
+message AbilityTaskWaitConfirmCancelDynamic13 {
 	optional uint32 msg_cid = 1[default = 16763];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic19 {
+message AbilityTaskWaitConfirmCancelDynamic14 {
 	optional uint32 msg_cid = 1[default = 16764];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic20 {
+message AbilityTaskWaitConfirmCancelDynamic15 {
 	optional uint32 msg_cid = 1[default = 16765];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic21 {
+message AbilityTaskWaitConfirmCancelDynamic16 {
 	optional uint32 msg_cid = 1[default = 16766];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic22 {
+message AbilityTaskWaitConfirmCancelDynamic17 {
 	optional uint32 msg_cid = 1[default = 16767];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic23 {
+message AbilityTaskWaitConfirmCancelDynamic18 {
 	optional uint32 msg_cid = 1[default = 16768];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic24 {
+message AbilityTaskWaitConfirmCancelDynamic19 {
 	optional uint32 msg_cid = 1[default = 16769];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic25 {
+message AbilityTaskWaitConfirmCancelDynamic20 {
 	optional uint32 msg_cid = 1[default = 16770];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic26 {
+message AbilityTaskWaitConfirmCancelDynamic21 {
 	optional uint32 msg_cid = 1[default = 16771];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic27 {
+message AbilityTaskWaitConfirmCancelDynamic22 {
 	optional uint32 msg_cid = 1[default = 16772];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic28 {
+message AbilityTaskWaitConfirmCancelDynamic23 {
 	optional uint32 msg_cid = 1[default = 16773];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic29 {
+message AbilityTaskWaitConfirmCancelDynamic24 {
 	optional uint32 msg_cid = 1[default = 16774];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }
 
-message AbilityTaskWaitConfirmCancelDynamic30 {
+message AbilityTaskWaitConfirmCancelDynamic25 {
 	optional uint32 msg_cid = 1[default = 16775];
+	optional AbilityTaskWaitConfirmCancel data = 2;
+}
+
+message AbilityTaskWaitConfirmCancelDynamic26 {
+	optional uint32 msg_cid = 1[default = 16776];
+	optional AbilityTaskWaitConfirmCancel data = 2;
+}
+
+message AbilityTaskWaitConfirmCancelDynamic27 {
+	optional uint32 msg_cid = 1[default = 16777];
+	optional AbilityTaskWaitConfirmCancel data = 2;
+}
+
+message AbilityTaskWaitConfirmCancelDynamic28 {
+	optional uint32 msg_cid = 1[default = 16778];
+	optional AbilityTaskWaitConfirmCancel data = 2;
+}
+
+message AbilityTaskWaitConfirmCancelDynamic29 {
+	optional uint32 msg_cid = 1[default = 16779];
+	optional AbilityTaskWaitConfirmCancel data = 2;
+}
+
+message AbilityTaskWaitConfirmCancelDynamic30 {
+	optional uint32 msg_cid = 1[default = 16780];
 	optional AbilityTaskWaitConfirmCancel data = 2;
 }

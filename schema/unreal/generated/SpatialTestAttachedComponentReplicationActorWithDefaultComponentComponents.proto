@@ -5,6 +5,6 @@ package unreal.generated.spatialtestattachedcomponentreplicationactorwithdefault
 import "unreal/generated/Subobjects/SpatialTestAttachedComponentReplicationComponent.proto";
 
 message DefaultAttachedComponent {
-	optional uint32 msg_cid = 1[default = 21768];
+	optional uint32 msg_cid = 1[default = 21773];
 	optional unreal.generated.SpatialTestAttachedComponentReplicationComponent data = 2;
 }

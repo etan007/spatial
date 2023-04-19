@@ -6,16 +6,16 @@ import "unreal/generated/Subobjects/DrawSphereComponent.proto";
 import "unreal/generated/Subobjects/SphereReflectionCaptureComponent.proto";
 
 message DrawRadius1 {
-	optional uint32 msg_cid = 1[default = 14586];
+	optional uint32 msg_cid = 1[default = 14591];
 	optional unreal.generated.DrawSphereComponent data = 2;
 }
 
 message NewReflectionComponent {
-	optional uint32 msg_cid = 1[default = 14587];
+	optional uint32 msg_cid = 1[default = 14592];
 	optional unreal.generated.SphereReflectionCaptureComponent data = 2;
 }
 
 message DrawRadius0 {
-	optional uint32 msg_cid = 1[default = 14588];
+	optional uint32 msg_cid = 1[default = 14593];
 	optional unreal.generated.DrawSphereComponent data = 2;
 }

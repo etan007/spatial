@@ -26,151 +26,151 @@ message VREditorCameraWidgetComponent {
 }
 
 message VREditorCameraWidgetComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 23467];
-	optional VREditorCameraWidgetComponent data = 2;
-}
-
-message VREditorCameraWidgetComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 23468];
-	optional VREditorCameraWidgetComponent data = 2;
-}
-
-message VREditorCameraWidgetComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 23469];
-	optional VREditorCameraWidgetComponent data = 2;
-}
-
-message VREditorCameraWidgetComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 23470];
-	optional VREditorCameraWidgetComponent data = 2;
-}
-
-message VREditorCameraWidgetComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 23471];
-	optional VREditorCameraWidgetComponent data = 2;
-}
-
-message VREditorCameraWidgetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 23472];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic7 {
+message VREditorCameraWidgetComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 23473];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic8 {
+message VREditorCameraWidgetComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 23474];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic9 {
+message VREditorCameraWidgetComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 23475];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic10 {
+message VREditorCameraWidgetComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 23476];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic11 {
+message VREditorCameraWidgetComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 23477];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic12 {
+message VREditorCameraWidgetComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 23478];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic13 {
+message VREditorCameraWidgetComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 23479];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic14 {
+message VREditorCameraWidgetComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 23480];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic15 {
+message VREditorCameraWidgetComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 23481];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic16 {
+message VREditorCameraWidgetComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 23482];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic17 {
+message VREditorCameraWidgetComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 23483];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic18 {
+message VREditorCameraWidgetComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 23484];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic19 {
+message VREditorCameraWidgetComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 23485];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic20 {
+message VREditorCameraWidgetComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 23486];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic21 {
+message VREditorCameraWidgetComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 23487];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic22 {
+message VREditorCameraWidgetComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 23488];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic23 {
+message VREditorCameraWidgetComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 23489];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic24 {
+message VREditorCameraWidgetComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 23490];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic25 {
+message VREditorCameraWidgetComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 23491];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic26 {
+message VREditorCameraWidgetComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 23492];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic27 {
+message VREditorCameraWidgetComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 23493];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic28 {
+message VREditorCameraWidgetComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 23494];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic29 {
+message VREditorCameraWidgetComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 23495];
 	optional VREditorCameraWidgetComponent data = 2;
 }
 
-message VREditorCameraWidgetComponentDynamic30 {
+message VREditorCameraWidgetComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 23496];
+	optional VREditorCameraWidgetComponent data = 2;
+}
+
+message VREditorCameraWidgetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 23497];
+	optional VREditorCameraWidgetComponent data = 2;
+}
+
+message VREditorCameraWidgetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 23498];
+	optional VREditorCameraWidgetComponent data = 2;
+}
+
+message VREditorCameraWidgetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 23499];
+	optional VREditorCameraWidgetComponent data = 2;
+}
+
+message VREditorCameraWidgetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 23500];
+	optional VREditorCameraWidgetComponent data = 2;
+}
+
+message VREditorCameraWidgetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 23501];
 	optional VREditorCameraWidgetComponent data = 2;
 }

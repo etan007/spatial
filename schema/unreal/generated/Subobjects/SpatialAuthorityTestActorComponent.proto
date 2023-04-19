@@ -27,151 +27,151 @@ message SpatialAuthorityTestActorComponent {
 }
 
 message SpatialAuthorityTestActorComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 21585];
-	optional SpatialAuthorityTestActorComponent data = 2;
-}
-
-message SpatialAuthorityTestActorComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 21586];
-	optional SpatialAuthorityTestActorComponent data = 2;
-}
-
-message SpatialAuthorityTestActorComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 21587];
-	optional SpatialAuthorityTestActorComponent data = 2;
-}
-
-message SpatialAuthorityTestActorComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 21588];
-	optional SpatialAuthorityTestActorComponent data = 2;
-}
-
-message SpatialAuthorityTestActorComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 21589];
-	optional SpatialAuthorityTestActorComponent data = 2;
-}
-
-message SpatialAuthorityTestActorComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 21590];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic7 {
+message SpatialAuthorityTestActorComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 21591];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic8 {
+message SpatialAuthorityTestActorComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 21592];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic9 {
+message SpatialAuthorityTestActorComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 21593];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic10 {
+message SpatialAuthorityTestActorComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 21594];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic11 {
+message SpatialAuthorityTestActorComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 21595];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic12 {
+message SpatialAuthorityTestActorComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 21596];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic13 {
+message SpatialAuthorityTestActorComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 21597];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic14 {
+message SpatialAuthorityTestActorComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 21598];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic15 {
+message SpatialAuthorityTestActorComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 21599];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic16 {
+message SpatialAuthorityTestActorComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 21600];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic17 {
+message SpatialAuthorityTestActorComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 21601];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic18 {
+message SpatialAuthorityTestActorComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 21602];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic19 {
+message SpatialAuthorityTestActorComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 21603];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic20 {
+message SpatialAuthorityTestActorComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 21604];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic21 {
+message SpatialAuthorityTestActorComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 21605];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic22 {
+message SpatialAuthorityTestActorComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 21606];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic23 {
+message SpatialAuthorityTestActorComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 21607];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic24 {
+message SpatialAuthorityTestActorComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 21608];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic25 {
+message SpatialAuthorityTestActorComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 21609];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic26 {
+message SpatialAuthorityTestActorComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 21610];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic27 {
+message SpatialAuthorityTestActorComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 21611];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic28 {
+message SpatialAuthorityTestActorComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 21612];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic29 {
+message SpatialAuthorityTestActorComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 21613];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }
 
-message SpatialAuthorityTestActorComponentDynamic30 {
+message SpatialAuthorityTestActorComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 21614];
+	optional SpatialAuthorityTestActorComponent data = 2;
+}
+
+message SpatialAuthorityTestActorComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 21615];
+	optional SpatialAuthorityTestActorComponent data = 2;
+}
+
+message SpatialAuthorityTestActorComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 21616];
+	optional SpatialAuthorityTestActorComponent data = 2;
+}
+
+message SpatialAuthorityTestActorComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 21617];
+	optional SpatialAuthorityTestActorComponent data = 2;
+}
+
+message SpatialAuthorityTestActorComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 21618];
+	optional SpatialAuthorityTestActorComponent data = 2;
+}
+
+message SpatialAuthorityTestActorComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 21619];
 	optional SpatialAuthorityTestActorComponent data = 2;
 }

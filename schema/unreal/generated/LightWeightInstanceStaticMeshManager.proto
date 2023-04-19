@@ -6,7 +6,7 @@ package unreal.generated.lightweightinstancestaticmeshmanager;
 import "unreal/gdk/core_types.proto";
 
 message LightWeightInstanceStaticMeshManager {
-	optional uint32 msg_cid = 1[default = 13226];
+	optional uint32 msg_cid = 1[default = 13231];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -32,6 +32,6 @@ message LightWeightInstanceStaticMeshManager {
 }
 
 message LightWeightInstanceStaticMeshManagerServerOnly {
-	optional uint32 msg_cid = 1[default = 13227];
+	optional uint32 msg_cid = 1[default = 13232];
 	 optional bool bactorenablecollision = 6;
 }

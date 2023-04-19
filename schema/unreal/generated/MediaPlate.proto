@@ -6,7 +6,7 @@ package unreal.generated.mediaplate;
 import "unreal/gdk/core_types.proto";
 
 message MediaPlate {
-	optional uint32 msg_cid = 1[default = 18891];
+	optional uint32 msg_cid = 1[default = 18896];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message MediaPlate {
 }
 
 message MediaPlateServerOnly {
-	optional uint32 msg_cid = 1[default = 18892];
+	optional uint32 msg_cid = 1[default = 18897];
 	 optional bool bactorenablecollision = 6;
 }

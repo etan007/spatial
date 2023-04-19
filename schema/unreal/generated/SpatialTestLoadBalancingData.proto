@@ -6,7 +6,7 @@ package unreal.generated.spatialtestloadbalancingdata;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestLoadBalancingData {
-	optional uint32 msg_cid = 1[default = 21900];
+	optional uint32 msg_cid = 1[default = 21905];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialTestLoadBalancingData {
 }
 
 message SpatialTestLoadBalancingDataServerOnly {
-	optional uint32 msg_cid = 1[default = 21901];
+	optional uint32 msg_cid = 1[default = 21906];
 	 optional bool bactorenablecollision = 6;
 }

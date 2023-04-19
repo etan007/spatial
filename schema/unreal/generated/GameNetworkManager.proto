@@ -6,7 +6,7 @@ package unreal.generated.gamenetworkmanager;
 import "unreal/gdk/core_types.proto";
 
 message GameNetworkManager {
-	optional uint32 msg_cid = 1[default = 12898];
+	optional uint32 msg_cid = 1[default = 12903];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message GameNetworkManager {
 }
 
 message GameNetworkManagerServerOnly {
-	optional uint32 msg_cid = 1[default = 12899];
+	optional uint32 msg_cid = 1[default = 12904];
 	 optional bool bactorenablecollision = 6;
 }

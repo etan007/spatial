@@ -5,6 +5,6 @@ package unreal.generated.papergroupedspriteactor.subobjects;
 import "unreal/generated/Subobjects/PaperGroupedSpriteComponent.proto";
 
 message RenderComponent {
-	optional uint32 msg_cid = 1[default = 20824];
+	optional uint32 msg_cid = 1[default = 20829];
 	optional unreal.generated.PaperGroupedSpriteComponent data = 2;
 }

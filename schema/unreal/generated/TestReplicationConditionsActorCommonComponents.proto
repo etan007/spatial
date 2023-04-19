@@ -5,16 +5,16 @@ package unreal.generated.testreplicationconditionsactorcommon.subobjects;
 import "unreal/generated/Subobjects/TestReplicationConditionsComponentCommon.proto";
 
 message UTestReplicationConditionsComponentCommon {
-	optional uint32 msg_cid = 1[default = 22188];
+	optional uint32 msg_cid = 1[default = 22193];
 	optional unreal.generated.TestReplicationConditionsComponentCommon data = 2;
 }
 
 message UTestReplicationConditionsComponentCommonOwnerOnly {
-	optional uint32 msg_cid = 1[default = 22189];
+	optional uint32 msg_cid = 1[default = 22194];
 	optional unreal.generated.TestReplicationConditionsComponentCommonOwnerOnly data = 2;
 }
 
 message UTestReplicationConditionsComponentCommonServerOnly {
-	optional uint32 msg_cid = 1[default = 22190];
+	optional uint32 msg_cid = 1[default = 22195];
 	optional unreal.generated.TestReplicationConditionsComponentCommonServerOnly data = 2;
 }

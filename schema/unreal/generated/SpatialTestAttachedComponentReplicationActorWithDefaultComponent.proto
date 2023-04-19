@@ -6,7 +6,7 @@ package unreal.generated.spatialtestattachedcomponentreplicationactorwithdefault
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestAttachedComponentReplicationActorWithDefaultComponent {
-	optional uint32 msg_cid = 1[default = 21766];
+	optional uint32 msg_cid = 1[default = 21771];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message SpatialTestAttachedComponentReplicationActorWithDefaultComponent {
 }
 
 message SpatialTestAttachedComponentReplicationActorWithDefaultComponentServerOnly {
-	optional uint32 msg_cid = 1[default = 21767];
+	optional uint32 msg_cid = 1[default = 21772];
 	 optional bool bactorenablecollision = 6;
 }

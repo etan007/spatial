@@ -6,7 +6,7 @@ package unreal.generated.spatialworldsettings;
 import "unreal/gdk/core_types.proto";
 
 message SpatialWorldSettings {
-	optional uint32 msg_cid = 1[default = 21124];
+	optional uint32 msg_cid = 1[default = 21129];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialWorldSettings {
 }
 
 message SpatialWorldSettingsServerOnly {
-	optional uint32 msg_cid = 1[default = 21125];
+	optional uint32 msg_cid = 1[default = 21130];
 	 optional bool bactorenablecollision = 6;
 }

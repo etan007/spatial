@@ -6,7 +6,7 @@ package unreal.generated.modularplayerstate;
 import "unreal/gdk/core_types.proto";
 
 message ModularPlayerState {
-	optional uint32 msg_cid = 1[default = 20327];
+	optional uint32 msg_cid = 1[default = 20332];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -32,7 +32,7 @@ message ModularPlayerState {
 }
 
 message ModularPlayerStateInitialOnly {
-	optional uint32 msg_cid = 1[default = 20328];
+	optional uint32 msg_cid = 1[default = 20333];
 	 optional int32 playerid = 19;
 	 optional bool bisabot = 23;
 	 optional bool bisinactive = 24;
@@ -40,6 +40,6 @@ message ModularPlayerStateInitialOnly {
 }
 
 message ModularPlayerStateServerOnly {
-	optional uint32 msg_cid = 1[default = 20329];
+	optional uint32 msg_cid = 1[default = 20334];
 	 optional bool bactorenablecollision = 6;
 }

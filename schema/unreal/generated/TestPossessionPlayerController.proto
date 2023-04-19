@@ -6,7 +6,7 @@ package unreal.generated.testpossessionplayercontroller;
 import "unreal/gdk/core_types.proto";
 
 message TestPossessionPlayerController {
-	optional uint32 msg_cid = 1[default = 22114];
+	optional uint32 msg_cid = 1[default = 22119];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,14 +27,14 @@ message TestPossessionPlayerController {
 }
 
 message TestPossessionPlayerControllerOwnerOnly {
-	optional uint32 msg_cid = 1[default = 22115];
+	optional uint32 msg_cid = 1[default = 22120];
 	 optional bytes targetviewrotation = 23;
 	 optional UnrealObjectRef asyncphysicsdatacomponent = 26;
 	 optional bytes spawnlocation = 28;
 }
 
 message TestPossessionPlayerControllerServerOnly {
-	optional uint32 msg_cid = 1[default = 22116];
+	optional uint32 msg_cid = 1[default = 22121];
 	 optional bool bactorenablecollision = 6;
 	 optional string statename = 19;
 	 optional bool bissimulated = 21;

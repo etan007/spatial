@@ -6,7 +6,7 @@ package unreal.generated.papertilemapactor;
 import "unreal/gdk/core_types.proto";
 
 message PaperTileMapActor {
-	optional uint32 msg_cid = 1[default = 20953];
+	optional uint32 msg_cid = 1[default = 20958];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PaperTileMapActor {
 }
 
 message PaperTileMapActorServerOnly {
-	optional uint32 msg_cid = 1[default = 20954];
+	optional uint32 msg_cid = 1[default = 20959];
 	 optional bool bactorenablecollision = 6;
 }

@@ -6,7 +6,7 @@ package unreal.generated.spatialtestcharactermovement;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestCharacterMovement {
-	optional uint32 msg_cid = 1[default = 21804];
+	optional uint32 msg_cid = 1[default = 21809];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialTestCharacterMovement {
 }
 
 message SpatialTestCharacterMovementServerOnly {
-	optional uint32 msg_cid = 1[default = 21805];
+	optional uint32 msg_cid = 1[default = 21810];
 	 optional bool bactorenablecollision = 6;
 }

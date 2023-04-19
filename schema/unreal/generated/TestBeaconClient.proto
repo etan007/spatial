@@ -6,7 +6,7 @@ package unreal.generated.testbeaconclient;
 import "unreal/gdk/core_types.proto";
 
 message TestBeaconClient {
-	optional uint32 msg_cid = 1[default = 20749];
+	optional uint32 msg_cid = 1[default = 20754];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message TestBeaconClient {
 }
 
 message TestBeaconClientServerOnly {
-	optional uint32 msg_cid = 1[default = 20750];
+	optional uint32 msg_cid = 1[default = 20755];
 	 optional bool bactorenablecollision = 6;
 }

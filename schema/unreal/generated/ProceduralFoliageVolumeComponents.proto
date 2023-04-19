@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/ProceduralFoliageComponent.proto";
 import "unreal/generated/Subobjects/BrushComponent.proto";
 
 message ProceduralFoliageComponent {
-	optional uint32 msg_cid = 1[default = 15927];
+	optional uint32 msg_cid = 1[default = 15932];
 	optional unreal.generated.ProceduralFoliageComponent data = 2;
 }
 
 message BrushComponent0 {
-	optional uint32 msg_cid = 1[default = 15928];
+	optional uint32 msg_cid = 1[default = 15933];
 	optional unreal.generated.BrushComponent data = 2;
 }

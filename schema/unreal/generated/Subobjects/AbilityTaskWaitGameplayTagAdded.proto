@@ -7,151 +7,151 @@ message AbilityTaskWaitGameplayTagAdded {
 }
 
 message AbilityTaskWaitGameplayTagAddedDynamic1 {
-	optional uint32 msg_cid = 1[default = 17046];
-	optional AbilityTaskWaitGameplayTagAdded data = 2;
-}
-
-message AbilityTaskWaitGameplayTagAddedDynamic2 {
-	optional uint32 msg_cid = 1[default = 17047];
-	optional AbilityTaskWaitGameplayTagAdded data = 2;
-}
-
-message AbilityTaskWaitGameplayTagAddedDynamic3 {
-	optional uint32 msg_cid = 1[default = 17048];
-	optional AbilityTaskWaitGameplayTagAdded data = 2;
-}
-
-message AbilityTaskWaitGameplayTagAddedDynamic4 {
-	optional uint32 msg_cid = 1[default = 17049];
-	optional AbilityTaskWaitGameplayTagAdded data = 2;
-}
-
-message AbilityTaskWaitGameplayTagAddedDynamic5 {
-	optional uint32 msg_cid = 1[default = 17050];
-	optional AbilityTaskWaitGameplayTagAdded data = 2;
-}
-
-message AbilityTaskWaitGameplayTagAddedDynamic6 {
 	optional uint32 msg_cid = 1[default = 17051];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic7 {
+message AbilityTaskWaitGameplayTagAddedDynamic2 {
 	optional uint32 msg_cid = 1[default = 17052];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic8 {
+message AbilityTaskWaitGameplayTagAddedDynamic3 {
 	optional uint32 msg_cid = 1[default = 17053];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic9 {
+message AbilityTaskWaitGameplayTagAddedDynamic4 {
 	optional uint32 msg_cid = 1[default = 17054];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic10 {
+message AbilityTaskWaitGameplayTagAddedDynamic5 {
 	optional uint32 msg_cid = 1[default = 17055];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic11 {
+message AbilityTaskWaitGameplayTagAddedDynamic6 {
 	optional uint32 msg_cid = 1[default = 17056];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic12 {
+message AbilityTaskWaitGameplayTagAddedDynamic7 {
 	optional uint32 msg_cid = 1[default = 17057];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic13 {
+message AbilityTaskWaitGameplayTagAddedDynamic8 {
 	optional uint32 msg_cid = 1[default = 17058];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic14 {
+message AbilityTaskWaitGameplayTagAddedDynamic9 {
 	optional uint32 msg_cid = 1[default = 17059];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic15 {
+message AbilityTaskWaitGameplayTagAddedDynamic10 {
 	optional uint32 msg_cid = 1[default = 17060];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic16 {
+message AbilityTaskWaitGameplayTagAddedDynamic11 {
 	optional uint32 msg_cid = 1[default = 17061];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic17 {
+message AbilityTaskWaitGameplayTagAddedDynamic12 {
 	optional uint32 msg_cid = 1[default = 17062];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic18 {
+message AbilityTaskWaitGameplayTagAddedDynamic13 {
 	optional uint32 msg_cid = 1[default = 17063];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic19 {
+message AbilityTaskWaitGameplayTagAddedDynamic14 {
 	optional uint32 msg_cid = 1[default = 17064];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic20 {
+message AbilityTaskWaitGameplayTagAddedDynamic15 {
 	optional uint32 msg_cid = 1[default = 17065];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic21 {
+message AbilityTaskWaitGameplayTagAddedDynamic16 {
 	optional uint32 msg_cid = 1[default = 17066];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic22 {
+message AbilityTaskWaitGameplayTagAddedDynamic17 {
 	optional uint32 msg_cid = 1[default = 17067];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic23 {
+message AbilityTaskWaitGameplayTagAddedDynamic18 {
 	optional uint32 msg_cid = 1[default = 17068];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic24 {
+message AbilityTaskWaitGameplayTagAddedDynamic19 {
 	optional uint32 msg_cid = 1[default = 17069];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic25 {
+message AbilityTaskWaitGameplayTagAddedDynamic20 {
 	optional uint32 msg_cid = 1[default = 17070];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic26 {
+message AbilityTaskWaitGameplayTagAddedDynamic21 {
 	optional uint32 msg_cid = 1[default = 17071];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic27 {
+message AbilityTaskWaitGameplayTagAddedDynamic22 {
 	optional uint32 msg_cid = 1[default = 17072];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic28 {
+message AbilityTaskWaitGameplayTagAddedDynamic23 {
 	optional uint32 msg_cid = 1[default = 17073];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic29 {
+message AbilityTaskWaitGameplayTagAddedDynamic24 {
 	optional uint32 msg_cid = 1[default = 17074];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }
 
-message AbilityTaskWaitGameplayTagAddedDynamic30 {
+message AbilityTaskWaitGameplayTagAddedDynamic25 {
 	optional uint32 msg_cid = 1[default = 17075];
+	optional AbilityTaskWaitGameplayTagAdded data = 2;
+}
+
+message AbilityTaskWaitGameplayTagAddedDynamic26 {
+	optional uint32 msg_cid = 1[default = 17076];
+	optional AbilityTaskWaitGameplayTagAdded data = 2;
+}
+
+message AbilityTaskWaitGameplayTagAddedDynamic27 {
+	optional uint32 msg_cid = 1[default = 17077];
+	optional AbilityTaskWaitGameplayTagAdded data = 2;
+}
+
+message AbilityTaskWaitGameplayTagAddedDynamic28 {
+	optional uint32 msg_cid = 1[default = 17078];
+	optional AbilityTaskWaitGameplayTagAdded data = 2;
+}
+
+message AbilityTaskWaitGameplayTagAddedDynamic29 {
+	optional uint32 msg_cid = 1[default = 17079];
+	optional AbilityTaskWaitGameplayTagAdded data = 2;
+}
+
+message AbilityTaskWaitGameplayTagAddedDynamic30 {
+	optional uint32 msg_cid = 1[default = 17080];
 	optional AbilityTaskWaitGameplayTagAdded data = 2;
 }

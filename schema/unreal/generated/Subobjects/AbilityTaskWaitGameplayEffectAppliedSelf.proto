@@ -7,151 +7,151 @@ message AbilityTaskWaitGameplayEffectAppliedSelf {
 }
 
 message AbilityTaskWaitGameplayEffectAppliedSelfDynamic1 {
-	optional uint32 msg_cid = 1[default = 16836];
-	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic2 {
-	optional uint32 msg_cid = 1[default = 16837];
-	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic3 {
-	optional uint32 msg_cid = 1[default = 16838];
-	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic4 {
-	optional uint32 msg_cid = 1[default = 16839];
-	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic5 {
-	optional uint32 msg_cid = 1[default = 16840];
-	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic6 {
 	optional uint32 msg_cid = 1[default = 16841];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic7 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic2 {
 	optional uint32 msg_cid = 1[default = 16842];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic8 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic3 {
 	optional uint32 msg_cid = 1[default = 16843];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic9 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic4 {
 	optional uint32 msg_cid = 1[default = 16844];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic10 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic5 {
 	optional uint32 msg_cid = 1[default = 16845];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic11 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic6 {
 	optional uint32 msg_cid = 1[default = 16846];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic12 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic7 {
 	optional uint32 msg_cid = 1[default = 16847];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic13 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic8 {
 	optional uint32 msg_cid = 1[default = 16848];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic14 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic9 {
 	optional uint32 msg_cid = 1[default = 16849];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic15 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic10 {
 	optional uint32 msg_cid = 1[default = 16850];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic16 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic11 {
 	optional uint32 msg_cid = 1[default = 16851];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic17 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic12 {
 	optional uint32 msg_cid = 1[default = 16852];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic18 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic13 {
 	optional uint32 msg_cid = 1[default = 16853];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic19 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic14 {
 	optional uint32 msg_cid = 1[default = 16854];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic20 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic15 {
 	optional uint32 msg_cid = 1[default = 16855];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic21 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic16 {
 	optional uint32 msg_cid = 1[default = 16856];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic22 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic17 {
 	optional uint32 msg_cid = 1[default = 16857];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic23 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic18 {
 	optional uint32 msg_cid = 1[default = 16858];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic24 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic19 {
 	optional uint32 msg_cid = 1[default = 16859];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic25 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic20 {
 	optional uint32 msg_cid = 1[default = 16860];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic26 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic21 {
 	optional uint32 msg_cid = 1[default = 16861];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic27 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic22 {
 	optional uint32 msg_cid = 1[default = 16862];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic28 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic23 {
 	optional uint32 msg_cid = 1[default = 16863];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic29 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic24 {
 	optional uint32 msg_cid = 1[default = 16864];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectAppliedSelfDynamic30 {
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic25 {
 	optional uint32 msg_cid = 1[default = 16865];
+	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic26 {
+	optional uint32 msg_cid = 1[default = 16866];
+	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic27 {
+	optional uint32 msg_cid = 1[default = 16867];
+	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic28 {
+	optional uint32 msg_cid = 1[default = 16868];
+	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic29 {
+	optional uint32 msg_cid = 1[default = 16869];
+	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedSelfDynamic30 {
+	optional uint32 msg_cid = 1[default = 16870];
 	optional AbilityTaskWaitGameplayEffectAppliedSelf data = 2;
 }

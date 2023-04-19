@@ -5,6 +5,6 @@ package unreal.generated.replicatedstartupactor.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21546];
+	optional uint32 msg_cid = 1[default = 21551];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

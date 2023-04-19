@@ -6,7 +6,7 @@ package unreal.generated.pointlight;
 import "unreal/gdk/core_types.proto";
 
 message PointLight {
-	optional uint32 msg_cid = 1[default = 13929];
+	optional uint32 msg_cid = 1[default = 13934];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message PointLight {
 }
 
 message PointLightServerOnly {
-	optional uint32 msg_cid = 1[default = 13930];
+	optional uint32 msg_cid = 1[default = 13935];
 	 optional bool bactorenablecollision = 6;
 }

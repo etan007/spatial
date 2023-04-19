@@ -6,7 +6,7 @@ package unreal.generated.paperspriteactor;
 import "unreal/gdk/core_types.proto";
 
 message PaperSpriteActor {
-	optional uint32 msg_cid = 1[default = 20855];
+	optional uint32 msg_cid = 1[default = 20860];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PaperSpriteActor {
 }
 
 message PaperSpriteActorServerOnly {
-	optional uint32 msg_cid = 1[default = 20856];
+	optional uint32 msg_cid = 1[default = 20861];
 	 optional bool bactorenablecollision = 6;
 }

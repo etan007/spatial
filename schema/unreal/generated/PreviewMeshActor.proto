@@ -6,7 +6,7 @@ package unreal.generated.previewmeshactor;
 import "unreal/gdk/core_types.proto";
 
 message PreviewMeshActor {
-	optional uint32 msg_cid = 1[default = 20118];
+	optional uint32 msg_cid = 1[default = 20123];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PreviewMeshActor {
 }
 
 message PreviewMeshActorServerOnly {
-	optional uint32 msg_cid = 1[default = 20119];
+	optional uint32 msg_cid = 1[default = 20124];
 	 optional bool bactorenablecollision = 6;
 }

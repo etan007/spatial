@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/GeometryCollectionComponent.proto";
 import "unreal/generated/Subobjects/ChaosGameplayEventDispatcher.proto";
 
 message GeometryCollectionComponent0 {
-	optional uint32 msg_cid = 1[default = 17740];
+	optional uint32 msg_cid = 1[default = 17745];
 	optional unreal.generated.GeometryCollectionComponent data = 2;
 }
 
 message GameplayEventDispatcher {
-	optional uint32 msg_cid = 1[default = 17741];
+	optional uint32 msg_cid = 1[default = 17746];
 	optional unreal.generated.ChaosGameplayEventDispatcher data = 2;
 }

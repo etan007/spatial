@@ -5,6 +5,6 @@ package unreal.generated.rectlight.subobjects;
 import "unreal/generated/Subobjects/RectLightComponent.proto";
 
 message LightComponent0 {
-	optional uint32 msg_cid = 1[default = 14156];
+	optional uint32 msg_cid = 1[default = 14161];
 	optional unreal.generated.RectLightComponent data = 2;
 }

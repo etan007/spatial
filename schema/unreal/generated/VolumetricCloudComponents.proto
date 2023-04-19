@@ -5,6 +5,6 @@ package unreal.generated.volumetriccloud.subobjects;
 import "unreal/generated/Subobjects/VolumetricCloudComponent.proto";
 
 message VolumetricCloudComponent {
-	optional uint32 msg_cid = 1[default = 14869];
+	optional uint32 msg_cid = 1[default = 14874];
 	optional unreal.generated.VolumetricCloudComponent data = 2;
 }

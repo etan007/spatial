@@ -15,86 +15,86 @@ import "unreal/generated/Subobjects/WXMovementComponent.proto";
 import "unreal/generated/Subobjects/CapsuleComponent.proto";
 
 message AbilitySystemComponent {
-	optional uint32 msg_cid = 1[default = 23856];
+	optional uint32 msg_cid = 1[default = 23861];
 	optional unreal.generated.WXAbilitySystemComponent data = 2;
 }
 
 message AbilitySystemComponentOwnerOnly {
-	optional uint32 msg_cid = 1[default = 23857];
+	optional uint32 msg_cid = 1[default = 23862];
 	optional unreal.generated.WXAbilitySystemComponentOwnerOnly data = 2;
 }
 
 message HealthComponent {
-	optional uint32 msg_cid = 1[default = 23858];
+	optional uint32 msg_cid = 1[default = 23863];
 	optional unreal.generated.WXHealthComponent data = 2;
 }
 
 message InventoryComponent {
-	optional uint32 msg_cid = 1[default = 23859];
+	optional uint32 msg_cid = 1[default = 23864];
 	optional unreal.generated.InventoryComponent data = 2;
 }
 
 message InventoryComponentOwnerOnly {
-	optional uint32 msg_cid = 1[default = 23860];
+	optional uint32 msg_cid = 1[default = 23865];
 	optional unreal.generated.InventoryComponentOwnerOnly data = 2;
 }
 
 message SkillComponent {
-	optional uint32 msg_cid = 1[default = 23861];
+	optional uint32 msg_cid = 1[default = 23866];
 	optional unreal.generated.WXSkillComponent data = 2;
 }
 
 message SkillComponentOwnerOnly {
-	optional uint32 msg_cid = 1[default = 23862];
+	optional uint32 msg_cid = 1[default = 23867];
 	optional unreal.generated.WXSkillComponentOwnerOnly data = 2;
 }
 
 message BuffComponent {
-	optional uint32 msg_cid = 1[default = 23863];
+	optional uint32 msg_cid = 1[default = 23868];
 	optional unreal.generated.WXBuffComponent data = 2;
 }
 
 message HeadUIComponent {
-	optional uint32 msg_cid = 1[default = 23864];
+	optional uint32 msg_cid = 1[default = 23869];
 	optional unreal.generated.WXInteractWidgetComponent data = 2;
 }
 
 message InteractComponent {
-	optional uint32 msg_cid = 1[default = 23865];
+	optional uint32 msg_cid = 1[default = 23870];
 	optional unreal.generated.WXInteractComponent data = 2;
 }
 
 message InteractComponentOwnerOnly {
-	optional uint32 msg_cid = 1[default = 23866];
+	optional uint32 msg_cid = 1[default = 23871];
 	optional unreal.generated.WXInteractComponentOwnerOnly data = 2;
 }
 
 message EquipementComponent {
-	optional uint32 msg_cid = 1[default = 25890];
+	optional uint32 msg_cid = 1[default = 23872];
 	optional unreal.generated.WXEquipmentComponentBase data = 2;
 }
 
 message EquipementComponentOwnerOnly {
-	optional uint32 msg_cid = 1[default = 25891];
+	optional uint32 msg_cid = 1[default = 23873];
 	optional unreal.generated.WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message CharacterMesh0 {
-	optional uint32 msg_cid = 1[default = 23867];
+	optional uint32 msg_cid = 1[default = 23874];
 	optional unreal.generated.SkeletalMeshComponent data = 2;
 }
 
 message CharMoveComp {
-	optional uint32 msg_cid = 1[default = 23868];
+	optional uint32 msg_cid = 1[default = 23875];
 	optional unreal.generated.WXMovementComponent data = 2;
 }
 
 message CharMoveCompServerOnly {
-	optional uint32 msg_cid = 1[default = 23869];
+	optional uint32 msg_cid = 1[default = 23876];
 	optional unreal.generated.WXMovementComponentServerOnly data = 2;
 }
 
 message CollisionCylinder {
-	optional uint32 msg_cid = 1[default = 23870];
+	optional uint32 msg_cid = 1[default = 23877];
 	optional unreal.generated.CapsuleComponent data = 2;
 }

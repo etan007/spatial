@@ -16,301 +16,301 @@ message WXEquipmentComponentBaseOwnerOnly {
 }
 
 message WXEquipmentComponentBaseDynamic1 {
-	optional uint32 msg_cid = 1[default = 25823];
+	optional uint32 msg_cid = 1[default = 24028];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic1 {
-	optional uint32 msg_cid = 1[default = 25824];
+	optional uint32 msg_cid = 1[default = 24029];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic2 {
-	optional uint32 msg_cid = 1[default = 25825];
+	optional uint32 msg_cid = 1[default = 24030];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic2 {
-	optional uint32 msg_cid = 1[default = 25826];
+	optional uint32 msg_cid = 1[default = 24031];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic3 {
-	optional uint32 msg_cid = 1[default = 25827];
+	optional uint32 msg_cid = 1[default = 24032];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic3 {
-	optional uint32 msg_cid = 1[default = 25828];
+	optional uint32 msg_cid = 1[default = 24033];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic4 {
-	optional uint32 msg_cid = 1[default = 25829];
+	optional uint32 msg_cid = 1[default = 24034];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic4 {
-	optional uint32 msg_cid = 1[default = 25830];
+	optional uint32 msg_cid = 1[default = 24035];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic5 {
-	optional uint32 msg_cid = 1[default = 25831];
+	optional uint32 msg_cid = 1[default = 24036];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic5 {
-	optional uint32 msg_cid = 1[default = 25832];
+	optional uint32 msg_cid = 1[default = 24037];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic6 {
-	optional uint32 msg_cid = 1[default = 25833];
+	optional uint32 msg_cid = 1[default = 24038];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic6 {
-	optional uint32 msg_cid = 1[default = 25834];
+	optional uint32 msg_cid = 1[default = 24039];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic7 {
-	optional uint32 msg_cid = 1[default = 25835];
+	optional uint32 msg_cid = 1[default = 24040];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic7 {
-	optional uint32 msg_cid = 1[default = 25836];
+	optional uint32 msg_cid = 1[default = 24041];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic8 {
-	optional uint32 msg_cid = 1[default = 25837];
+	optional uint32 msg_cid = 1[default = 24042];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic8 {
-	optional uint32 msg_cid = 1[default = 25838];
+	optional uint32 msg_cid = 1[default = 24043];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic9 {
-	optional uint32 msg_cid = 1[default = 25839];
+	optional uint32 msg_cid = 1[default = 24044];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic9 {
-	optional uint32 msg_cid = 1[default = 25840];
+	optional uint32 msg_cid = 1[default = 24045];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic10 {
-	optional uint32 msg_cid = 1[default = 25841];
+	optional uint32 msg_cid = 1[default = 24046];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic10 {
-	optional uint32 msg_cid = 1[default = 25842];
+	optional uint32 msg_cid = 1[default = 24047];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic11 {
-	optional uint32 msg_cid = 1[default = 25843];
+	optional uint32 msg_cid = 1[default = 24048];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic11 {
-	optional uint32 msg_cid = 1[default = 25844];
+	optional uint32 msg_cid = 1[default = 24049];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic12 {
-	optional uint32 msg_cid = 1[default = 25845];
+	optional uint32 msg_cid = 1[default = 24050];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic12 {
-	optional uint32 msg_cid = 1[default = 25846];
+	optional uint32 msg_cid = 1[default = 24051];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic13 {
-	optional uint32 msg_cid = 1[default = 25847];
+	optional uint32 msg_cid = 1[default = 24052];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic13 {
-	optional uint32 msg_cid = 1[default = 25848];
+	optional uint32 msg_cid = 1[default = 24053];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic14 {
-	optional uint32 msg_cid = 1[default = 25849];
+	optional uint32 msg_cid = 1[default = 24054];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic14 {
-	optional uint32 msg_cid = 1[default = 25850];
+	optional uint32 msg_cid = 1[default = 24055];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic15 {
-	optional uint32 msg_cid = 1[default = 25851];
+	optional uint32 msg_cid = 1[default = 24056];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic15 {
-	optional uint32 msg_cid = 1[default = 25852];
+	optional uint32 msg_cid = 1[default = 24057];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic16 {
-	optional uint32 msg_cid = 1[default = 25853];
+	optional uint32 msg_cid = 1[default = 24058];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic16 {
-	optional uint32 msg_cid = 1[default = 25854];
+	optional uint32 msg_cid = 1[default = 24059];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic17 {
-	optional uint32 msg_cid = 1[default = 25855];
+	optional uint32 msg_cid = 1[default = 24060];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic17 {
-	optional uint32 msg_cid = 1[default = 25856];
+	optional uint32 msg_cid = 1[default = 24061];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic18 {
-	optional uint32 msg_cid = 1[default = 25857];
+	optional uint32 msg_cid = 1[default = 24062];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic18 {
-	optional uint32 msg_cid = 1[default = 25858];
+	optional uint32 msg_cid = 1[default = 24063];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic19 {
-	optional uint32 msg_cid = 1[default = 25859];
+	optional uint32 msg_cid = 1[default = 24064];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic19 {
-	optional uint32 msg_cid = 1[default = 25860];
+	optional uint32 msg_cid = 1[default = 24065];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic20 {
-	optional uint32 msg_cid = 1[default = 25861];
+	optional uint32 msg_cid = 1[default = 24066];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic20 {
-	optional uint32 msg_cid = 1[default = 25862];
+	optional uint32 msg_cid = 1[default = 24067];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic21 {
-	optional uint32 msg_cid = 1[default = 25863];
+	optional uint32 msg_cid = 1[default = 24068];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic21 {
-	optional uint32 msg_cid = 1[default = 25864];
+	optional uint32 msg_cid = 1[default = 24069];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic22 {
-	optional uint32 msg_cid = 1[default = 25865];
+	optional uint32 msg_cid = 1[default = 24070];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic22 {
-	optional uint32 msg_cid = 1[default = 25866];
+	optional uint32 msg_cid = 1[default = 24071];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic23 {
-	optional uint32 msg_cid = 1[default = 25867];
+	optional uint32 msg_cid = 1[default = 24072];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic23 {
-	optional uint32 msg_cid = 1[default = 25868];
+	optional uint32 msg_cid = 1[default = 24073];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic24 {
-	optional uint32 msg_cid = 1[default = 25869];
+	optional uint32 msg_cid = 1[default = 24074];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic24 {
-	optional uint32 msg_cid = 1[default = 25870];
+	optional uint32 msg_cid = 1[default = 24075];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic25 {
-	optional uint32 msg_cid = 1[default = 25871];
+	optional uint32 msg_cid = 1[default = 24076];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic25 {
-	optional uint32 msg_cid = 1[default = 25872];
+	optional uint32 msg_cid = 1[default = 24077];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic26 {
-	optional uint32 msg_cid = 1[default = 25873];
+	optional uint32 msg_cid = 1[default = 24078];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic26 {
-	optional uint32 msg_cid = 1[default = 25874];
+	optional uint32 msg_cid = 1[default = 24079];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic27 {
-	optional uint32 msg_cid = 1[default = 25875];
+	optional uint32 msg_cid = 1[default = 24080];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic27 {
-	optional uint32 msg_cid = 1[default = 25876];
+	optional uint32 msg_cid = 1[default = 24081];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic28 {
-	optional uint32 msg_cid = 1[default = 25877];
+	optional uint32 msg_cid = 1[default = 24082];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic28 {
-	optional uint32 msg_cid = 1[default = 25878];
+	optional uint32 msg_cid = 1[default = 24083];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic29 {
-	optional uint32 msg_cid = 1[default = 25879];
+	optional uint32 msg_cid = 1[default = 24084];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic29 {
-	optional uint32 msg_cid = 1[default = 25880];
+	optional uint32 msg_cid = 1[default = 24085];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }
 
 message WXEquipmentComponentBaseDynamic30 {
-	optional uint32 msg_cid = 1[default = 25881];
+	optional uint32 msg_cid = 1[default = 24086];
 	optional WXEquipmentComponentBase data = 2;
 }
 
 message WXEquipmentComponentBaseOwnerOnlyDynamic30 {
-	optional uint32 msg_cid = 1[default = 25882];
+	optional uint32 msg_cid = 1[default = 24087];
 	optional WXEquipmentComponentBaseOwnerOnly data = 2;
 }

@@ -7,151 +7,151 @@ message GameplayTask {
 }
 
 message GameplayTaskDynamic1 {
-	optional uint32 msg_cid = 1[default = 17495];
-	optional GameplayTask data = 2;
-}
-
-message GameplayTaskDynamic2 {
-	optional uint32 msg_cid = 1[default = 17496];
-	optional GameplayTask data = 2;
-}
-
-message GameplayTaskDynamic3 {
-	optional uint32 msg_cid = 1[default = 17497];
-	optional GameplayTask data = 2;
-}
-
-message GameplayTaskDynamic4 {
-	optional uint32 msg_cid = 1[default = 17498];
-	optional GameplayTask data = 2;
-}
-
-message GameplayTaskDynamic5 {
-	optional uint32 msg_cid = 1[default = 17499];
-	optional GameplayTask data = 2;
-}
-
-message GameplayTaskDynamic6 {
 	optional uint32 msg_cid = 1[default = 17500];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic7 {
+message GameplayTaskDynamic2 {
 	optional uint32 msg_cid = 1[default = 17501];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic8 {
+message GameplayTaskDynamic3 {
 	optional uint32 msg_cid = 1[default = 17502];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic9 {
+message GameplayTaskDynamic4 {
 	optional uint32 msg_cid = 1[default = 17503];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic10 {
+message GameplayTaskDynamic5 {
 	optional uint32 msg_cid = 1[default = 17504];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic11 {
+message GameplayTaskDynamic6 {
 	optional uint32 msg_cid = 1[default = 17505];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic12 {
+message GameplayTaskDynamic7 {
 	optional uint32 msg_cid = 1[default = 17506];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic13 {
+message GameplayTaskDynamic8 {
 	optional uint32 msg_cid = 1[default = 17507];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic14 {
+message GameplayTaskDynamic9 {
 	optional uint32 msg_cid = 1[default = 17508];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic15 {
+message GameplayTaskDynamic10 {
 	optional uint32 msg_cid = 1[default = 17509];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic16 {
+message GameplayTaskDynamic11 {
 	optional uint32 msg_cid = 1[default = 17510];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic17 {
+message GameplayTaskDynamic12 {
 	optional uint32 msg_cid = 1[default = 17511];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic18 {
+message GameplayTaskDynamic13 {
 	optional uint32 msg_cid = 1[default = 17512];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic19 {
+message GameplayTaskDynamic14 {
 	optional uint32 msg_cid = 1[default = 17513];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic20 {
+message GameplayTaskDynamic15 {
 	optional uint32 msg_cid = 1[default = 17514];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic21 {
+message GameplayTaskDynamic16 {
 	optional uint32 msg_cid = 1[default = 17515];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic22 {
+message GameplayTaskDynamic17 {
 	optional uint32 msg_cid = 1[default = 17516];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic23 {
+message GameplayTaskDynamic18 {
 	optional uint32 msg_cid = 1[default = 17517];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic24 {
+message GameplayTaskDynamic19 {
 	optional uint32 msg_cid = 1[default = 17518];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic25 {
+message GameplayTaskDynamic20 {
 	optional uint32 msg_cid = 1[default = 17519];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic26 {
+message GameplayTaskDynamic21 {
 	optional uint32 msg_cid = 1[default = 17520];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic27 {
+message GameplayTaskDynamic22 {
 	optional uint32 msg_cid = 1[default = 17521];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic28 {
+message GameplayTaskDynamic23 {
 	optional uint32 msg_cid = 1[default = 17522];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic29 {
+message GameplayTaskDynamic24 {
 	optional uint32 msg_cid = 1[default = 17523];
 	optional GameplayTask data = 2;
 }
 
-message GameplayTaskDynamic30 {
+message GameplayTaskDynamic25 {
 	optional uint32 msg_cid = 1[default = 17524];
+	optional GameplayTask data = 2;
+}
+
+message GameplayTaskDynamic26 {
+	optional uint32 msg_cid = 1[default = 17525];
+	optional GameplayTask data = 2;
+}
+
+message GameplayTaskDynamic27 {
+	optional uint32 msg_cid = 1[default = 17526];
+	optional GameplayTask data = 2;
+}
+
+message GameplayTaskDynamic28 {
+	optional uint32 msg_cid = 1[default = 17527];
+	optional GameplayTask data = 2;
+}
+
+message GameplayTaskDynamic29 {
+	optional uint32 msg_cid = 1[default = 17528];
+	optional GameplayTask data = 2;
+}
+
+message GameplayTaskDynamic30 {
+	optional uint32 msg_cid = 1[default = 17529];
 	optional GameplayTask data = 2;
 }

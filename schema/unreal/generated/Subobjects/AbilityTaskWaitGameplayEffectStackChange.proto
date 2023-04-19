@@ -7,151 +7,151 @@ message AbilityTaskWaitGameplayEffectStackChange {
 }
 
 message AbilityTaskWaitGameplayEffectStackChangeDynamic1 {
-	optional uint32 msg_cid = 1[default = 16956];
-	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectStackChangeDynamic2 {
-	optional uint32 msg_cid = 1[default = 16957];
-	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectStackChangeDynamic3 {
-	optional uint32 msg_cid = 1[default = 16958];
-	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectStackChangeDynamic4 {
-	optional uint32 msg_cid = 1[default = 16959];
-	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectStackChangeDynamic5 {
-	optional uint32 msg_cid = 1[default = 16960];
-	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectStackChangeDynamic6 {
 	optional uint32 msg_cid = 1[default = 16961];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic7 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic2 {
 	optional uint32 msg_cid = 1[default = 16962];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic8 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic3 {
 	optional uint32 msg_cid = 1[default = 16963];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic9 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic4 {
 	optional uint32 msg_cid = 1[default = 16964];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic10 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic5 {
 	optional uint32 msg_cid = 1[default = 16965];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic11 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic6 {
 	optional uint32 msg_cid = 1[default = 16966];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic12 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic7 {
 	optional uint32 msg_cid = 1[default = 16967];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic13 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic8 {
 	optional uint32 msg_cid = 1[default = 16968];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic14 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic9 {
 	optional uint32 msg_cid = 1[default = 16969];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic15 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic10 {
 	optional uint32 msg_cid = 1[default = 16970];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic16 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic11 {
 	optional uint32 msg_cid = 1[default = 16971];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic17 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic12 {
 	optional uint32 msg_cid = 1[default = 16972];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic18 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic13 {
 	optional uint32 msg_cid = 1[default = 16973];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic19 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic14 {
 	optional uint32 msg_cid = 1[default = 16974];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic20 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic15 {
 	optional uint32 msg_cid = 1[default = 16975];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic21 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic16 {
 	optional uint32 msg_cid = 1[default = 16976];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic22 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic17 {
 	optional uint32 msg_cid = 1[default = 16977];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic23 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic18 {
 	optional uint32 msg_cid = 1[default = 16978];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic24 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic19 {
 	optional uint32 msg_cid = 1[default = 16979];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic25 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic20 {
 	optional uint32 msg_cid = 1[default = 16980];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic26 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic21 {
 	optional uint32 msg_cid = 1[default = 16981];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic27 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic22 {
 	optional uint32 msg_cid = 1[default = 16982];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic28 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic23 {
 	optional uint32 msg_cid = 1[default = 16983];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic29 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic24 {
 	optional uint32 msg_cid = 1[default = 16984];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectStackChangeDynamic30 {
+message AbilityTaskWaitGameplayEffectStackChangeDynamic25 {
 	optional uint32 msg_cid = 1[default = 16985];
+	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectStackChangeDynamic26 {
+	optional uint32 msg_cid = 1[default = 16986];
+	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectStackChangeDynamic27 {
+	optional uint32 msg_cid = 1[default = 16987];
+	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectStackChangeDynamic28 {
+	optional uint32 msg_cid = 1[default = 16988];
+	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectStackChangeDynamic29 {
+	optional uint32 msg_cid = 1[default = 16989];
+	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectStackChangeDynamic30 {
+	optional uint32 msg_cid = 1[default = 16990];
 	optional AbilityTaskWaitGameplayEffectStackChange data = 2;
 }

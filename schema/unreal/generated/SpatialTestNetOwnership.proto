@@ -6,7 +6,7 @@ package unreal.generated.spatialtestnetownership;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestNetOwnership {
-	optional uint32 msg_cid = 1[default = 21916];
+	optional uint32 msg_cid = 1[default = 21921];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialTestNetOwnership {
 }
 
 message SpatialTestNetOwnershipServerOnly {
-	optional uint32 msg_cid = 1[default = 21917];
+	optional uint32 msg_cid = 1[default = 21922];
 	 optional bool bactorenablecollision = 6;
 }

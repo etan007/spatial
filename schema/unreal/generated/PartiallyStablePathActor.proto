@@ -6,7 +6,7 @@ package unreal.generated.partiallystablepathactor;
 import "unreal/gdk/core_types.proto";
 
 message PartiallyStablePathActor {
-	optional uint32 msg_cid = 1[default = 21508];
+	optional uint32 msg_cid = 1[default = 21513];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PartiallyStablePathActor {
 }
 
 message PartiallyStablePathActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21509];
+	optional uint32 msg_cid = 1[default = 21514];
 	 optional bool bactorenablecollision = 6;
 }

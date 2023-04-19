@@ -6,7 +6,7 @@ package unreal.generated.dormancyandtombstonetest;
 import "unreal/gdk/core_types.proto";
 
 message DormancyAndTombstoneTest {
-	optional uint32 msg_cid = 1[default = 21383];
+	optional uint32 msg_cid = 1[default = 21388];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message DormancyAndTombstoneTest {
 }
 
 message DormancyAndTombstoneTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21384];
+	optional uint32 msg_cid = 1[default = 21389];
 	 optional bool bactorenablecollision = 6;
 }

@@ -5,6 +5,6 @@ package unreal.generated.generatedmesharealight.subobjects;
 import "unreal/generated/Subobjects/SpotLightComponent.proto";
 
 message LightComponent0 {
-	optional uint32 msg_cid = 1[default = 12910];
+	optional uint32 msg_cid = 1[default = 12915];
 	optional unreal.generated.SpotLightComponent data = 2;
 }

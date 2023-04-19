@@ -26,151 +26,151 @@ message RuntimeVirtualTextureComponent {
 }
 
 message RuntimeVirtualTextureComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 14281];
-	optional RuntimeVirtualTextureComponent data = 2;
-}
-
-message RuntimeVirtualTextureComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 14282];
-	optional RuntimeVirtualTextureComponent data = 2;
-}
-
-message RuntimeVirtualTextureComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 14283];
-	optional RuntimeVirtualTextureComponent data = 2;
-}
-
-message RuntimeVirtualTextureComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 14284];
-	optional RuntimeVirtualTextureComponent data = 2;
-}
-
-message RuntimeVirtualTextureComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 14285];
-	optional RuntimeVirtualTextureComponent data = 2;
-}
-
-message RuntimeVirtualTextureComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 14286];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic7 {
+message RuntimeVirtualTextureComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 14287];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic8 {
+message RuntimeVirtualTextureComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 14288];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic9 {
+message RuntimeVirtualTextureComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 14289];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic10 {
+message RuntimeVirtualTextureComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 14290];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic11 {
+message RuntimeVirtualTextureComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 14291];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic12 {
+message RuntimeVirtualTextureComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 14292];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic13 {
+message RuntimeVirtualTextureComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 14293];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic14 {
+message RuntimeVirtualTextureComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 14294];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic15 {
+message RuntimeVirtualTextureComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 14295];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic16 {
+message RuntimeVirtualTextureComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 14296];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic17 {
+message RuntimeVirtualTextureComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 14297];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic18 {
+message RuntimeVirtualTextureComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 14298];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic19 {
+message RuntimeVirtualTextureComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 14299];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic20 {
+message RuntimeVirtualTextureComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 14300];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic21 {
+message RuntimeVirtualTextureComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 14301];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic22 {
+message RuntimeVirtualTextureComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 14302];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic23 {
+message RuntimeVirtualTextureComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 14303];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic24 {
+message RuntimeVirtualTextureComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 14304];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic25 {
+message RuntimeVirtualTextureComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 14305];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic26 {
+message RuntimeVirtualTextureComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 14306];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic27 {
+message RuntimeVirtualTextureComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 14307];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic28 {
+message RuntimeVirtualTextureComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 14308];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic29 {
+message RuntimeVirtualTextureComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 14309];
 	optional RuntimeVirtualTextureComponent data = 2;
 }
 
-message RuntimeVirtualTextureComponentDynamic30 {
+message RuntimeVirtualTextureComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 14310];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14311];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14312];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14313];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14314];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14315];
 	optional RuntimeVirtualTextureComponent data = 2;
 }

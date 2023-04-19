@@ -6,7 +6,7 @@ package unreal.generated.spatialtestloadbalancingdataoffloadedactor;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestLoadBalancingDataOffloadedActor {
-	optional uint32 msg_cid = 1[default = 21905];
+	optional uint32 msg_cid = 1[default = 21910];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message SpatialTestLoadBalancingDataOffloadedActor {
 }
 
 message SpatialTestLoadBalancingDataOffloadedActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21906];
+	optional uint32 msg_cid = 1[default = 21911];
 	 optional bool bactorenablecollision = 6;
 }

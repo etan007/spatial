@@ -5,6 +5,6 @@ package unreal.generated.precomputedvisibilityoverridevolume.subobjects;
 import "unreal/generated/Subobjects/BrushComponent.proto";
 
 message BrushComponent0 {
-	optional uint32 msg_cid = 1[default = 14027];
+	optional uint32 msg_cid = 1[default = 14032];
 	optional unreal.generated.BrushComponent data = 2;
 }

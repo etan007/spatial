@@ -26,151 +26,151 @@ message PivotTranslationGizmoHandleGroup {
 }
 
 message PivotTranslationGizmoHandleGroupDynamic1 {
-	optional uint32 msg_cid = 1[default = 23370];
-	optional PivotTranslationGizmoHandleGroup data = 2;
-}
-
-message PivotTranslationGizmoHandleGroupDynamic2 {
-	optional uint32 msg_cid = 1[default = 23371];
-	optional PivotTranslationGizmoHandleGroup data = 2;
-}
-
-message PivotTranslationGizmoHandleGroupDynamic3 {
-	optional uint32 msg_cid = 1[default = 23372];
-	optional PivotTranslationGizmoHandleGroup data = 2;
-}
-
-message PivotTranslationGizmoHandleGroupDynamic4 {
-	optional uint32 msg_cid = 1[default = 23373];
-	optional PivotTranslationGizmoHandleGroup data = 2;
-}
-
-message PivotTranslationGizmoHandleGroupDynamic5 {
-	optional uint32 msg_cid = 1[default = 23374];
-	optional PivotTranslationGizmoHandleGroup data = 2;
-}
-
-message PivotTranslationGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23375];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic7 {
+message PivotTranslationGizmoHandleGroupDynamic2 {
 	optional uint32 msg_cid = 1[default = 23376];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic8 {
+message PivotTranslationGizmoHandleGroupDynamic3 {
 	optional uint32 msg_cid = 1[default = 23377];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic9 {
+message PivotTranslationGizmoHandleGroupDynamic4 {
 	optional uint32 msg_cid = 1[default = 23378];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic10 {
+message PivotTranslationGizmoHandleGroupDynamic5 {
 	optional uint32 msg_cid = 1[default = 23379];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic11 {
+message PivotTranslationGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23380];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic12 {
+message PivotTranslationGizmoHandleGroupDynamic7 {
 	optional uint32 msg_cid = 1[default = 23381];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic13 {
+message PivotTranslationGizmoHandleGroupDynamic8 {
 	optional uint32 msg_cid = 1[default = 23382];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic14 {
+message PivotTranslationGizmoHandleGroupDynamic9 {
 	optional uint32 msg_cid = 1[default = 23383];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic15 {
+message PivotTranslationGizmoHandleGroupDynamic10 {
 	optional uint32 msg_cid = 1[default = 23384];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic16 {
+message PivotTranslationGizmoHandleGroupDynamic11 {
 	optional uint32 msg_cid = 1[default = 23385];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic17 {
+message PivotTranslationGizmoHandleGroupDynamic12 {
 	optional uint32 msg_cid = 1[default = 23386];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic18 {
+message PivotTranslationGizmoHandleGroupDynamic13 {
 	optional uint32 msg_cid = 1[default = 23387];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic19 {
+message PivotTranslationGizmoHandleGroupDynamic14 {
 	optional uint32 msg_cid = 1[default = 23388];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic20 {
+message PivotTranslationGizmoHandleGroupDynamic15 {
 	optional uint32 msg_cid = 1[default = 23389];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic21 {
+message PivotTranslationGizmoHandleGroupDynamic16 {
 	optional uint32 msg_cid = 1[default = 23390];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic22 {
+message PivotTranslationGizmoHandleGroupDynamic17 {
 	optional uint32 msg_cid = 1[default = 23391];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic23 {
+message PivotTranslationGizmoHandleGroupDynamic18 {
 	optional uint32 msg_cid = 1[default = 23392];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic24 {
+message PivotTranslationGizmoHandleGroupDynamic19 {
 	optional uint32 msg_cid = 1[default = 23393];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic25 {
+message PivotTranslationGizmoHandleGroupDynamic20 {
 	optional uint32 msg_cid = 1[default = 23394];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic26 {
+message PivotTranslationGizmoHandleGroupDynamic21 {
 	optional uint32 msg_cid = 1[default = 23395];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic27 {
+message PivotTranslationGizmoHandleGroupDynamic22 {
 	optional uint32 msg_cid = 1[default = 23396];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic28 {
+message PivotTranslationGizmoHandleGroupDynamic23 {
 	optional uint32 msg_cid = 1[default = 23397];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic29 {
+message PivotTranslationGizmoHandleGroupDynamic24 {
 	optional uint32 msg_cid = 1[default = 23398];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }
 
-message PivotTranslationGizmoHandleGroupDynamic30 {
+message PivotTranslationGizmoHandleGroupDynamic25 {
 	optional uint32 msg_cid = 1[default = 23399];
+	optional PivotTranslationGizmoHandleGroup data = 2;
+}
+
+message PivotTranslationGizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23400];
+	optional PivotTranslationGizmoHandleGroup data = 2;
+}
+
+message PivotTranslationGizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23401];
+	optional PivotTranslationGizmoHandleGroup data = 2;
+}
+
+message PivotTranslationGizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23402];
+	optional PivotTranslationGizmoHandleGroup data = 2;
+}
+
+message PivotTranslationGizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23403];
+	optional PivotTranslationGizmoHandleGroup data = 2;
+}
+
+message PivotTranslationGizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23404];
 	optional PivotTranslationGizmoHandleGroup data = 2;
 }

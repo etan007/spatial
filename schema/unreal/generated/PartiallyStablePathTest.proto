@@ -6,7 +6,7 @@ package unreal.generated.partiallystablepathtest;
 import "unreal/gdk/core_types.proto";
 
 message PartiallyStablePathTest {
-	optional uint32 msg_cid = 1[default = 21519];
+	optional uint32 msg_cid = 1[default = 21524];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message PartiallyStablePathTest {
 }
 
 message PartiallyStablePathTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21520];
+	optional uint32 msg_cid = 1[default = 21525];
 	 optional bool bactorenablecollision = 6;
 }

@@ -5,6 +5,6 @@ package unreal.generated.groupactor.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message GroupComponent {
-	optional uint32 msg_cid = 1[default = 22840];
+	optional uint32 msg_cid = 1[default = 22845];
 	optional unreal.generated.SceneComponent data = 2;
 }

@@ -5,6 +5,6 @@ package unreal.generated.spatialtestnetreferencesettingsoverride.subobjects;
 import "unreal/generated/Subobjects/BillboardComponent.proto";
 
 message Sprite {
-	optional uint32 msg_cid = 1[default = 21924];
+	optional uint32 msg_cid = 1[default = 21929];
 	optional unreal.generated.BillboardComponent data = 2;
 }

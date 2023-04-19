@@ -5,6 +5,6 @@ package unreal.generated.papertilemapactor.subobjects;
 import "unreal/generated/Subobjects/PaperTileMapComponent.proto";
 
 message RenderComponent {
-	optional uint32 msg_cid = 1[default = 20955];
+	optional uint32 msg_cid = 1[default = 20960];
 	optional unreal.generated.PaperTileMapComponent data = 2;
 }

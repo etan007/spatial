@@ -6,7 +6,7 @@ package unreal.generated.relevancytest;
 import "unreal/gdk/core_types.proto";
 
 message RelevancyTest {
-	optional uint32 msg_cid = 1[default = 21541];
+	optional uint32 msg_cid = 1[default = 21546];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message RelevancyTest {
 }
 
 message RelevancyTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21542];
+	optional uint32 msg_cid = 1[default = 21547];
 	 optional bool bactorenablecollision = 6;
 }

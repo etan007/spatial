@@ -5,6 +5,6 @@ package unreal.generated.partiallystablepathactor.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21510];
+	optional uint32 msg_cid = 1[default = 21515];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

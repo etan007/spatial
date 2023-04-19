@@ -6,7 +6,7 @@ package unreal.generated.wxplayerstate;
 import "unreal/gdk/core_types.proto";
 
 message WXPlayerState {
-	optional uint32 msg_cid = 1[default = 24771];
+	optional uint32 msg_cid = 1[default = 24921];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -37,14 +37,14 @@ message WXPlayerState {
 }
 
 message WXPlayerStateOwnerOnly {
-	optional uint32 msg_cid = 1[default = 24772];
+	optional uint32 msg_cid = 1[default = 24922];
 	 optional uint32 playergamemode = 32;
 	 optional uint32 pvpmode = 33;
 	 optional bytes playershopboxnum = 34;
 }
 
 message WXPlayerStateInitialOnly {
-	optional uint32 msg_cid = 1[default = 24773];
+	optional uint32 msg_cid = 1[default = 24923];
 	 optional int32 playerid = 19;
 	 optional bool bisabot = 23;
 	 optional bool bisinactive = 24;
@@ -52,6 +52,6 @@ message WXPlayerStateInitialOnly {
 }
 
 message WXPlayerStateServerOnly {
-	optional uint32 msg_cid = 1[default = 24774];
+	optional uint32 msg_cid = 1[default = 24924];
 	 optional bool bactorenablecollision = 6;
 }

@@ -6,7 +6,7 @@ package unreal.generated.lightweightinstancemanager;
 import "unreal/gdk/core_types.proto";
 
 message LightWeightInstanceManager {
-	optional uint32 msg_cid = 1[default = 13224];
+	optional uint32 msg_cid = 1[default = 13229];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -29,6 +29,6 @@ message LightWeightInstanceManager {
 }
 
 message LightWeightInstanceManagerServerOnly {
-	optional uint32 msg_cid = 1[default = 13225];
+	optional uint32 msg_cid = 1[default = 13230];
 	 optional bool bactorenablecollision = 6;
 }

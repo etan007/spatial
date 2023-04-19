@@ -6,7 +6,7 @@ package unreal.generated.spectatorpawn;
 import "unreal/gdk/core_types.proto";
 
 message SpectatorPawn {
-	optional uint32 msg_cid = 1[default = 14519];
+	optional uint32 msg_cid = 1[default = 14524];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,6 +28,6 @@ message SpectatorPawn {
 }
 
 message SpectatorPawnServerOnly {
-	optional uint32 msg_cid = 1[default = 14520];
+	optional uint32 msg_cid = 1[default = 14525];
 	 optional bool bactorenablecollision = 6;
 }

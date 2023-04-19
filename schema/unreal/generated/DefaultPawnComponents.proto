@@ -7,21 +7,21 @@ import "unreal/generated/Subobjects/SphereComponent.proto";
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message MovementComponent0 {
-	optional uint32 msg_cid = 1[default = 12541];
+	optional uint32 msg_cid = 1[default = 12546];
 	optional unreal.generated.FloatingPawnMovement data = 2;
 }
 
 message MovementComponent0ServerOnly {
-	optional uint32 msg_cid = 1[default = 12542];
+	optional uint32 msg_cid = 1[default = 12547];
 	optional unreal.generated.FloatingPawnMovementServerOnly data = 2;
 }
 
 message CollisionComponent0 {
-	optional uint32 msg_cid = 1[default = 12543];
+	optional uint32 msg_cid = 1[default = 12548];
 	optional unreal.generated.SphereComponent data = 2;
 }
 
 message MeshComponent0 {
-	optional uint32 msg_cid = 1[default = 12544];
+	optional uint32 msg_cid = 1[default = 12549];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

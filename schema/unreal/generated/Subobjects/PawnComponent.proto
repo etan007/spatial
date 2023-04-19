@@ -9,151 +9,151 @@ message PawnComponent {
 }
 
 message PawnComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20240];
-	optional PawnComponent data = 2;
-}
-
-message PawnComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20241];
-	optional PawnComponent data = 2;
-}
-
-message PawnComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20242];
-	optional PawnComponent data = 2;
-}
-
-message PawnComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20243];
-	optional PawnComponent data = 2;
-}
-
-message PawnComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20244];
-	optional PawnComponent data = 2;
-}
-
-message PawnComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20245];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic7 {
+message PawnComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20246];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic8 {
+message PawnComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20247];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic9 {
+message PawnComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20248];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic10 {
+message PawnComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20249];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic11 {
+message PawnComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20250];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic12 {
+message PawnComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20251];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic13 {
+message PawnComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20252];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic14 {
+message PawnComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20253];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic15 {
+message PawnComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20254];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic16 {
+message PawnComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20255];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic17 {
+message PawnComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20256];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic18 {
+message PawnComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20257];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic19 {
+message PawnComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20258];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic20 {
+message PawnComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20259];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic21 {
+message PawnComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20260];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic22 {
+message PawnComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20261];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic23 {
+message PawnComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20262];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic24 {
+message PawnComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20263];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic25 {
+message PawnComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20264];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic26 {
+message PawnComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20265];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic27 {
+message PawnComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20266];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic28 {
+message PawnComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20267];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic29 {
+message PawnComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20268];
 	optional PawnComponent data = 2;
 }
 
-message PawnComponentDynamic30 {
+message PawnComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20269];
+	optional PawnComponent data = 2;
+}
+
+message PawnComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20270];
+	optional PawnComponent data = 2;
+}
+
+message PawnComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20271];
+	optional PawnComponent data = 2;
+}
+
+message PawnComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20272];
+	optional PawnComponent data = 2;
+}
+
+message PawnComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20273];
+	optional PawnComponent data = 2;
+}
+
+message PawnComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20274];
 	optional PawnComponent data = 2;
 }

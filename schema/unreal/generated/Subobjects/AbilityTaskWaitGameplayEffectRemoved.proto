@@ -7,151 +7,151 @@ message AbilityTaskWaitGameplayEffectRemoved {
 }
 
 message AbilityTaskWaitGameplayEffectRemovedDynamic1 {
-	optional uint32 msg_cid = 1[default = 16926];
-	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectRemovedDynamic2 {
-	optional uint32 msg_cid = 1[default = 16927];
-	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectRemovedDynamic3 {
-	optional uint32 msg_cid = 1[default = 16928];
-	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectRemovedDynamic4 {
-	optional uint32 msg_cid = 1[default = 16929];
-	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectRemovedDynamic5 {
-	optional uint32 msg_cid = 1[default = 16930];
-	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
-}
-
-message AbilityTaskWaitGameplayEffectRemovedDynamic6 {
 	optional uint32 msg_cid = 1[default = 16931];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic7 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic2 {
 	optional uint32 msg_cid = 1[default = 16932];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic8 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic3 {
 	optional uint32 msg_cid = 1[default = 16933];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic9 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic4 {
 	optional uint32 msg_cid = 1[default = 16934];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic10 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic5 {
 	optional uint32 msg_cid = 1[default = 16935];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic11 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic6 {
 	optional uint32 msg_cid = 1[default = 16936];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic12 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic7 {
 	optional uint32 msg_cid = 1[default = 16937];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic13 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic8 {
 	optional uint32 msg_cid = 1[default = 16938];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic14 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic9 {
 	optional uint32 msg_cid = 1[default = 16939];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic15 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic10 {
 	optional uint32 msg_cid = 1[default = 16940];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic16 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic11 {
 	optional uint32 msg_cid = 1[default = 16941];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic17 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic12 {
 	optional uint32 msg_cid = 1[default = 16942];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic18 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic13 {
 	optional uint32 msg_cid = 1[default = 16943];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic19 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic14 {
 	optional uint32 msg_cid = 1[default = 16944];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic20 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic15 {
 	optional uint32 msg_cid = 1[default = 16945];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic21 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic16 {
 	optional uint32 msg_cid = 1[default = 16946];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic22 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic17 {
 	optional uint32 msg_cid = 1[default = 16947];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic23 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic18 {
 	optional uint32 msg_cid = 1[default = 16948];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic24 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic19 {
 	optional uint32 msg_cid = 1[default = 16949];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic25 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic20 {
 	optional uint32 msg_cid = 1[default = 16950];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic26 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic21 {
 	optional uint32 msg_cid = 1[default = 16951];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic27 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic22 {
 	optional uint32 msg_cid = 1[default = 16952];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic28 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic23 {
 	optional uint32 msg_cid = 1[default = 16953];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic29 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic24 {
 	optional uint32 msg_cid = 1[default = 16954];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }
 
-message AbilityTaskWaitGameplayEffectRemovedDynamic30 {
+message AbilityTaskWaitGameplayEffectRemovedDynamic25 {
 	optional uint32 msg_cid = 1[default = 16955];
+	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectRemovedDynamic26 {
+	optional uint32 msg_cid = 1[default = 16956];
+	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectRemovedDynamic27 {
+	optional uint32 msg_cid = 1[default = 16957];
+	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectRemovedDynamic28 {
+	optional uint32 msg_cid = 1[default = 16958];
+	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectRemovedDynamic29 {
+	optional uint32 msg_cid = 1[default = 16959];
+	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectRemovedDynamic30 {
+	optional uint32 msg_cid = 1[default = 16960];
 	optional AbilityTaskWaitGameplayEffectRemoved data = 2;
 }

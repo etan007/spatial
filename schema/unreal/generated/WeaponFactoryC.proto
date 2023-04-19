@@ -6,7 +6,7 @@ package unreal.generated.weaponfactoryc;
 import "unreal/gdk/core_types.proto";
 
 message WeaponFactoryC {
-	optional uint32 msg_cid = 1[default = 25410];
+	optional uint32 msg_cid = 1[default = 25676];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -43,6 +43,6 @@ message WeaponFactoryC {
 }
 
 message WeaponFactoryCServerOnly {
-	optional uint32 msg_cid = 1[default = 25411];
+	optional uint32 msg_cid = 1[default = 25677];
 	 optional bool bactorenablecollision = 6;
 }

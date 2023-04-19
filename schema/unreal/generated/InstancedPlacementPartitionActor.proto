@@ -6,7 +6,7 @@ package unreal.generated.instancedplacementpartitionactor;
 import "unreal/gdk/core_types.proto";
 
 message InstancedPlacementPartitionActor {
-	optional uint32 msg_cid = 1[default = 12975];
+	optional uint32 msg_cid = 1[default = 12980];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message InstancedPlacementPartitionActor {
 }
 
 message InstancedPlacementPartitionActorServerOnly {
-	optional uint32 msg_cid = 1[default = 12976];
+	optional uint32 msg_cid = 1[default = 12981];
 	 optional bool bactorenablecollision = 6;
 }

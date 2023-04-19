@@ -5,6 +5,6 @@ package unreal.generated.splinemeshactor.subobjects;
 import "unreal/generated/Subobjects/SplineMeshComponent.proto";
 
 message SplineMeshComponent0 {
-	optional uint32 msg_cid = 1[default = 14621];
+	optional uint32 msg_cid = 1[default = 14626];
 	optional unreal.generated.SplineMeshComponent data = 2;
 }

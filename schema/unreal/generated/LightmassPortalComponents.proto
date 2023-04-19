@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/LightmassPortalComponent.proto";
 import "unreal/generated/Subobjects/BoxComponent.proto";
 
 message PortalComponent {
-	optional uint32 msg_cid = 1[default = 13192];
+	optional uint32 msg_cid = 1[default = 13197];
 	optional unreal.generated.LightmassPortalComponent data = 2;
 }
 
 message DrawBox0 {
-	optional uint32 msg_cid = 1[default = 13193];
+	optional uint32 msg_cid = 1[default = 13198];
 	optional unreal.generated.BoxComponent data = 2;
 }

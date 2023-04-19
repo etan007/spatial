@@ -5,6 +5,6 @@ package unreal.generated.landscapeblueprintbrushbase.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message RootComponent {
-	optional uint32 msg_cid = 1[default = 18584];
+	optional uint32 msg_cid = 1[default = 18589];
 	optional unreal.generated.SceneComponent data = 2;
 }

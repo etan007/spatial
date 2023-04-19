@@ -6,7 +6,7 @@ package unreal.generated.spatialentityinteractiontest;
 import "unreal/gdk/core_types.proto";
 
 message SpatialEntityInteractionTest {
-	optional uint32 msg_cid = 1[default = 21703];
+	optional uint32 msg_cid = 1[default = 21708];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialEntityInteractionTest {
 }
 
 message SpatialEntityInteractionTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21704];
+	optional uint32 msg_cid = 1[default = 21709];
 	 optional bool bactorenablecollision = 6;
 }

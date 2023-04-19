@@ -26,151 +26,151 @@ message NavTestRenderingComponent {
 }
 
 message NavTestRenderingComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 20466];
-	optional NavTestRenderingComponent data = 2;
-}
-
-message NavTestRenderingComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 20467];
-	optional NavTestRenderingComponent data = 2;
-}
-
-message NavTestRenderingComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 20468];
-	optional NavTestRenderingComponent data = 2;
-}
-
-message NavTestRenderingComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 20469];
-	optional NavTestRenderingComponent data = 2;
-}
-
-message NavTestRenderingComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 20470];
-	optional NavTestRenderingComponent data = 2;
-}
-
-message NavTestRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20471];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic7 {
+message NavTestRenderingComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 20472];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic8 {
+message NavTestRenderingComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 20473];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic9 {
+message NavTestRenderingComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 20474];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic10 {
+message NavTestRenderingComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 20475];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic11 {
+message NavTestRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 20476];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic12 {
+message NavTestRenderingComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 20477];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic13 {
+message NavTestRenderingComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 20478];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic14 {
+message NavTestRenderingComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 20479];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic15 {
+message NavTestRenderingComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 20480];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic16 {
+message NavTestRenderingComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 20481];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic17 {
+message NavTestRenderingComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 20482];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic18 {
+message NavTestRenderingComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 20483];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic19 {
+message NavTestRenderingComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 20484];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic20 {
+message NavTestRenderingComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 20485];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic21 {
+message NavTestRenderingComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 20486];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic22 {
+message NavTestRenderingComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 20487];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic23 {
+message NavTestRenderingComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 20488];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic24 {
+message NavTestRenderingComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 20489];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic25 {
+message NavTestRenderingComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 20490];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic26 {
+message NavTestRenderingComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 20491];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic27 {
+message NavTestRenderingComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 20492];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic28 {
+message NavTestRenderingComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 20493];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic29 {
+message NavTestRenderingComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 20494];
 	optional NavTestRenderingComponent data = 2;
 }
 
-message NavTestRenderingComponentDynamic30 {
+message NavTestRenderingComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 20495];
+	optional NavTestRenderingComponent data = 2;
+}
+
+message NavTestRenderingComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20496];
+	optional NavTestRenderingComponent data = 2;
+}
+
+message NavTestRenderingComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20497];
+	optional NavTestRenderingComponent data = 2;
+}
+
+message NavTestRenderingComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20498];
+	optional NavTestRenderingComponent data = 2;
+}
+
+message NavTestRenderingComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20499];
+	optional NavTestRenderingComponent data = 2;
+}
+
+message NavTestRenderingComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20500];
 	optional NavTestRenderingComponent data = 2;
 }

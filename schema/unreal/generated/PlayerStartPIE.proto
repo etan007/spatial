@@ -6,7 +6,7 @@ package unreal.generated.playerstartpie;
 import "unreal/gdk/core_types.proto";
 
 message PlayerStartPIE {
-	optional uint32 msg_cid = 1[default = 13923];
+	optional uint32 msg_cid = 1[default = 13928];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PlayerStartPIE {
 }
 
 message PlayerStartPIEServerOnly {
-	optional uint32 msg_cid = 1[default = 13924];
+	optional uint32 msg_cid = 1[default = 13929];
 	 optional bool bactorenablecollision = 6;
 }

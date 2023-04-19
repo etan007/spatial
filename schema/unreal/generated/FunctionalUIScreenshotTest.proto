@@ -6,7 +6,7 @@ package unreal.generated.functionaluiscreenshottest;
 import "unreal/gdk/core_types.proto";
 
 message FunctionalUIScreenshotTest {
-	optional uint32 msg_cid = 1[default = 15972];
+	optional uint32 msg_cid = 1[default = 15977];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message FunctionalUIScreenshotTest {
 }
 
 message FunctionalUIScreenshotTestServerOnly {
-	optional uint32 msg_cid = 1[default = 15973];
+	optional uint32 msg_cid = 1[default = 15978];
 	 optional bool bactorenablecollision = 6;
 }

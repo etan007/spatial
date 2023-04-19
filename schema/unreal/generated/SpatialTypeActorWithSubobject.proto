@@ -6,7 +6,7 @@ package unreal.generated.spatialtypeactorwithsubobject;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTypeActorWithSubobject {
-	optional uint32 msg_cid = 1[default = 22559];
+	optional uint32 msg_cid = 1[default = 22564];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -26,6 +26,6 @@ message SpatialTypeActorWithSubobject {
 }
 
 message SpatialTypeActorWithSubobjectServerOnly {
-	optional uint32 msg_cid = 1[default = 22560];
+	optional uint32 msg_cid = 1[default = 22565];
 	 optional bool bactorenablecollision = 6;
 }

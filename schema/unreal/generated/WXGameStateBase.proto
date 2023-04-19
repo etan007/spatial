@@ -6,7 +6,7 @@ package unreal.generated.wxgamestatebase;
 import "unreal/gdk/core_types.proto";
 
 message WXGameStateBase {
-	optional uint32 msg_cid = 1[default = 24250];
+	optional uint32 msg_cid = 1[default = 24421];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,11 +30,11 @@ message WXGameStateBase {
 }
 
 message WXGameStateBaseInitialOnly {
-	optional uint32 msg_cid = 1[default = 24251];
+	optional uint32 msg_cid = 1[default = 24422];
 	 optional UnrealObjectRef gamemodeclass = 18;
 }
 
 message WXGameStateBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 24252];
+	optional uint32 msg_cid = 1[default = 24423];
 	 optional bool bactorenablecollision = 6;
 }

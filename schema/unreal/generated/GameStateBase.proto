@@ -6,7 +6,7 @@ package unreal.generated.gamestatebase;
 import "unreal/gdk/core_types.proto";
 
 message GameStateBase {
-	optional uint32 msg_cid = 1[default = 12905];
+	optional uint32 msg_cid = 1[default = 12910];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,11 +28,11 @@ message GameStateBase {
 }
 
 message GameStateBaseInitialOnly {
-	optional uint32 msg_cid = 1[default = 12906];
+	optional uint32 msg_cid = 1[default = 12911];
 	 optional UnrealObjectRef gamemodeclass = 18;
 }
 
 message GameStateBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 12907];
+	optional uint32 msg_cid = 1[default = 12912];
 	 optional bool bactorenablecollision = 6;
 }

@@ -5,6 +5,6 @@ package unreal.generated.landscapemeshproxyactor.subobjects;
 import "unreal/generated/Subobjects/LandscapeMeshProxyComponent.proto";
 
 message LandscapeMeshProxyComponent0 {
-	optional uint32 msg_cid = 1[default = 18713];
+	optional uint32 msg_cid = 1[default = 18718];
 	optional unreal.generated.LandscapeMeshProxyComponent data = 2;
 }

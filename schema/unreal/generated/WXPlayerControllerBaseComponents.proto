@@ -5,6 +5,6 @@ package unreal.generated.wxplayercontrollerbase.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 24734];
+	optional uint32 msg_cid = 1[default = 24884];
 	optional unreal.generated.SceneComponent data = 2;
 }

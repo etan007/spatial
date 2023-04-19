@@ -26,151 +26,151 @@ message TextRenderComponent {
 }
 
 message TextRenderComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 14724];
-	optional TextRenderComponent data = 2;
-}
-
-message TextRenderComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 14725];
-	optional TextRenderComponent data = 2;
-}
-
-message TextRenderComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 14726];
-	optional TextRenderComponent data = 2;
-}
-
-message TextRenderComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 14727];
-	optional TextRenderComponent data = 2;
-}
-
-message TextRenderComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 14728];
-	optional TextRenderComponent data = 2;
-}
-
-message TextRenderComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 14729];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic7 {
+message TextRenderComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 14730];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic8 {
+message TextRenderComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 14731];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic9 {
+message TextRenderComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 14732];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic10 {
+message TextRenderComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 14733];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic11 {
+message TextRenderComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 14734];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic12 {
+message TextRenderComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 14735];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic13 {
+message TextRenderComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 14736];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic14 {
+message TextRenderComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 14737];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic15 {
+message TextRenderComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 14738];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic16 {
+message TextRenderComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 14739];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic17 {
+message TextRenderComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 14740];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic18 {
+message TextRenderComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 14741];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic19 {
+message TextRenderComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 14742];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic20 {
+message TextRenderComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 14743];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic21 {
+message TextRenderComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 14744];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic22 {
+message TextRenderComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 14745];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic23 {
+message TextRenderComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 14746];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic24 {
+message TextRenderComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 14747];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic25 {
+message TextRenderComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 14748];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic26 {
+message TextRenderComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 14749];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic27 {
+message TextRenderComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 14750];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic28 {
+message TextRenderComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 14751];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic29 {
+message TextRenderComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 14752];
 	optional TextRenderComponent data = 2;
 }
 
-message TextRenderComponentDynamic30 {
+message TextRenderComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 14753];
+	optional TextRenderComponent data = 2;
+}
+
+message TextRenderComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14754];
+	optional TextRenderComponent data = 2;
+}
+
+message TextRenderComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14755];
+	optional TextRenderComponent data = 2;
+}
+
+message TextRenderComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14756];
+	optional TextRenderComponent data = 2;
+}
+
+message TextRenderComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14757];
+	optional TextRenderComponent data = 2;
+}
+
+message TextRenderComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14758];
 	optional TextRenderComponent data = 2;
 }

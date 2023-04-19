@@ -6,7 +6,7 @@ package unreal.generated.cubewithreferences;
 import "unreal/gdk/core_types.proto";
 
 message CubeWithReferences {
-	optional uint32 msg_cid = 1[default = 21170];
+	optional uint32 msg_cid = 1[default = 21175];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,6 +27,6 @@ message CubeWithReferences {
 }
 
 message CubeWithReferencesServerOnly {
-	optional uint32 msg_cid = 1[default = 21171];
+	optional uint32 msg_cid = 1[default = 21176];
 	 optional bool bactorenablecollision = 6;
 }

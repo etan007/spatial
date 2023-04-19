@@ -5,6 +5,6 @@ package unreal.generated.geometrycollectionismpoolactor.subobjects;
 import "unreal/generated/Subobjects/GeometryCollectionISMPoolComponent.proto";
 
 message ISMPoolComp {
-	optional uint32 msg_cid = 1[default = 17806];
+	optional uint32 msg_cid = 1[default = 17811];
 	optional unreal.generated.GeometryCollectionISMPoolComponent data = 2;
 }

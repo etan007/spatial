@@ -26,151 +26,151 @@ message SynthSamplePlayer {
 }
 
 message SynthSamplePlayerDynamic1 {
-	optional uint32 msg_cid = 1[default = 22712];
-	optional SynthSamplePlayer data = 2;
-}
-
-message SynthSamplePlayerDynamic2 {
-	optional uint32 msg_cid = 1[default = 22713];
-	optional SynthSamplePlayer data = 2;
-}
-
-message SynthSamplePlayerDynamic3 {
-	optional uint32 msg_cid = 1[default = 22714];
-	optional SynthSamplePlayer data = 2;
-}
-
-message SynthSamplePlayerDynamic4 {
-	optional uint32 msg_cid = 1[default = 22715];
-	optional SynthSamplePlayer data = 2;
-}
-
-message SynthSamplePlayerDynamic5 {
-	optional uint32 msg_cid = 1[default = 22716];
-	optional SynthSamplePlayer data = 2;
-}
-
-message SynthSamplePlayerDynamic6 {
 	optional uint32 msg_cid = 1[default = 22717];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic7 {
+message SynthSamplePlayerDynamic2 {
 	optional uint32 msg_cid = 1[default = 22718];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic8 {
+message SynthSamplePlayerDynamic3 {
 	optional uint32 msg_cid = 1[default = 22719];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic9 {
+message SynthSamplePlayerDynamic4 {
 	optional uint32 msg_cid = 1[default = 22720];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic10 {
+message SynthSamplePlayerDynamic5 {
 	optional uint32 msg_cid = 1[default = 22721];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic11 {
+message SynthSamplePlayerDynamic6 {
 	optional uint32 msg_cid = 1[default = 22722];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic12 {
+message SynthSamplePlayerDynamic7 {
 	optional uint32 msg_cid = 1[default = 22723];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic13 {
+message SynthSamplePlayerDynamic8 {
 	optional uint32 msg_cid = 1[default = 22724];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic14 {
+message SynthSamplePlayerDynamic9 {
 	optional uint32 msg_cid = 1[default = 22725];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic15 {
+message SynthSamplePlayerDynamic10 {
 	optional uint32 msg_cid = 1[default = 22726];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic16 {
+message SynthSamplePlayerDynamic11 {
 	optional uint32 msg_cid = 1[default = 22727];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic17 {
+message SynthSamplePlayerDynamic12 {
 	optional uint32 msg_cid = 1[default = 22728];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic18 {
+message SynthSamplePlayerDynamic13 {
 	optional uint32 msg_cid = 1[default = 22729];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic19 {
+message SynthSamplePlayerDynamic14 {
 	optional uint32 msg_cid = 1[default = 22730];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic20 {
+message SynthSamplePlayerDynamic15 {
 	optional uint32 msg_cid = 1[default = 22731];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic21 {
+message SynthSamplePlayerDynamic16 {
 	optional uint32 msg_cid = 1[default = 22732];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic22 {
+message SynthSamplePlayerDynamic17 {
 	optional uint32 msg_cid = 1[default = 22733];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic23 {
+message SynthSamplePlayerDynamic18 {
 	optional uint32 msg_cid = 1[default = 22734];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic24 {
+message SynthSamplePlayerDynamic19 {
 	optional uint32 msg_cid = 1[default = 22735];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic25 {
+message SynthSamplePlayerDynamic20 {
 	optional uint32 msg_cid = 1[default = 22736];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic26 {
+message SynthSamplePlayerDynamic21 {
 	optional uint32 msg_cid = 1[default = 22737];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic27 {
+message SynthSamplePlayerDynamic22 {
 	optional uint32 msg_cid = 1[default = 22738];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic28 {
+message SynthSamplePlayerDynamic23 {
 	optional uint32 msg_cid = 1[default = 22739];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic29 {
+message SynthSamplePlayerDynamic24 {
 	optional uint32 msg_cid = 1[default = 22740];
 	optional SynthSamplePlayer data = 2;
 }
 
-message SynthSamplePlayerDynamic30 {
+message SynthSamplePlayerDynamic25 {
 	optional uint32 msg_cid = 1[default = 22741];
+	optional SynthSamplePlayer data = 2;
+}
+
+message SynthSamplePlayerDynamic26 {
+	optional uint32 msg_cid = 1[default = 22742];
+	optional SynthSamplePlayer data = 2;
+}
+
+message SynthSamplePlayerDynamic27 {
+	optional uint32 msg_cid = 1[default = 22743];
+	optional SynthSamplePlayer data = 2;
+}
+
+message SynthSamplePlayerDynamic28 {
+	optional uint32 msg_cid = 1[default = 22744];
+	optional SynthSamplePlayer data = 2;
+}
+
+message SynthSamplePlayerDynamic29 {
+	optional uint32 msg_cid = 1[default = 22745];
+	optional SynthSamplePlayer data = 2;
+}
+
+message SynthSamplePlayerDynamic30 {
+	optional uint32 msg_cid = 1[default = 22746];
 	optional SynthSamplePlayer data = 2;
 }

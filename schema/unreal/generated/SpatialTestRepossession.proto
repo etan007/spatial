@@ -6,7 +6,7 @@ package unreal.generated.spatialtestrepossession;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestRepossession {
-	optional uint32 msg_cid = 1[default = 21951];
+	optional uint32 msg_cid = 1[default = 21956];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -32,6 +32,6 @@ message SpatialTestRepossession {
 }
 
 message SpatialTestRepossessionServerOnly {
-	optional uint32 msg_cid = 1[default = 21952];
+	optional uint32 msg_cid = 1[default = 21957];
 	 optional bool bactorenablecollision = 6;
 }

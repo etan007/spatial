@@ -6,7 +6,7 @@ package unreal.generated.wxresourcegeneratedmanager;
 import "unreal/gdk/core_types.proto";
 
 message WXResourceGeneratedManager {
-	optional uint32 msg_cid = 1[default = 24852];
+	optional uint32 msg_cid = 1[default = 25002];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message WXResourceGeneratedManager {
 }
 
 message WXResourceGeneratedManagerServerOnly {
-	optional uint32 msg_cid = 1[default = 24853];
+	optional uint32 msg_cid = 1[default = 25003];
 	 optional bool bactorenablecollision = 6;
 }

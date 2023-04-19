@@ -6,7 +6,7 @@ package unreal.generated.spatialtestrepnotify;
 import "unreal/gdk/core_types.proto";
 
 message SpatialTestRepNotify {
-	optional uint32 msg_cid = 1[default = 21948];
+	optional uint32 msg_cid = 1[default = 21953];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -35,6 +35,6 @@ message SpatialTestRepNotify {
 }
 
 message SpatialTestRepNotifyServerOnly {
-	optional uint32 msg_cid = 1[default = 21949];
+	optional uint32 msg_cid = 1[default = 21954];
 	 optional bool bactorenablecollision = 6;
 }

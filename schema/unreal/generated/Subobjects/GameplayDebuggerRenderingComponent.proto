@@ -26,151 +26,151 @@ message GameplayDebuggerRenderingComponent {
 }
 
 message GameplayDebuggerRenderingComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 17465];
-	optional GameplayDebuggerRenderingComponent data = 2;
-}
-
-message GameplayDebuggerRenderingComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 17466];
-	optional GameplayDebuggerRenderingComponent data = 2;
-}
-
-message GameplayDebuggerRenderingComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 17467];
-	optional GameplayDebuggerRenderingComponent data = 2;
-}
-
-message GameplayDebuggerRenderingComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 17468];
-	optional GameplayDebuggerRenderingComponent data = 2;
-}
-
-message GameplayDebuggerRenderingComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 17469];
-	optional GameplayDebuggerRenderingComponent data = 2;
-}
-
-message GameplayDebuggerRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 17470];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic7 {
+message GameplayDebuggerRenderingComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 17471];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic8 {
+message GameplayDebuggerRenderingComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 17472];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic9 {
+message GameplayDebuggerRenderingComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 17473];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic10 {
+message GameplayDebuggerRenderingComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 17474];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic11 {
+message GameplayDebuggerRenderingComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 17475];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic12 {
+message GameplayDebuggerRenderingComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 17476];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic13 {
+message GameplayDebuggerRenderingComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 17477];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic14 {
+message GameplayDebuggerRenderingComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 17478];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic15 {
+message GameplayDebuggerRenderingComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 17479];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic16 {
+message GameplayDebuggerRenderingComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 17480];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic17 {
+message GameplayDebuggerRenderingComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 17481];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic18 {
+message GameplayDebuggerRenderingComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 17482];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic19 {
+message GameplayDebuggerRenderingComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 17483];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic20 {
+message GameplayDebuggerRenderingComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 17484];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic21 {
+message GameplayDebuggerRenderingComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 17485];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic22 {
+message GameplayDebuggerRenderingComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 17486];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic23 {
+message GameplayDebuggerRenderingComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 17487];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic24 {
+message GameplayDebuggerRenderingComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 17488];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic25 {
+message GameplayDebuggerRenderingComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 17489];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic26 {
+message GameplayDebuggerRenderingComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 17490];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic27 {
+message GameplayDebuggerRenderingComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 17491];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic28 {
+message GameplayDebuggerRenderingComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 17492];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic29 {
+message GameplayDebuggerRenderingComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 17493];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }
 
-message GameplayDebuggerRenderingComponentDynamic30 {
+message GameplayDebuggerRenderingComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 17494];
+	optional GameplayDebuggerRenderingComponent data = 2;
+}
+
+message GameplayDebuggerRenderingComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 17495];
+	optional GameplayDebuggerRenderingComponent data = 2;
+}
+
+message GameplayDebuggerRenderingComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 17496];
+	optional GameplayDebuggerRenderingComponent data = 2;
+}
+
+message GameplayDebuggerRenderingComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 17497];
+	optional GameplayDebuggerRenderingComponent data = 2;
+}
+
+message GameplayDebuggerRenderingComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 17498];
+	optional GameplayDebuggerRenderingComponent data = 2;
+}
+
+message GameplayDebuggerRenderingComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 17499];
 	optional GameplayDebuggerRenderingComponent data = 2;
 }

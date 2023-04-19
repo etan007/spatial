@@ -5,6 +5,6 @@ package unreal.generated.playercameramanager.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 13915];
+	optional uint32 msg_cid = 1[default = 13920];
 	optional unreal.generated.SceneComponent data = 2;
 }

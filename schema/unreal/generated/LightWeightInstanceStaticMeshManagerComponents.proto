@@ -5,6 +5,6 @@ package unreal.generated.lightweightinstancestaticmeshmanager.subobjects;
 import "unreal/generated/Subobjects/HierarchicalInstancedStaticMeshComponent.proto";
 
 message InstancedStaticMeshComponent0 {
-	optional uint32 msg_cid = 1[default = 13228];
+	optional uint32 msg_cid = 1[default = 13233];
 	optional unreal.generated.HierarchicalInstancedStaticMeshComponent data = 2;
 }

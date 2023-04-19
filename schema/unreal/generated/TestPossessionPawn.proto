@@ -6,7 +6,7 @@ package unreal.generated.testpossessionpawn;
 import "unreal/gdk/core_types.proto";
 
 message TestPossessionPawn {
-	optional uint32 msg_cid = 1[default = 22110];
+	optional uint32 msg_cid = 1[default = 22115];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,6 +28,6 @@ message TestPossessionPawn {
 }
 
 message TestPossessionPawnServerOnly {
-	optional uint32 msg_cid = 1[default = 22111];
+	optional uint32 msg_cid = 1[default = 22116];
 	 optional bool bactorenablecollision = 6;
 }

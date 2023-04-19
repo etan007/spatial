@@ -6,7 +6,7 @@ package unreal.generated.navmodifiervolume;
 import "unreal/gdk/core_types.proto";
 
 message NavModifierVolume {
-	optional uint32 msg_cid = 1[default = 20619];
+	optional uint32 msg_cid = 1[default = 20624];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message NavModifierVolume {
 }
 
 message NavModifierVolumeServerOnly {
-	optional uint32 msg_cid = 1[default = 20620];
+	optional uint32 msg_cid = 1[default = 20625];
 	 optional bool bactorenablecollision = 6;
 }

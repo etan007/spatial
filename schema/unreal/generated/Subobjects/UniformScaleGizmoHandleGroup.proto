@@ -26,151 +26,151 @@ message UniformScaleGizmoHandleGroup {
 }
 
 message UniformScaleGizmoHandleGroupDynamic1 {
-	optional uint32 msg_cid = 1[default = 23430];
-	optional UniformScaleGizmoHandleGroup data = 2;
-}
-
-message UniformScaleGizmoHandleGroupDynamic2 {
-	optional uint32 msg_cid = 1[default = 23431];
-	optional UniformScaleGizmoHandleGroup data = 2;
-}
-
-message UniformScaleGizmoHandleGroupDynamic3 {
-	optional uint32 msg_cid = 1[default = 23432];
-	optional UniformScaleGizmoHandleGroup data = 2;
-}
-
-message UniformScaleGizmoHandleGroupDynamic4 {
-	optional uint32 msg_cid = 1[default = 23433];
-	optional UniformScaleGizmoHandleGroup data = 2;
-}
-
-message UniformScaleGizmoHandleGroupDynamic5 {
-	optional uint32 msg_cid = 1[default = 23434];
-	optional UniformScaleGizmoHandleGroup data = 2;
-}
-
-message UniformScaleGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23435];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic7 {
+message UniformScaleGizmoHandleGroupDynamic2 {
 	optional uint32 msg_cid = 1[default = 23436];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic8 {
+message UniformScaleGizmoHandleGroupDynamic3 {
 	optional uint32 msg_cid = 1[default = 23437];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic9 {
+message UniformScaleGizmoHandleGroupDynamic4 {
 	optional uint32 msg_cid = 1[default = 23438];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic10 {
+message UniformScaleGizmoHandleGroupDynamic5 {
 	optional uint32 msg_cid = 1[default = 23439];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic11 {
+message UniformScaleGizmoHandleGroupDynamic6 {
 	optional uint32 msg_cid = 1[default = 23440];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic12 {
+message UniformScaleGizmoHandleGroupDynamic7 {
 	optional uint32 msg_cid = 1[default = 23441];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic13 {
+message UniformScaleGizmoHandleGroupDynamic8 {
 	optional uint32 msg_cid = 1[default = 23442];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic14 {
+message UniformScaleGizmoHandleGroupDynamic9 {
 	optional uint32 msg_cid = 1[default = 23443];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic15 {
+message UniformScaleGizmoHandleGroupDynamic10 {
 	optional uint32 msg_cid = 1[default = 23444];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic16 {
+message UniformScaleGizmoHandleGroupDynamic11 {
 	optional uint32 msg_cid = 1[default = 23445];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic17 {
+message UniformScaleGizmoHandleGroupDynamic12 {
 	optional uint32 msg_cid = 1[default = 23446];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic18 {
+message UniformScaleGizmoHandleGroupDynamic13 {
 	optional uint32 msg_cid = 1[default = 23447];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic19 {
+message UniformScaleGizmoHandleGroupDynamic14 {
 	optional uint32 msg_cid = 1[default = 23448];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic20 {
+message UniformScaleGizmoHandleGroupDynamic15 {
 	optional uint32 msg_cid = 1[default = 23449];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic21 {
+message UniformScaleGizmoHandleGroupDynamic16 {
 	optional uint32 msg_cid = 1[default = 23450];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic22 {
+message UniformScaleGizmoHandleGroupDynamic17 {
 	optional uint32 msg_cid = 1[default = 23451];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic23 {
+message UniformScaleGizmoHandleGroupDynamic18 {
 	optional uint32 msg_cid = 1[default = 23452];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic24 {
+message UniformScaleGizmoHandleGroupDynamic19 {
 	optional uint32 msg_cid = 1[default = 23453];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic25 {
+message UniformScaleGizmoHandleGroupDynamic20 {
 	optional uint32 msg_cid = 1[default = 23454];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic26 {
+message UniformScaleGizmoHandleGroupDynamic21 {
 	optional uint32 msg_cid = 1[default = 23455];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic27 {
+message UniformScaleGizmoHandleGroupDynamic22 {
 	optional uint32 msg_cid = 1[default = 23456];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic28 {
+message UniformScaleGizmoHandleGroupDynamic23 {
 	optional uint32 msg_cid = 1[default = 23457];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic29 {
+message UniformScaleGizmoHandleGroupDynamic24 {
 	optional uint32 msg_cid = 1[default = 23458];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }
 
-message UniformScaleGizmoHandleGroupDynamic30 {
+message UniformScaleGizmoHandleGroupDynamic25 {
 	optional uint32 msg_cid = 1[default = 23459];
+	optional UniformScaleGizmoHandleGroup data = 2;
+}
+
+message UniformScaleGizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23460];
+	optional UniformScaleGizmoHandleGroup data = 2;
+}
+
+message UniformScaleGizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23461];
+	optional UniformScaleGizmoHandleGroup data = 2;
+}
+
+message UniformScaleGizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23462];
+	optional UniformScaleGizmoHandleGroup data = 2;
+}
+
+message UniformScaleGizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23463];
+	optional UniformScaleGizmoHandleGroup data = 2;
+}
+
+message UniformScaleGizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23464];
 	optional UniformScaleGizmoHandleGroup data = 2;
 }

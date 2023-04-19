@@ -6,11 +6,11 @@ import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 import "unreal/generated/Subobjects/CameraComponent.proto";
 
 message SphereComponent {
-	optional uint32 msg_cid = 1[default = 22112];
+	optional uint32 msg_cid = 1[default = 22117];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }
 
 message CameraComponent {
-	optional uint32 msg_cid = 1[default = 22113];
+	optional uint32 msg_cid = 1[default = 22118];
 	optional unreal.generated.CameraComponent data = 2;
 }

@@ -6,7 +6,7 @@ package unreal.generated.onlinebeaconclient;
 import "unreal/gdk/core_types.proto";
 
 message OnlineBeaconClient {
-	optional uint32 msg_cid = 1[default = 20735];
+	optional uint32 msg_cid = 1[default = 20740];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message OnlineBeaconClient {
 }
 
 message OnlineBeaconClientServerOnly {
-	optional uint32 msg_cid = 1[default = 20736];
+	optional uint32 msg_cid = 1[default = 20741];
 	 optional bool bactorenablecollision = 6;
 }

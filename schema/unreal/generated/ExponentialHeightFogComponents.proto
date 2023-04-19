@@ -5,6 +5,6 @@ package unreal.generated.exponentialheightfog.subobjects;
 import "unreal/generated/Subobjects/ExponentialHeightFogComponent.proto";
 
 message HeightFogComponent0 {
-	optional uint32 msg_cid = 1[default = 12803];
+	optional uint32 msg_cid = 1[default = 12808];
 	optional unreal.generated.ExponentialHeightFogComponent data = 2;
 }

@@ -6,7 +6,7 @@ package unreal.generated.hud;
 import "unreal/gdk/core_types.proto";
 
 message HUD {
-	optional uint32 msg_cid = 1[default = 12941];
+	optional uint32 msg_cid = 1[default = 12946];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message HUD {
 }
 
 message HUDServerOnly {
-	optional uint32 msg_cid = 1[default = 12942];
+	optional uint32 msg_cid = 1[default = 12947];
 	 optional bool bactorenablecollision = 6;
 }

@@ -5,6 +5,6 @@ package unreal.generated.playercontroller.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 13919];
+	optional uint32 msg_cid = 1[default = 13924];
 	optional unreal.generated.SceneComponent data = 2;
 }

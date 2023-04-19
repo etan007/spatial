@@ -6,7 +6,7 @@ package unreal.generated.replicatedlevelsequenceactor;
 import "unreal/gdk/core_types.proto";
 
 message ReplicatedLevelSequenceActor {
-	optional uint32 msg_cid = 1[default = 18858];
+	optional uint32 msg_cid = 1[default = 18863];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -27,6 +27,6 @@ message ReplicatedLevelSequenceActor {
 }
 
 message ReplicatedLevelSequenceActorServerOnly {
-	optional uint32 msg_cid = 1[default = 18859];
+	optional uint32 msg_cid = 1[default = 18864];
 	 optional bool bactorenablecollision = 6;
 }

@@ -5,6 +5,6 @@ package unreal.generated.onlyrelevanttoownertestactor.subobjects;
 import "unreal/generated/Subobjects/StaticMeshComponent.proto";
 
 message CubeComponent {
-	optional uint32 msg_cid = 1[default = 21501];
+	optional uint32 msg_cid = 1[default = 21506];
 	optional unreal.generated.StaticMeshComponent data = 2;
 }

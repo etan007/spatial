@@ -6,7 +6,7 @@ package unreal.generated.onlyrelevanttoownertestactor;
 import "unreal/gdk/core_types.proto";
 
 message OnlyRelevantToOwnerTestActor {
-	optional uint32 msg_cid = 1[default = 21499];
+	optional uint32 msg_cid = 1[default = 21504];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message OnlyRelevantToOwnerTestActor {
 }
 
 message OnlyRelevantToOwnerTestActorServerOnly {
-	optional uint32 msg_cid = 1[default = 21500];
+	optional uint32 msg_cid = 1[default = 21505];
 	 optional bool bactorenablecollision = 6;
 }

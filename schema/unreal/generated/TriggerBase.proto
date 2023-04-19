@@ -6,7 +6,7 @@ package unreal.generated.triggerbase;
 import "unreal/gdk/core_types.proto";
 
 message TriggerBase {
-	optional uint32 msg_cid = 1[default = 14784];
+	optional uint32 msg_cid = 1[default = 14789];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message TriggerBase {
 }
 
 message TriggerBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 14785];
+	optional uint32 msg_cid = 1[default = 14790];
 	 optional bool bactorenablecollision = 6;
 }

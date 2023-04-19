@@ -6,7 +6,7 @@ package unreal.generated.rpcininterfacetest;
 import "unreal/gdk/core_types.proto";
 
 message RPCInInterfaceTest {
-	optional uint32 msg_cid = 1[default = 21570];
+	optional uint32 msg_cid = 1[default = 21575];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -31,6 +31,6 @@ message RPCInInterfaceTest {
 }
 
 message RPCInInterfaceTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21571];
+	optional uint32 msg_cid = 1[default = 21576];
 	 optional bool bactorenablecollision = 6;
 }

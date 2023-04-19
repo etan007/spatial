@@ -6,7 +6,7 @@ package unreal.generated.layer1pawn;
 import "unreal/gdk/core_types.proto";
 
 message Layer1Pawn {
-	optional uint32 msg_cid = 1[default = 22450];
+	optional uint32 msg_cid = 1[default = 22455];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,6 +28,6 @@ message Layer1Pawn {
 }
 
 message Layer1PawnServerOnly {
-	optional uint32 msg_cid = 1[default = 22451];
+	optional uint32 msg_cid = 1[default = 22456];
 	 optional bool bactorenablecollision = 6;
 }

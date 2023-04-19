@@ -6,7 +6,7 @@ package unreal.generated.wxpickupitembase;
 import "unreal/gdk/core_types.proto";
 
 message WXPickUpItemBase {
-	optional uint32 msg_cid = 1[default = 24690];
+	optional uint32 msg_cid = 1[default = 24838];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -31,6 +31,6 @@ message WXPickUpItemBase {
 }
 
 message WXPickUpItemBaseServerOnly {
-	optional uint32 msg_cid = 1[default = 24691];
+	optional uint32 msg_cid = 1[default = 24839];
 	 optional bool bactorenablecollision = 6;
 }

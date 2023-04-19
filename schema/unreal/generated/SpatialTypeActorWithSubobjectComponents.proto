@@ -5,6 +5,6 @@ package unreal.generated.spatialtypeactorwithsubobject.subobjects;
 import "unreal/generated/Subobjects/SpatialTypeObjectStub.proto";
 
 message SpatialActorSubobject {
-	optional uint32 msg_cid = 1[default = 22561];
+	optional uint32 msg_cid = 1[default = 22566];
 	optional unreal.generated.SpatialTypeObjectStub data = 2;
 }

@@ -26,151 +26,151 @@ message ControlRigComponent {
 }
 
 message ControlRigComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 11897];
-	optional ControlRigComponent data = 2;
-}
-
-message ControlRigComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 11898];
-	optional ControlRigComponent data = 2;
-}
-
-message ControlRigComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 11899];
-	optional ControlRigComponent data = 2;
-}
-
-message ControlRigComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 11900];
-	optional ControlRigComponent data = 2;
-}
-
-message ControlRigComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 11901];
-	optional ControlRigComponent data = 2;
-}
-
-message ControlRigComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11902];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic7 {
+message ControlRigComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 11903];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic8 {
+message ControlRigComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 11904];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic9 {
+message ControlRigComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 11905];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic10 {
+message ControlRigComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 11906];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic11 {
+message ControlRigComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 11907];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic12 {
+message ControlRigComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 11908];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic13 {
+message ControlRigComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 11909];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic14 {
+message ControlRigComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 11910];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic15 {
+message ControlRigComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 11911];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic16 {
+message ControlRigComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 11912];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic17 {
+message ControlRigComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 11913];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic18 {
+message ControlRigComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 11914];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic19 {
+message ControlRigComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 11915];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic20 {
+message ControlRigComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 11916];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic21 {
+message ControlRigComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 11917];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic22 {
+message ControlRigComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 11918];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic23 {
+message ControlRigComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 11919];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic24 {
+message ControlRigComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 11920];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic25 {
+message ControlRigComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 11921];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic26 {
+message ControlRigComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 11922];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic27 {
+message ControlRigComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 11923];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic28 {
+message ControlRigComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 11924];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic29 {
+message ControlRigComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 11925];
 	optional ControlRigComponent data = 2;
 }
 
-message ControlRigComponentDynamic30 {
+message ControlRigComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 11926];
+	optional ControlRigComponent data = 2;
+}
+
+message ControlRigComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11927];
+	optional ControlRigComponent data = 2;
+}
+
+message ControlRigComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11928];
+	optional ControlRigComponent data = 2;
+}
+
+message ControlRigComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11929];
+	optional ControlRigComponent data = 2;
+}
+
+message ControlRigComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11930];
+	optional ControlRigComponent data = 2;
+}
+
+message ControlRigComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11931];
 	optional ControlRigComponent data = 2;
 }

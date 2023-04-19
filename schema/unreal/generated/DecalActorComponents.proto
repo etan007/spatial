@@ -5,6 +5,6 @@ package unreal.generated.decalactor.subobjects;
 import "unreal/generated/Subobjects/DecalComponent.proto";
 
 message NewDecalComponent {
-	optional uint32 msg_cid = 1[default = 12508];
+	optional uint32 msg_cid = 1[default = 12513];
 	optional unreal.generated.DecalComponent data = 2;
 }

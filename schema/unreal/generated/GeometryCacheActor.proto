@@ -6,7 +6,7 @@ package unreal.generated.geometrycacheactor;
 import "unreal/gdk/core_types.proto";
 
 message GeometryCacheActor {
-	optional uint32 msg_cid = 1[default = 17675];
+	optional uint32 msg_cid = 1[default = 17680];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message GeometryCacheActor {
 }
 
 message GeometryCacheActorServerOnly {
-	optional uint32 msg_cid = 1[default = 17676];
+	optional uint32 msg_cid = 1[default = 17681];
 	 optional bool bactorenablecollision = 6;
 }

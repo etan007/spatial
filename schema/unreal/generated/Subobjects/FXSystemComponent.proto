@@ -26,151 +26,151 @@ message FXSystemComponent {
 }
 
 message FXSystemComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 12864];
-	optional FXSystemComponent data = 2;
-}
-
-message FXSystemComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 12865];
-	optional FXSystemComponent data = 2;
-}
-
-message FXSystemComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 12866];
-	optional FXSystemComponent data = 2;
-}
-
-message FXSystemComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 12867];
-	optional FXSystemComponent data = 2;
-}
-
-message FXSystemComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 12868];
-	optional FXSystemComponent data = 2;
-}
-
-message FXSystemComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12869];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic7 {
+message FXSystemComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 12870];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic8 {
+message FXSystemComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 12871];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic9 {
+message FXSystemComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 12872];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic10 {
+message FXSystemComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 12873];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic11 {
+message FXSystemComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 12874];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic12 {
+message FXSystemComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 12875];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic13 {
+message FXSystemComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 12876];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic14 {
+message FXSystemComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 12877];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic15 {
+message FXSystemComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 12878];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic16 {
+message FXSystemComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 12879];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic17 {
+message FXSystemComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 12880];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic18 {
+message FXSystemComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 12881];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic19 {
+message FXSystemComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 12882];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic20 {
+message FXSystemComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 12883];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic21 {
+message FXSystemComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 12884];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic22 {
+message FXSystemComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 12885];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic23 {
+message FXSystemComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 12886];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic24 {
+message FXSystemComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 12887];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic25 {
+message FXSystemComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 12888];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic26 {
+message FXSystemComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 12889];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic27 {
+message FXSystemComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 12890];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic28 {
+message FXSystemComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 12891];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic29 {
+message FXSystemComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 12892];
 	optional FXSystemComponent data = 2;
 }
 
-message FXSystemComponentDynamic30 {
+message FXSystemComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 12893];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12894];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12895];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12896];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12897];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12898];
 	optional FXSystemComponent data = 2;
 }

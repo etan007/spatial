@@ -9,151 +9,151 @@ message BPUiMgrC {
 }
 
 message BPUiMgrCDynamic1 {
-	optional uint32 msg_cid = 1[default = 25341];
+	optional uint32 msg_cid = 1[default = 25607];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic2 {
-	optional uint32 msg_cid = 1[default = 25342];
+	optional uint32 msg_cid = 1[default = 25608];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic3 {
-	optional uint32 msg_cid = 1[default = 25343];
+	optional uint32 msg_cid = 1[default = 25609];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic4 {
-	optional uint32 msg_cid = 1[default = 25344];
+	optional uint32 msg_cid = 1[default = 25610];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic5 {
-	optional uint32 msg_cid = 1[default = 25345];
+	optional uint32 msg_cid = 1[default = 25611];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic6 {
-	optional uint32 msg_cid = 1[default = 25346];
+	optional uint32 msg_cid = 1[default = 25612];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic7 {
-	optional uint32 msg_cid = 1[default = 25347];
+	optional uint32 msg_cid = 1[default = 25613];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic8 {
-	optional uint32 msg_cid = 1[default = 25348];
+	optional uint32 msg_cid = 1[default = 25614];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic9 {
-	optional uint32 msg_cid = 1[default = 25349];
+	optional uint32 msg_cid = 1[default = 25615];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic10 {
-	optional uint32 msg_cid = 1[default = 25350];
+	optional uint32 msg_cid = 1[default = 25616];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic11 {
-	optional uint32 msg_cid = 1[default = 25351];
+	optional uint32 msg_cid = 1[default = 25617];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic12 {
-	optional uint32 msg_cid = 1[default = 25352];
+	optional uint32 msg_cid = 1[default = 25618];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic13 {
-	optional uint32 msg_cid = 1[default = 25353];
+	optional uint32 msg_cid = 1[default = 25619];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic14 {
-	optional uint32 msg_cid = 1[default = 25354];
+	optional uint32 msg_cid = 1[default = 25620];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic15 {
-	optional uint32 msg_cid = 1[default = 25355];
+	optional uint32 msg_cid = 1[default = 25621];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic16 {
-	optional uint32 msg_cid = 1[default = 25356];
+	optional uint32 msg_cid = 1[default = 25622];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic17 {
-	optional uint32 msg_cid = 1[default = 25357];
+	optional uint32 msg_cid = 1[default = 25623];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic18 {
-	optional uint32 msg_cid = 1[default = 25358];
+	optional uint32 msg_cid = 1[default = 25624];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic19 {
-	optional uint32 msg_cid = 1[default = 25359];
+	optional uint32 msg_cid = 1[default = 25625];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic20 {
-	optional uint32 msg_cid = 1[default = 25360];
+	optional uint32 msg_cid = 1[default = 25626];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic21 {
-	optional uint32 msg_cid = 1[default = 25361];
+	optional uint32 msg_cid = 1[default = 25627];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic22 {
-	optional uint32 msg_cid = 1[default = 25362];
+	optional uint32 msg_cid = 1[default = 25628];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic23 {
-	optional uint32 msg_cid = 1[default = 25363];
+	optional uint32 msg_cid = 1[default = 25629];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic24 {
-	optional uint32 msg_cid = 1[default = 25364];
+	optional uint32 msg_cid = 1[default = 25630];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic25 {
-	optional uint32 msg_cid = 1[default = 25365];
+	optional uint32 msg_cid = 1[default = 25631];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic26 {
-	optional uint32 msg_cid = 1[default = 25366];
+	optional uint32 msg_cid = 1[default = 25632];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic27 {
-	optional uint32 msg_cid = 1[default = 25367];
+	optional uint32 msg_cid = 1[default = 25633];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic28 {
-	optional uint32 msg_cid = 1[default = 25368];
+	optional uint32 msg_cid = 1[default = 25634];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic29 {
-	optional uint32 msg_cid = 1[default = 25369];
+	optional uint32 msg_cid = 1[default = 25635];
 	optional BPUiMgrC data = 2;
 }
 
 message BPUiMgrCDynamic30 {
-	optional uint32 msg_cid = 1[default = 25370];
+	optional uint32 msg_cid = 1[default = 25636];
 	optional BPUiMgrC data = 2;
 }

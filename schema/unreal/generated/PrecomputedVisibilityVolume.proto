@@ -6,7 +6,7 @@ package unreal.generated.precomputedvisibilityvolume;
 import "unreal/gdk/core_types.proto";
 
 message PrecomputedVisibilityVolume {
-	optional uint32 msg_cid = 1[default = 14028];
+	optional uint32 msg_cid = 1[default = 14033];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PrecomputedVisibilityVolume {
 }
 
 message PrecomputedVisibilityVolumeServerOnly {
-	optional uint32 msg_cid = 1[default = 14029];
+	optional uint32 msg_cid = 1[default = 14034];
 	 optional bool bactorenablecollision = 6;
 }

@@ -5,6 +5,6 @@ package unreal.generated.houdiniassetactor.subobjects;
 import "unreal/generated/Subobjects/HoudiniAssetComponent.proto";
 
 message HoudiniAssetComponent {
-	optional uint32 msg_cid = 1[default = 17965];
+	optional uint32 msg_cid = 1[default = 17970];
 	optional unreal.generated.HoudiniAssetComponent data = 2;
 }

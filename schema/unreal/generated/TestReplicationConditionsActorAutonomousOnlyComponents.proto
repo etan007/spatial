@@ -5,11 +5,11 @@ package unreal.generated.testreplicationconditionsactorautonomousonly.subobjects
 import "unreal/generated/Subobjects/TestReplicationConditionsComponentAutonomousOnly.proto";
 
 message UTestReplicationConditionsComponentAutonomousOnly {
-	optional uint32 msg_cid = 1[default = 22123];
+	optional uint32 msg_cid = 1[default = 22128];
 	optional unreal.generated.TestReplicationConditionsComponentAutonomousOnly data = 2;
 }
 
 message UTestReplicationConditionsComponentAutonomousOnlyOwnerOnly {
-	optional uint32 msg_cid = 1[default = 22124];
+	optional uint32 msg_cid = 1[default = 22129];
 	optional unreal.generated.TestReplicationConditionsComponentAutonomousOnlyOwnerOnly data = 2;
 }

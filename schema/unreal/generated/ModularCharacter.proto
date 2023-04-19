@@ -6,7 +6,7 @@ package unreal.generated.modularcharacter;
 import "unreal/gdk/core_types.proto";
 
 message ModularCharacter {
-	optional uint32 msg_cid = 1[default = 20305];
+	optional uint32 msg_cid = 1[default = 20310];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -55,7 +55,7 @@ message ModularCharacter {
 }
 
 message ModularCharacterServerOnly {
-	optional uint32 msg_cid = 1[default = 20306];
+	optional uint32 msg_cid = 1[default = 20311];
 	 optional bool bactorenablecollision = 6;
 	 optional float handoverclienttimestamp = 21;
 }

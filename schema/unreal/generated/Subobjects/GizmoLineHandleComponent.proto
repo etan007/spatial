@@ -26,151 +26,151 @@ message GizmoLineHandleComponent {
 }
 
 message GizmoLineHandleComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 18481];
-	optional GizmoLineHandleComponent data = 2;
-}
-
-message GizmoLineHandleComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 18482];
-	optional GizmoLineHandleComponent data = 2;
-}
-
-message GizmoLineHandleComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 18483];
-	optional GizmoLineHandleComponent data = 2;
-}
-
-message GizmoLineHandleComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 18484];
-	optional GizmoLineHandleComponent data = 2;
-}
-
-message GizmoLineHandleComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 18485];
-	optional GizmoLineHandleComponent data = 2;
-}
-
-message GizmoLineHandleComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18486];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic7 {
+message GizmoLineHandleComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 18487];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic8 {
+message GizmoLineHandleComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 18488];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic9 {
+message GizmoLineHandleComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 18489];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic10 {
+message GizmoLineHandleComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 18490];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic11 {
+message GizmoLineHandleComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 18491];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic12 {
+message GizmoLineHandleComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 18492];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic13 {
+message GizmoLineHandleComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 18493];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic14 {
+message GizmoLineHandleComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 18494];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic15 {
+message GizmoLineHandleComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 18495];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic16 {
+message GizmoLineHandleComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 18496];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic17 {
+message GizmoLineHandleComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 18497];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic18 {
+message GizmoLineHandleComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 18498];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic19 {
+message GizmoLineHandleComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 18499];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic20 {
+message GizmoLineHandleComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 18500];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic21 {
+message GizmoLineHandleComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 18501];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic22 {
+message GizmoLineHandleComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 18502];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic23 {
+message GizmoLineHandleComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 18503];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic24 {
+message GizmoLineHandleComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 18504];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic25 {
+message GizmoLineHandleComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 18505];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic26 {
+message GizmoLineHandleComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 18506];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic27 {
+message GizmoLineHandleComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 18507];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic28 {
+message GizmoLineHandleComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 18508];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic29 {
+message GizmoLineHandleComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 18509];
 	optional GizmoLineHandleComponent data = 2;
 }
 
-message GizmoLineHandleComponentDynamic30 {
+message GizmoLineHandleComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 18510];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18511];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18512];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18513];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18514];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18515];
 	optional GizmoLineHandleComponent data = 2;
 }

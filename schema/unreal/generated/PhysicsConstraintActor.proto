@@ -6,7 +6,7 @@ package unreal.generated.physicsconstraintactor;
 import "unreal/gdk/core_types.proto";
 
 message PhysicsConstraintActor {
-	optional uint32 msg_cid = 1[default = 13654];
+	optional uint32 msg_cid = 1[default = 13659];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message PhysicsConstraintActor {
 }
 
 message PhysicsConstraintActorServerOnly {
-	optional uint32 msg_cid = 1[default = 13655];
+	optional uint32 msg_cid = 1[default = 13660];
 	 optional bool bactorenablecollision = 6;
 }

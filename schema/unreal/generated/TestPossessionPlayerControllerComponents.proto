@@ -5,6 +5,6 @@ package unreal.generated.testpossessionplayercontroller.subobjects;
 import "unreal/generated/Subobjects/SceneComponent.proto";
 
 message TransformComponent0 {
-	optional uint32 msg_cid = 1[default = 22117];
+	optional uint32 msg_cid = 1[default = 22122];
 	optional unreal.generated.SceneComponent data = 2;
 }

@@ -26,151 +26,151 @@ message LightmassPortalComponent {
 }
 
 message LightmassPortalComponentDynamic1 {
-	optional uint32 msg_cid = 1[default = 13194];
-	optional LightmassPortalComponent data = 2;
-}
-
-message LightmassPortalComponentDynamic2 {
-	optional uint32 msg_cid = 1[default = 13195];
-	optional LightmassPortalComponent data = 2;
-}
-
-message LightmassPortalComponentDynamic3 {
-	optional uint32 msg_cid = 1[default = 13196];
-	optional LightmassPortalComponent data = 2;
-}
-
-message LightmassPortalComponentDynamic4 {
-	optional uint32 msg_cid = 1[default = 13197];
-	optional LightmassPortalComponent data = 2;
-}
-
-message LightmassPortalComponentDynamic5 {
-	optional uint32 msg_cid = 1[default = 13198];
-	optional LightmassPortalComponent data = 2;
-}
-
-message LightmassPortalComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 13199];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic7 {
+message LightmassPortalComponentDynamic2 {
 	optional uint32 msg_cid = 1[default = 13200];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic8 {
+message LightmassPortalComponentDynamic3 {
 	optional uint32 msg_cid = 1[default = 13201];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic9 {
+message LightmassPortalComponentDynamic4 {
 	optional uint32 msg_cid = 1[default = 13202];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic10 {
+message LightmassPortalComponentDynamic5 {
 	optional uint32 msg_cid = 1[default = 13203];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic11 {
+message LightmassPortalComponentDynamic6 {
 	optional uint32 msg_cid = 1[default = 13204];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic12 {
+message LightmassPortalComponentDynamic7 {
 	optional uint32 msg_cid = 1[default = 13205];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic13 {
+message LightmassPortalComponentDynamic8 {
 	optional uint32 msg_cid = 1[default = 13206];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic14 {
+message LightmassPortalComponentDynamic9 {
 	optional uint32 msg_cid = 1[default = 13207];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic15 {
+message LightmassPortalComponentDynamic10 {
 	optional uint32 msg_cid = 1[default = 13208];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic16 {
+message LightmassPortalComponentDynamic11 {
 	optional uint32 msg_cid = 1[default = 13209];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic17 {
+message LightmassPortalComponentDynamic12 {
 	optional uint32 msg_cid = 1[default = 13210];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic18 {
+message LightmassPortalComponentDynamic13 {
 	optional uint32 msg_cid = 1[default = 13211];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic19 {
+message LightmassPortalComponentDynamic14 {
 	optional uint32 msg_cid = 1[default = 13212];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic20 {
+message LightmassPortalComponentDynamic15 {
 	optional uint32 msg_cid = 1[default = 13213];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic21 {
+message LightmassPortalComponentDynamic16 {
 	optional uint32 msg_cid = 1[default = 13214];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic22 {
+message LightmassPortalComponentDynamic17 {
 	optional uint32 msg_cid = 1[default = 13215];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic23 {
+message LightmassPortalComponentDynamic18 {
 	optional uint32 msg_cid = 1[default = 13216];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic24 {
+message LightmassPortalComponentDynamic19 {
 	optional uint32 msg_cid = 1[default = 13217];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic25 {
+message LightmassPortalComponentDynamic20 {
 	optional uint32 msg_cid = 1[default = 13218];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic26 {
+message LightmassPortalComponentDynamic21 {
 	optional uint32 msg_cid = 1[default = 13219];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic27 {
+message LightmassPortalComponentDynamic22 {
 	optional uint32 msg_cid = 1[default = 13220];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic28 {
+message LightmassPortalComponentDynamic23 {
 	optional uint32 msg_cid = 1[default = 13221];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic29 {
+message LightmassPortalComponentDynamic24 {
 	optional uint32 msg_cid = 1[default = 13222];
 	optional LightmassPortalComponent data = 2;
 }
 
-message LightmassPortalComponentDynamic30 {
+message LightmassPortalComponentDynamic25 {
 	optional uint32 msg_cid = 1[default = 13223];
+	optional LightmassPortalComponent data = 2;
+}
+
+message LightmassPortalComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13224];
+	optional LightmassPortalComponent data = 2;
+}
+
+message LightmassPortalComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13225];
+	optional LightmassPortalComponent data = 2;
+}
+
+message LightmassPortalComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13226];
+	optional LightmassPortalComponent data = 2;
+}
+
+message LightmassPortalComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13227];
+	optional LightmassPortalComponent data = 2;
+}
+
+message LightmassPortalComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13228];
 	optional LightmassPortalComponent data = 2;
 }

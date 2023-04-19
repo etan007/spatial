@@ -6,7 +6,7 @@ package unreal.generated.wxcharacterdisplayactor;
 import "unreal/gdk/core_types.proto";
 
 message WXCharacterDisplayActor {
-	optional uint32 msg_cid = 1[default = 24081];
+	optional uint32 msg_cid = 1[default = 24148];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,11 +25,11 @@ message WXCharacterDisplayActor {
 }
 
 message WXCharacterDisplayActorOwnerOnly {
-	optional uint32 msg_cid = 1[default = 25892];
+	optional uint32 msg_cid = 1[default = 24149];
 	 repeated bytes allskills = 18;
 }
 
 message WXCharacterDisplayActorServerOnly {
-	optional uint32 msg_cid = 1[default = 24082];
+	optional uint32 msg_cid = 1[default = 24150];
 	 optional bool bactorenablecollision = 6;
 }

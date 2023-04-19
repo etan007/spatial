@@ -6,7 +6,7 @@ package unreal.generated.targetpoint;
 import "unreal/gdk/core_types.proto";
 
 message TargetPoint {
-	optional uint32 msg_cid = 1[default = 14718];
+	optional uint32 msg_cid = 1[default = 14723];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message TargetPoint {
 }
 
 message TargetPointServerOnly {
-	optional uint32 msg_cid = 1[default = 14719];
+	optional uint32 msg_cid = 1[default = 14724];
 	 optional bool bactorenablecollision = 6;
 }

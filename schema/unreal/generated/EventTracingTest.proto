@@ -6,7 +6,7 @@ package unreal.generated.eventtracingtest;
 import "unreal/gdk/core_types.proto";
 
 message EventTracingTest {
-	optional uint32 msg_cid = 1[default = 21407];
+	optional uint32 msg_cid = 1[default = 21412];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message EventTracingTest {
 }
 
 message EventTracingTestServerOnly {
-	optional uint32 msg_cid = 1[default = 21408];
+	optional uint32 msg_cid = 1[default = 21413];
 	 optional bool bactorenablecollision = 6;
 }

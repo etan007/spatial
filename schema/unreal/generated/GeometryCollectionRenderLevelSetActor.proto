@@ -6,7 +6,7 @@ package unreal.generated.geometrycollectionrenderlevelsetactor;
 import "unreal/gdk/core_types.proto";
 
 message GeometryCollectionRenderLevelSetActor {
-	optional uint32 msg_cid = 1[default = 17837];
+	optional uint32 msg_cid = 1[default = 17842];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message GeometryCollectionRenderLevelSetActor {
 }
 
 message GeometryCollectionRenderLevelSetActorServerOnly {
-	optional uint32 msg_cid = 1[default = 17838];
+	optional uint32 msg_cid = 1[default = 17843];
 	 optional bool bactorenablecollision = 6;
 }

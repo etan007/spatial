@@ -6,7 +6,7 @@ package unreal.generated.switchactor;
 import "unreal/gdk/core_types.proto";
 
 message SwitchActor {
-	optional uint32 msg_cid = 1[default = 23149];
+	optional uint32 msg_cid = 1[default = 23154];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -25,6 +25,6 @@ message SwitchActor {
 }
 
 message SwitchActorServerOnly {
-	optional uint32 msg_cid = 1[default = 23150];
+	optional uint32 msg_cid = 1[default = 23155];
 	 optional bool bactorenablecollision = 6;
 }

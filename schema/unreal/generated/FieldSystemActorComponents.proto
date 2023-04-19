@@ -5,6 +5,6 @@ package unreal.generated.fieldsystemactor.subobjects;
 import "unreal/generated/Subobjects/FieldSystemComponent.proto";
 
 message FieldSystemComponent {
-	optional uint32 msg_cid = 1[default = 15224];
+	optional uint32 msg_cid = 1[default = 15229];
 	optional unreal.generated.FieldSystemComponent data = 2;
 }

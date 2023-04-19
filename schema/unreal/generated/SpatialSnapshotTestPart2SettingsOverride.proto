@@ -6,7 +6,7 @@ package unreal.generated.spatialsnapshottestpart2settingsoverride;
 import "unreal/gdk/core_types.proto";
 
 message SpatialSnapshotTestPart2SettingsOverride {
-	optional uint32 msg_cid = 1[default = 21756];
+	optional uint32 msg_cid = 1[default = 21761];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -30,6 +30,6 @@ message SpatialSnapshotTestPart2SettingsOverride {
 }
 
 message SpatialSnapshotTestPart2SettingsOverrideServerOnly {
-	optional uint32 msg_cid = 1[default = 21757];
+	optional uint32 msg_cid = 1[default = 21762];
 	 optional bool bactorenablecollision = 6;
 }

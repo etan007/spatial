@@ -6,16 +6,16 @@ import "unreal/generated/Subobjects/SpectatorPawnMovement.proto";
 import "unreal/generated/Subobjects/SphereComponent.proto";
 
 message MovementComponent0 {
-	optional uint32 msg_cid = 1[default = 14521];
+	optional uint32 msg_cid = 1[default = 14526];
 	optional unreal.generated.SpectatorPawnMovement data = 2;
 }
 
 message MovementComponent0ServerOnly {
-	optional uint32 msg_cid = 1[default = 14522];
+	optional uint32 msg_cid = 1[default = 14527];
 	optional unreal.generated.SpectatorPawnMovementServerOnly data = 2;
 }
 
 message CollisionComponent0 {
-	optional uint32 msg_cid = 1[default = 14523];
+	optional uint32 msg_cid = 1[default = 14528];
 	optional unreal.generated.SphereComponent data = 2;
 }

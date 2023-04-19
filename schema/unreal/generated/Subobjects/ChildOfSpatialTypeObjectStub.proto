@@ -7,151 +7,151 @@ message ChildOfSpatialTypeObjectStub {
 }
 
 message ChildOfSpatialTypeObjectStubDynamic1 {
-	optional uint32 msg_cid = 1[default = 22418];
-	optional ChildOfSpatialTypeObjectStub data = 2;
-}
-
-message ChildOfSpatialTypeObjectStubDynamic2 {
-	optional uint32 msg_cid = 1[default = 22419];
-	optional ChildOfSpatialTypeObjectStub data = 2;
-}
-
-message ChildOfSpatialTypeObjectStubDynamic3 {
-	optional uint32 msg_cid = 1[default = 22420];
-	optional ChildOfSpatialTypeObjectStub data = 2;
-}
-
-message ChildOfSpatialTypeObjectStubDynamic4 {
-	optional uint32 msg_cid = 1[default = 22421];
-	optional ChildOfSpatialTypeObjectStub data = 2;
-}
-
-message ChildOfSpatialTypeObjectStubDynamic5 {
-	optional uint32 msg_cid = 1[default = 22422];
-	optional ChildOfSpatialTypeObjectStub data = 2;
-}
-
-message ChildOfSpatialTypeObjectStubDynamic6 {
 	optional uint32 msg_cid = 1[default = 22423];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic7 {
+message ChildOfSpatialTypeObjectStubDynamic2 {
 	optional uint32 msg_cid = 1[default = 22424];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic8 {
+message ChildOfSpatialTypeObjectStubDynamic3 {
 	optional uint32 msg_cid = 1[default = 22425];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic9 {
+message ChildOfSpatialTypeObjectStubDynamic4 {
 	optional uint32 msg_cid = 1[default = 22426];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic10 {
+message ChildOfSpatialTypeObjectStubDynamic5 {
 	optional uint32 msg_cid = 1[default = 22427];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic11 {
+message ChildOfSpatialTypeObjectStubDynamic6 {
 	optional uint32 msg_cid = 1[default = 22428];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic12 {
+message ChildOfSpatialTypeObjectStubDynamic7 {
 	optional uint32 msg_cid = 1[default = 22429];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic13 {
+message ChildOfSpatialTypeObjectStubDynamic8 {
 	optional uint32 msg_cid = 1[default = 22430];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic14 {
+message ChildOfSpatialTypeObjectStubDynamic9 {
 	optional uint32 msg_cid = 1[default = 22431];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic15 {
+message ChildOfSpatialTypeObjectStubDynamic10 {
 	optional uint32 msg_cid = 1[default = 22432];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic16 {
+message ChildOfSpatialTypeObjectStubDynamic11 {
 	optional uint32 msg_cid = 1[default = 22433];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic17 {
+message ChildOfSpatialTypeObjectStubDynamic12 {
 	optional uint32 msg_cid = 1[default = 22434];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic18 {
+message ChildOfSpatialTypeObjectStubDynamic13 {
 	optional uint32 msg_cid = 1[default = 22435];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic19 {
+message ChildOfSpatialTypeObjectStubDynamic14 {
 	optional uint32 msg_cid = 1[default = 22436];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic20 {
+message ChildOfSpatialTypeObjectStubDynamic15 {
 	optional uint32 msg_cid = 1[default = 22437];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic21 {
+message ChildOfSpatialTypeObjectStubDynamic16 {
 	optional uint32 msg_cid = 1[default = 22438];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic22 {
+message ChildOfSpatialTypeObjectStubDynamic17 {
 	optional uint32 msg_cid = 1[default = 22439];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic23 {
+message ChildOfSpatialTypeObjectStubDynamic18 {
 	optional uint32 msg_cid = 1[default = 22440];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic24 {
+message ChildOfSpatialTypeObjectStubDynamic19 {
 	optional uint32 msg_cid = 1[default = 22441];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic25 {
+message ChildOfSpatialTypeObjectStubDynamic20 {
 	optional uint32 msg_cid = 1[default = 22442];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic26 {
+message ChildOfSpatialTypeObjectStubDynamic21 {
 	optional uint32 msg_cid = 1[default = 22443];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic27 {
+message ChildOfSpatialTypeObjectStubDynamic22 {
 	optional uint32 msg_cid = 1[default = 22444];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic28 {
+message ChildOfSpatialTypeObjectStubDynamic23 {
 	optional uint32 msg_cid = 1[default = 22445];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic29 {
+message ChildOfSpatialTypeObjectStubDynamic24 {
 	optional uint32 msg_cid = 1[default = 22446];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }
 
-message ChildOfSpatialTypeObjectStubDynamic30 {
+message ChildOfSpatialTypeObjectStubDynamic25 {
 	optional uint32 msg_cid = 1[default = 22447];
+	optional ChildOfSpatialTypeObjectStub data = 2;
+}
+
+message ChildOfSpatialTypeObjectStubDynamic26 {
+	optional uint32 msg_cid = 1[default = 22448];
+	optional ChildOfSpatialTypeObjectStub data = 2;
+}
+
+message ChildOfSpatialTypeObjectStubDynamic27 {
+	optional uint32 msg_cid = 1[default = 22449];
+	optional ChildOfSpatialTypeObjectStub data = 2;
+}
+
+message ChildOfSpatialTypeObjectStubDynamic28 {
+	optional uint32 msg_cid = 1[default = 22450];
+	optional ChildOfSpatialTypeObjectStub data = 2;
+}
+
+message ChildOfSpatialTypeObjectStubDynamic29 {
+	optional uint32 msg_cid = 1[default = 22451];
+	optional ChildOfSpatialTypeObjectStub data = 2;
+}
+
+message ChildOfSpatialTypeObjectStubDynamic30 {
+	optional uint32 msg_cid = 1[default = 22452];
 	optional ChildOfSpatialTypeObjectStub data = 2;
 }

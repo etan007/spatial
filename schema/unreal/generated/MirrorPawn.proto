@@ -6,7 +6,7 @@ package unreal.generated.mirrorpawn;
 import "unreal/gdk/core_types.proto";
 
 message MirrorPawn {
-	optional uint32 msg_cid = 1[default = 11618];
+	optional uint32 msg_cid = 1[default = 11623];
 	 optional bool breplicatemovement = 2;
 	 optional bool bhidden = 3;
 	 optional bool btearoff = 4;
@@ -28,6 +28,6 @@ message MirrorPawn {
 }
 
 message MirrorPawnServerOnly {
-	optional uint32 msg_cid = 1[default = 11619];
+	optional uint32 msg_cid = 1[default = 11624];
 	 optional bool bactorenablecollision = 6;
 }
