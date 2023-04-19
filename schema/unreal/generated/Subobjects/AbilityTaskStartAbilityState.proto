@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTaskStartAbilityState {
+}
+
+message AbilityTaskStartAbilityStateDynamic1 {
+	optional uint32 msg_cid = 1[default = 16476];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic2 {
+	optional uint32 msg_cid = 1[default = 16477];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic3 {
+	optional uint32 msg_cid = 1[default = 16478];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic4 {
+	optional uint32 msg_cid = 1[default = 16479];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic5 {
+	optional uint32 msg_cid = 1[default = 16480];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic6 {
+	optional uint32 msg_cid = 1[default = 16481];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic7 {
+	optional uint32 msg_cid = 1[default = 16482];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic8 {
+	optional uint32 msg_cid = 1[default = 16483];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic9 {
+	optional uint32 msg_cid = 1[default = 16484];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic10 {
+	optional uint32 msg_cid = 1[default = 16485];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic11 {
+	optional uint32 msg_cid = 1[default = 16486];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic12 {
+	optional uint32 msg_cid = 1[default = 16487];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic13 {
+	optional uint32 msg_cid = 1[default = 16488];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic14 {
+	optional uint32 msg_cid = 1[default = 16489];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic15 {
+	optional uint32 msg_cid = 1[default = 16490];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic16 {
+	optional uint32 msg_cid = 1[default = 16491];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic17 {
+	optional uint32 msg_cid = 1[default = 16492];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic18 {
+	optional uint32 msg_cid = 1[default = 16493];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic19 {
+	optional uint32 msg_cid = 1[default = 16494];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic20 {
+	optional uint32 msg_cid = 1[default = 16495];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic21 {
+	optional uint32 msg_cid = 1[default = 16496];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic22 {
+	optional uint32 msg_cid = 1[default = 16497];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic23 {
+	optional uint32 msg_cid = 1[default = 16498];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic24 {
+	optional uint32 msg_cid = 1[default = 16499];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic25 {
+	optional uint32 msg_cid = 1[default = 16500];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic26 {
+	optional uint32 msg_cid = 1[default = 16501];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic27 {
+	optional uint32 msg_cid = 1[default = 16502];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic28 {
+	optional uint32 msg_cid = 1[default = 16503];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic29 {
+	optional uint32 msg_cid = 1[default = 16504];
+	optional AbilityTaskStartAbilityState data = 2;
+}
+
+message AbilityTaskStartAbilityStateDynamic30 {
+	optional uint32 msg_cid = 1[default = 16505];
+	optional AbilityTaskStartAbilityState data = 2;
+}

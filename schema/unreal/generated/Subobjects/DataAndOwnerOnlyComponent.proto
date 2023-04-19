@@ -1,0 +1,331 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message DataAndOwnerOnlyComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional int32 datareplicatedvar = 18;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnly {
+	 optional int32 owneronlyreplicatedvar = 19;
+}
+
+message DataAndOwnerOnlyComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 21293];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 21294];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 21295];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 21296];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 21297];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 21298];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 21299];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 21300];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 21301];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 21302];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 21303];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 21304];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 21305];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 21306];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 21307];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 21308];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 21309];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 21310];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 21311];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 21312];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 21313];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 21314];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 21315];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 21316];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 21317];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 21318];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 21319];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 21320];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 21321];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 21322];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 21323];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 21324];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 21325];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 21326];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 21327];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 21328];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 21329];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 21330];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 21331];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 21332];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 21333];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 21334];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 21335];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 21336];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 21337];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 21338];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 21339];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 21340];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 21341];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 21342];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 21343];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 21344];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 21345];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 21346];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 21347];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 21348];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 21349];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 21350];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 21351];
+	optional DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 21352];
+	optional DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}

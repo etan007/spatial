@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message MediaPlateComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message MediaPlateComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18896];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18897];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18898];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18899];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18900];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18901];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18902];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18903];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18904];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18905];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18906];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18907];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18908];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18909];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18910];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18911];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18912];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18913];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18914];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18915];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18916];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18917];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18918];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18919];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18920];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18921];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18922];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18923];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18924];
+	optional MediaPlateComponent data = 2;
+}
+
+message MediaPlateComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18925];
+	optional MediaPlateComponent data = 2;
+}

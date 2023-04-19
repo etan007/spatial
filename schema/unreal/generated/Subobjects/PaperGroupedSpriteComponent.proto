@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message PaperGroupedSpriteComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message PaperGroupedSpriteComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 20825];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 20826];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 20827];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 20828];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20829];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20830];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20831];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20832];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20833];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20834];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20835];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20836];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20837];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20838];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20839];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20840];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20841];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20842];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20843];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20844];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20845];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20846];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20847];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20848];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20849];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20850];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20851];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20852];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20853];
+	optional PaperGroupedSpriteComponent data = 2;
+}
+
+message PaperGroupedSpriteComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20854];
+	optional PaperGroupedSpriteComponent data = 2;
+}

@@ -1,0 +1,52 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.wxresourcegeneratedarea;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WXResourceGeneratedArea {
+	optional uint32 msg_cid = 1[default = 24848];
+	 optional bool breplicatemovement = 2;
+	 optional bool bhidden = 3;
+	 optional bool btearoff = 4;
+	 optional bool bcanbedamaged = 5;
+	 optional uint32 remoterole = 7;
+	 optional UnrealObjectRef attachmentreplication_attachparent = 8;
+	 optional bytes attachmentreplication_locationoffset = 9;
+	 optional bytes attachmentreplication_relativescale3d = 10;
+	 optional bytes attachmentreplication_rotationoffset = 11;
+	 optional string attachmentreplication_attachsocket = 12;
+	 optional UnrealObjectRef attachmentreplication_attachcomponent = 13;
+	 optional bytes replicatedmovement = 14;
+	 optional UnrealObjectRef owner = 15;
+	 optional uint32 role = 16;
+	 optional UnrealObjectRef instigator = 17;
+	 optional UnrealObjectRef resmesh = 18;
+	 optional int32 curresdata_reslevel = 19;
+	 optional UnrealObjectRef curresdata_mesh = 20;
+	 optional bytes curresdata_boxextent = 21;
+	 optional bytes curresdata_meshrelativetransform_rotation = 22;
+	 optional bytes curresdata_meshrelativetransform_translation = 23;
+	 optional bytes curresdata_meshrelativetransform_scale3d = 24;
+	 optional uint32 curresdata_interacttype = 25;
+	 optional uint32 curresdata_restype = 26;
+	 repeated bytes curresdata_respropidarray = 27;
+	 repeated bytes curresdata_extrarespropidarray = 28;
+	 optional int32 curresdata_mingeneratedprop = 29;
+	 optional int32 curresdata_maxgeneratedprop = 30;
+	 optional float curresdata_extrarespropprobability = 31;
+	 optional int32 curresdata_extrarespropmincount = 32;
+	 optional int32 curresdata_extrarespropmaxcount = 33;
+	 optional int32 curresdata_collectiontimes = 34;
+	 optional int32 curresdata_professionexp = 35;
+	 optional int32 curresdata_aliveticks = 36;
+	 optional float curresdata_interactdistance = 37;
+	 optional float curresdata_interacttime = 38;
+	 optional int32 curresdata_maxcollectionplayer = 39;
+}
+
+message WXResourceGeneratedAreaServerOnly {
+	optional uint32 msg_cid = 1[default = 24849];
+	 optional bool bactorenablecollision = 6;
+}

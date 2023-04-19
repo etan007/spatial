@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message BrainComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message BrainComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10365];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10366];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10367];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10368];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10369];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10370];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10371];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10372];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10373];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10374];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10375];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10376];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10377];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10378];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10379];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10380];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10381];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10382];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10383];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10384];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10385];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10386];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10387];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10388];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10389];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10390];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10391];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10392];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10393];
+	optional BrainComponent data = 2;
+}
+
+message BrainComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10394];
+	optional BrainComponent data = 2;
+}

@@ -1,0 +1,48 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.bppillarpartc;
+
+
+import "unreal/gdk/core_types.proto";
+
+message BPPillarPartC {
+	optional uint32 msg_cid = 1[default = 25670];
+	 optional bool breplicatemovement = 2;
+	 optional bool bhidden = 3;
+	 optional bool btearoff = 4;
+	 optional bool bcanbedamaged = 5;
+	 optional uint32 remoterole = 7;
+	 optional UnrealObjectRef attachmentreplication_attachparent = 8;
+	 optional bytes attachmentreplication_locationoffset = 9;
+	 optional bytes attachmentreplication_relativescale3d = 10;
+	 optional bytes attachmentreplication_rotationoffset = 11;
+	 optional string attachmentreplication_attachsocket = 12;
+	 optional UnrealObjectRef attachmentreplication_attachcomponent = 13;
+	 optional bytes replicatedmovement = 14;
+	 optional UnrealObjectRef owner = 15;
+	 optional uint32 role = 16;
+	 optional UnrealObjectRef instigator = 17;
+	 optional int32 thingguid_a = 18;
+	 optional int32 thingguid_b = 19;
+	 optional int32 thingguid_c = 20;
+	 optional int32 thingguid_d = 21;
+	 optional int32 cfgid = 22;
+	 optional int32 builder = 23;
+	 optional float durability = 24;
+	 optional int32 direction = 25;
+	 optional uint32 thingtype = 26;
+	 optional UnrealObjectRef parentroom = 27;
+	 optional bytes parenttransform_rotation = 28;
+	 optional bytes parenttransform_translation = 29;
+	 optional bytes parenttransform_scale3d = 30;
+	 optional int32 buildpostion_x = 31;
+	 optional int32 buildpostion_y = 32;
+	 optional int32 centerposition_x = 33;
+	 optional int32 centerposition_y = 34;
+	 optional uint32 buildstate = 35;
+}
+
+message BPPillarPartCServerOnly {
+	optional uint32 msg_cid = 1[default = 25671];
+	 optional bool bactorenablecollision = 6;
+}

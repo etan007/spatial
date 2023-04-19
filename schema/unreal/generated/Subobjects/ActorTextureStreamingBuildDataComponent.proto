@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ActorTextureStreamingBuildDataComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 12033];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 12034];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 12035];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 12036];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 12037];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 12038];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 12039];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 12040];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 12041];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 12042];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 12043];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 12044];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 12045];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 12046];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 12047];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 12048];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 12049];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 12050];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 12051];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 12052];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 12053];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 12054];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 12055];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 12056];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 12057];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12058];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12059];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12060];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12061];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}
+
+message ActorTextureStreamingBuildDataComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12062];
+	optional ActorTextureStreamingBuildDataComponent data = 2;
+}

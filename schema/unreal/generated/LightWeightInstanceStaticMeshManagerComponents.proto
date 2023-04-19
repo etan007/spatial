@@ -1,0 +1,10 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.lightweightinstancestaticmeshmanager.subobjects;
+
+import "unreal/generated/Subobjects/HierarchicalInstancedStaticMeshComponent.proto";
+
+message InstancedStaticMeshComponent0 {
+	optional uint32 msg_cid = 1[default = 13228];
+	optional unreal.generated.HierarchicalInstancedStaticMeshComponent data = 2;
+}

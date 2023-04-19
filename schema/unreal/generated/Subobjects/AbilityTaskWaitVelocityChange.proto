@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTaskWaitVelocityChange {
+}
+
+message AbilityTaskWaitVelocityChangeDynamic1 {
+	optional uint32 msg_cid = 1[default = 17286];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic2 {
+	optional uint32 msg_cid = 1[default = 17287];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic3 {
+	optional uint32 msg_cid = 1[default = 17288];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic4 {
+	optional uint32 msg_cid = 1[default = 17289];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic5 {
+	optional uint32 msg_cid = 1[default = 17290];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic6 {
+	optional uint32 msg_cid = 1[default = 17291];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic7 {
+	optional uint32 msg_cid = 1[default = 17292];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic8 {
+	optional uint32 msg_cid = 1[default = 17293];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic9 {
+	optional uint32 msg_cid = 1[default = 17294];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic10 {
+	optional uint32 msg_cid = 1[default = 17295];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic11 {
+	optional uint32 msg_cid = 1[default = 17296];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic12 {
+	optional uint32 msg_cid = 1[default = 17297];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic13 {
+	optional uint32 msg_cid = 1[default = 17298];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic14 {
+	optional uint32 msg_cid = 1[default = 17299];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic15 {
+	optional uint32 msg_cid = 1[default = 17300];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic16 {
+	optional uint32 msg_cid = 1[default = 17301];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic17 {
+	optional uint32 msg_cid = 1[default = 17302];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic18 {
+	optional uint32 msg_cid = 1[default = 17303];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic19 {
+	optional uint32 msg_cid = 1[default = 17304];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic20 {
+	optional uint32 msg_cid = 1[default = 17305];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic21 {
+	optional uint32 msg_cid = 1[default = 17306];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic22 {
+	optional uint32 msg_cid = 1[default = 17307];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic23 {
+	optional uint32 msg_cid = 1[default = 17308];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic24 {
+	optional uint32 msg_cid = 1[default = 17309];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic25 {
+	optional uint32 msg_cid = 1[default = 17310];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic26 {
+	optional uint32 msg_cid = 1[default = 17311];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic27 {
+	optional uint32 msg_cid = 1[default = 17312];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic28 {
+	optional uint32 msg_cid = 1[default = 17313];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic29 {
+	optional uint32 msg_cid = 1[default = 17314];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}
+
+message AbilityTaskWaitVelocityChangeDynamic30 {
+	optional uint32 msg_cid = 1[default = 17315];
+	optional AbilityTaskWaitVelocityChange data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GameplayTaskClaimResource {
+}
+
+message GameplayTaskClaimResourceDynamic1 {
+	optional uint32 msg_cid = 1[default = 17525];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic2 {
+	optional uint32 msg_cid = 1[default = 17526];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic3 {
+	optional uint32 msg_cid = 1[default = 17527];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic4 {
+	optional uint32 msg_cid = 1[default = 17528];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic5 {
+	optional uint32 msg_cid = 1[default = 17529];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic6 {
+	optional uint32 msg_cid = 1[default = 17530];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic7 {
+	optional uint32 msg_cid = 1[default = 17531];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic8 {
+	optional uint32 msg_cid = 1[default = 17532];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic9 {
+	optional uint32 msg_cid = 1[default = 17533];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic10 {
+	optional uint32 msg_cid = 1[default = 17534];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic11 {
+	optional uint32 msg_cid = 1[default = 17535];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic12 {
+	optional uint32 msg_cid = 1[default = 17536];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic13 {
+	optional uint32 msg_cid = 1[default = 17537];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic14 {
+	optional uint32 msg_cid = 1[default = 17538];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic15 {
+	optional uint32 msg_cid = 1[default = 17539];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic16 {
+	optional uint32 msg_cid = 1[default = 17540];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic17 {
+	optional uint32 msg_cid = 1[default = 17541];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic18 {
+	optional uint32 msg_cid = 1[default = 17542];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic19 {
+	optional uint32 msg_cid = 1[default = 17543];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic20 {
+	optional uint32 msg_cid = 1[default = 17544];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic21 {
+	optional uint32 msg_cid = 1[default = 17545];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic22 {
+	optional uint32 msg_cid = 1[default = 17546];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic23 {
+	optional uint32 msg_cid = 1[default = 17547];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic24 {
+	optional uint32 msg_cid = 1[default = 17548];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic25 {
+	optional uint32 msg_cid = 1[default = 17549];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic26 {
+	optional uint32 msg_cid = 1[default = 17550];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic27 {
+	optional uint32 msg_cid = 1[default = 17551];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic28 {
+	optional uint32 msg_cid = 1[default = 17552];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic29 {
+	optional uint32 msg_cid = 1[default = 17553];
+	optional GameplayTaskClaimResource data = 2;
+}
+
+message GameplayTaskClaimResourceDynamic30 {
+	optional uint32 msg_cid = 1[default = 17554];
+	optional GameplayTaskClaimResource data = 2;
+}

@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message HoudiniStaticMeshComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message HoudiniStaticMeshComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18296];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18297];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18298];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18299];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18300];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18301];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18302];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18303];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18304];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18305];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18306];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18307];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18308];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18309];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18310];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18311];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18312];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18313];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18314];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18315];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18316];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18317];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18318];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18319];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18320];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18321];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18322];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18323];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18324];
+	optional HoudiniStaticMeshComponent data = 2;
+}
+
+message HoudiniStaticMeshComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18325];
+	optional HoudiniStaticMeshComponent data = 2;
+}

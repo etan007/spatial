@@ -1,0 +1,22 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.paperterrainactor.subobjects;
+
+import "unreal/generated/Subobjects/SceneComponent.proto";
+import "unreal/generated/Subobjects/PaperTerrainSplineComponent.proto";
+import "unreal/generated/Subobjects/PaperTerrainComponent.proto";
+
+message RootComponent {
+	optional uint32 msg_cid = 1[default = 20890];
+	optional unreal.generated.SceneComponent data = 2;
+}
+
+message SplineComponent {
+	optional uint32 msg_cid = 1[default = 20891];
+	optional unreal.generated.PaperTerrainSplineComponent data = 2;
+}
+
+message RenderComponent {
+	optional uint32 msg_cid = 1[default = 20892];
+	optional unreal.generated.PaperTerrainComponent data = 2;
+}

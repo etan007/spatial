@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message SkeletalMeshComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message SkeletalMeshComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10466];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10467];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10468];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10469];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10470];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10471];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10472];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10473];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10474];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10475];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10476];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10477];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10478];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10479];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10480];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10481];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10482];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10483];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10484];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10485];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10486];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10487];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10488];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10489];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10490];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10491];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10492];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10493];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10494];
+	optional SkeletalMeshComponent data = 2;
+}
+
+message SkeletalMeshComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10495];
+	optional SkeletalMeshComponent data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXGameplayAbility {
+}
+
+message WXGameplayAbilityDynamic1 {
+	optional uint32 msg_cid = 1[default = 24187];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic2 {
+	optional uint32 msg_cid = 1[default = 24188];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic3 {
+	optional uint32 msg_cid = 1[default = 24189];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic4 {
+	optional uint32 msg_cid = 1[default = 24190];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic5 {
+	optional uint32 msg_cid = 1[default = 24191];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic6 {
+	optional uint32 msg_cid = 1[default = 24192];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic7 {
+	optional uint32 msg_cid = 1[default = 24193];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic8 {
+	optional uint32 msg_cid = 1[default = 24194];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic9 {
+	optional uint32 msg_cid = 1[default = 24195];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic10 {
+	optional uint32 msg_cid = 1[default = 24196];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic11 {
+	optional uint32 msg_cid = 1[default = 24197];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic12 {
+	optional uint32 msg_cid = 1[default = 24198];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic13 {
+	optional uint32 msg_cid = 1[default = 24199];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic14 {
+	optional uint32 msg_cid = 1[default = 24200];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic15 {
+	optional uint32 msg_cid = 1[default = 24201];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic16 {
+	optional uint32 msg_cid = 1[default = 24202];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic17 {
+	optional uint32 msg_cid = 1[default = 24203];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic18 {
+	optional uint32 msg_cid = 1[default = 24204];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic19 {
+	optional uint32 msg_cid = 1[default = 24205];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic20 {
+	optional uint32 msg_cid = 1[default = 24206];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic21 {
+	optional uint32 msg_cid = 1[default = 24207];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic22 {
+	optional uint32 msg_cid = 1[default = 24208];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic23 {
+	optional uint32 msg_cid = 1[default = 24209];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic24 {
+	optional uint32 msg_cid = 1[default = 24210];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic25 {
+	optional uint32 msg_cid = 1[default = 24211];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic26 {
+	optional uint32 msg_cid = 1[default = 24212];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic27 {
+	optional uint32 msg_cid = 1[default = 24213];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic28 {
+	optional uint32 msg_cid = 1[default = 24214];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic29 {
+	optional uint32 msg_cid = 1[default = 24215];
+	optional WXGameplayAbility data = 2;
+}
+
+message WXGameplayAbilityDynamic30 {
+	optional uint32 msg_cid = 1[default = 24216];
+	optional WXGameplayAbility data = 2;
+}

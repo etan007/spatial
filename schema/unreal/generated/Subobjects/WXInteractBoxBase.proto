@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WXInteractBoxBase {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message WXInteractBoxBaseDynamic1 {
+	optional uint32 msg_cid = 1[default = 24283];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic2 {
+	optional uint32 msg_cid = 1[default = 24284];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic3 {
+	optional uint32 msg_cid = 1[default = 24285];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic4 {
+	optional uint32 msg_cid = 1[default = 24286];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic5 {
+	optional uint32 msg_cid = 1[default = 24287];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic6 {
+	optional uint32 msg_cid = 1[default = 24288];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic7 {
+	optional uint32 msg_cid = 1[default = 24289];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic8 {
+	optional uint32 msg_cid = 1[default = 24290];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic9 {
+	optional uint32 msg_cid = 1[default = 24291];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic10 {
+	optional uint32 msg_cid = 1[default = 24292];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic11 {
+	optional uint32 msg_cid = 1[default = 24293];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic12 {
+	optional uint32 msg_cid = 1[default = 24294];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic13 {
+	optional uint32 msg_cid = 1[default = 24295];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic14 {
+	optional uint32 msg_cid = 1[default = 24296];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic15 {
+	optional uint32 msg_cid = 1[default = 24297];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic16 {
+	optional uint32 msg_cid = 1[default = 24298];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic17 {
+	optional uint32 msg_cid = 1[default = 24299];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic18 {
+	optional uint32 msg_cid = 1[default = 24300];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic19 {
+	optional uint32 msg_cid = 1[default = 24301];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic20 {
+	optional uint32 msg_cid = 1[default = 24302];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic21 {
+	optional uint32 msg_cid = 1[default = 24303];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic22 {
+	optional uint32 msg_cid = 1[default = 24304];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic23 {
+	optional uint32 msg_cid = 1[default = 24305];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic24 {
+	optional uint32 msg_cid = 1[default = 24306];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic25 {
+	optional uint32 msg_cid = 1[default = 24307];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic26 {
+	optional uint32 msg_cid = 1[default = 24308];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic27 {
+	optional uint32 msg_cid = 1[default = 24309];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic28 {
+	optional uint32 msg_cid = 1[default = 24310];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic29 {
+	optional uint32 msg_cid = 1[default = 24311];
+	optional WXInteractBoxBase data = 2;
+}
+
+message WXInteractBoxBaseDynamic30 {
+	optional uint32 msg_cid = 1[default = 24312];
+	optional WXInteractBoxBase data = 2;
+}

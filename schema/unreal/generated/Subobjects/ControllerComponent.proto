@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ControllerComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ControllerComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 20150];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 20151];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 20152];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 20153];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20154];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20155];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20156];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20157];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20158];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20159];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20160];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20161];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20162];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20163];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20164];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20165];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20166];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20167];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20168];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20169];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20170];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20171];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20172];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20173];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20174];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20175];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20176];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20177];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20178];
+	optional ControllerComponent data = 2;
+}
+
+message ControllerComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20179];
+	optional ControllerComponent data = 2;
+}

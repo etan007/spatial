@@ -1,0 +1,331 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message DataAndInitialOnlyComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional int32 datareplicatedvar = 18;
+}
+
+message DataAndInitialOnlyComponentInitialOnly {
+	 optional int32 initialonlyreplicatedvar = 19;
+}
+
+message DataAndInitialOnlyComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 21233];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 21234];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 21235];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 21236];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 21237];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 21238];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 21239];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 21240];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 21241];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 21242];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 21243];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 21244];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 21245];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 21246];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 21247];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 21248];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 21249];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 21250];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 21251];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 21252];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 21253];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 21254];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 21255];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 21256];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 21257];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 21258];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 21259];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 21260];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 21261];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 21262];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 21263];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 21264];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 21265];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 21266];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 21267];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 21268];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 21269];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 21270];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 21271];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 21272];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 21273];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 21274];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 21275];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 21276];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 21277];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 21278];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 21279];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 21280];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 21281];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 21282];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 21283];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 21284];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 21285];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 21286];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 21287];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 21288];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 21289];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 21290];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}
+
+message DataAndInitialOnlyComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 21291];
+	optional DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 21292];
+	optional DataAndInitialOnlyComponentInitialOnly data = 2;
+}

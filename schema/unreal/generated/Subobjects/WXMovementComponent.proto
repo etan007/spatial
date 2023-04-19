@@ -1,0 +1,316 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXMovementComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message WXMovementComponentServerOnly {
+	 optional bytes velocity = 3;
+	 optional uint32 movementmode = 4;
+	 optional uint32 custommovementmode = 5;
+	 optional uint32 groundmovementmode = 6;
+}
+
+message WXMovementComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 24021];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 24022];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 24023];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 24024];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 24025];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 24026];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 24027];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 24028];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 24029];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 24030];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 24031];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 24032];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 24033];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 24034];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 24035];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 24036];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 24037];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 24038];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 24039];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 24040];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 24041];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 24042];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 24043];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 24044];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 24045];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 24046];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 24047];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 24048];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 24049];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 24050];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 24051];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 24052];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 24053];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 24054];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 24055];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 24056];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 24057];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 24058];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 24059];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 24060];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 24061];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 24062];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 24063];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 24064];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 24065];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 24066];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 24067];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 24068];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 24069];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 24070];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 24071];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 24072];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 24073];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 24074];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 24075];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 24076];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 24077];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 24078];
+	optional WXMovementComponentServerOnly data = 2;
+}
+
+message WXMovementComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 24079];
+	optional WXMovementComponent data = 2;
+}
+
+message WXMovementComponentServerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 24080];
+	optional WXMovementComponentServerOnly data = 2;
+}

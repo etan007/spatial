@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message Basic2DLineSetComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message Basic2DLineSetComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 22876];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 22877];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 22878];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 22879];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 22880];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 22881];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 22882];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 22883];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 22884];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 22885];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 22886];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 22887];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 22888];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 22889];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 22890];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 22891];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 22892];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 22893];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 22894];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 22895];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 22896];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 22897];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 22898];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 22899];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 22900];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 22901];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 22902];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 22903];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 22904];
+	optional Basic2DLineSetComponent data = 2;
+}
+
+message Basic2DLineSetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 22905];
+	optional Basic2DLineSetComponent data = 2;
+}

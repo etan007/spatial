@@ -1,0 +1,32 @@
+syntax = "proto2";
+package unreal;
+
+import "improbable/standard_library.proto";
+import "unreal/gdk/spawner.proto";
+import "unreal/gdk/global_state_manager.proto";
+import "unreal/gdk/virtual_worker_translation.proto";
+//import "unreal/gdk/server_worker.proto";
+
+message KnownEntityAuthComponentSet {
+  optional uint32 msg_cid = 1[default = 9905];
+  /*components = [
+	improbable.Position,
+	improbable.Metadata,
+	improbable.Interest,
+	unreal.PlayerSpawner,
+	unreal.DeploymentMap,
+	unreal.StartupActorManager,
+	unreal.GSMShutdown,	 
+	unreal.VirtualWorkerTranslation
+  ];*/
+  message Components{
+	optional improbable.Position cps_x1 = 1;
+	optional improbable.Metadata cps_x2= 2;
+	optional improbable.Interest cps_x3 = 3;
+	optional unreal.PlayerSpawner cps_x4 = 4;
+	optional unreal.DeploymentMap cps_x5 = 5;
+	optional unreal.StartupActorManager cps_x6 = 6;
+	optional unreal.GSMShutdown cps_x7 = 7;
+	optional unreal.VirtualWorkerTranslation cps_x8 = 8;
+  }
+}

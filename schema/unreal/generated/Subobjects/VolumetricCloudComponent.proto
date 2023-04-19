@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message VolumetricCloudComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message VolumetricCloudComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 14870];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 14871];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 14872];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 14873];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 14874];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 14875];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 14876];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 14877];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 14878];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 14879];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 14880];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 14881];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 14882];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 14883];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 14884];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 14885];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 14886];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 14887];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 14888];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 14889];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 14890];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 14891];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 14892];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 14893];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 14894];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14895];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14896];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14897];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14898];
+	optional VolumetricCloudComponent data = 2;
+}
+
+message VolumetricCloudComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14899];
+	optional VolumetricCloudComponent data = 2;
+}

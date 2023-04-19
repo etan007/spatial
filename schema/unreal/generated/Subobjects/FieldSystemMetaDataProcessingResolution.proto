@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message FieldSystemMetaDataProcessingResolution {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic1 {
+	optional uint32 msg_cid = 1[default = 15345];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic2 {
+	optional uint32 msg_cid = 1[default = 15346];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic3 {
+	optional uint32 msg_cid = 1[default = 15347];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic4 {
+	optional uint32 msg_cid = 1[default = 15348];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic5 {
+	optional uint32 msg_cid = 1[default = 15349];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic6 {
+	optional uint32 msg_cid = 1[default = 15350];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic7 {
+	optional uint32 msg_cid = 1[default = 15351];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic8 {
+	optional uint32 msg_cid = 1[default = 15352];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic9 {
+	optional uint32 msg_cid = 1[default = 15353];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic10 {
+	optional uint32 msg_cid = 1[default = 15354];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic11 {
+	optional uint32 msg_cid = 1[default = 15355];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic12 {
+	optional uint32 msg_cid = 1[default = 15356];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic13 {
+	optional uint32 msg_cid = 1[default = 15357];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic14 {
+	optional uint32 msg_cid = 1[default = 15358];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic15 {
+	optional uint32 msg_cid = 1[default = 15359];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic16 {
+	optional uint32 msg_cid = 1[default = 15360];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic17 {
+	optional uint32 msg_cid = 1[default = 15361];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic18 {
+	optional uint32 msg_cid = 1[default = 15362];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic19 {
+	optional uint32 msg_cid = 1[default = 15363];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic20 {
+	optional uint32 msg_cid = 1[default = 15364];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic21 {
+	optional uint32 msg_cid = 1[default = 15365];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic22 {
+	optional uint32 msg_cid = 1[default = 15366];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic23 {
+	optional uint32 msg_cid = 1[default = 15367];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic24 {
+	optional uint32 msg_cid = 1[default = 15368];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic25 {
+	optional uint32 msg_cid = 1[default = 15369];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic26 {
+	optional uint32 msg_cid = 1[default = 15370];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic27 {
+	optional uint32 msg_cid = 1[default = 15371];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic28 {
+	optional uint32 msg_cid = 1[default = 15372];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic29 {
+	optional uint32 msg_cid = 1[default = 15373];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}
+
+message FieldSystemMetaDataProcessingResolutionDynamic30 {
+	optional uint32 msg_cid = 1[default = 15374];
+	optional FieldSystemMetaDataProcessingResolution data = 2;
+}

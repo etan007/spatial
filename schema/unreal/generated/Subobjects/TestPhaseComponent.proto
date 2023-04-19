@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message TestPhaseComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message TestPhaseComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 15986];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 15987];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 15988];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 15989];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 15990];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 15991];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 15992];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 15993];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 15994];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 15995];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 15996];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 15997];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 15998];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 15999];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 16000];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 16001];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 16002];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 16003];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 16004];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 16005];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 16006];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 16007];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 16008];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 16009];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 16010];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 16011];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 16012];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 16013];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 16014];
+	optional TestPhaseComponent data = 2;
+}
+
+message TestPhaseComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 16015];
+	optional TestPhaseComponent data = 2;
+}

@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message PlanarReflectionComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message PlanarReflectionComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 13818];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 13819];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 13820];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 13821];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 13822];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 13823];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 13824];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 13825];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 13826];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 13827];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 13828];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 13829];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 13830];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 13831];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 13832];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 13833];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 13834];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 13835];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 13836];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 13837];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 13838];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 13839];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 13840];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 13841];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 13842];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13843];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13844];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13845];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13846];
+	optional PlanarReflectionComponent data = 2;
+}
+
+message PlanarReflectionComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13847];
+	optional PlanarReflectionComponent data = 2;
+}

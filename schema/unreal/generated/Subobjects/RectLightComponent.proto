@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message RectLightComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message RectLightComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 14157];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 14158];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 14159];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 14160];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 14161];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 14162];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 14163];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 14164];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 14165];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 14166];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 14167];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 14168];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 14169];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 14170];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 14171];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 14172];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 14173];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 14174];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 14175];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 14176];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 14177];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 14178];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 14179];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 14180];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 14181];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14182];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14183];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14184];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14185];
+	optional RectLightComponent data = 2;
+}
+
+message RectLightComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14186];
+	optional RectLightComponent data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTaskWaitTargetData {
+}
+
+message AbilityTaskWaitTargetDataDynamic1 {
+	optional uint32 msg_cid = 1[default = 17256];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic2 {
+	optional uint32 msg_cid = 1[default = 17257];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic3 {
+	optional uint32 msg_cid = 1[default = 17258];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic4 {
+	optional uint32 msg_cid = 1[default = 17259];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic5 {
+	optional uint32 msg_cid = 1[default = 17260];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic6 {
+	optional uint32 msg_cid = 1[default = 17261];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic7 {
+	optional uint32 msg_cid = 1[default = 17262];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic8 {
+	optional uint32 msg_cid = 1[default = 17263];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic9 {
+	optional uint32 msg_cid = 1[default = 17264];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic10 {
+	optional uint32 msg_cid = 1[default = 17265];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic11 {
+	optional uint32 msg_cid = 1[default = 17266];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic12 {
+	optional uint32 msg_cid = 1[default = 17267];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic13 {
+	optional uint32 msg_cid = 1[default = 17268];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic14 {
+	optional uint32 msg_cid = 1[default = 17269];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic15 {
+	optional uint32 msg_cid = 1[default = 17270];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic16 {
+	optional uint32 msg_cid = 1[default = 17271];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic17 {
+	optional uint32 msg_cid = 1[default = 17272];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic18 {
+	optional uint32 msg_cid = 1[default = 17273];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic19 {
+	optional uint32 msg_cid = 1[default = 17274];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic20 {
+	optional uint32 msg_cid = 1[default = 17275];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic21 {
+	optional uint32 msg_cid = 1[default = 17276];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic22 {
+	optional uint32 msg_cid = 1[default = 17277];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic23 {
+	optional uint32 msg_cid = 1[default = 17278];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic24 {
+	optional uint32 msg_cid = 1[default = 17279];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic25 {
+	optional uint32 msg_cid = 1[default = 17280];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic26 {
+	optional uint32 msg_cid = 1[default = 17281];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic27 {
+	optional uint32 msg_cid = 1[default = 17282];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic28 {
+	optional uint32 msg_cid = 1[default = 17283];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic29 {
+	optional uint32 msg_cid = 1[default = 17284];
+	optional AbilityTaskWaitTargetData data = 2;
+}
+
+message AbilityTaskWaitTargetDataDynamic30 {
+	optional uint32 msg_cid = 1[default = 17285];
+	optional AbilityTaskWaitTargetData data = 2;
+}

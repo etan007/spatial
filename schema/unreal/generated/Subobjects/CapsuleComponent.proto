@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message CapsuleComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message CapsuleComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10556];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10557];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10558];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10559];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10560];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10561];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10562];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10563];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10564];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10565];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10566];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10567];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10568];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10569];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10570];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10571];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10572];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10573];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10574];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10575];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10576];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10577];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10578];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10579];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10580];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10581];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10582];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10583];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10584];
+	optional CapsuleComponent data = 2;
+}
+
+message CapsuleComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10585];
+	optional CapsuleComponent data = 2;
+}

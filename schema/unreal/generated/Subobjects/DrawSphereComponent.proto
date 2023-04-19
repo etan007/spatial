@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message DrawSphereComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message DrawSphereComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 12735];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 12736];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 12737];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 12738];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 12739];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 12740];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 12741];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 12742];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 12743];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 12744];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 12745];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 12746];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 12747];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 12748];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 12749];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 12750];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 12751];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 12752];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 12753];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 12754];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 12755];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 12756];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 12757];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 12758];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 12759];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12760];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12761];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12762];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12763];
+	optional DrawSphereComponent data = 2;
+}
+
+message DrawSphereComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12764];
+	optional DrawSphereComponent data = 2;
+}

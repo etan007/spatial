@@ -1,0 +1,23 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.ncdcomponents;
+
+// distance 225000000.000000
+message NetCullDistanceSquared225000000 {
+	optional uint32 msg_cid = 1[default = 25041];
+}
+
+// distance 1.000000
+message NetCullDistanceSquared1 {
+	optional uint32 msg_cid = 1[default = 25042];
+}
+
+// distance 0.000000
+message NetCullDistanceSquared0 {
+	optional uint32 msg_cid = 1[default = 25043];
+}
+
+// distance 1000000.000000
+message NetCullDistanceSquared1000000 {
+	optional uint32 msg_cid = 1[default = 25044];
+}

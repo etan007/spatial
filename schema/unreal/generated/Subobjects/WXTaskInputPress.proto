@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXTaskInputPress {
+}
+
+message WXTaskInputPressDynamic1 {
+	optional uint32 msg_cid = 1[default = 24921];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic2 {
+	optional uint32 msg_cid = 1[default = 24922];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic3 {
+	optional uint32 msg_cid = 1[default = 24923];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic4 {
+	optional uint32 msg_cid = 1[default = 24924];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic5 {
+	optional uint32 msg_cid = 1[default = 24925];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic6 {
+	optional uint32 msg_cid = 1[default = 24926];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic7 {
+	optional uint32 msg_cid = 1[default = 24927];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic8 {
+	optional uint32 msg_cid = 1[default = 24928];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic9 {
+	optional uint32 msg_cid = 1[default = 24929];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic10 {
+	optional uint32 msg_cid = 1[default = 24930];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic11 {
+	optional uint32 msg_cid = 1[default = 24931];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic12 {
+	optional uint32 msg_cid = 1[default = 24932];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic13 {
+	optional uint32 msg_cid = 1[default = 24933];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic14 {
+	optional uint32 msg_cid = 1[default = 24934];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic15 {
+	optional uint32 msg_cid = 1[default = 24935];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic16 {
+	optional uint32 msg_cid = 1[default = 24936];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic17 {
+	optional uint32 msg_cid = 1[default = 24937];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic18 {
+	optional uint32 msg_cid = 1[default = 24938];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic19 {
+	optional uint32 msg_cid = 1[default = 24939];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic20 {
+	optional uint32 msg_cid = 1[default = 24940];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic21 {
+	optional uint32 msg_cid = 1[default = 24941];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic22 {
+	optional uint32 msg_cid = 1[default = 24942];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic23 {
+	optional uint32 msg_cid = 1[default = 24943];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic24 {
+	optional uint32 msg_cid = 1[default = 24944];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic25 {
+	optional uint32 msg_cid = 1[default = 24945];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic26 {
+	optional uint32 msg_cid = 1[default = 24946];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic27 {
+	optional uint32 msg_cid = 1[default = 24947];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic28 {
+	optional uint32 msg_cid = 1[default = 24948];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic29 {
+	optional uint32 msg_cid = 1[default = 24949];
+	optional WXTaskInputPress data = 2;
+}
+
+message WXTaskInputPressDynamic30 {
+	optional uint32 msg_cid = 1[default = 24950];
+	optional WXTaskInputPress data = 2;
+}

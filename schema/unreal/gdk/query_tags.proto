@@ -1,0 +1,28 @@
+syntax = "proto2";
+package unreal;
+
+// System query tags for entity completeness
+
+message ActorAuthTag {
+    optional uint32 msg_cid = 1[default = 2001];
+}
+
+message ActorTag {
+    optional uint32 msg_cid = 1[default = 2002];
+}
+
+message ActorOwnerOnlyDataTag {
+    optional uint32 msg_cid = 1[default = 2003];
+}
+
+message LBTag {
+    optional uint32 msg_cid = 1[default = 2005];
+}
+
+message GDKKnownEntityTag {
+    optional uint32 msg_cid = 1[default = 2007];
+}
+
+message RoutingWorkerEntityTag {
+    optional uint32 msg_cid = 1[default = 2009];
+}

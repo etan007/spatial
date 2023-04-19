@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message BuildComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message BuildComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11588];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11589];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11590];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11591];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11592];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11593];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11594];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11595];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11596];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11597];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11598];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11599];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11600];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11601];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11602];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11603];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11604];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11605];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11606];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11607];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11608];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11609];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11610];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11611];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11612];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11613];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11614];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11615];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11616];
+	optional BuildComponent data = 2;
+}
+
+message BuildComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11617];
+	optional BuildComponent data = 2;
+}

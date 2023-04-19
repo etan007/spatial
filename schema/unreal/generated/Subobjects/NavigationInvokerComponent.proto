@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message NavigationInvokerComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message NavigationInvokerComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 20431];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 20432];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 20433];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 20434];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20435];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20436];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20437];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20438];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20439];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20440];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20441];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20442];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20443];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20444];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20445];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20446];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20447];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20448];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20449];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20450];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20451];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20452];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20453];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20454];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20455];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20456];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20457];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20458];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20459];
+	optional NavigationInvokerComponent data = 2;
+}
+
+message NavigationInvokerComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20460];
+	optional NavigationInvokerComponent data = 2;
+}

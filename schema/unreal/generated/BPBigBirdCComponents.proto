@@ -1,0 +1,28 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.bpbigbirdc.subobjects;
+
+import "unreal/generated/Subobjects/StaticMeshComponent.proto";
+import "unreal/generated/Subobjects/ThingInteractBox.proto";
+import "unreal/generated/Subobjects/SceneComponent.proto";
+import "unreal/generated/Subobjects/WXInteractWidgetComponent.proto";
+
+message StaticMesh {
+	optional uint32 msg_cid = 1[default = 25783];
+	optional unreal.generated.StaticMeshComponent data = 2;
+}
+
+message InteractBox {
+	optional uint32 msg_cid = 1[default = 25784];
+	optional unreal.generated.ThingInteractBox data = 2;
+}
+
+message RootComponent {
+	optional uint32 msg_cid = 1[default = 25785];
+	optional unreal.generated.SceneComponent data = 2;
+}
+
+message WidgetCom {
+	optional uint32 msg_cid = 1[default = 25786];
+	optional unreal.generated.WXInteractWidgetComponent data = 2;
+}

@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GridPathFollowingComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message GridPathFollowingComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10591];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10592];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10593];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10594];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10595];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10596];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10597];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10598];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10599];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10600];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10601];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10602];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10603];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10604];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10605];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10606];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10607];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10608];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10609];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10610];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10611];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10612];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10613];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10614];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10615];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10616];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10617];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10618];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10619];
+	optional GridPathFollowingComponent data = 2;
+}
+
+message GridPathFollowingComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10620];
+	optional GridPathFollowingComponent data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTask {
+}
+
+message AbilityTaskDynamic1 {
+	optional uint32 msg_cid = 1[default = 16116];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic2 {
+	optional uint32 msg_cid = 1[default = 16117];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic3 {
+	optional uint32 msg_cid = 1[default = 16118];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic4 {
+	optional uint32 msg_cid = 1[default = 16119];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic5 {
+	optional uint32 msg_cid = 1[default = 16120];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic6 {
+	optional uint32 msg_cid = 1[default = 16121];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic7 {
+	optional uint32 msg_cid = 1[default = 16122];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic8 {
+	optional uint32 msg_cid = 1[default = 16123];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic9 {
+	optional uint32 msg_cid = 1[default = 16124];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic10 {
+	optional uint32 msg_cid = 1[default = 16125];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic11 {
+	optional uint32 msg_cid = 1[default = 16126];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic12 {
+	optional uint32 msg_cid = 1[default = 16127];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic13 {
+	optional uint32 msg_cid = 1[default = 16128];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic14 {
+	optional uint32 msg_cid = 1[default = 16129];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic15 {
+	optional uint32 msg_cid = 1[default = 16130];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic16 {
+	optional uint32 msg_cid = 1[default = 16131];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic17 {
+	optional uint32 msg_cid = 1[default = 16132];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic18 {
+	optional uint32 msg_cid = 1[default = 16133];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic19 {
+	optional uint32 msg_cid = 1[default = 16134];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic20 {
+	optional uint32 msg_cid = 1[default = 16135];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic21 {
+	optional uint32 msg_cid = 1[default = 16136];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic22 {
+	optional uint32 msg_cid = 1[default = 16137];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic23 {
+	optional uint32 msg_cid = 1[default = 16138];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic24 {
+	optional uint32 msg_cid = 1[default = 16139];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic25 {
+	optional uint32 msg_cid = 1[default = 16140];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic26 {
+	optional uint32 msg_cid = 1[default = 16141];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic27 {
+	optional uint32 msg_cid = 1[default = 16142];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic28 {
+	optional uint32 msg_cid = 1[default = 16143];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic29 {
+	optional uint32 msg_cid = 1[default = 16144];
+	optional AbilityTask data = 2;
+}
+
+message AbilityTaskDynamic30 {
+	optional uint32 msg_cid = 1[default = 16145];
+	optional AbilityTask data = 2;
+}

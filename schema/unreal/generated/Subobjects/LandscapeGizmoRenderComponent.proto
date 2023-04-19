@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message LandscapeGizmoRenderComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message LandscapeGizmoRenderComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18621];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18622];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18623];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18624];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18625];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18626];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18627];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18628];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18629];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18630];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18631];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18632];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18633];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18634];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18635];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18636];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18637];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18638];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18639];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18640];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18641];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18642];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18643];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18644];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18645];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18646];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18647];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18648];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18649];
+	optional LandscapeGizmoRenderComponent data = 2;
+}
+
+message LandscapeGizmoRenderComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18650];
+	optional LandscapeGizmoRenderComponent data = 2;
+}

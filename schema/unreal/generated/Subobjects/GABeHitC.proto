@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GABeHitC {
+}
+
+message GABeHitCDynamic1 {
+	optional uint32 msg_cid = 1[default = 25093];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic2 {
+	optional uint32 msg_cid = 1[default = 25094];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic3 {
+	optional uint32 msg_cid = 1[default = 25095];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic4 {
+	optional uint32 msg_cid = 1[default = 25096];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic5 {
+	optional uint32 msg_cid = 1[default = 25097];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic6 {
+	optional uint32 msg_cid = 1[default = 25098];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic7 {
+	optional uint32 msg_cid = 1[default = 25099];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic8 {
+	optional uint32 msg_cid = 1[default = 25100];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic9 {
+	optional uint32 msg_cid = 1[default = 25101];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic10 {
+	optional uint32 msg_cid = 1[default = 25102];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic11 {
+	optional uint32 msg_cid = 1[default = 25103];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic12 {
+	optional uint32 msg_cid = 1[default = 25104];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic13 {
+	optional uint32 msg_cid = 1[default = 25105];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic14 {
+	optional uint32 msg_cid = 1[default = 25106];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic15 {
+	optional uint32 msg_cid = 1[default = 25107];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic16 {
+	optional uint32 msg_cid = 1[default = 25108];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic17 {
+	optional uint32 msg_cid = 1[default = 25109];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic18 {
+	optional uint32 msg_cid = 1[default = 25110];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic19 {
+	optional uint32 msg_cid = 1[default = 25111];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic20 {
+	optional uint32 msg_cid = 1[default = 25112];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic21 {
+	optional uint32 msg_cid = 1[default = 25113];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic22 {
+	optional uint32 msg_cid = 1[default = 25114];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic23 {
+	optional uint32 msg_cid = 1[default = 25115];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic24 {
+	optional uint32 msg_cid = 1[default = 25116];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic25 {
+	optional uint32 msg_cid = 1[default = 25117];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic26 {
+	optional uint32 msg_cid = 1[default = 25118];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic27 {
+	optional uint32 msg_cid = 1[default = 25119];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic28 {
+	optional uint32 msg_cid = 1[default = 25120];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic29 {
+	optional uint32 msg_cid = 1[default = 25121];
+	optional GABeHitC data = 2;
+}
+
+message GABeHitCDynamic30 {
+	optional uint32 msg_cid = 1[default = 25122];
+	optional GABeHitC data = 2;
+}

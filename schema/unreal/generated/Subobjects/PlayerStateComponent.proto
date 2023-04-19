@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message PlayerStateComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message PlayerStateComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 20270];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 20271];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 20272];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 20273];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20274];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20275];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20276];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20277];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20278];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20279];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20280];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20281];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20282];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20283];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20284];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20285];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20286];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20287];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20288];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20289];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20290];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20291];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20292];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20293];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20294];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20295];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20296];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20297];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20298];
+	optional PlayerStateComponent data = 2;
+}
+
+message PlayerStateComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20299];
+	optional PlayerStateComponent data = 2;
+}

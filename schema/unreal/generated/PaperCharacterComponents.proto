@@ -1,0 +1,27 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.papercharacter.subobjects;
+
+import "unreal/generated/Subobjects/PaperFlipbookComponent.proto";
+import "unreal/generated/Subobjects/CharacterMovementComponent.proto";
+import "unreal/generated/Subobjects/CapsuleComponent.proto";
+
+message Sprite0 {
+	optional uint32 msg_cid = 1[default = 20785];
+	optional unreal.generated.PaperFlipbookComponent data = 2;
+}
+
+message CharMoveComp {
+	optional uint32 msg_cid = 1[default = 20786];
+	optional unreal.generated.CharacterMovementComponent data = 2;
+}
+
+message CharMoveCompServerOnly {
+	optional uint32 msg_cid = 1[default = 20787];
+	optional unreal.generated.CharacterMovementComponentServerOnly data = 2;
+}
+
+message CollisionCylinder {
+	optional uint32 msg_cid = 1[default = 20788];
+	optional unreal.generated.CapsuleComponent data = 2;
+}

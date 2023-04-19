@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message UniformScalar {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message UniformScalarDynamic1 {
+	optional uint32 msg_cid = 1[default = 15705];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic2 {
+	optional uint32 msg_cid = 1[default = 15706];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic3 {
+	optional uint32 msg_cid = 1[default = 15707];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic4 {
+	optional uint32 msg_cid = 1[default = 15708];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic5 {
+	optional uint32 msg_cid = 1[default = 15709];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic6 {
+	optional uint32 msg_cid = 1[default = 15710];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic7 {
+	optional uint32 msg_cid = 1[default = 15711];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic8 {
+	optional uint32 msg_cid = 1[default = 15712];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic9 {
+	optional uint32 msg_cid = 1[default = 15713];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic10 {
+	optional uint32 msg_cid = 1[default = 15714];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic11 {
+	optional uint32 msg_cid = 1[default = 15715];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic12 {
+	optional uint32 msg_cid = 1[default = 15716];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic13 {
+	optional uint32 msg_cid = 1[default = 15717];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic14 {
+	optional uint32 msg_cid = 1[default = 15718];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic15 {
+	optional uint32 msg_cid = 1[default = 15719];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic16 {
+	optional uint32 msg_cid = 1[default = 15720];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic17 {
+	optional uint32 msg_cid = 1[default = 15721];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic18 {
+	optional uint32 msg_cid = 1[default = 15722];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic19 {
+	optional uint32 msg_cid = 1[default = 15723];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic20 {
+	optional uint32 msg_cid = 1[default = 15724];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic21 {
+	optional uint32 msg_cid = 1[default = 15725];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic22 {
+	optional uint32 msg_cid = 1[default = 15726];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic23 {
+	optional uint32 msg_cid = 1[default = 15727];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic24 {
+	optional uint32 msg_cid = 1[default = 15728];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic25 {
+	optional uint32 msg_cid = 1[default = 15729];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic26 {
+	optional uint32 msg_cid = 1[default = 15730];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic27 {
+	optional uint32 msg_cid = 1[default = 15731];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic28 {
+	optional uint32 msg_cid = 1[default = 15732];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic29 {
+	optional uint32 msg_cid = 1[default = 15733];
+	optional UniformScalar data = 2;
+}
+
+message UniformScalarDynamic30 {
+	optional uint32 msg_cid = 1[default = 15734];
+	optional UniformScalar data = 2;
+}

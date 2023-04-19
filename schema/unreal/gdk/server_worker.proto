@@ -1,0 +1,55 @@
+syntax = "proto2";
+package unreal;
+
+import "unreal/gdk/core_types.proto";
+import "unreal/gdk/debug_metrics.proto";
+import "unreal/gdk/spawner.proto";
+import "unreal/generated/rpc_endpoints.proto";
+import "improbable/standard_library.proto";
+
+message ForwardSpawnPlayerRequest {
+    optional SpawnPlayerRequest spawn_player_request = 1;
+    optional UnrealObjectRef player_start = 2;
+    optional int64 client_system_entity_id = 3;
+}
+
+message ForwardSpawnPlayerResponse {
+    optional bool success = 1;
+}
+
+message ServerWorker {
+    optional uint32 msg_cid = 1[default = 9974];
+    optional string worker_name = 2;
+    optional bool ready_to_begin_play = 3;
+    optional int64 server_system_entity_id = 4;
+    message CommandForwardSpawnPlayer
+    {
+        optional ForwardSpawnPlayerRequest request = 1;
+        optional ForwardSpawnPlayerResponse response = 2;
+    }
+    message CommandExecServerCommand
+    {
+        optional ExecServerCommandPayload request = 1;
+        optional Void response = 2;
+    }
+   message Commands
+    {
+        optional CommandForwardSpawnPlayer forward_spawn_player = 1;
+        optional CommandExecServerCommand exec_server_command = 2;
+    }
+  
+}
+ 
+message ServerWorkerAuthComponentSet {
+ 
+  optional uint32 msg_cid = 1[default = 9908];
+  message Components
+  {
+    optional improbable.Position cps_x1 = 1;
+    optional improbable.Metadata cps_x2 = 2;
+    optional improbable.Interest cps_x3 = 3;
+    optional unreal.ServerWorker cps_x4 = 4;
+    optional unreal.generated.UnrealCrossServerSenderRPCs cps_x5 = 5;
+  }
+  optional Components components = 2;
+}

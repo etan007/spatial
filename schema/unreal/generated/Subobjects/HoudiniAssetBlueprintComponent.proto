@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message HoudiniAssetBlueprintComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message HoudiniAssetBlueprintComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 17996];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 17997];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 17998];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 17999];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18000];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18001];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18002];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18003];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18004];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18005];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18006];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18007];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18008];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18009];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18010];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18011];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18012];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18013];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18014];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18015];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18016];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18017];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18018];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18019];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18020];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18021];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18022];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18023];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18024];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}
+
+message HoudiniAssetBlueprintComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18025];
+	optional HoudiniAssetBlueprintComponent data = 2;
+}

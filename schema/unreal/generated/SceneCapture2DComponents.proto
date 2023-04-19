@@ -1,0 +1,16 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.scenecapture2d.subobjects;
+
+import "unreal/generated/Subobjects/SceneCaptureComponent2D.proto";
+import "unreal/generated/Subobjects/SceneComponent.proto";
+
+message NewSceneCaptureComponent2D {
+	optional uint32 msg_cid = 1[default = 14319];
+	optional unreal.generated.SceneCaptureComponent2D data = 2;
+}
+
+message SceneComponent {
+	optional uint32 msg_cid = 1[default = 14320];
+	optional unreal.generated.SceneComponent data = 2;
+}

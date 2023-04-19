@@ -1,0 +1,18 @@
+syntax = "proto2";
+package unreal;
+
+message AlwaysRelevant {
+    optional uint32 msg_cid = 1[default = 9983];
+}
+
+message ServerOnlyAlwaysRelevant {
+    optional uint32 msg_cid = 1[default = 9968];
+}
+
+message Dormant {
+   optional uint32 msg_cid = 1[default = 9981];
+}
+
+message Visible {
+    optional uint32 msg_cid = 1[default = 9970];
+}

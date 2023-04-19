@@ -1,0 +1,10 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.emittercameralenseffectbase.subobjects;
+
+import "unreal/generated/Subobjects/ParticleSystemComponent.proto";
+
+message ParticleSystemComponent0 {
+	optional uint32 msg_cid = 1[default = 12800];
+	optional unreal.generated.ParticleSystemComponent data = 2;
+}

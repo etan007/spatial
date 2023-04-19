@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTaskWaitGameplayTagQuery {
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic1 {
+	optional uint32 msg_cid = 1[default = 17076];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic2 {
+	optional uint32 msg_cid = 1[default = 17077];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic3 {
+	optional uint32 msg_cid = 1[default = 17078];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic4 {
+	optional uint32 msg_cid = 1[default = 17079];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic5 {
+	optional uint32 msg_cid = 1[default = 17080];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic6 {
+	optional uint32 msg_cid = 1[default = 17081];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic7 {
+	optional uint32 msg_cid = 1[default = 17082];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic8 {
+	optional uint32 msg_cid = 1[default = 17083];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic9 {
+	optional uint32 msg_cid = 1[default = 17084];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic10 {
+	optional uint32 msg_cid = 1[default = 17085];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic11 {
+	optional uint32 msg_cid = 1[default = 17086];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic12 {
+	optional uint32 msg_cid = 1[default = 17087];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic13 {
+	optional uint32 msg_cid = 1[default = 17088];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic14 {
+	optional uint32 msg_cid = 1[default = 17089];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic15 {
+	optional uint32 msg_cid = 1[default = 17090];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic16 {
+	optional uint32 msg_cid = 1[default = 17091];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic17 {
+	optional uint32 msg_cid = 1[default = 17092];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic18 {
+	optional uint32 msg_cid = 1[default = 17093];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic19 {
+	optional uint32 msg_cid = 1[default = 17094];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic20 {
+	optional uint32 msg_cid = 1[default = 17095];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic21 {
+	optional uint32 msg_cid = 1[default = 17096];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic22 {
+	optional uint32 msg_cid = 1[default = 17097];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic23 {
+	optional uint32 msg_cid = 1[default = 17098];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic24 {
+	optional uint32 msg_cid = 1[default = 17099];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic25 {
+	optional uint32 msg_cid = 1[default = 17100];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic26 {
+	optional uint32 msg_cid = 1[default = 17101];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic27 {
+	optional uint32 msg_cid = 1[default = 17102];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic28 {
+	optional uint32 msg_cid = 1[default = 17103];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic29 {
+	optional uint32 msg_cid = 1[default = 17104];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}
+
+message AbilityTaskWaitGameplayTagQueryDynamic30 {
+	optional uint32 msg_cid = 1[default = 17105];
+	optional AbilityTaskWaitGameplayTagQuery data = 2;
+}

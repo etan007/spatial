@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message LineSetComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message LineSetComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18996];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18997];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18998];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18999];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20000];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20001];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20002];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20003];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20004];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20005];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20006];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20007];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20008];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20009];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20010];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20011];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20012];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20013];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20014];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20015];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20016];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20017];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20018];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20019];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20020];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20021];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20022];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20023];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20024];
+	optional LineSetComponent data = 2;
+}
+
+message LineSetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20025];
+	optional LineSetComponent data = 2;
+}

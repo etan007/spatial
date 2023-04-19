@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message MaterialBillboardComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message MaterialBillboardComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 12675];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 12676];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 12677];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 12678];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 12679];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 12680];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 12681];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 12682];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 12683];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 12684];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 12685];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 12686];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 12687];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 12688];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 12689];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 12690];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 12691];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 12692];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 12693];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 12694];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 12695];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 12696];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 12697];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 12698];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 12699];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12700];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12701];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12702];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12703];
+	optional MaterialBillboardComponent data = 2;
+}
+
+message MaterialBillboardComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12704];
+	optional MaterialBillboardComponent data = 2;
+}

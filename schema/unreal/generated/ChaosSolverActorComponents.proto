@@ -1,0 +1,16 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.chaossolveractor.subobjects;
+
+import "unreal/generated/Subobjects/ChaosGameplayEventDispatcher.proto";
+import "unreal/generated/Subobjects/SceneComponent.proto";
+
+message GameplayEventDispatcher {
+	optional uint32 msg_cid = 1[default = 11814];
+	optional unreal.generated.ChaosGameplayEventDispatcher data = 2;
+}
+
+message SceneComp {
+	optional uint32 msg_cid = 1[default = 11815];
+	optional unreal.generated.SceneComponent data = 2;
+}

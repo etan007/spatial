@@ -1,0 +1,21 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.spectatorpawn.subobjects;
+
+import "unreal/generated/Subobjects/SpectatorPawnMovement.proto";
+import "unreal/generated/Subobjects/SphereComponent.proto";
+
+message MovementComponent0 {
+	optional uint32 msg_cid = 1[default = 14521];
+	optional unreal.generated.SpectatorPawnMovement data = 2;
+}
+
+message MovementComponent0ServerOnly {
+	optional uint32 msg_cid = 1[default = 14522];
+	optional unreal.generated.SpectatorPawnMovementServerOnly data = 2;
+}
+
+message CollisionComponent0 {
+	optional uint32 msg_cid = 1[default = 14523];
+	optional unreal.generated.SphereComponent data = 2;
+}

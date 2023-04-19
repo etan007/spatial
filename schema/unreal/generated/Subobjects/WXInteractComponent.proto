@@ -1,0 +1,316 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WXInteractComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message WXInteractComponentOwnerOnly {
+	 repeated UnrealObjectRef interacttargetactors = 3;
+	 optional UnrealObjectRef lastinteractact = 4;
+}
+
+message WXInteractComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 23961];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 23962];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 23963];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 23964];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 23965];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 23966];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 23967];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 23968];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 23969];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 23970];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 23971];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 23972];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 23973];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 23974];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 23975];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 23976];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 23977];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 23978];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 23979];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 23980];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 23981];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 23982];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 23983];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 23984];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 23985];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 23986];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 23987];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 23988];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 23989];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 23990];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 23991];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 23992];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 23993];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 23994];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 23995];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 23996];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 23997];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 23998];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 23999];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 24000];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 24001];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 24002];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 24003];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 24004];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 24005];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 24006];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 24007];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 24008];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 24009];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 24010];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 24011];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 24012];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 24013];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 24014];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 24015];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 24016];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 24017];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 24018];
+	optional WXInteractComponentOwnerOnly data = 2;
+}
+
+message WXInteractComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 24019];
+	optional WXInteractComponent data = 2;
+}
+
+message WXInteractComponentOwnerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 24020];
+	optional WXInteractComponentOwnerOnly data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXTaskPlayMontageAndWaitForEvent {
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic1 {
+	optional uint32 msg_cid = 1[default = 24981];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic2 {
+	optional uint32 msg_cid = 1[default = 24982];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic3 {
+	optional uint32 msg_cid = 1[default = 24983];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic4 {
+	optional uint32 msg_cid = 1[default = 24984];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic5 {
+	optional uint32 msg_cid = 1[default = 24985];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic6 {
+	optional uint32 msg_cid = 1[default = 24986];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic7 {
+	optional uint32 msg_cid = 1[default = 24987];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic8 {
+	optional uint32 msg_cid = 1[default = 24988];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic9 {
+	optional uint32 msg_cid = 1[default = 24989];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic10 {
+	optional uint32 msg_cid = 1[default = 24990];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic11 {
+	optional uint32 msg_cid = 1[default = 24991];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic12 {
+	optional uint32 msg_cid = 1[default = 24992];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic13 {
+	optional uint32 msg_cid = 1[default = 24993];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic14 {
+	optional uint32 msg_cid = 1[default = 24994];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic15 {
+	optional uint32 msg_cid = 1[default = 24995];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic16 {
+	optional uint32 msg_cid = 1[default = 24996];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic17 {
+	optional uint32 msg_cid = 1[default = 24997];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic18 {
+	optional uint32 msg_cid = 1[default = 24998];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic19 {
+	optional uint32 msg_cid = 1[default = 24999];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic20 {
+	optional uint32 msg_cid = 1[default = 25000];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic21 {
+	optional uint32 msg_cid = 1[default = 25001];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic22 {
+	optional uint32 msg_cid = 1[default = 25002];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic23 {
+	optional uint32 msg_cid = 1[default = 25003];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic24 {
+	optional uint32 msg_cid = 1[default = 25004];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic25 {
+	optional uint32 msg_cid = 1[default = 25005];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic26 {
+	optional uint32 msg_cid = 1[default = 25006];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic27 {
+	optional uint32 msg_cid = 1[default = 25007];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic28 {
+	optional uint32 msg_cid = 1[default = 25008];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic29 {
+	optional uint32 msg_cid = 1[default = 25009];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}
+
+message WXTaskPlayMontageAndWaitForEventDynamic30 {
+	optional uint32 msg_cid = 1[default = 25010];
+	optional WXTaskPlayMontageAndWaitForEvent data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GAInteractResPointC {
+}
+
+message GAInteractResPointCDynamic1 {
+	optional uint32 msg_cid = 1[default = 25213];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic2 {
+	optional uint32 msg_cid = 1[default = 25214];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic3 {
+	optional uint32 msg_cid = 1[default = 25215];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic4 {
+	optional uint32 msg_cid = 1[default = 25216];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic5 {
+	optional uint32 msg_cid = 1[default = 25217];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic6 {
+	optional uint32 msg_cid = 1[default = 25218];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic7 {
+	optional uint32 msg_cid = 1[default = 25219];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic8 {
+	optional uint32 msg_cid = 1[default = 25220];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic9 {
+	optional uint32 msg_cid = 1[default = 25221];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic10 {
+	optional uint32 msg_cid = 1[default = 25222];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic11 {
+	optional uint32 msg_cid = 1[default = 25223];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic12 {
+	optional uint32 msg_cid = 1[default = 25224];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic13 {
+	optional uint32 msg_cid = 1[default = 25225];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic14 {
+	optional uint32 msg_cid = 1[default = 25226];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic15 {
+	optional uint32 msg_cid = 1[default = 25227];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic16 {
+	optional uint32 msg_cid = 1[default = 25228];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic17 {
+	optional uint32 msg_cid = 1[default = 25229];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic18 {
+	optional uint32 msg_cid = 1[default = 25230];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic19 {
+	optional uint32 msg_cid = 1[default = 25231];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic20 {
+	optional uint32 msg_cid = 1[default = 25232];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic21 {
+	optional uint32 msg_cid = 1[default = 25233];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic22 {
+	optional uint32 msg_cid = 1[default = 25234];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic23 {
+	optional uint32 msg_cid = 1[default = 25235];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic24 {
+	optional uint32 msg_cid = 1[default = 25236];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic25 {
+	optional uint32 msg_cid = 1[default = 25237];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic26 {
+	optional uint32 msg_cid = 1[default = 25238];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic27 {
+	optional uint32 msg_cid = 1[default = 25239];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic28 {
+	optional uint32 msg_cid = 1[default = 25240];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic29 {
+	optional uint32 msg_cid = 1[default = 25241];
+	optional GAInteractResPointC data = 2;
+}
+
+message GAInteractResPointCDynamic30 {
+	optional uint32 msg_cid = 1[default = 25242];
+	optional GAInteractResPointC data = 2;
+}

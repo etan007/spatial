@@ -1,0 +1,9 @@
+syntax = "proto2";
+package unreal;
+// Indicates entity's actor group membership; in Offloading scenarios,
+// Actor Groups are based off of class hierarchy.
+// Intended use is for the Strategy Worker.
+message ActorGroupMember {
+	optional uint32 msg_cid = 1[default = 9964];
+	optional uint32 actor_group_id = 2;
+}

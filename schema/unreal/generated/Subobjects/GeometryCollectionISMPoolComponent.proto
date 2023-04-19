@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message GeometryCollectionISMPoolComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message GeometryCollectionISMPoolComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 17807];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 17808];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 17809];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 17810];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 17811];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 17812];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 17813];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 17814];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 17815];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 17816];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 17817];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 17818];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 17819];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 17820];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 17821];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 17822];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 17823];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 17824];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 17825];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 17826];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 17827];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 17828];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 17829];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 17830];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 17831];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 17832];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 17833];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 17834];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 17835];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}
+
+message GeometryCollectionISMPoolComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 17836];
+	optional GeometryCollectionISMPoolComponent data = 2;
+}

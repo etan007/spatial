@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message GizmoHandleGroup {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message GizmoHandleGroupDynamic1 {
+	optional uint32 msg_cid = 1[default = 23217];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic2 {
+	optional uint32 msg_cid = 1[default = 23218];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic3 {
+	optional uint32 msg_cid = 1[default = 23219];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic4 {
+	optional uint32 msg_cid = 1[default = 23220];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic5 {
+	optional uint32 msg_cid = 1[default = 23221];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic6 {
+	optional uint32 msg_cid = 1[default = 23222];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic7 {
+	optional uint32 msg_cid = 1[default = 23223];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic8 {
+	optional uint32 msg_cid = 1[default = 23224];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic9 {
+	optional uint32 msg_cid = 1[default = 23225];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic10 {
+	optional uint32 msg_cid = 1[default = 23226];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic11 {
+	optional uint32 msg_cid = 1[default = 23227];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic12 {
+	optional uint32 msg_cid = 1[default = 23228];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic13 {
+	optional uint32 msg_cid = 1[default = 23229];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic14 {
+	optional uint32 msg_cid = 1[default = 23230];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic15 {
+	optional uint32 msg_cid = 1[default = 23231];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic16 {
+	optional uint32 msg_cid = 1[default = 23232];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic17 {
+	optional uint32 msg_cid = 1[default = 23233];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic18 {
+	optional uint32 msg_cid = 1[default = 23234];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic19 {
+	optional uint32 msg_cid = 1[default = 23235];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic20 {
+	optional uint32 msg_cid = 1[default = 23236];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic21 {
+	optional uint32 msg_cid = 1[default = 23237];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic22 {
+	optional uint32 msg_cid = 1[default = 23238];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic23 {
+	optional uint32 msg_cid = 1[default = 23239];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic24 {
+	optional uint32 msg_cid = 1[default = 23240];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic25 {
+	optional uint32 msg_cid = 1[default = 23241];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23242];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23243];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23244];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23245];
+	optional GizmoHandleGroup data = 2;
+}
+
+message GizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23246];
+	optional GizmoHandleGroup data = 2;
+}

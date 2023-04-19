@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ToFloatField {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ToFloatFieldDynamic1 {
+	optional uint32 msg_cid = 1[default = 15615];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic2 {
+	optional uint32 msg_cid = 1[default = 15616];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic3 {
+	optional uint32 msg_cid = 1[default = 15617];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic4 {
+	optional uint32 msg_cid = 1[default = 15618];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic5 {
+	optional uint32 msg_cid = 1[default = 15619];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic6 {
+	optional uint32 msg_cid = 1[default = 15620];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic7 {
+	optional uint32 msg_cid = 1[default = 15621];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic8 {
+	optional uint32 msg_cid = 1[default = 15622];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic9 {
+	optional uint32 msg_cid = 1[default = 15623];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic10 {
+	optional uint32 msg_cid = 1[default = 15624];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic11 {
+	optional uint32 msg_cid = 1[default = 15625];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic12 {
+	optional uint32 msg_cid = 1[default = 15626];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic13 {
+	optional uint32 msg_cid = 1[default = 15627];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic14 {
+	optional uint32 msg_cid = 1[default = 15628];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic15 {
+	optional uint32 msg_cid = 1[default = 15629];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic16 {
+	optional uint32 msg_cid = 1[default = 15630];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic17 {
+	optional uint32 msg_cid = 1[default = 15631];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic18 {
+	optional uint32 msg_cid = 1[default = 15632];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic19 {
+	optional uint32 msg_cid = 1[default = 15633];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic20 {
+	optional uint32 msg_cid = 1[default = 15634];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic21 {
+	optional uint32 msg_cid = 1[default = 15635];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic22 {
+	optional uint32 msg_cid = 1[default = 15636];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic23 {
+	optional uint32 msg_cid = 1[default = 15637];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic24 {
+	optional uint32 msg_cid = 1[default = 15638];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic25 {
+	optional uint32 msg_cid = 1[default = 15639];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic26 {
+	optional uint32 msg_cid = 1[default = 15640];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic27 {
+	optional uint32 msg_cid = 1[default = 15641];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic28 {
+	optional uint32 msg_cid = 1[default = 15642];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic29 {
+	optional uint32 msg_cid = 1[default = 15643];
+	optional ToFloatField data = 2;
+}
+
+message ToFloatFieldDynamic30 {
+	optional uint32 msg_cid = 1[default = 15644];
+	optional ToFloatField data = 2;
+}

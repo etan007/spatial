@@ -1,0 +1,165 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WXMountComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 repeated UnrealObjectRef mounts = 3;
+	 optional int32 activedid = 4;
+	 optional bool mountstate_bmounted = 5;
+	 optional UnrealObjectRef mountstate_mountplayer = 6;
+}
+
+message WXMountComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 24313];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 24314];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 24315];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 24316];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 24317];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 24318];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 24319];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 24320];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 24321];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 24322];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 24323];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 24324];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 24325];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 24326];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 24327];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 24328];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 24329];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 24330];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 24331];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 24332];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 24333];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 24334];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 24335];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 24336];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 24337];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 24338];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 24339];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 24340];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 24341];
+	optional WXMountComponent data = 2;
+}
+
+message WXMountComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 24342];
+	optional WXMountComponent data = 2;
+}

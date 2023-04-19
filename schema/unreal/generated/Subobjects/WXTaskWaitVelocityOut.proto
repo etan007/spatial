@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXTaskWaitVelocityOut {
+}
+
+message WXTaskWaitVelocityOutDynamic1 {
+	optional uint32 msg_cid = 1[default = 25011];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic2 {
+	optional uint32 msg_cid = 1[default = 25012];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic3 {
+	optional uint32 msg_cid = 1[default = 25013];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic4 {
+	optional uint32 msg_cid = 1[default = 25014];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic5 {
+	optional uint32 msg_cid = 1[default = 25015];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic6 {
+	optional uint32 msg_cid = 1[default = 25016];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic7 {
+	optional uint32 msg_cid = 1[default = 25017];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic8 {
+	optional uint32 msg_cid = 1[default = 25018];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic9 {
+	optional uint32 msg_cid = 1[default = 25019];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic10 {
+	optional uint32 msg_cid = 1[default = 25020];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic11 {
+	optional uint32 msg_cid = 1[default = 25021];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic12 {
+	optional uint32 msg_cid = 1[default = 25022];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic13 {
+	optional uint32 msg_cid = 1[default = 25023];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic14 {
+	optional uint32 msg_cid = 1[default = 25024];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic15 {
+	optional uint32 msg_cid = 1[default = 25025];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic16 {
+	optional uint32 msg_cid = 1[default = 25026];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic17 {
+	optional uint32 msg_cid = 1[default = 25027];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic18 {
+	optional uint32 msg_cid = 1[default = 25028];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic19 {
+	optional uint32 msg_cid = 1[default = 25029];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic20 {
+	optional uint32 msg_cid = 1[default = 25030];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic21 {
+	optional uint32 msg_cid = 1[default = 25031];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic22 {
+	optional uint32 msg_cid = 1[default = 25032];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic23 {
+	optional uint32 msg_cid = 1[default = 25033];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic24 {
+	optional uint32 msg_cid = 1[default = 25034];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic25 {
+	optional uint32 msg_cid = 1[default = 25035];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic26 {
+	optional uint32 msg_cid = 1[default = 25036];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic27 {
+	optional uint32 msg_cid = 1[default = 25037];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic28 {
+	optional uint32 msg_cid = 1[default = 25038];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic29 {
+	optional uint32 msg_cid = 1[default = 25039];
+	optional WXTaskWaitVelocityOut data = 2;
+}
+
+message WXTaskWaitVelocityOutDynamic30 {
+	optional uint32 msg_cid = 1[default = 25040];
+	optional WXTaskWaitVelocityOut data = 2;
+}

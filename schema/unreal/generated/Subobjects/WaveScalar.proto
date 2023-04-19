@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WaveScalar {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message WaveScalarDynamic1 {
+	optional uint32 msg_cid = 1[default = 15765];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic2 {
+	optional uint32 msg_cid = 1[default = 15766];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic3 {
+	optional uint32 msg_cid = 1[default = 15767];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic4 {
+	optional uint32 msg_cid = 1[default = 15768];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic5 {
+	optional uint32 msg_cid = 1[default = 15769];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic6 {
+	optional uint32 msg_cid = 1[default = 15770];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic7 {
+	optional uint32 msg_cid = 1[default = 15771];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic8 {
+	optional uint32 msg_cid = 1[default = 15772];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic9 {
+	optional uint32 msg_cid = 1[default = 15773];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic10 {
+	optional uint32 msg_cid = 1[default = 15774];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic11 {
+	optional uint32 msg_cid = 1[default = 15775];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic12 {
+	optional uint32 msg_cid = 1[default = 15776];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic13 {
+	optional uint32 msg_cid = 1[default = 15777];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic14 {
+	optional uint32 msg_cid = 1[default = 15778];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic15 {
+	optional uint32 msg_cid = 1[default = 15779];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic16 {
+	optional uint32 msg_cid = 1[default = 15780];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic17 {
+	optional uint32 msg_cid = 1[default = 15781];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic18 {
+	optional uint32 msg_cid = 1[default = 15782];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic19 {
+	optional uint32 msg_cid = 1[default = 15783];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic20 {
+	optional uint32 msg_cid = 1[default = 15784];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic21 {
+	optional uint32 msg_cid = 1[default = 15785];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic22 {
+	optional uint32 msg_cid = 1[default = 15786];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic23 {
+	optional uint32 msg_cid = 1[default = 15787];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic24 {
+	optional uint32 msg_cid = 1[default = 15788];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic25 {
+	optional uint32 msg_cid = 1[default = 15789];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic26 {
+	optional uint32 msg_cid = 1[default = 15790];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic27 {
+	optional uint32 msg_cid = 1[default = 15791];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic28 {
+	optional uint32 msg_cid = 1[default = 15792];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic29 {
+	optional uint32 msg_cid = 1[default = 15793];
+	optional WaveScalar data = 2;
+}
+
+message WaveScalarDynamic30 {
+	optional uint32 msg_cid = 1[default = 15794];
+	optional WaveScalar data = 2;
+}

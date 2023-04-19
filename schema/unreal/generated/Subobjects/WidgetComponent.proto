@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WidgetComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message WidgetComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 22745];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 22746];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 22747];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 22748];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 22749];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 22750];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 22751];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 22752];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 22753];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 22754];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 22755];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 22756];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 22757];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 22758];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 22759];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 22760];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 22761];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 22762];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 22763];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 22764];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 22765];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 22766];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 22767];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 22768];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 22769];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 22770];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 22771];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 22772];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 22773];
+	optional WidgetComponent data = 2;
+}
+
+message WidgetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 22774];
+	optional WidgetComponent data = 2;
+}

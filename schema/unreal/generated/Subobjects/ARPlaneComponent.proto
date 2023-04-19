@@ -1,0 +1,190 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message ARPlaneComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional int32 nativeid_a = 18;
+	 optional int32 nativeid_b = 19;
+	 optional int32 nativeid_c = 20;
+	 optional int32 nativeid_d = 21;
+	 optional int32 replicatedpayload_sessionpayload_configflags = 22;
+	 optional UnrealObjectRef replicatedpayload_sessionpayload_defaultmeshmaterial = 23;
+	 optional UnrealObjectRef replicatedpayload_sessionpayload_defaultwireframemeshmaterial = 24;
+	 optional bytes replicatedpayload_worldtransform_rotation = 25;
+	 optional bytes replicatedpayload_worldtransform_translation = 26;
+	 optional bytes replicatedpayload_worldtransform_scale3d = 27;
+	 optional bytes replicatedpayload_center = 28;
+	 optional bytes replicatedpayload_extents = 29;
+	 repeated bytes replicatedpayload_boundaryvertices = 30;
+	 optional uint32 replicatedpayload_objectclassification = 31;
+}
+
+message ARPlaneComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11115];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11116];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11117];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11118];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11119];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11120];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11121];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11122];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11123];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11124];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11125];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11126];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11127];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11128];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11129];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11130];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11131];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11132];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11133];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11134];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11135];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11136];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11137];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11138];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11139];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11140];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11141];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11142];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11143];
+	optional ARPlaneComponent data = 2;
+}
+
+message ARPlaneComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11144];
+	optional ARPlaneComponent data = 2;
+}

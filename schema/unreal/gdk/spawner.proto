@@ -1,0 +1,26 @@
+syntax = "proto2";
+package unreal;
+
+message SpawnPlayerRequest {
+    optional string url = 1;
+    optional bytes unique_id = 2;
+    optional string online_platform_name = 3;
+    optional bool simulated = 4;
+    optional int64 client_system_entity_id = 5;
+}
+
+message SpawnPlayerResponse { }
+
+message PlayerSpawner {
+    optional uint32 msg_cid = 1[default = 9998];
+    message CommandSpawnPlayer
+    {
+        optional SpawnPlayerRequest request = 1;
+        optional SpawnPlayerResponse response = 2;
+    }
+   message Commands
+    {
+        optional CommandSpawnPlayer spawn_player = 1;
+    }
+}
+ 

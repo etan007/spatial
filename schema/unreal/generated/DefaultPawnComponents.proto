@@ -1,0 +1,27 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.defaultpawn.subobjects;
+
+import "unreal/generated/Subobjects/FloatingPawnMovement.proto";
+import "unreal/generated/Subobjects/SphereComponent.proto";
+import "unreal/generated/Subobjects/StaticMeshComponent.proto";
+
+message MovementComponent0 {
+	optional uint32 msg_cid = 1[default = 12541];
+	optional unreal.generated.FloatingPawnMovement data = 2;
+}
+
+message MovementComponent0ServerOnly {
+	optional uint32 msg_cid = 1[default = 12542];
+	optional unreal.generated.FloatingPawnMovementServerOnly data = 2;
+}
+
+message CollisionComponent0 {
+	optional uint32 msg_cid = 1[default = 12543];
+	optional unreal.generated.SphereComponent data = 2;
+}
+
+message MeshComponent0 {
+	optional uint32 msg_cid = 1[default = 12544];
+	optional unreal.generated.StaticMeshComponent data = 2;
+}

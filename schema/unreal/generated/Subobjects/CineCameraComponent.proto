@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message CineCameraComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message CineCameraComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11861];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11862];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11863];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11864];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11865];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11866];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11867];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11868];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11869];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11870];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11871];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11872];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11873];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11874];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11875];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11876];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11877];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11878];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11879];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11880];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11881];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11882];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11883];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11884];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11885];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11886];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11887];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11888];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11889];
+	optional CineCameraComponent data = 2;
+}
+
+message CineCameraComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11890];
+	optional CineCameraComponent data = 2;
+}

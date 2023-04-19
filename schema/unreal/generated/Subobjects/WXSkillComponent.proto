@@ -1,0 +1,316 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXSkillComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message WXSkillComponentOwnerOnly {
+	 repeated bytes allskillobjects = 3;
+	 repeated int32 allequipedskills = 4;
+	 repeated bytes allweaponskillkeyconfigs = 5;
+	 repeated bytes allskillgahandles = 6;
+}
+
+message WXSkillComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 23901];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 23902];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 23903];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 23904];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 23905];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 23906];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 23907];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 23908];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 23909];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 23910];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 23911];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 23912];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 23913];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 23914];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 23915];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 23916];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 23917];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 23918];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 23919];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 23920];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 23921];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 23922];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 23923];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 23924];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 23925];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 23926];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 23927];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 23928];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 23929];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 23930];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 23931];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 23932];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 23933];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 23934];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 23935];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 23936];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 23937];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 23938];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 23939];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 23940];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 23941];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 23942];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 23943];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 23944];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 23945];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 23946];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 23947];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 23948];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 23949];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 23950];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 23951];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 23952];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 23953];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 23954];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 23955];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 23956];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 23957];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 23958];
+	optional WXSkillComponentOwnerOnly data = 2;
+}
+
+message WXSkillComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 23959];
+	optional WXSkillComponent data = 2;
+}
+
+message WXSkillComponentOwnerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 23960];
+	optional WXSkillComponentOwnerOnly data = 2;
+}

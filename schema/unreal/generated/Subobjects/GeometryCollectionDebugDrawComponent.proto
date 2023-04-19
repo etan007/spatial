@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GeometryCollectionDebugDrawComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 17774];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 17775];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 17776];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 17777];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 17778];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 17779];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 17780];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 17781];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 17782];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 17783];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 17784];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 17785];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 17786];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 17787];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 17788];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 17789];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 17790];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 17791];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 17792];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 17793];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 17794];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 17795];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 17796];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 17797];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 17798];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 17799];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 17800];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 17801];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 17802];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}
+
+message GeometryCollectionDebugDrawComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 17803];
+	optional GeometryCollectionDebugDrawComponent data = 2;
+}

@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message DrawFrustumComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message DrawFrustumComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 12705];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 12706];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 12707];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 12708];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 12709];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 12710];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 12711];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 12712];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 12713];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 12714];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 12715];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 12716];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 12717];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 12718];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 12719];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 12720];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 12721];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 12722];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 12723];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 12724];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 12725];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 12726];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 12727];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 12728];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 12729];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12730];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12731];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12732];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12733];
+	optional DrawFrustumComponent data = 2;
+}
+
+message DrawFrustumComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12734];
+	optional DrawFrustumComponent data = 2;
+}

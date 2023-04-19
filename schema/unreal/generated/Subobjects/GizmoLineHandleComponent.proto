@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message GizmoLineHandleComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message GizmoLineHandleComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18481];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18482];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18483];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18484];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18485];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18486];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18487];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18488];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18489];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18490];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18491];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18492];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18493];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18494];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18495];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18496];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18497];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18498];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18499];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18500];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18501];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18502];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18503];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18504];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18505];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18506];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18507];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18508];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18509];
+	optional GizmoLineHandleComponent data = 2;
+}
+
+message GizmoLineHandleComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18510];
+	optional GizmoLineHandleComponent data = 2;
+}

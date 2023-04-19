@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WXInteractWidgetComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message WXInteractWidgetComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11410];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11411];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11412];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11413];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11414];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11415];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11416];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11417];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11418];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11419];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11420];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11421];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11422];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11423];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11424];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11425];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11426];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11427];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11428];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11429];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11430];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11431];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11432];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11433];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11434];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11435];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11436];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11437];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11438];
+	optional WXInteractWidgetComponent data = 2;
+}
+
+message WXInteractWidgetComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11439];
+	optional WXInteractWidgetComponent data = 2;
+}

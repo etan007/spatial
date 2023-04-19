@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message PhysicsConstraintComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message PhysicsConstraintComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 13657];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 13658];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 13659];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 13660];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 13661];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 13662];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 13663];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 13664];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 13665];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 13666];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 13667];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 13668];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 13669];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 13670];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 13671];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 13672];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 13673];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 13674];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 13675];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 13676];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 13677];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 13678];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 13679];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 13680];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 13681];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13682];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13683];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13684];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13685];
+	optional PhysicsConstraintComponent data = 2;
+}
+
+message PhysicsConstraintComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13686];
+	optional PhysicsConstraintComponent data = 2;
+}

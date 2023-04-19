@@ -1,0 +1,7 @@
+syntax = "proto2";
+package unreal;
+
+// Marker component to indicate InitialOnly data is present on this entity
+message InitialOnlyPresence { 
+     optional uint32 msg_cid = 1[default = 9966];
+}

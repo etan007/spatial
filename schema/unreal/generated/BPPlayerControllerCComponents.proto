@@ -1,0 +1,16 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.bpplayercontrollerc.subobjects;
+
+import "unreal/generated/Subobjects/BPUiMgrC.proto";
+import "unreal/generated/Subobjects/SceneComponent.proto";
+
+message BPUiMgr {
+	optional uint32 msg_cid = 1[default = 25339];
+	optional unreal.generated.BPUiMgrC data = 2;
+}
+
+message TransformComponent0 {
+	optional uint32 msg_cid = 1[default = 25340];
+	optional unreal.generated.SceneComponent data = 2;
+}

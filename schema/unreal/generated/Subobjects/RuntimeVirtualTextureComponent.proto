@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message RuntimeVirtualTextureComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message RuntimeVirtualTextureComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 14281];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 14282];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 14283];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 14284];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 14285];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 14286];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 14287];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 14288];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 14289];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 14290];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 14291];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 14292];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 14293];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 14294];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 14295];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 14296];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 14297];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 14298];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 14299];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 14300];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 14301];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 14302];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 14303];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 14304];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 14305];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14306];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14307];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14308];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14309];
+	optional RuntimeVirtualTextureComponent data = 2;
+}
+
+message RuntimeVirtualTextureComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14310];
+	optional RuntimeVirtualTextureComponent data = 2;
+}

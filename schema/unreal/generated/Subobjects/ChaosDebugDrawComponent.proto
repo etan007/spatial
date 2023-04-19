@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ChaosDebugDrawComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ChaosDebugDrawComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11722];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11723];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11724];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11725];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11726];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11727];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11728];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11729];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11730];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11731];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11732];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11733];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11734];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11735];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11736];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11737];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11738];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11739];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11740];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11741];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11742];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11743];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11744];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11745];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11746];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11747];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11748];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11749];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11750];
+	optional ChaosDebugDrawComponent data = 2;
+}
+
+message ChaosDebugDrawComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11751];
+	optional ChaosDebugDrawComponent data = 2;
+}

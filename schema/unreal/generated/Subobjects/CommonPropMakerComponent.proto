@@ -1,0 +1,177 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message CommonPropMakerComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 repeated bytes taskinfoary = 18;
+}
+
+message CommonPropMakerComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 23540];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 23541];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 23542];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 23543];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 23544];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 23545];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 23546];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 23547];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 23548];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 23549];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 23550];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 23551];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 23552];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 23553];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 23554];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 23555];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 23556];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 23557];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 23558];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 23559];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 23560];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 23561];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 23562];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 23563];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 23564];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 23565];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 23566];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 23567];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 23568];
+	optional CommonPropMakerComponent data = 2;
+}
+
+message CommonPropMakerComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 23569];
+	optional CommonPropMakerComponent data = 2;
+}

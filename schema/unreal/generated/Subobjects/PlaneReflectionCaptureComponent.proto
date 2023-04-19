@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message PlaneReflectionCaptureComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message PlaneReflectionCaptureComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 13853];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 13854];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 13855];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 13856];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 13857];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 13858];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 13859];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 13860];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 13861];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 13862];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 13863];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 13864];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 13865];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 13866];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 13867];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 13868];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 13869];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 13870];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 13871];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 13872];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 13873];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 13874];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 13875];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 13876];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 13877];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13878];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13879];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13880];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13881];
+	optional PlaneReflectionCaptureComponent data = 2;
+}
+
+message PlaneReflectionCaptureComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13882];
+	optional PlaneReflectionCaptureComponent data = 2;
+}

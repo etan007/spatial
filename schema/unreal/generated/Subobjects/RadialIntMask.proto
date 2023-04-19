@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message RadialIntMask {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message RadialIntMaskDynamic1 {
+	optional uint32 msg_cid = 1[default = 15495];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic2 {
+	optional uint32 msg_cid = 1[default = 15496];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic3 {
+	optional uint32 msg_cid = 1[default = 15497];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic4 {
+	optional uint32 msg_cid = 1[default = 15498];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic5 {
+	optional uint32 msg_cid = 1[default = 15499];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic6 {
+	optional uint32 msg_cid = 1[default = 15500];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic7 {
+	optional uint32 msg_cid = 1[default = 15501];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic8 {
+	optional uint32 msg_cid = 1[default = 15502];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic9 {
+	optional uint32 msg_cid = 1[default = 15503];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic10 {
+	optional uint32 msg_cid = 1[default = 15504];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic11 {
+	optional uint32 msg_cid = 1[default = 15505];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic12 {
+	optional uint32 msg_cid = 1[default = 15506];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic13 {
+	optional uint32 msg_cid = 1[default = 15507];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic14 {
+	optional uint32 msg_cid = 1[default = 15508];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic15 {
+	optional uint32 msg_cid = 1[default = 15509];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic16 {
+	optional uint32 msg_cid = 1[default = 15510];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic17 {
+	optional uint32 msg_cid = 1[default = 15511];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic18 {
+	optional uint32 msg_cid = 1[default = 15512];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic19 {
+	optional uint32 msg_cid = 1[default = 15513];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic20 {
+	optional uint32 msg_cid = 1[default = 15514];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic21 {
+	optional uint32 msg_cid = 1[default = 15515];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic22 {
+	optional uint32 msg_cid = 1[default = 15516];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic23 {
+	optional uint32 msg_cid = 1[default = 15517];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic24 {
+	optional uint32 msg_cid = 1[default = 15518];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic25 {
+	optional uint32 msg_cid = 1[default = 15519];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic26 {
+	optional uint32 msg_cid = 1[default = 15520];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic27 {
+	optional uint32 msg_cid = 1[default = 15521];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic28 {
+	optional uint32 msg_cid = 1[default = 15522];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic29 {
+	optional uint32 msg_cid = 1[default = 15523];
+	optional RadialIntMask data = 2;
+}
+
+message RadialIntMaskDynamic30 {
+	optional uint32 msg_cid = 1[default = 15524];
+	optional RadialIntMask data = 2;
+}

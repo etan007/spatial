@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message HoudiniSplineComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message HoudiniSplineComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18236];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18237];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18238];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18239];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18240];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18241];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18242];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18243];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18244];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18245];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18246];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18247];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18248];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18249];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18250];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18251];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18252];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18253];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18254];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18255];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18256];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18257];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18258];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18259];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18260];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18261];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18262];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18263];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18264];
+	optional HoudiniSplineComponent data = 2;
+}
+
+message HoudiniSplineComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18265];
+	optional HoudiniSplineComponent data = 2;
+}

@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message RadialVector {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message RadialVectorDynamic1 {
+	optional uint32 msg_cid = 1[default = 15525];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic2 {
+	optional uint32 msg_cid = 1[default = 15526];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic3 {
+	optional uint32 msg_cid = 1[default = 15527];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic4 {
+	optional uint32 msg_cid = 1[default = 15528];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic5 {
+	optional uint32 msg_cid = 1[default = 15529];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic6 {
+	optional uint32 msg_cid = 1[default = 15530];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic7 {
+	optional uint32 msg_cid = 1[default = 15531];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic8 {
+	optional uint32 msg_cid = 1[default = 15532];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic9 {
+	optional uint32 msg_cid = 1[default = 15533];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic10 {
+	optional uint32 msg_cid = 1[default = 15534];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic11 {
+	optional uint32 msg_cid = 1[default = 15535];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic12 {
+	optional uint32 msg_cid = 1[default = 15536];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic13 {
+	optional uint32 msg_cid = 1[default = 15537];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic14 {
+	optional uint32 msg_cid = 1[default = 15538];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic15 {
+	optional uint32 msg_cid = 1[default = 15539];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic16 {
+	optional uint32 msg_cid = 1[default = 15540];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic17 {
+	optional uint32 msg_cid = 1[default = 15541];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic18 {
+	optional uint32 msg_cid = 1[default = 15542];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic19 {
+	optional uint32 msg_cid = 1[default = 15543];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic20 {
+	optional uint32 msg_cid = 1[default = 15544];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic21 {
+	optional uint32 msg_cid = 1[default = 15545];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic22 {
+	optional uint32 msg_cid = 1[default = 15546];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic23 {
+	optional uint32 msg_cid = 1[default = 15547];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic24 {
+	optional uint32 msg_cid = 1[default = 15548];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic25 {
+	optional uint32 msg_cid = 1[default = 15549];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic26 {
+	optional uint32 msg_cid = 1[default = 15550];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic27 {
+	optional uint32 msg_cid = 1[default = 15551];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic28 {
+	optional uint32 msg_cid = 1[default = 15552];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic29 {
+	optional uint32 msg_cid = 1[default = 15553];
+	optional RadialVector data = 2;
+}
+
+message RadialVectorDynamic30 {
+	optional uint32 msg_cid = 1[default = 15554];
+	optional RadialVector data = 2;
+}

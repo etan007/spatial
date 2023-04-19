@@ -1,0 +1,186 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message ARFaceComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional int32 nativeid_a = 18;
+	 optional int32 nativeid_b = 19;
+	 optional int32 nativeid_c = 20;
+	 optional int32 nativeid_d = 21;
+	 optional int32 replicatedpayload_sessionpayload_configflags = 22;
+	 optional UnrealObjectRef replicatedpayload_sessionpayload_defaultmeshmaterial = 23;
+	 optional UnrealObjectRef replicatedpayload_sessionpayload_defaultwireframemeshmaterial = 24;
+	 optional bytes replicatedpayload_lefteyeposition = 25;
+	 optional bytes replicatedpayload_righteyeposition = 26;
+	 optional bytes replicatedpayload_lookattarget = 27;
+}
+
+message ARFaceComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10933];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10934];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10935];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10936];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10937];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10938];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10939];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10940];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10941];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10942];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10943];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10944];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10945];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10946];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10947];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10948];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10949];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10950];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10951];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10952];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10953];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10954];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10955];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10956];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10957];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10958];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10959];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10960];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10961];
+	optional ARFaceComponent data = 2;
+}
+
+message ARFaceComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10962];
+	optional ARFaceComponent data = 2;
+}

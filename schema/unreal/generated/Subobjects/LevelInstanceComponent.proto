@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message LevelInstanceComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message LevelInstanceComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 13081];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 13082];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 13083];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 13084];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 13085];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 13086];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 13087];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 13088];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 13089];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 13090];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 13091];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 13092];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 13093];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 13094];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 13095];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 13096];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 13097];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 13098];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 13099];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 13100];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 13101];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 13102];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 13103];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 13104];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 13105];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13106];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13107];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13108];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13109];
+	optional LevelInstanceComponent data = 2;
+}
+
+message LevelInstanceComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13110];
+	optional LevelInstanceComponent data = 2;
+}

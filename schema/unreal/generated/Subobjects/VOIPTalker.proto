@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message VOIPTalker {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message VOIPTalkerDynamic1 {
+	optional uint32 msg_cid = 1[default = 14834];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic2 {
+	optional uint32 msg_cid = 1[default = 14835];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic3 {
+	optional uint32 msg_cid = 1[default = 14836];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic4 {
+	optional uint32 msg_cid = 1[default = 14837];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic5 {
+	optional uint32 msg_cid = 1[default = 14838];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic6 {
+	optional uint32 msg_cid = 1[default = 14839];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic7 {
+	optional uint32 msg_cid = 1[default = 14840];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic8 {
+	optional uint32 msg_cid = 1[default = 14841];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic9 {
+	optional uint32 msg_cid = 1[default = 14842];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic10 {
+	optional uint32 msg_cid = 1[default = 14843];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic11 {
+	optional uint32 msg_cid = 1[default = 14844];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic12 {
+	optional uint32 msg_cid = 1[default = 14845];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic13 {
+	optional uint32 msg_cid = 1[default = 14846];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic14 {
+	optional uint32 msg_cid = 1[default = 14847];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic15 {
+	optional uint32 msg_cid = 1[default = 14848];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic16 {
+	optional uint32 msg_cid = 1[default = 14849];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic17 {
+	optional uint32 msg_cid = 1[default = 14850];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic18 {
+	optional uint32 msg_cid = 1[default = 14851];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic19 {
+	optional uint32 msg_cid = 1[default = 14852];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic20 {
+	optional uint32 msg_cid = 1[default = 14853];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic21 {
+	optional uint32 msg_cid = 1[default = 14854];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic22 {
+	optional uint32 msg_cid = 1[default = 14855];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic23 {
+	optional uint32 msg_cid = 1[default = 14856];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic24 {
+	optional uint32 msg_cid = 1[default = 14857];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic25 {
+	optional uint32 msg_cid = 1[default = 14858];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic26 {
+	optional uint32 msg_cid = 1[default = 14859];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic27 {
+	optional uint32 msg_cid = 1[default = 14860];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic28 {
+	optional uint32 msg_cid = 1[default = 14861];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic29 {
+	optional uint32 msg_cid = 1[default = 14862];
+	optional VOIPTalker data = 2;
+}
+
+message VOIPTalkerDynamic30 {
+	optional uint32 msg_cid = 1[default = 14863];
+	optional VOIPTalker data = 2;
+}

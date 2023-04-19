@@ -1,0 +1,313 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message NavMovementComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message NavMovementComponentServerOnly {
+	 optional bytes velocity = 3;
+}
+
+message NavMovementComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 13457];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 13458];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 13459];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 13460];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 13461];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 13462];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 13463];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 13464];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 13465];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 13466];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 13467];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 13468];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 13469];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 13470];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 13471];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 13472];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 13473];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 13474];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 13475];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 13476];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 13477];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 13478];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 13479];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 13480];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 13481];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 13482];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 13483];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 13484];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 13485];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 13486];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 13487];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 13488];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 13489];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 13490];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 13491];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 13492];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 13493];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 13494];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 13495];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 13496];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 13497];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 13498];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 13499];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 13500];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 13501];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 13502];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 13503];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 13504];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 13505];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 13506];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13507];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 13508];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13509];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 13510];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13511];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 13512];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13513];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 13514];
+	optional NavMovementComponentServerOnly data = 2;
+}
+
+message NavMovementComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13515];
+	optional NavMovementComponent data = 2;
+}
+
+message NavMovementComponentServerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 13516];
+	optional NavMovementComponentServerOnly data = 2;
+}

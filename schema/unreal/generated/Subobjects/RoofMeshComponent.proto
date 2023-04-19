@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message RoofMeshComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message RoofMeshComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11650];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11651];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11652];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11653];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11654];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11655];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11656];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11657];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11658];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11659];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11660];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11661];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11662];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11663];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11664];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11665];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11666];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11667];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11668];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11669];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11670];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11671];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11672];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11673];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11674];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11675];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11676];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11677];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11678];
+	optional RoofMeshComponent data = 2;
+}
+
+message RoofMeshComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11679];
+	optional RoofMeshComponent data = 2;
+}

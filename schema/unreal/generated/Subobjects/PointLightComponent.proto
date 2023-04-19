@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message PointLightComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message PointLightComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 13932];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 13933];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 13934];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 13935];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 13936];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 13937];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 13938];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 13939];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 13940];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 13941];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 13942];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 13943];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 13944];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 13945];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 13946];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 13947];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 13948];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 13949];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 13950];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 13951];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 13952];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 13953];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 13954];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 13955];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 13956];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13957];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13958];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13959];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13960];
+	optional PointLightComponent data = 2;
+}
+
+message PointLightComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13961];
+	optional PointLightComponent data = 2;
+}

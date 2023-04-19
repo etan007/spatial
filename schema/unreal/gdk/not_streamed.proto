@@ -1,0 +1,7 @@
+syntax = "proto2";
+package unreal;
+
+// Actor that is a part of the PersistentLevel or created with SpawnActor
+message NotStreamed {
+    optional uint32 msg_cid = 1[default = 9986];
+}

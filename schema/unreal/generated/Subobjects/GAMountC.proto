@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GAMountC {
+}
+
+message GAMountCDynamic1 {
+	optional uint32 msg_cid = 1[default = 25153];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic2 {
+	optional uint32 msg_cid = 1[default = 25154];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic3 {
+	optional uint32 msg_cid = 1[default = 25155];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic4 {
+	optional uint32 msg_cid = 1[default = 25156];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic5 {
+	optional uint32 msg_cid = 1[default = 25157];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic6 {
+	optional uint32 msg_cid = 1[default = 25158];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic7 {
+	optional uint32 msg_cid = 1[default = 25159];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic8 {
+	optional uint32 msg_cid = 1[default = 25160];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic9 {
+	optional uint32 msg_cid = 1[default = 25161];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic10 {
+	optional uint32 msg_cid = 1[default = 25162];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic11 {
+	optional uint32 msg_cid = 1[default = 25163];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic12 {
+	optional uint32 msg_cid = 1[default = 25164];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic13 {
+	optional uint32 msg_cid = 1[default = 25165];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic14 {
+	optional uint32 msg_cid = 1[default = 25166];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic15 {
+	optional uint32 msg_cid = 1[default = 25167];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic16 {
+	optional uint32 msg_cid = 1[default = 25168];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic17 {
+	optional uint32 msg_cid = 1[default = 25169];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic18 {
+	optional uint32 msg_cid = 1[default = 25170];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic19 {
+	optional uint32 msg_cid = 1[default = 25171];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic20 {
+	optional uint32 msg_cid = 1[default = 25172];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic21 {
+	optional uint32 msg_cid = 1[default = 25173];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic22 {
+	optional uint32 msg_cid = 1[default = 25174];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic23 {
+	optional uint32 msg_cid = 1[default = 25175];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic24 {
+	optional uint32 msg_cid = 1[default = 25176];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic25 {
+	optional uint32 msg_cid = 1[default = 25177];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic26 {
+	optional uint32 msg_cid = 1[default = 25178];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic27 {
+	optional uint32 msg_cid = 1[default = 25179];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic28 {
+	optional uint32 msg_cid = 1[default = 25180];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic29 {
+	optional uint32 msg_cid = 1[default = 25181];
+	optional GAMountC data = 2;
+}
+
+message GAMountCDynamic30 {
+	optional uint32 msg_cid = 1[default = 25182];
+	optional GAMountC data = 2;
+}

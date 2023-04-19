@@ -1,0 +1,416 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXPlayerAttributeSet {
+	 optional float hp_basevalue = 1;
+	 optional float hp_currentvalue = 2;
+	 optional float maxhp_basevalue = 3;
+	 optional float maxhp_currentvalue = 4;
+}
+
+message WXPlayerAttributeSetOwnerOnly {
+	 optional float recoverhp_basevalue = 5;
+	 optional float recoverhp_currentvalue = 6;
+	 optional float movespeed_basevalue = 7;
+	 optional float movespeed_currentvalue = 8;
+	 optional float meleeap_basevalue = 9;
+	 optional float meleeap_currentvalue = 10;
+	 optional float rangedap_basevalue = 11;
+	 optional float rangedap_currentvalue = 12;
+	 optional float defense_basevalue = 13;
+	 optional float defense_currentvalue = 14;
+	 optional float antidefense_basevalue = 15;
+	 optional float antidefense_currentvalue = 16;
+	 optional float attackspeedscale_basevalue = 17;
+	 optional float attackspeedscale_currentvalue = 18;
+	 optional float attackcdreducescale_basevalue = 19;
+	 optional float attackcdreducescale_currentvalue = 20;
+	 optional float critprobability_basevalue = 21;
+	 optional float critprobability_currentvalue = 22;
+	 optional float critdamagescale_basevalue = 23;
+	 optional float critdamagescale_currentvalue = 24;
+	 optional float anticritprobability_basevalue = 25;
+	 optional float anticritprobability_currentvalue = 26;
+	 optional float anticritdamagescale_basevalue = 27;
+	 optional float anticritdamagescale_currentvalue = 28;
+	 optional float stealhpscale_basevalue = 29;
+	 optional float stealhpscale_currentvalue = 30;
+	 optional float treatmentscale_basevalue = 31;
+	 optional float treatmentscale_currentvalue = 32;
+	 optional float atbdamagescalegold_basevalue = 33;
+	 optional float atbdamagescalegold_currentvalue = 34;
+	 optional float atbdamagescalewood_basevalue = 35;
+	 optional float atbdamagescalewood_currentvalue = 36;
+	 optional float atbdamagescalewater_basevalue = 37;
+	 optional float atbdamagescalewater_currentvalue = 38;
+	 optional float atbdamagescalefire_basevalue = 39;
+	 optional float atbdamagescalefire_currentvalue = 40;
+	 optional float atbdamagescaleearth_basevalue = 41;
+	 optional float atbdamagescaleearth_currentvalue = 42;
+	 optional float atbdamagescalelight_basevalue = 43;
+	 optional float atbdamagescalelight_currentvalue = 44;
+	 optional float atbdamagescaledark_basevalue = 45;
+	 optional float atbdamagescaledark_currentvalue = 46;
+	 optional float antiatbdamagescalegold_basevalue = 47;
+	 optional float antiatbdamagescalegold_currentvalue = 48;
+	 optional float antiatbdamagescalewood_basevalue = 49;
+	 optional float antiatbdamagescalewood_currentvalue = 50;
+	 optional float antiatbdamagescalewater_basevalue = 51;
+	 optional float antiatbdamagescalewater_currentvalue = 52;
+	 optional float antiatbdamagescalefire_basevalue = 53;
+	 optional float antiatbdamagescalefire_currentvalue = 54;
+	 optional float antiatbdamagescaleearth_basevalue = 55;
+	 optional float antiatbdamagescaleearth_currentvalue = 56;
+	 optional float antiatbdamagescalelight_basevalue = 57;
+	 optional float antiatbdamagescalelight_currentvalue = 58;
+	 optional float antiatbdamagescaledark_basevalue = 59;
+	 optional float antiatbdamagescaledark_currentvalue = 60;
+	 optional float atbpointgold_basevalue = 61;
+	 optional float atbpointgold_currentvalue = 62;
+	 optional float atbpointwood_basevalue = 63;
+	 optional float atbpointwood_currentvalue = 64;
+	 optional float atbpointwater_basevalue = 65;
+	 optional float atbpointwater_currentvalue = 66;
+	 optional float atbpointfire_basevalue = 67;
+	 optional float atbpointfire_currentvalue = 68;
+	 optional float atbpointearth_basevalue = 69;
+	 optional float atbpointearth_currentvalue = 70;
+	 optional float atbpointlight_basevalue = 71;
+	 optional float atbpointlight_currentvalue = 72;
+	 optional float atbpointdark_basevalue = 73;
+	 optional float atbpointdark_currentvalue = 74;
+	 optional float finaldamagescale_basevalue = 75;
+	 optional float finaldamagescale_currentvalue = 76;
+	 optional float takedamagescale_basevalue = 77;
+	 optional float takedamagescale_currentvalue = 78;
+	 optional float exp_basevalue = 79;
+	 optional float exp_currentvalue = 80;
+	 optional float sp_basevalue = 81;
+	 optional float sp_currentvalue = 82;
+	 optional float maxsp_basevalue = 83;
+	 optional float maxsp_currentvalue = 84;
+	 optional float mp_basevalue = 85;
+	 optional float mp_currentvalue = 86;
+	 optional float maxmp_basevalue = 87;
+	 optional float maxmp_currentvalue = 88;
+	 optional float recoversp_basevalue = 89;
+	 optional float recoversp_currentvalue = 90;
+	 optional float recovermp_basevalue = 91;
+	 optional float recovermp_currentvalue = 92;
+	 optional float sixdimliliang_basevalue = 93;
+	 optional float sixdimliliang_currentvalue = 94;
+	 optional float sixdimshenfa_basevalue = 95;
+	 optional float sixdimshenfa_currentvalue = 96;
+	 optional float sixdimgengu_basevalue = 97;
+	 optional float sixdimgengu_currentvalue = 98;
+	 optional float sixdimlingli_basevalue = 99;
+	 optional float sixdimlingli_currentvalue = 100;
+	 optional float sixdimganzhi_basevalue = 101;
+	 optional float sixdimganzhi_currentvalue = 102;
+	 optional float sixdimyizhi_basevalue = 103;
+	 optional float sixdimyizhi_currentvalue = 104;
+	 optional float freesixdim_basevalue = 105;
+	 optional float freesixdim_currentvalue = 106;
+}
+
+message WXPlayerAttributeSetDynamic1 {
+	optional uint32 msg_cid = 1[default = 24088];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 24089];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic2 {
+	optional uint32 msg_cid = 1[default = 24090];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 24091];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic3 {
+	optional uint32 msg_cid = 1[default = 24092];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 24093];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic4 {
+	optional uint32 msg_cid = 1[default = 24094];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 24095];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic5 {
+	optional uint32 msg_cid = 1[default = 24096];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 24097];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic6 {
+	optional uint32 msg_cid = 1[default = 24098];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 24099];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic7 {
+	optional uint32 msg_cid = 1[default = 24100];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 24101];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic8 {
+	optional uint32 msg_cid = 1[default = 24102];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 24103];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic9 {
+	optional uint32 msg_cid = 1[default = 24104];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 24105];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic10 {
+	optional uint32 msg_cid = 1[default = 24106];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 24107];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic11 {
+	optional uint32 msg_cid = 1[default = 24108];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 24109];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic12 {
+	optional uint32 msg_cid = 1[default = 24110];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 24111];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic13 {
+	optional uint32 msg_cid = 1[default = 24112];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 24113];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic14 {
+	optional uint32 msg_cid = 1[default = 24114];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 24115];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic15 {
+	optional uint32 msg_cid = 1[default = 24116];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 24117];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic16 {
+	optional uint32 msg_cid = 1[default = 24118];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 24119];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic17 {
+	optional uint32 msg_cid = 1[default = 24120];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 24121];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic18 {
+	optional uint32 msg_cid = 1[default = 24122];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 24123];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic19 {
+	optional uint32 msg_cid = 1[default = 24124];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 24125];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic20 {
+	optional uint32 msg_cid = 1[default = 24126];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 24127];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic21 {
+	optional uint32 msg_cid = 1[default = 24128];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 24129];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic22 {
+	optional uint32 msg_cid = 1[default = 24130];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 24131];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic23 {
+	optional uint32 msg_cid = 1[default = 24132];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 24133];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic24 {
+	optional uint32 msg_cid = 1[default = 24134];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 24135];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic25 {
+	optional uint32 msg_cid = 1[default = 24136];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 24137];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic26 {
+	optional uint32 msg_cid = 1[default = 24138];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 24139];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic27 {
+	optional uint32 msg_cid = 1[default = 24140];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 24141];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic28 {
+	optional uint32 msg_cid = 1[default = 24142];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 24143];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic29 {
+	optional uint32 msg_cid = 1[default = 24144];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 24145];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}
+
+message WXPlayerAttributeSetDynamic30 {
+	optional uint32 msg_cid = 1[default = 24146];
+	optional WXPlayerAttributeSet data = 2;
+}
+
+message WXPlayerAttributeSetOwnerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 24147];
+	optional WXPlayerAttributeSetOwnerOnly data = 2;
+}

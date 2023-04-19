@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXPropGameplayAbility {
+}
+
+message WXPropGameplayAbilityDynamic1 {
+	optional uint32 msg_cid = 1[default = 24778];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic2 {
+	optional uint32 msg_cid = 1[default = 24779];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic3 {
+	optional uint32 msg_cid = 1[default = 24780];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic4 {
+	optional uint32 msg_cid = 1[default = 24781];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic5 {
+	optional uint32 msg_cid = 1[default = 24782];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic6 {
+	optional uint32 msg_cid = 1[default = 24783];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic7 {
+	optional uint32 msg_cid = 1[default = 24784];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic8 {
+	optional uint32 msg_cid = 1[default = 24785];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic9 {
+	optional uint32 msg_cid = 1[default = 24786];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic10 {
+	optional uint32 msg_cid = 1[default = 24787];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic11 {
+	optional uint32 msg_cid = 1[default = 24788];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic12 {
+	optional uint32 msg_cid = 1[default = 24789];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic13 {
+	optional uint32 msg_cid = 1[default = 24790];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic14 {
+	optional uint32 msg_cid = 1[default = 24791];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic15 {
+	optional uint32 msg_cid = 1[default = 24792];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic16 {
+	optional uint32 msg_cid = 1[default = 24793];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic17 {
+	optional uint32 msg_cid = 1[default = 24794];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic18 {
+	optional uint32 msg_cid = 1[default = 24795];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic19 {
+	optional uint32 msg_cid = 1[default = 24796];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic20 {
+	optional uint32 msg_cid = 1[default = 24797];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic21 {
+	optional uint32 msg_cid = 1[default = 24798];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic22 {
+	optional uint32 msg_cid = 1[default = 24799];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic23 {
+	optional uint32 msg_cid = 1[default = 24800];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic24 {
+	optional uint32 msg_cid = 1[default = 24801];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic25 {
+	optional uint32 msg_cid = 1[default = 24802];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic26 {
+	optional uint32 msg_cid = 1[default = 24803];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic27 {
+	optional uint32 msg_cid = 1[default = 24804];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic28 {
+	optional uint32 msg_cid = 1[default = 24805];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic29 {
+	optional uint32 msg_cid = 1[default = 24806];
+	optional WXPropGameplayAbility data = 2;
+}
+
+message WXPropGameplayAbilityDynamic30 {
+	optional uint32 msg_cid = 1[default = 24807];
+	optional WXPropGameplayAbility data = 2;
+}

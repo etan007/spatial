@@ -1,0 +1,43 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.testunrealcomponentsactor.subobjects;
+
+import "unreal/generated/Subobjects/DataOnlyComponent.proto";
+import "unreal/generated/Subobjects/DataAndHandoverComponent.proto";
+import "unreal/generated/Subobjects/DataAndOwnerOnlyComponent.proto";
+import "unreal/generated/Subobjects/DataAndInitialOnlyComponent.proto";
+
+message DataOnlyComponent {
+	optional uint32 msg_cid = 1[default = 22381];
+	optional unreal.generated.DataOnlyComponent data = 2;
+}
+
+message DataAndHandoverComponent {
+	optional uint32 msg_cid = 1[default = 22382];
+	optional unreal.generated.DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnly {
+	optional uint32 msg_cid = 1[default = 22383];
+	optional unreal.generated.DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndOwnerOnlyComponent {
+	optional uint32 msg_cid = 1[default = 22384];
+	optional unreal.generated.DataAndOwnerOnlyComponent data = 2;
+}
+
+message DataAndOwnerOnlyComponentOwnerOnly {
+	optional uint32 msg_cid = 1[default = 22385];
+	optional unreal.generated.DataAndOwnerOnlyComponentOwnerOnly data = 2;
+}
+
+message DataAndInitialOnlyComponent {
+	optional uint32 msg_cid = 1[default = 22386];
+	optional unreal.generated.DataAndInitialOnlyComponent data = 2;
+}
+
+message DataAndInitialOnlyComponentInitialOnly {
+	optional uint32 msg_cid = 1[default = 22387];
+	optional unreal.generated.DataAndInitialOnlyComponentInitialOnly data = 2;
+}

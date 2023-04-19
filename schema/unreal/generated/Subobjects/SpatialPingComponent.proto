@@ -1,0 +1,313 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message SpatialPingComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message SpatialPingComponentOwnerOnly {
+	 optional uint32 replicatedpingid = 3;
+}
+
+message SpatialPingComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 21064];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 21065];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 21066];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 21067];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 21068];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 21069];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 21070];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 21071];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 21072];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 21073];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 21074];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 21075];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 21076];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 21077];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 21078];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 21079];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 21080];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 21081];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 21082];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 21083];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 21084];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 21085];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 21086];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 21087];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 21088];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 21089];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 21090];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 21091];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 21092];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 21093];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 21094];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 21095];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 21096];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 21097];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 21098];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 21099];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 21100];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 21101];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 21102];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 21103];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 21104];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 21105];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 21106];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 21107];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 21108];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 21109];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 21110];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 21111];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 21112];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 21113];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 21114];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 21115];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 21116];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 21117];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 21118];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 21119];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 21120];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 21121];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}
+
+message SpatialPingComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 21122];
+	optional SpatialPingComponent data = 2;
+}
+
+message SpatialPingComponentOwnerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 21123];
+	optional SpatialPingComponentOwnerOnly data = 2;
+}

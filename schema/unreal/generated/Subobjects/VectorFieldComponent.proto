@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message VectorFieldComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message VectorFieldComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 14798];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 14799];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 14800];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 14801];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 14802];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 14803];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 14804];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 14805];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 14806];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 14807];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 14808];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 14809];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 14810];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 14811];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 14812];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 14813];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 14814];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 14815];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 14816];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 14817];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 14818];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 14819];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 14820];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 14821];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 14822];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14823];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14824];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14825];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14826];
+	optional VectorFieldComponent data = 2;
+}
+
+message VectorFieldComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14827];
+	optional VectorFieldComponent data = 2;
+}

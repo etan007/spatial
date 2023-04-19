@@ -1,0 +1,169 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message AbilityTaskApplyRootMotionConstantForce {
+	 optional string forcename = 1;
+	 optional uint32 finishvelocitymode = 2;
+	 optional bytes finishsetvelocity = 3;
+	 optional float finishclampvelocity = 4;
+	 optional bytes worlddirection = 5;
+	 optional float strength = 6;
+	 optional float duration = 7;
+	 optional bool bisadditive = 8;
+	 optional UnrealObjectRef strengthovertime = 9;
+	 optional bool benablegravity = 10;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic1 {
+	optional uint32 msg_cid = 1[default = 16176];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic2 {
+	optional uint32 msg_cid = 1[default = 16177];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic3 {
+	optional uint32 msg_cid = 1[default = 16178];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic4 {
+	optional uint32 msg_cid = 1[default = 16179];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic5 {
+	optional uint32 msg_cid = 1[default = 16180];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic6 {
+	optional uint32 msg_cid = 1[default = 16181];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic7 {
+	optional uint32 msg_cid = 1[default = 16182];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic8 {
+	optional uint32 msg_cid = 1[default = 16183];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic9 {
+	optional uint32 msg_cid = 1[default = 16184];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic10 {
+	optional uint32 msg_cid = 1[default = 16185];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic11 {
+	optional uint32 msg_cid = 1[default = 16186];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic12 {
+	optional uint32 msg_cid = 1[default = 16187];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic13 {
+	optional uint32 msg_cid = 1[default = 16188];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic14 {
+	optional uint32 msg_cid = 1[default = 16189];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic15 {
+	optional uint32 msg_cid = 1[default = 16190];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic16 {
+	optional uint32 msg_cid = 1[default = 16191];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic17 {
+	optional uint32 msg_cid = 1[default = 16192];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic18 {
+	optional uint32 msg_cid = 1[default = 16193];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic19 {
+	optional uint32 msg_cid = 1[default = 16194];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic20 {
+	optional uint32 msg_cid = 1[default = 16195];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic21 {
+	optional uint32 msg_cid = 1[default = 16196];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic22 {
+	optional uint32 msg_cid = 1[default = 16197];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic23 {
+	optional uint32 msg_cid = 1[default = 16198];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic24 {
+	optional uint32 msg_cid = 1[default = 16199];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic25 {
+	optional uint32 msg_cid = 1[default = 16200];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic26 {
+	optional uint32 msg_cid = 1[default = 16201];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic27 {
+	optional uint32 msg_cid = 1[default = 16202];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic28 {
+	optional uint32 msg_cid = 1[default = 16203];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic29 {
+	optional uint32 msg_cid = 1[default = 16204];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}
+
+message AbilityTaskApplyRootMotionConstantForceDynamic30 {
+	optional uint32 msg_cid = 1[default = 16205];
+	optional AbilityTaskApplyRootMotionConstantForce data = 2;
+}

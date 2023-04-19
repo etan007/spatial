@@ -1,0 +1,16 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.screenshotfunctionaltest.subobjects;
+
+import "unreal/generated/Subobjects/CameraComponent.proto";
+import "unreal/generated/Subobjects/BillboardComponent.proto";
+
+message Camera {
+	optional uint32 msg_cid = 1[default = 15980];
+	optional unreal.generated.CameraComponent data = 2;
+}
+
+message Sprite {
+	optional uint32 msg_cid = 1[default = 15981];
+	optional unreal.generated.BillboardComponent data = 2;
+}

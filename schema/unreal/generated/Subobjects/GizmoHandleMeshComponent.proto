@@ -1,0 +1,177 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message GizmoHandleMeshComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional UnrealObjectRef staticmesh = 18;
+}
+
+message GizmoHandleMeshComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 23247];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 23248];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 23249];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 23250];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 23251];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 23252];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 23253];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 23254];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 23255];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 23256];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 23257];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 23258];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 23259];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 23260];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 23261];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 23262];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 23263];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 23264];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 23265];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 23266];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 23267];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 23268];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 23269];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 23270];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 23271];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 23272];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 23273];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 23274];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 23275];
+	optional GizmoHandleMeshComponent data = 2;
+}
+
+message GizmoHandleMeshComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 23276];
+	optional GizmoHandleMeshComponent data = 2;
+}

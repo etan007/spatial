@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXTaskInputRelease {
+}
+
+message WXTaskInputReleaseDynamic1 {
+	optional uint32 msg_cid = 1[default = 24951];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic2 {
+	optional uint32 msg_cid = 1[default = 24952];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic3 {
+	optional uint32 msg_cid = 1[default = 24953];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic4 {
+	optional uint32 msg_cid = 1[default = 24954];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic5 {
+	optional uint32 msg_cid = 1[default = 24955];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic6 {
+	optional uint32 msg_cid = 1[default = 24956];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic7 {
+	optional uint32 msg_cid = 1[default = 24957];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic8 {
+	optional uint32 msg_cid = 1[default = 24958];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic9 {
+	optional uint32 msg_cid = 1[default = 24959];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic10 {
+	optional uint32 msg_cid = 1[default = 24960];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic11 {
+	optional uint32 msg_cid = 1[default = 24961];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic12 {
+	optional uint32 msg_cid = 1[default = 24962];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic13 {
+	optional uint32 msg_cid = 1[default = 24963];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic14 {
+	optional uint32 msg_cid = 1[default = 24964];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic15 {
+	optional uint32 msg_cid = 1[default = 24965];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic16 {
+	optional uint32 msg_cid = 1[default = 24966];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic17 {
+	optional uint32 msg_cid = 1[default = 24967];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic18 {
+	optional uint32 msg_cid = 1[default = 24968];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic19 {
+	optional uint32 msg_cid = 1[default = 24969];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic20 {
+	optional uint32 msg_cid = 1[default = 24970];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic21 {
+	optional uint32 msg_cid = 1[default = 24971];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic22 {
+	optional uint32 msg_cid = 1[default = 24972];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic23 {
+	optional uint32 msg_cid = 1[default = 24973];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic24 {
+	optional uint32 msg_cid = 1[default = 24974];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic25 {
+	optional uint32 msg_cid = 1[default = 24975];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic26 {
+	optional uint32 msg_cid = 1[default = 24976];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic27 {
+	optional uint32 msg_cid = 1[default = 24977];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic28 {
+	optional uint32 msg_cid = 1[default = 24978];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic29 {
+	optional uint32 msg_cid = 1[default = 24979];
+	optional WXTaskInputRelease data = 2;
+}
+
+message WXTaskInputReleaseDynamic30 {
+	optional uint32 msg_cid = 1[default = 24980];
+	optional WXTaskInputRelease data = 2;
+}

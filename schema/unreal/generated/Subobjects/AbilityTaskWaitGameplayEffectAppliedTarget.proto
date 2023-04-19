@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTaskWaitGameplayEffectAppliedTarget {
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic1 {
+	optional uint32 msg_cid = 1[default = 16866];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic2 {
+	optional uint32 msg_cid = 1[default = 16867];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic3 {
+	optional uint32 msg_cid = 1[default = 16868];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic4 {
+	optional uint32 msg_cid = 1[default = 16869];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic5 {
+	optional uint32 msg_cid = 1[default = 16870];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic6 {
+	optional uint32 msg_cid = 1[default = 16871];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic7 {
+	optional uint32 msg_cid = 1[default = 16872];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic8 {
+	optional uint32 msg_cid = 1[default = 16873];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic9 {
+	optional uint32 msg_cid = 1[default = 16874];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic10 {
+	optional uint32 msg_cid = 1[default = 16875];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic11 {
+	optional uint32 msg_cid = 1[default = 16876];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic12 {
+	optional uint32 msg_cid = 1[default = 16877];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic13 {
+	optional uint32 msg_cid = 1[default = 16878];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic14 {
+	optional uint32 msg_cid = 1[default = 16879];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic15 {
+	optional uint32 msg_cid = 1[default = 16880];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic16 {
+	optional uint32 msg_cid = 1[default = 16881];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic17 {
+	optional uint32 msg_cid = 1[default = 16882];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic18 {
+	optional uint32 msg_cid = 1[default = 16883];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic19 {
+	optional uint32 msg_cid = 1[default = 16884];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic20 {
+	optional uint32 msg_cid = 1[default = 16885];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic21 {
+	optional uint32 msg_cid = 1[default = 16886];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic22 {
+	optional uint32 msg_cid = 1[default = 16887];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic23 {
+	optional uint32 msg_cid = 1[default = 16888];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic24 {
+	optional uint32 msg_cid = 1[default = 16889];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic25 {
+	optional uint32 msg_cid = 1[default = 16890];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic26 {
+	optional uint32 msg_cid = 1[default = 16891];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic27 {
+	optional uint32 msg_cid = 1[default = 16892];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic28 {
+	optional uint32 msg_cid = 1[default = 16893];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic29 {
+	optional uint32 msg_cid = 1[default = 16894];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}
+
+message AbilityTaskWaitGameplayEffectAppliedTargetDynamic30 {
+	optional uint32 msg_cid = 1[default = 16895];
+	optional AbilityTaskWaitGameplayEffectAppliedTarget data = 2;
+}

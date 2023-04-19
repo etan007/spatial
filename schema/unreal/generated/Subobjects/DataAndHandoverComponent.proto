@@ -1,0 +1,331 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message DataAndHandoverComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional int32 datareplicatedvar = 18;
+}
+
+message DataAndHandoverComponentServerOnly {
+	 optional int32 handoverreplicatedvar = 19;
+}
+
+message DataAndHandoverComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 21173];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 21174];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 21175];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 21176];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 21177];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 21178];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 21179];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 21180];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 21181];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 21182];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 21183];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 21184];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 21185];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 21186];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 21187];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 21188];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 21189];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 21190];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 21191];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 21192];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 21193];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 21194];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 21195];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 21196];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 21197];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 21198];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 21199];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 21200];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 21201];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 21202];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 21203];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 21204];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 21205];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 21206];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 21207];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 21208];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 21209];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 21210];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 21211];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 21212];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 21213];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 21214];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 21215];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 21216];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 21217];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 21218];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 21219];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 21220];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 21221];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 21222];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 21223];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 21224];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 21225];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 21226];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 21227];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 21228];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 21229];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 21230];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}
+
+message DataAndHandoverComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 21231];
+	optional DataAndHandoverComponent data = 2;
+}
+
+message DataAndHandoverComponentServerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 21232];
+	optional DataAndHandoverComponentServerOnly data = 2;
+}

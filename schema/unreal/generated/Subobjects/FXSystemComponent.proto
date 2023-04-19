@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message FXSystemComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message FXSystemComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 12864];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 12865];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 12866];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 12867];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 12868];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 12869];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 12870];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 12871];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 12872];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 12873];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 12874];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 12875];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 12876];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 12877];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 12878];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 12879];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 12880];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 12881];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 12882];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 12883];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 12884];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 12885];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 12886];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 12887];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 12888];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12889];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12890];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12891];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12892];
+	optional FXSystemComponent data = 2;
+}
+
+message FXSystemComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12893];
+	optional FXSystemComponent data = 2;
+}

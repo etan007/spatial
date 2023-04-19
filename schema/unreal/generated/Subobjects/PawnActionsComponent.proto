@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message PawnActionsComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message PawnActionsComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10065];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10066];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10067];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10068];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10069];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10070];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10071];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10072];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10073];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10074];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10075];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10076];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10077];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10078];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10079];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10080];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10081];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10082];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10083];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10084];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10085];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10086];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10087];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10088];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10089];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10090];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10091];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10092];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10093];
+	optional PawnActionsComponent data = 2;
+}
+
+message PawnActionsComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10094];
+	optional PawnActionsComponent data = 2;
+}

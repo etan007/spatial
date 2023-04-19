@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GameFrameworkComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message GameFrameworkComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 20180];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 20181];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 20182];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 20183];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20184];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20185];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20186];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20187];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20188];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20189];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20190];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20191];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20192];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20193];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20194];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20195];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20196];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20197];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20198];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20199];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20200];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20201];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20202];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20203];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20204];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20205];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20206];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20207];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20208];
+	optional GameFrameworkComponent data = 2;
+}
+
+message GameFrameworkComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20209];
+	optional GameFrameworkComponent data = 2;
+}

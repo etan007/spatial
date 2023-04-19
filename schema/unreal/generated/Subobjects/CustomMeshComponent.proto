@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message CustomMeshComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message CustomMeshComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11964];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11965];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11966];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11967];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11968];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11969];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11970];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11971];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11972];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11973];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11974];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11975];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11976];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11977];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11978];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11979];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11980];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11981];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11982];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11983];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11984];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11985];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11986];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11987];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11988];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11989];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11990];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11991];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11992];
+	optional CustomMeshComponent data = 2;
+}
+
+message CustomMeshComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11993];
+	optional CustomMeshComponent data = 2;
+}

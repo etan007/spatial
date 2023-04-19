@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AIPerceptionComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message AIPerceptionComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10125];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10126];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10127];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10128];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10129];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10130];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10131];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10132];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10133];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10134];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10135];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10136];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10137];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10138];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10139];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10140];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10141];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10142];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10143];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10144];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10145];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10146];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10147];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10148];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10149];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10150];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10151];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10152];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10153];
+	optional AIPerceptionComponent data = 2;
+}
+
+message AIPerceptionComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10154];
+	optional AIPerceptionComponent data = 2;
+}

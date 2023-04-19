@@ -1,0 +1,15 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.spatialtypeactorwithmultipleobjectcomponents.subobjects;
+
+import "unreal/generated/Subobjects/SpatialTypeObjectStub.proto";
+
+message FirstSpatialActorComponent {
+	optional uint32 msg_cid = 1[default = 22524];
+	optional unreal.generated.SpatialTypeObjectStub data = 2;
+}
+
+message SecondSpatialActorComponent {
+	optional uint32 msg_cid = 1[default = 22525];
+	optional unreal.generated.SpatialTypeObjectStub data = 2;
+}

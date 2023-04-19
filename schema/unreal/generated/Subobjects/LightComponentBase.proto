@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message LightComponentBase {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message LightComponentBaseDynamic1 {
+	optional uint32 msg_cid = 1[default = 13154];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic2 {
+	optional uint32 msg_cid = 1[default = 13155];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic3 {
+	optional uint32 msg_cid = 1[default = 13156];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic4 {
+	optional uint32 msg_cid = 1[default = 13157];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic5 {
+	optional uint32 msg_cid = 1[default = 13158];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic6 {
+	optional uint32 msg_cid = 1[default = 13159];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic7 {
+	optional uint32 msg_cid = 1[default = 13160];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic8 {
+	optional uint32 msg_cid = 1[default = 13161];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic9 {
+	optional uint32 msg_cid = 1[default = 13162];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic10 {
+	optional uint32 msg_cid = 1[default = 13163];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic11 {
+	optional uint32 msg_cid = 1[default = 13164];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic12 {
+	optional uint32 msg_cid = 1[default = 13165];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic13 {
+	optional uint32 msg_cid = 1[default = 13166];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic14 {
+	optional uint32 msg_cid = 1[default = 13167];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic15 {
+	optional uint32 msg_cid = 1[default = 13168];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic16 {
+	optional uint32 msg_cid = 1[default = 13169];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic17 {
+	optional uint32 msg_cid = 1[default = 13170];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic18 {
+	optional uint32 msg_cid = 1[default = 13171];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic19 {
+	optional uint32 msg_cid = 1[default = 13172];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic20 {
+	optional uint32 msg_cid = 1[default = 13173];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic21 {
+	optional uint32 msg_cid = 1[default = 13174];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic22 {
+	optional uint32 msg_cid = 1[default = 13175];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic23 {
+	optional uint32 msg_cid = 1[default = 13176];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic24 {
+	optional uint32 msg_cid = 1[default = 13177];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic25 {
+	optional uint32 msg_cid = 1[default = 13178];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic26 {
+	optional uint32 msg_cid = 1[default = 13179];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic27 {
+	optional uint32 msg_cid = 1[default = 13180];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic28 {
+	optional uint32 msg_cid = 1[default = 13181];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic29 {
+	optional uint32 msg_cid = 1[default = 13182];
+	optional LightComponentBase data = 2;
+}
+
+message LightComponentBaseDynamic30 {
+	optional uint32 msg_cid = 1[default = 13183];
+	optional LightComponentBase data = 2;
+}

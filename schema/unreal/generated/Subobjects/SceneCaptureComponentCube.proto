@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message SceneCaptureComponentCube {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message SceneCaptureComponentCubeDynamic1 {
+	optional uint32 msg_cid = 1[default = 14381];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic2 {
+	optional uint32 msg_cid = 1[default = 14382];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic3 {
+	optional uint32 msg_cid = 1[default = 14383];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic4 {
+	optional uint32 msg_cid = 1[default = 14384];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic5 {
+	optional uint32 msg_cid = 1[default = 14385];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic6 {
+	optional uint32 msg_cid = 1[default = 14386];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic7 {
+	optional uint32 msg_cid = 1[default = 14387];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic8 {
+	optional uint32 msg_cid = 1[default = 14388];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic9 {
+	optional uint32 msg_cid = 1[default = 14389];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic10 {
+	optional uint32 msg_cid = 1[default = 14390];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic11 {
+	optional uint32 msg_cid = 1[default = 14391];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic12 {
+	optional uint32 msg_cid = 1[default = 14392];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic13 {
+	optional uint32 msg_cid = 1[default = 14393];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic14 {
+	optional uint32 msg_cid = 1[default = 14394];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic15 {
+	optional uint32 msg_cid = 1[default = 14395];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic16 {
+	optional uint32 msg_cid = 1[default = 14396];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic17 {
+	optional uint32 msg_cid = 1[default = 14397];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic18 {
+	optional uint32 msg_cid = 1[default = 14398];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic19 {
+	optional uint32 msg_cid = 1[default = 14399];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic20 {
+	optional uint32 msg_cid = 1[default = 14400];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic21 {
+	optional uint32 msg_cid = 1[default = 14401];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic22 {
+	optional uint32 msg_cid = 1[default = 14402];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic23 {
+	optional uint32 msg_cid = 1[default = 14403];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic24 {
+	optional uint32 msg_cid = 1[default = 14404];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic25 {
+	optional uint32 msg_cid = 1[default = 14405];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic26 {
+	optional uint32 msg_cid = 1[default = 14406];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic27 {
+	optional uint32 msg_cid = 1[default = 14407];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic28 {
+	optional uint32 msg_cid = 1[default = 14408];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic29 {
+	optional uint32 msg_cid = 1[default = 14409];
+	optional SceneCaptureComponentCube data = 2;
+}
+
+message SceneCaptureComponentCubeDynamic30 {
+	optional uint32 msg_cid = 1[default = 14410];
+	optional SceneCaptureComponentCube data = 2;
+}

@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ToIntegerField {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ToIntegerFieldDynamic1 {
+	optional uint32 msg_cid = 1[default = 15645];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic2 {
+	optional uint32 msg_cid = 1[default = 15646];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic3 {
+	optional uint32 msg_cid = 1[default = 15647];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic4 {
+	optional uint32 msg_cid = 1[default = 15648];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic5 {
+	optional uint32 msg_cid = 1[default = 15649];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic6 {
+	optional uint32 msg_cid = 1[default = 15650];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic7 {
+	optional uint32 msg_cid = 1[default = 15651];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic8 {
+	optional uint32 msg_cid = 1[default = 15652];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic9 {
+	optional uint32 msg_cid = 1[default = 15653];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic10 {
+	optional uint32 msg_cid = 1[default = 15654];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic11 {
+	optional uint32 msg_cid = 1[default = 15655];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic12 {
+	optional uint32 msg_cid = 1[default = 15656];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic13 {
+	optional uint32 msg_cid = 1[default = 15657];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic14 {
+	optional uint32 msg_cid = 1[default = 15658];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic15 {
+	optional uint32 msg_cid = 1[default = 15659];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic16 {
+	optional uint32 msg_cid = 1[default = 15660];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic17 {
+	optional uint32 msg_cid = 1[default = 15661];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic18 {
+	optional uint32 msg_cid = 1[default = 15662];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic19 {
+	optional uint32 msg_cid = 1[default = 15663];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic20 {
+	optional uint32 msg_cid = 1[default = 15664];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic21 {
+	optional uint32 msg_cid = 1[default = 15665];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic22 {
+	optional uint32 msg_cid = 1[default = 15666];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic23 {
+	optional uint32 msg_cid = 1[default = 15667];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic24 {
+	optional uint32 msg_cid = 1[default = 15668];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic25 {
+	optional uint32 msg_cid = 1[default = 15669];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic26 {
+	optional uint32 msg_cid = 1[default = 15670];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic27 {
+	optional uint32 msg_cid = 1[default = 15671];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic28 {
+	optional uint32 msg_cid = 1[default = 15672];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic29 {
+	optional uint32 msg_cid = 1[default = 15673];
+	optional ToIntegerField data = 2;
+}
+
+message ToIntegerFieldDynamic30 {
+	optional uint32 msg_cid = 1[default = 15674];
+	optional ToIntegerField data = 2;
+}

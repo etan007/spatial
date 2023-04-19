@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message GizmoBoxComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message GizmoBoxComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18421];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18422];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18423];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18424];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18425];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18426];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18427];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18428];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18429];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18430];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18431];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18432];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18433];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18434];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18435];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18436];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18437];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18438];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18439];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18440];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18441];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18442];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18443];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18444];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18445];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18446];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18447];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18448];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18449];
+	optional GizmoBoxComponent data = 2;
+}
+
+message GizmoBoxComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18450];
+	optional GizmoBoxComponent data = 2;
+}

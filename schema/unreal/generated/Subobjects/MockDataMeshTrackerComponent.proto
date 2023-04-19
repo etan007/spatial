@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message MockDataMeshTrackerComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message MockDataMeshTrackerComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 20330];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 20331];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 20332];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 20333];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20334];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20335];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20336];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20337];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20338];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20339];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20340];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20341];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20342];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20343];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20344];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20345];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20346];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20347];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20348];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20349];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20350];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20351];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20352];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20353];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20354];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20355];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20356];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20357];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20358];
+	optional MockDataMeshTrackerComponent data = 2;
+}
+
+message MockDataMeshTrackerComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20359];
+	optional MockDataMeshTrackerComponent data = 2;
+}

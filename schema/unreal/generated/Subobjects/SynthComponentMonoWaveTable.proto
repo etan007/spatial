@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message SynthComponentMonoWaveTable {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message SynthComponentMonoWaveTableDynamic1 {
+	optional uint32 msg_cid = 1[default = 22652];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic2 {
+	optional uint32 msg_cid = 1[default = 22653];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic3 {
+	optional uint32 msg_cid = 1[default = 22654];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic4 {
+	optional uint32 msg_cid = 1[default = 22655];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic5 {
+	optional uint32 msg_cid = 1[default = 22656];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic6 {
+	optional uint32 msg_cid = 1[default = 22657];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic7 {
+	optional uint32 msg_cid = 1[default = 22658];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic8 {
+	optional uint32 msg_cid = 1[default = 22659];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic9 {
+	optional uint32 msg_cid = 1[default = 22660];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic10 {
+	optional uint32 msg_cid = 1[default = 22661];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic11 {
+	optional uint32 msg_cid = 1[default = 22662];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic12 {
+	optional uint32 msg_cid = 1[default = 22663];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic13 {
+	optional uint32 msg_cid = 1[default = 22664];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic14 {
+	optional uint32 msg_cid = 1[default = 22665];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic15 {
+	optional uint32 msg_cid = 1[default = 22666];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic16 {
+	optional uint32 msg_cid = 1[default = 22667];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic17 {
+	optional uint32 msg_cid = 1[default = 22668];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic18 {
+	optional uint32 msg_cid = 1[default = 22669];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic19 {
+	optional uint32 msg_cid = 1[default = 22670];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic20 {
+	optional uint32 msg_cid = 1[default = 22671];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic21 {
+	optional uint32 msg_cid = 1[default = 22672];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic22 {
+	optional uint32 msg_cid = 1[default = 22673];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic23 {
+	optional uint32 msg_cid = 1[default = 22674];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic24 {
+	optional uint32 msg_cid = 1[default = 22675];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic25 {
+	optional uint32 msg_cid = 1[default = 22676];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic26 {
+	optional uint32 msg_cid = 1[default = 22677];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic27 {
+	optional uint32 msg_cid = 1[default = 22678];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic28 {
+	optional uint32 msg_cid = 1[default = 22679];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic29 {
+	optional uint32 msg_cid = 1[default = 22680];
+	optional SynthComponentMonoWaveTable data = 2;
+}
+
+message SynthComponentMonoWaveTableDynamic30 {
+	optional uint32 msg_cid = 1[default = 22681];
+	optional SynthComponentMonoWaveTable data = 2;
+}

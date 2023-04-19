@@ -1,0 +1,21 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.spherereflectioncapture.subobjects;
+
+import "unreal/generated/Subobjects/DrawSphereComponent.proto";
+import "unreal/generated/Subobjects/SphereReflectionCaptureComponent.proto";
+
+message DrawRadius1 {
+	optional uint32 msg_cid = 1[default = 14586];
+	optional unreal.generated.DrawSphereComponent data = 2;
+}
+
+message NewReflectionComponent {
+	optional uint32 msg_cid = 1[default = 14587];
+	optional unreal.generated.SphereReflectionCaptureComponent data = 2;
+}
+
+message DrawRadius0 {
+	optional uint32 msg_cid = 1[default = 14588];
+	optional unreal.generated.DrawSphereComponent data = 2;
+}

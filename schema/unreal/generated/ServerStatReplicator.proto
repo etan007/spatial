@@ -1,0 +1,73 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.serverstatreplicator;
+
+
+import "unreal/gdk/core_types.proto";
+
+message ServerStatReplicator {
+	optional uint32 msg_cid = 1[default = 14415];
+	 optional bool breplicatemovement = 2;
+	 optional bool bhidden = 3;
+	 optional bool btearoff = 4;
+	 optional bool bcanbedamaged = 5;
+	 optional bool bactorenablecollision = 6;
+	 optional uint32 remoterole = 7;
+	 optional UnrealObjectRef attachmentreplication_attachparent = 8;
+	 optional bytes attachmentreplication_locationoffset = 9;
+	 optional bytes attachmentreplication_relativescale3d = 10;
+	 optional bytes attachmentreplication_rotationoffset = 11;
+	 optional string attachmentreplication_attachsocket = 12;
+	 optional UnrealObjectRef attachmentreplication_attachcomponent = 13;
+	 optional bytes replicatedmovement = 14;
+	 optional UnrealObjectRef owner = 15;
+	 optional uint32 role = 16;
+	 optional UnrealObjectRef instigator = 17;
+	 optional uint32 channels = 18;
+	 optional uint32 inrate = 19;
+	 optional uint32 outrate = 20;
+	 optional uint32 maxpacketoverhead = 21;
+	 optional uint32 inrateclientmax = 22;
+	 optional uint32 inrateclientmin = 23;
+	 optional uint32 inrateclientavg = 24;
+	 optional uint32 inpacketsclientmax = 25;
+	 optional uint32 inpacketsclientmin = 26;
+	 optional uint32 inpacketsclientavg = 27;
+	 optional uint32 outrateclientmax = 28;
+	 optional uint32 outrateclientmin = 29;
+	 optional uint32 outrateclientavg = 30;
+	 optional uint32 outpacketsclientmax = 31;
+	 optional uint32 outpacketsclientmin = 32;
+	 optional uint32 outpacketsclientavg = 33;
+	 optional uint32 netnumclients = 34;
+	 optional uint32 inpackets = 35;
+	 optional uint32 outpackets = 36;
+	 optional uint32 inbunches = 37;
+	 optional uint32 outbunches = 38;
+	 optional uint32 outloss = 39;
+	 optional uint32 inloss = 40;
+	 optional uint32 voicebytessent = 41;
+	 optional uint32 voicebytesrecv = 42;
+	 optional uint32 voicepacketssent = 43;
+	 optional uint32 voicepacketsrecv = 44;
+	 optional uint32 percentinvoice = 45;
+	 optional uint32 percentoutvoice = 46;
+	 optional uint32 numactorchannels = 47;
+	 optional uint32 numconsideredactors = 48;
+	 optional uint32 prioritizedactors = 49;
+	 optional uint32 numrelevantactors = 50;
+	 optional uint32 numrelevantdeletedactors = 51;
+	 optional uint32 numreplicatedactorattempts = 52;
+	 optional uint32 numreplicatedactors = 53;
+	 optional uint32 numactors = 54;
+	 optional uint32 numnetactors = 55;
+	 optional uint32 numdormantactors = 56;
+	 optional uint32 numinitiallydormantactors = 57;
+	 optional uint32 numnetguidsackd = 58;
+	 optional uint32 numnetguidspending = 59;
+	 optional uint32 numnetguidsunackd = 60;
+	 optional uint32 objpathbytes = 61;
+	 optional uint32 netguidoutrate = 62;
+	 optional uint32 netguidinrate = 63;
+	 optional uint32 netsaturated = 64;
+}

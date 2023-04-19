@@ -1,0 +1,177 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WXPowerElementComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional int32 powervalue = 18;
+}
+
+message WXPowerElementComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 24155];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 24156];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 24157];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 24158];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 24159];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 24160];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 24161];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 24162];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 24163];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 24164];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 24165];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 24166];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 24167];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 24168];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 24169];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 24170];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 24171];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 24172];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 24173];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 24174];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 24175];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 24176];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 24177];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 24178];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 24179];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 24180];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 24181];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 24182];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 24183];
+	optional WXPowerElementComponent data = 2;
+}
+
+message WXPowerElementComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 24184];
+	optional WXPowerElementComponent data = 2;
+}

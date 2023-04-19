@@ -1,0 +1,10 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.debugcameracontroller.subobjects;
+
+import "unreal/generated/Subobjects/SceneComponent.proto";
+
+message TransformComponent0 {
+	optional uint32 msg_cid = 1[default = 12473];
+	optional unreal.generated.SceneComponent data = 2;
+}

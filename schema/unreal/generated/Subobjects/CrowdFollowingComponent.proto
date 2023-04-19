@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message CrowdFollowingComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message CrowdFollowingComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10395];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10396];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10397];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10398];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10399];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10400];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10401];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10402];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10403];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10404];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10405];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10406];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10407];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10408];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10409];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10410];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10411];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10412];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10413];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10414];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10415];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10416];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10417];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10418];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10419];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10420];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10421];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10422];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10423];
+	optional CrowdFollowingComponent data = 2;
+}
+
+message CrowdFollowingComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10424];
+	optional CrowdFollowingComponent data = 2;
+}

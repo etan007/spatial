@@ -1,0 +1,188 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WXPlayerShopComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional string shopname = 18;
+	 optional string shopdescribe = 19;
+	 repeated bytes commodityboxs = 20;
+	 repeated bytes ridecommodityboxs = 21;
+	 repeated bytes patnercommodityboxs = 22;
+	 repeated UnrealObjectRef propsdata = 23;
+	 optional bool bisopen = 24;
+	 repeated bytes coinsdata = 25;
+	 repeated bytes traderecords = 26;
+	 optional int32 ownerid = 27;
+	 optional string ownername = 28;
+	 optional float taxratio = 29;
+}
+
+message WXPlayerShopComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 24741];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 24742];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 24743];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 24744];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 24745];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 24746];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 24747];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 24748];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 24749];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 24750];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 24751];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 24752];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 24753];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 24754];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 24755];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 24756];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 24757];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 24758];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 24759];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 24760];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 24761];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 24762];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 24763];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 24764];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 24765];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 24766];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 24767];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 24768];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 24769];
+	optional WXPlayerShopComponent data = 2;
+}
+
+message WXPlayerShopComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 24770];
+	optional WXPlayerShopComponent data = 2;
+}

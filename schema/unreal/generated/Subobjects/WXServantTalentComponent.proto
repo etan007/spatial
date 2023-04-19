@@ -1,0 +1,315 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXServantTalentComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional int32 level = 5;
+}
+
+message WXServantTalentComponentOwnerOnly {
+	 optional int32 talentcoreid = 3;
+	 optional int32 star = 4;
+}
+
+message WXServantTalentComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 25910];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 25911];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 25912];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 25913];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 25914];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 25915];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 25916];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 25917];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 25918];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 25919];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 25920];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 25921];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 25922];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 25923];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 25924];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 25925];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 25926];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 25927];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 25928];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 25929];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 25930];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 25931];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 25932];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 25933];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 25934];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 25935];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 25936];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 25937];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 25938];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 25939];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 25940];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 25941];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 25942];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 25943];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 25944];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 25945];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 25946];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 25947];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 25948];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 25949];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 25950];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 25951];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 25952];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 25953];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 25954];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 25955];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 25956];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 25957];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 25958];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 25959];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 25960];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 25961];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 25962];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 25963];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 25964];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 25965];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 25966];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 25967];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}
+
+message WXServantTalentComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 25968];
+	optional WXServantTalentComponent data = 2;
+}
+
+message WXServantTalentComponentOwnerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 25969];
+	optional WXServantTalentComponentOwnerOnly data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GAActiveSkillC {
+}
+
+message GAActiveSkillCDynamic1 {
+	optional uint32 msg_cid = 1[default = 25243];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic2 {
+	optional uint32 msg_cid = 1[default = 25244];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic3 {
+	optional uint32 msg_cid = 1[default = 25245];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic4 {
+	optional uint32 msg_cid = 1[default = 25246];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic5 {
+	optional uint32 msg_cid = 1[default = 25247];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic6 {
+	optional uint32 msg_cid = 1[default = 25248];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic7 {
+	optional uint32 msg_cid = 1[default = 25249];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic8 {
+	optional uint32 msg_cid = 1[default = 25250];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic9 {
+	optional uint32 msg_cid = 1[default = 25251];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic10 {
+	optional uint32 msg_cid = 1[default = 25252];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic11 {
+	optional uint32 msg_cid = 1[default = 25253];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic12 {
+	optional uint32 msg_cid = 1[default = 25254];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic13 {
+	optional uint32 msg_cid = 1[default = 25255];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic14 {
+	optional uint32 msg_cid = 1[default = 25256];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic15 {
+	optional uint32 msg_cid = 1[default = 25257];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic16 {
+	optional uint32 msg_cid = 1[default = 25258];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic17 {
+	optional uint32 msg_cid = 1[default = 25259];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic18 {
+	optional uint32 msg_cid = 1[default = 25260];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic19 {
+	optional uint32 msg_cid = 1[default = 25261];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic20 {
+	optional uint32 msg_cid = 1[default = 25262];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic21 {
+	optional uint32 msg_cid = 1[default = 25263];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic22 {
+	optional uint32 msg_cid = 1[default = 25264];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic23 {
+	optional uint32 msg_cid = 1[default = 25265];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic24 {
+	optional uint32 msg_cid = 1[default = 25266];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic25 {
+	optional uint32 msg_cid = 1[default = 25267];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic26 {
+	optional uint32 msg_cid = 1[default = 25268];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic27 {
+	optional uint32 msg_cid = 1[default = 25269];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic28 {
+	optional uint32 msg_cid = 1[default = 25270];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic29 {
+	optional uint32 msg_cid = 1[default = 25271];
+	optional GAActiveSkillC data = 2;
+}
+
+message GAActiveSkillCDynamic30 {
+	optional uint32 msg_cid = 1[default = 25272];
+	optional GAActiveSkillC data = 2;
+}

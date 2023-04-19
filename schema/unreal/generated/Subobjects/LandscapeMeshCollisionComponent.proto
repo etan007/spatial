@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message LandscapeMeshCollisionComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message LandscapeMeshCollisionComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18681];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18682];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18683];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18684];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18685];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18686];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18687];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18688];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18689];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18690];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18691];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18692];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18693];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18694];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18695];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18696];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18697];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18698];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18699];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18700];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18701];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18702];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18703];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18704];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18705];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18706];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18707];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18708];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18709];
+	optional LandscapeMeshCollisionComponent data = 2;
+}
+
+message LandscapeMeshCollisionComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18710];
+	optional LandscapeMeshCollisionComponent data = 2;
+}

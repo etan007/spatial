@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ReturnResultsTerminal {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ReturnResultsTerminalDynamic1 {
+	optional uint32 msg_cid = 1[default = 15585];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic2 {
+	optional uint32 msg_cid = 1[default = 15586];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic3 {
+	optional uint32 msg_cid = 1[default = 15587];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic4 {
+	optional uint32 msg_cid = 1[default = 15588];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic5 {
+	optional uint32 msg_cid = 1[default = 15589];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic6 {
+	optional uint32 msg_cid = 1[default = 15590];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic7 {
+	optional uint32 msg_cid = 1[default = 15591];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic8 {
+	optional uint32 msg_cid = 1[default = 15592];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic9 {
+	optional uint32 msg_cid = 1[default = 15593];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic10 {
+	optional uint32 msg_cid = 1[default = 15594];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic11 {
+	optional uint32 msg_cid = 1[default = 15595];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic12 {
+	optional uint32 msg_cid = 1[default = 15596];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic13 {
+	optional uint32 msg_cid = 1[default = 15597];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic14 {
+	optional uint32 msg_cid = 1[default = 15598];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic15 {
+	optional uint32 msg_cid = 1[default = 15599];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic16 {
+	optional uint32 msg_cid = 1[default = 15600];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic17 {
+	optional uint32 msg_cid = 1[default = 15601];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic18 {
+	optional uint32 msg_cid = 1[default = 15602];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic19 {
+	optional uint32 msg_cid = 1[default = 15603];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic20 {
+	optional uint32 msg_cid = 1[default = 15604];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic21 {
+	optional uint32 msg_cid = 1[default = 15605];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic22 {
+	optional uint32 msg_cid = 1[default = 15606];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic23 {
+	optional uint32 msg_cid = 1[default = 15607];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic24 {
+	optional uint32 msg_cid = 1[default = 15608];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic25 {
+	optional uint32 msg_cid = 1[default = 15609];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic26 {
+	optional uint32 msg_cid = 1[default = 15610];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic27 {
+	optional uint32 msg_cid = 1[default = 15611];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic28 {
+	optional uint32 msg_cid = 1[default = 15612];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic29 {
+	optional uint32 msg_cid = 1[default = 15613];
+	optional ReturnResultsTerminal data = 2;
+}
+
+message ReturnResultsTerminalDynamic30 {
+	optional uint32 msg_cid = 1[default = 15614];
+	optional ReturnResultsTerminal data = 2;
+}

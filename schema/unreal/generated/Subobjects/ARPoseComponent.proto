@@ -1,0 +1,184 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message ARPoseComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional int32 nativeid_a = 18;
+	 optional int32 nativeid_b = 19;
+	 optional int32 nativeid_c = 20;
+	 optional int32 nativeid_d = 21;
+	 optional bytes replicatedpayload_worldtransform_rotation = 22;
+	 optional bytes replicatedpayload_worldtransform_translation = 23;
+	 optional bytes replicatedpayload_worldtransform_scale3d = 24;
+	 repeated bytes replicatedpayload_jointtransforms = 25;
+}
+
+message ARPoseComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11175];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11176];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11177];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11178];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11179];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11180];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11181];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11182];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11183];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11184];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11185];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11186];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11187];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11188];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11189];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11190];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11191];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11192];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11193];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11194];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11195];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11196];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11197];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11198];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11199];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11200];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11201];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11202];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11203];
+	optional ARPoseComponent data = 2;
+}
+
+message ARPoseComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11204];
+	optional ARPoseComponent data = 2;
+}

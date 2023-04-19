@@ -1,0 +1,30 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.levelinstancepivot;
+
+
+import "unreal/gdk/core_types.proto";
+
+message LevelInstancePivot {
+	optional uint32 msg_cid = 1[default = 13114];
+	 optional bool breplicatemovement = 2;
+	 optional bool bhidden = 3;
+	 optional bool btearoff = 4;
+	 optional bool bcanbedamaged = 5;
+	 optional uint32 remoterole = 7;
+	 optional UnrealObjectRef attachmentreplication_attachparent = 8;
+	 optional bytes attachmentreplication_locationoffset = 9;
+	 optional bytes attachmentreplication_relativescale3d = 10;
+	 optional bytes attachmentreplication_rotationoffset = 11;
+	 optional string attachmentreplication_attachsocket = 12;
+	 optional UnrealObjectRef attachmentreplication_attachcomponent = 13;
+	 optional bytes replicatedmovement = 14;
+	 optional UnrealObjectRef owner = 15;
+	 optional uint32 role = 16;
+	 optional UnrealObjectRef instigator = 17;
+}
+
+message LevelInstancePivotServerOnly {
+	optional uint32 msg_cid = 1[default = 13115];
+	 optional bool bactorenablecollision = 6;
+}

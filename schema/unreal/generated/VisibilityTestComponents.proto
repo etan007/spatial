@@ -1,0 +1,10 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.visibilitytest.subobjects;
+
+import "unreal/generated/Subobjects/BillboardComponent.proto";
+
+message Sprite {
+	optional uint32 msg_cid = 1[default = 22411];
+	optional unreal.generated.BillboardComponent data = 2;
+}

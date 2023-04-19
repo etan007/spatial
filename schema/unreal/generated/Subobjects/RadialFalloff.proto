@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message RadialFalloff {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message RadialFalloffDynamic1 {
+	optional uint32 msg_cid = 1[default = 15465];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic2 {
+	optional uint32 msg_cid = 1[default = 15466];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic3 {
+	optional uint32 msg_cid = 1[default = 15467];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic4 {
+	optional uint32 msg_cid = 1[default = 15468];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic5 {
+	optional uint32 msg_cid = 1[default = 15469];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic6 {
+	optional uint32 msg_cid = 1[default = 15470];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic7 {
+	optional uint32 msg_cid = 1[default = 15471];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic8 {
+	optional uint32 msg_cid = 1[default = 15472];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic9 {
+	optional uint32 msg_cid = 1[default = 15473];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic10 {
+	optional uint32 msg_cid = 1[default = 15474];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic11 {
+	optional uint32 msg_cid = 1[default = 15475];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic12 {
+	optional uint32 msg_cid = 1[default = 15476];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic13 {
+	optional uint32 msg_cid = 1[default = 15477];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic14 {
+	optional uint32 msg_cid = 1[default = 15478];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic15 {
+	optional uint32 msg_cid = 1[default = 15479];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic16 {
+	optional uint32 msg_cid = 1[default = 15480];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic17 {
+	optional uint32 msg_cid = 1[default = 15481];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic18 {
+	optional uint32 msg_cid = 1[default = 15482];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic19 {
+	optional uint32 msg_cid = 1[default = 15483];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic20 {
+	optional uint32 msg_cid = 1[default = 15484];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic21 {
+	optional uint32 msg_cid = 1[default = 15485];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic22 {
+	optional uint32 msg_cid = 1[default = 15486];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic23 {
+	optional uint32 msg_cid = 1[default = 15487];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic24 {
+	optional uint32 msg_cid = 1[default = 15488];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic25 {
+	optional uint32 msg_cid = 1[default = 15489];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic26 {
+	optional uint32 msg_cid = 1[default = 15490];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic27 {
+	optional uint32 msg_cid = 1[default = 15491];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic28 {
+	optional uint32 msg_cid = 1[default = 15492];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic29 {
+	optional uint32 msg_cid = 1[default = 15493];
+	optional RadialFalloff data = 2;
+}
+
+message RadialFalloffDynamic30 {
+	optional uint32 msg_cid = 1[default = 15494];
+	optional RadialFalloff data = 2;
+}

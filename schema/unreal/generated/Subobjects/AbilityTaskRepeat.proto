@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTaskRepeat {
+}
+
+message AbilityTaskRepeatDynamic1 {
+	optional uint32 msg_cid = 1[default = 16416];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic2 {
+	optional uint32 msg_cid = 1[default = 16417];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic3 {
+	optional uint32 msg_cid = 1[default = 16418];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic4 {
+	optional uint32 msg_cid = 1[default = 16419];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic5 {
+	optional uint32 msg_cid = 1[default = 16420];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic6 {
+	optional uint32 msg_cid = 1[default = 16421];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic7 {
+	optional uint32 msg_cid = 1[default = 16422];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic8 {
+	optional uint32 msg_cid = 1[default = 16423];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic9 {
+	optional uint32 msg_cid = 1[default = 16424];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic10 {
+	optional uint32 msg_cid = 1[default = 16425];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic11 {
+	optional uint32 msg_cid = 1[default = 16426];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic12 {
+	optional uint32 msg_cid = 1[default = 16427];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic13 {
+	optional uint32 msg_cid = 1[default = 16428];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic14 {
+	optional uint32 msg_cid = 1[default = 16429];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic15 {
+	optional uint32 msg_cid = 1[default = 16430];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic16 {
+	optional uint32 msg_cid = 1[default = 16431];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic17 {
+	optional uint32 msg_cid = 1[default = 16432];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic18 {
+	optional uint32 msg_cid = 1[default = 16433];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic19 {
+	optional uint32 msg_cid = 1[default = 16434];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic20 {
+	optional uint32 msg_cid = 1[default = 16435];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic21 {
+	optional uint32 msg_cid = 1[default = 16436];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic22 {
+	optional uint32 msg_cid = 1[default = 16437];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic23 {
+	optional uint32 msg_cid = 1[default = 16438];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic24 {
+	optional uint32 msg_cid = 1[default = 16439];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic25 {
+	optional uint32 msg_cid = 1[default = 16440];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic26 {
+	optional uint32 msg_cid = 1[default = 16441];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic27 {
+	optional uint32 msg_cid = 1[default = 16442];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic28 {
+	optional uint32 msg_cid = 1[default = 16443];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic29 {
+	optional uint32 msg_cid = 1[default = 16444];
+	optional AbilityTaskRepeat data = 2;
+}
+
+message AbilityTaskRepeatDynamic30 {
+	optional uint32 msg_cid = 1[default = 16445];
+	optional AbilityTaskRepeat data = 2;
+}

@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXInputComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message WXInputComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 24253];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 24254];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 24255];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 24256];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 24257];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 24258];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 24259];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 24260];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 24261];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 24262];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 24263];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 24264];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 24265];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 24266];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 24267];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 24268];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 24269];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 24270];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 24271];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 24272];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 24273];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 24274];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 24275];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 24276];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 24277];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 24278];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 24279];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 24280];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 24281];
+	optional WXInputComponent data = 2;
+}
+
+message WXInputComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 24282];
+	optional WXInputComponent data = 2;
+}

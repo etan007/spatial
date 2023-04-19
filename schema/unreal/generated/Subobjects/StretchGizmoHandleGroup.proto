@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message StretchGizmoHandleGroup {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message StretchGizmoHandleGroupDynamic1 {
+	optional uint32 msg_cid = 1[default = 23400];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic2 {
+	optional uint32 msg_cid = 1[default = 23401];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic3 {
+	optional uint32 msg_cid = 1[default = 23402];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic4 {
+	optional uint32 msg_cid = 1[default = 23403];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic5 {
+	optional uint32 msg_cid = 1[default = 23404];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic6 {
+	optional uint32 msg_cid = 1[default = 23405];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic7 {
+	optional uint32 msg_cid = 1[default = 23406];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic8 {
+	optional uint32 msg_cid = 1[default = 23407];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic9 {
+	optional uint32 msg_cid = 1[default = 23408];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic10 {
+	optional uint32 msg_cid = 1[default = 23409];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic11 {
+	optional uint32 msg_cid = 1[default = 23410];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic12 {
+	optional uint32 msg_cid = 1[default = 23411];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic13 {
+	optional uint32 msg_cid = 1[default = 23412];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic14 {
+	optional uint32 msg_cid = 1[default = 23413];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic15 {
+	optional uint32 msg_cid = 1[default = 23414];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic16 {
+	optional uint32 msg_cid = 1[default = 23415];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic17 {
+	optional uint32 msg_cid = 1[default = 23416];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic18 {
+	optional uint32 msg_cid = 1[default = 23417];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic19 {
+	optional uint32 msg_cid = 1[default = 23418];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic20 {
+	optional uint32 msg_cid = 1[default = 23419];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic21 {
+	optional uint32 msg_cid = 1[default = 23420];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic22 {
+	optional uint32 msg_cid = 1[default = 23421];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic23 {
+	optional uint32 msg_cid = 1[default = 23422];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic24 {
+	optional uint32 msg_cid = 1[default = 23423];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic25 {
+	optional uint32 msg_cid = 1[default = 23424];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic26 {
+	optional uint32 msg_cid = 1[default = 23425];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic27 {
+	optional uint32 msg_cid = 1[default = 23426];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic28 {
+	optional uint32 msg_cid = 1[default = 23427];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic29 {
+	optional uint32 msg_cid = 1[default = 23428];
+	optional StretchGizmoHandleGroup data = 2;
+}
+
+message StretchGizmoHandleGroupDynamic30 {
+	optional uint32 msg_cid = 1[default = 23429];
+	optional StretchGizmoHandleGroup data = 2;
+}

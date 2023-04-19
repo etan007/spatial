@@ -1,0 +1,19 @@
+syntax = "proto2";
+package unreal;
+
+// The VirtualWorkerMapping tells the system which physical worker should currently be simulating
+// an area assigned to a given virtual worker ID. The virtual worker ID is assigned by the
+// authoritative VirtualWorkerTranslator and that is responsible for keeping the Translation records
+// up to date.
+
+message VirtualWorkerMapping {
+     optional uint32 virtual_worker_id = 1;
+     optional string physical_worker_name = 2;
+     optional int64 server_worker_entity = 3;
+     optional int64 partition_id = 4;
+}
+
+message VirtualWorkerTranslation {
+     optional uint32 msg_cid = 1[default = 9979];
+     repeated VirtualWorkerMapping virtual_worker_mapping = 2;
+}

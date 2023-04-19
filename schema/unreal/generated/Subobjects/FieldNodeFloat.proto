@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message FieldNodeFloat {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message FieldNodeFloatDynamic1 {
+	optional uint32 msg_cid = 1[default = 15132];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic2 {
+	optional uint32 msg_cid = 1[default = 15133];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic3 {
+	optional uint32 msg_cid = 1[default = 15134];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic4 {
+	optional uint32 msg_cid = 1[default = 15135];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic5 {
+	optional uint32 msg_cid = 1[default = 15136];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic6 {
+	optional uint32 msg_cid = 1[default = 15137];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic7 {
+	optional uint32 msg_cid = 1[default = 15138];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic8 {
+	optional uint32 msg_cid = 1[default = 15139];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic9 {
+	optional uint32 msg_cid = 1[default = 15140];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic10 {
+	optional uint32 msg_cid = 1[default = 15141];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic11 {
+	optional uint32 msg_cid = 1[default = 15142];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic12 {
+	optional uint32 msg_cid = 1[default = 15143];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic13 {
+	optional uint32 msg_cid = 1[default = 15144];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic14 {
+	optional uint32 msg_cid = 1[default = 15145];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic15 {
+	optional uint32 msg_cid = 1[default = 15146];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic16 {
+	optional uint32 msg_cid = 1[default = 15147];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic17 {
+	optional uint32 msg_cid = 1[default = 15148];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic18 {
+	optional uint32 msg_cid = 1[default = 15149];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic19 {
+	optional uint32 msg_cid = 1[default = 15150];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic20 {
+	optional uint32 msg_cid = 1[default = 15151];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic21 {
+	optional uint32 msg_cid = 1[default = 15152];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic22 {
+	optional uint32 msg_cid = 1[default = 15153];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic23 {
+	optional uint32 msg_cid = 1[default = 15154];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic24 {
+	optional uint32 msg_cid = 1[default = 15155];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic25 {
+	optional uint32 msg_cid = 1[default = 15156];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic26 {
+	optional uint32 msg_cid = 1[default = 15157];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic27 {
+	optional uint32 msg_cid = 1[default = 15158];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic28 {
+	optional uint32 msg_cid = 1[default = 15159];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic29 {
+	optional uint32 msg_cid = 1[default = 15160];
+	optional FieldNodeFloat data = 2;
+}
+
+message FieldNodeFloatDynamic30 {
+	optional uint32 msg_cid = 1[default = 15161];
+	optional FieldNodeFloat data = 2;
+}

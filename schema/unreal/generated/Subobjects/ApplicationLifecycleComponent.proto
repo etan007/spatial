@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ApplicationLifecycleComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ApplicationLifecycleComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 12096];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 12097];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 12098];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 12099];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 12100];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 12101];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 12102];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 12103];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 12104];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 12105];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 12106];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 12107];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 12108];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 12109];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 12110];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 12111];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 12112];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 12113];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 12114];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 12115];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 12116];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 12117];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 12118];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 12119];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 12120];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12121];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12122];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12123];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12124];
+	optional ApplicationLifecycleComponent data = 2;
+}
+
+message ApplicationLifecycleComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12125];
+	optional ApplicationLifecycleComponent data = 2;
+}

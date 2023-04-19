@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message LODSyncComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message LODSyncComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 13295];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 13296];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 13297];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 13298];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 13299];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 13300];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 13301];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 13302];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 13303];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 13304];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 13305];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 13306];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 13307];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 13308];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 13309];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 13310];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 13311];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 13312];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 13313];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 13314];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 13315];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 13316];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 13317];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 13318];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 13319];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 13320];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 13321];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 13322];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 13323];
+	optional LODSyncComponent data = 2;
+}
+
+message LODSyncComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 13324];
+	optional LODSyncComponent data = 2;
+}

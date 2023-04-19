@@ -1,0 +1,10 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.replicatedstartupactorplayercontroller.subobjects;
+
+import "unreal/generated/Subobjects/SceneComponent.proto";
+
+message TransformComponent0 {
+	optional uint32 msg_cid = 1[default = 21552];
+	optional unreal.generated.SceneComponent data = 2;
+}

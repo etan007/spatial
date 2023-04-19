@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message SynthComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message SynthComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 10841];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 10842];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 10843];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 10844];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 10845];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 10846];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 10847];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 10848];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 10849];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 10850];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 10851];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 10852];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 10853];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 10854];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 10855];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 10856];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 10857];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 10858];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 10859];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 10860];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 10861];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 10862];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 10863];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 10864];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 10865];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 10866];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 10867];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 10868];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 10869];
+	optional SynthComponent data = 2;
+}
+
+message SynthComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 10870];
+	optional SynthComponent data = 2;
+}

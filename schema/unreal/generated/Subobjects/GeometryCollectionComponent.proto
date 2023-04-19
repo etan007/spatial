@@ -1,0 +1,177 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message GeometryCollectionComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+	 optional bytes repdata = 18;
+}
+
+message GeometryCollectionComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 17742];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 17743];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 17744];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 17745];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 17746];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 17747];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 17748];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 17749];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 17750];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 17751];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 17752];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 17753];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 17754];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 17755];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 17756];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 17757];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 17758];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 17759];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 17760];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 17761];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 17762];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 17763];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 17764];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 17765];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 17766];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 17767];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 17768];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 17769];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 17770];
+	optional GeometryCollectionComponent data = 2;
+}
+
+message GeometryCollectionComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 17771];
+	optional GeometryCollectionComponent data = 2;
+}

@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message ArrowComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message ArrowComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 12126];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 12127];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 12128];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 12129];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 12130];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 12131];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 12132];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 12133];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 12134];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 12135];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 12136];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 12137];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 12138];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 12139];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 12140];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 12141];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 12142];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 12143];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 12144];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 12145];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 12146];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 12147];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 12148];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 12149];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 12150];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 12151];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 12152];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 12153];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 12154];
+	optional ArrowComponent data = 2;
+}
+
+message ArrowComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 12155];
+	optional ArrowComponent data = 2;
+}

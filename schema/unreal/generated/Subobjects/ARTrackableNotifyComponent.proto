@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ARTrackableNotifyComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ARTrackableNotifyComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11277];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11278];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11279];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11280];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11281];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11282];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11283];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11284];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11285];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11286];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11287];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11288];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11289];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11290];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11291];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11292];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11293];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11294];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11295];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11296];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11297];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11298];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11299];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11300];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11301];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11302];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11303];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11304];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11305];
+	optional ARTrackableNotifyComponent data = 2;
+}
+
+message ARTrackableNotifyComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11306];
+	optional ARTrackableNotifyComponent data = 2;
+}

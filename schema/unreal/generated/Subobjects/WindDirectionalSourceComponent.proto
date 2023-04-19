@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message WindDirectionalSourceComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message WindDirectionalSourceComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 14906];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 14907];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 14908];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 14909];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 14910];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 14911];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 14912];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 14913];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 14914];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 14915];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 14916];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 14917];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 14918];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 14919];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 14920];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 14921];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 14922];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 14923];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 14924];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 14925];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 14926];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 14927];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 14928];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 14929];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 14930];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14931];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14932];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14933];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14934];
+	optional WindDirectionalSourceComponent data = 2;
+}
+
+message WindDirectionalSourceComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14935];
+	optional WindDirectionalSourceComponent data = 2;
+}

@@ -1,0 +1,159 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message WXBuffComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message WXBuffComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 23763];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 23764];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 23765];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 23766];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 23767];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 23768];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 23769];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 23770];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 23771];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 23772];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 23773];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 23774];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 23775];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 23776];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 23777];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 23778];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 23779];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 23780];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 23781];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 23782];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 23783];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 23784];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 23785];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 23786];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 23787];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 23788];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 23789];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 23790];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 23791];
+	optional WXBuffComponent data = 2;
+}
+
+message WXBuffComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 23792];
+	optional WXBuffComponent data = 2;
+}

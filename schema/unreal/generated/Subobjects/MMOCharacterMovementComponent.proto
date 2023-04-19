@@ -1,0 +1,316 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message MMOCharacterMovementComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message MMOCharacterMovementComponentServerOnly {
+	 optional bytes velocity = 3;
+	 optional uint32 movementmode = 4;
+	 optional uint32 custommovementmode = 5;
+	 optional uint32 groundmovementmode = 6;
+}
+
+message MMOCharacterMovementComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 18932];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 18933];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 18934];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 18935];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 18936];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 18937];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 18938];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 18939];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 18940];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 18941];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 18942];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 18943];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 18944];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 18945];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 18946];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 18947];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 18948];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 18949];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 18950];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 18951];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 18952];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 18953];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 18954];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 18955];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 18956];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 18957];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 18958];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 18959];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 18960];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 18961];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 18962];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 18963];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 18964];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 18965];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 18966];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 18967];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 18968];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 18969];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 18970];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 18971];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 18972];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 18973];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 18974];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 18975];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 18976];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 18977];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 18978];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 18979];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 18980];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 18981];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 18982];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 18983];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 18984];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 18985];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 18986];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 18987];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 18988];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 18989];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}
+
+message MMOCharacterMovementComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 18990];
+	optional MMOCharacterMovementComponent data = 2;
+}
+
+message MMOCharacterMovementComponentServerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 18991];
+	optional MMOCharacterMovementComponentServerOnly data = 2;
+}

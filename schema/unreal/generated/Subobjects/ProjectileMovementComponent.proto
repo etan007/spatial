@@ -1,0 +1,313 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message ProjectileMovementComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+}
+
+message ProjectileMovementComponentServerOnly {
+	 optional bytes velocity = 3;
+}
+
+message ProjectileMovementComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 14061];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic1 {
+	optional uint32 msg_cid = 1[default = 14062];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 14063];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic2 {
+	optional uint32 msg_cid = 1[default = 14064];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 14065];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic3 {
+	optional uint32 msg_cid = 1[default = 14066];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 14067];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic4 {
+	optional uint32 msg_cid = 1[default = 14068];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 14069];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic5 {
+	optional uint32 msg_cid = 1[default = 14070];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 14071];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic6 {
+	optional uint32 msg_cid = 1[default = 14072];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 14073];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic7 {
+	optional uint32 msg_cid = 1[default = 14074];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 14075];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic8 {
+	optional uint32 msg_cid = 1[default = 14076];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 14077];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic9 {
+	optional uint32 msg_cid = 1[default = 14078];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 14079];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic10 {
+	optional uint32 msg_cid = 1[default = 14080];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 14081];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic11 {
+	optional uint32 msg_cid = 1[default = 14082];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 14083];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic12 {
+	optional uint32 msg_cid = 1[default = 14084];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 14085];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic13 {
+	optional uint32 msg_cid = 1[default = 14086];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 14087];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic14 {
+	optional uint32 msg_cid = 1[default = 14088];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 14089];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic15 {
+	optional uint32 msg_cid = 1[default = 14090];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 14091];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic16 {
+	optional uint32 msg_cid = 1[default = 14092];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 14093];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic17 {
+	optional uint32 msg_cid = 1[default = 14094];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 14095];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic18 {
+	optional uint32 msg_cid = 1[default = 14096];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 14097];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic19 {
+	optional uint32 msg_cid = 1[default = 14098];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 14099];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic20 {
+	optional uint32 msg_cid = 1[default = 14100];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 14101];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic21 {
+	optional uint32 msg_cid = 1[default = 14102];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 14103];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic22 {
+	optional uint32 msg_cid = 1[default = 14104];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 14105];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic23 {
+	optional uint32 msg_cid = 1[default = 14106];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 14107];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic24 {
+	optional uint32 msg_cid = 1[default = 14108];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 14109];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic25 {
+	optional uint32 msg_cid = 1[default = 14110];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 14111];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic26 {
+	optional uint32 msg_cid = 1[default = 14112];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 14113];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic27 {
+	optional uint32 msg_cid = 1[default = 14114];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 14115];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic28 {
+	optional uint32 msg_cid = 1[default = 14116];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 14117];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic29 {
+	optional uint32 msg_cid = 1[default = 14118];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}
+
+message ProjectileMovementComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 14119];
+	optional ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementComponentServerOnlyDynamic30 {
+	optional uint32 msg_cid = 1[default = 14120];
+	optional ProjectileMovementComponentServerOnly data = 2;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message AbilityTaskWaitCancel {
+}
+
+message AbilityTaskWaitCancelDynamic1 {
+	optional uint32 msg_cid = 1[default = 16686];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic2 {
+	optional uint32 msg_cid = 1[default = 16687];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic3 {
+	optional uint32 msg_cid = 1[default = 16688];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic4 {
+	optional uint32 msg_cid = 1[default = 16689];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic5 {
+	optional uint32 msg_cid = 1[default = 16690];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic6 {
+	optional uint32 msg_cid = 1[default = 16691];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic7 {
+	optional uint32 msg_cid = 1[default = 16692];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic8 {
+	optional uint32 msg_cid = 1[default = 16693];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic9 {
+	optional uint32 msg_cid = 1[default = 16694];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic10 {
+	optional uint32 msg_cid = 1[default = 16695];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic11 {
+	optional uint32 msg_cid = 1[default = 16696];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic12 {
+	optional uint32 msg_cid = 1[default = 16697];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic13 {
+	optional uint32 msg_cid = 1[default = 16698];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic14 {
+	optional uint32 msg_cid = 1[default = 16699];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic15 {
+	optional uint32 msg_cid = 1[default = 16700];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic16 {
+	optional uint32 msg_cid = 1[default = 16701];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic17 {
+	optional uint32 msg_cid = 1[default = 16702];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic18 {
+	optional uint32 msg_cid = 1[default = 16703];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic19 {
+	optional uint32 msg_cid = 1[default = 16704];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic20 {
+	optional uint32 msg_cid = 1[default = 16705];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic21 {
+	optional uint32 msg_cid = 1[default = 16706];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic22 {
+	optional uint32 msg_cid = 1[default = 16707];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic23 {
+	optional uint32 msg_cid = 1[default = 16708];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic24 {
+	optional uint32 msg_cid = 1[default = 16709];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic25 {
+	optional uint32 msg_cid = 1[default = 16710];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic26 {
+	optional uint32 msg_cid = 1[default = 16711];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic27 {
+	optional uint32 msg_cid = 1[default = 16712];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic28 {
+	optional uint32 msg_cid = 1[default = 16713];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic29 {
+	optional uint32 msg_cid = 1[default = 16714];
+	optional AbilityTaskWaitCancel data = 2;
+}
+
+message AbilityTaskWaitCancelDynamic30 {
+	optional uint32 msg_cid = 1[default = 16715];
+	optional AbilityTaskWaitCancel data = 2;
+}

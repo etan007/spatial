@@ -1,0 +1,10 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.spatialtestattachedcomponentreplicationactorwithdefaultcomponent.subobjects;
+
+import "unreal/generated/Subobjects/SpatialTestAttachedComponentReplicationComponent.proto";
+
+message DefaultAttachedComponent {
+	optional uint32 msg_cid = 1[default = 21768];
+	optional unreal.generated.SpatialTestAttachedComponentReplicationComponent data = 2;
+}

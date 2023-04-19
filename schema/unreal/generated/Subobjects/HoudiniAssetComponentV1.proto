@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message HoudiniAssetComponentV1 {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message HoudiniAssetComponentV1Dynamic1 {
+	optional uint32 msg_cid = 1[default = 18026];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic2 {
+	optional uint32 msg_cid = 1[default = 18027];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic3 {
+	optional uint32 msg_cid = 1[default = 18028];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic4 {
+	optional uint32 msg_cid = 1[default = 18029];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic5 {
+	optional uint32 msg_cid = 1[default = 18030];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic6 {
+	optional uint32 msg_cid = 1[default = 18031];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic7 {
+	optional uint32 msg_cid = 1[default = 18032];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic8 {
+	optional uint32 msg_cid = 1[default = 18033];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic9 {
+	optional uint32 msg_cid = 1[default = 18034];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic10 {
+	optional uint32 msg_cid = 1[default = 18035];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic11 {
+	optional uint32 msg_cid = 1[default = 18036];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic12 {
+	optional uint32 msg_cid = 1[default = 18037];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic13 {
+	optional uint32 msg_cid = 1[default = 18038];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic14 {
+	optional uint32 msg_cid = 1[default = 18039];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic15 {
+	optional uint32 msg_cid = 1[default = 18040];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic16 {
+	optional uint32 msg_cid = 1[default = 18041];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic17 {
+	optional uint32 msg_cid = 1[default = 18042];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic18 {
+	optional uint32 msg_cid = 1[default = 18043];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic19 {
+	optional uint32 msg_cid = 1[default = 18044];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic20 {
+	optional uint32 msg_cid = 1[default = 18045];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic21 {
+	optional uint32 msg_cid = 1[default = 18046];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic22 {
+	optional uint32 msg_cid = 1[default = 18047];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic23 {
+	optional uint32 msg_cid = 1[default = 18048];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic24 {
+	optional uint32 msg_cid = 1[default = 18049];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic25 {
+	optional uint32 msg_cid = 1[default = 18050];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic26 {
+	optional uint32 msg_cid = 1[default = 18051];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic27 {
+	optional uint32 msg_cid = 1[default = 18052];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic28 {
+	optional uint32 msg_cid = 1[default = 18053];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic29 {
+	optional uint32 msg_cid = 1[default = 18054];
+	optional HoudiniAssetComponentV1 data = 2;
+}
+
+message HoudiniAssetComponentV1Dynamic30 {
+	optional uint32 msg_cid = 1[default = 18055];
+	optional HoudiniAssetComponentV1 data = 2;
+}

@@ -1,0 +1,24 @@
+syntax = "proto2";
+package unreal;
+
+message SpatialDebugging {
+  
+     optional uint32 msg_cid = 1[default = 9975];
+
+     // Id assigned to the Unreal server worker which is authoritative for this entity.
+     // 0 is reserved as an invalid/unset value.
+     optional uint32 authoritative_virtual_worker_id = 2;
+
+     // The color for the authoritative virtual worker.
+     optional uint32 authoritative_color = 3;
+     
+     // Id assigned to the Unreal server worker which should be authoritative for this entity.
+     // 0 is reserved as an invalid/unset value.
+     optional uint32 intent_virtual_worker_id = 4;
+
+     // The color for the intended virtual worker.
+     optional uint32 intent_color = 5;
+
+     // Whether or not the entity is locked.
+     optional bool is_locked = 6;
+}

@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GADeadC {
+}
+
+message GADeadCDynamic1 {
+	optional uint32 msg_cid = 1[default = 25123];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic2 {
+	optional uint32 msg_cid = 1[default = 25124];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic3 {
+	optional uint32 msg_cid = 1[default = 25125];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic4 {
+	optional uint32 msg_cid = 1[default = 25126];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic5 {
+	optional uint32 msg_cid = 1[default = 25127];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic6 {
+	optional uint32 msg_cid = 1[default = 25128];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic7 {
+	optional uint32 msg_cid = 1[default = 25129];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic8 {
+	optional uint32 msg_cid = 1[default = 25130];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic9 {
+	optional uint32 msg_cid = 1[default = 25131];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic10 {
+	optional uint32 msg_cid = 1[default = 25132];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic11 {
+	optional uint32 msg_cid = 1[default = 25133];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic12 {
+	optional uint32 msg_cid = 1[default = 25134];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic13 {
+	optional uint32 msg_cid = 1[default = 25135];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic14 {
+	optional uint32 msg_cid = 1[default = 25136];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic15 {
+	optional uint32 msg_cid = 1[default = 25137];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic16 {
+	optional uint32 msg_cid = 1[default = 25138];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic17 {
+	optional uint32 msg_cid = 1[default = 25139];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic18 {
+	optional uint32 msg_cid = 1[default = 25140];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic19 {
+	optional uint32 msg_cid = 1[default = 25141];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic20 {
+	optional uint32 msg_cid = 1[default = 25142];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic21 {
+	optional uint32 msg_cid = 1[default = 25143];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic22 {
+	optional uint32 msg_cid = 1[default = 25144];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic23 {
+	optional uint32 msg_cid = 1[default = 25145];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic24 {
+	optional uint32 msg_cid = 1[default = 25146];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic25 {
+	optional uint32 msg_cid = 1[default = 25147];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic26 {
+	optional uint32 msg_cid = 1[default = 25148];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic27 {
+	optional uint32 msg_cid = 1[default = 25149];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic28 {
+	optional uint32 msg_cid = 1[default = 25150];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic29 {
+	optional uint32 msg_cid = 1[default = 25151];
+	optional GADeadC data = 2;
+}
+
+message GADeadCDynamic30 {
+	optional uint32 msg_cid = 1[default = 25152];
+	optional GADeadC data = 2;
+}

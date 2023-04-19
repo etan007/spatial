@@ -1,0 +1,47 @@
+syntax = "proto2";
+package unreal;
+
+message MigrationDiagnosticRequest {}
+
+message MigrationDiagnosticResponse
+{
+	// Id of the worker which is authoritative for the blocked actor.
+	optional uint32 authoritative_worker_id = 1;
+
+	// The entity id of the blocked actor
+	optional int64 actor_entity_id = 2;
+
+	// Whether or not the blocked actor is replicated.
+	optional bool actor_replicated = 3;
+
+	// Whether or not the blocked actor has authority.
+	optional bool actor_authority = 4;
+
+	// Whether or not the blocked actor is locked.
+	optional bool actor_locked = 5;
+
+	// Whether or not the authoritative worker thinks the blocked actor should migrate.
+	optional bool actor_evaluation = 6;
+
+	// The id of the worker the blocked actor should migrate to
+	optional uint32 destination_worker_id = 7;
+
+	// The entity id of the owner of the actor that cannot migrate
+	optional int64 owner_entity_id = 8;
+
+}
+
+message MigrationDiagnostic
+{
+    optional uint32 msg_cid = 1[default = 9969];
+	message CommandDiagnostic
+	{
+		optional MigrationDiagnosticRequest request = 1;
+		optional MigrationDiagnosticResponse response = 2;
+	}
+	message Commands
+	{
+       optional CommandDiagnostic diagnostic = 1;
+	}
+	
+}

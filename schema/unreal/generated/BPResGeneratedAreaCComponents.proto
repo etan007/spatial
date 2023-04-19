@@ -1,0 +1,16 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.bpresgeneratedareac.subobjects;
+
+import "unreal/generated/Subobjects/BoxComponent.proto";
+import "unreal/generated/Subobjects/SceneComponent.proto";
+
+message GeneratedBox {
+	optional uint32 msg_cid = 1[default = 25378];
+	optional unreal.generated.BoxComponent data = 2;
+}
+
+message RootComponent {
+	optional uint32 msg_cid = 1[default = 25379];
+	optional unreal.generated.SceneComponent data = 2;
+}

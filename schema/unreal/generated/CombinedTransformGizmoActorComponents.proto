@@ -1,0 +1,10 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.combinedtransformgizmoactor.subobjects;
+
+import "unreal/generated/Subobjects/SphereComponent.proto";
+
+message GizmoCenter {
+	optional uint32 msg_cid = 1[default = 18358];
+	optional unreal.generated.SphereComponent data = 2;
+}

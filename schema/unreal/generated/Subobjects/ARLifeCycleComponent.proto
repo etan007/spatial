@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message ARLifeCycleComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message ARLifeCycleComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 11023];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 11024];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 11025];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 11026];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 11027];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 11028];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 11029];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 11030];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 11031];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 11032];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 11033];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 11034];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 11035];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 11036];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 11037];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 11038];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 11039];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 11040];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 11041];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 11042];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 11043];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 11044];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 11045];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 11046];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 11047];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 11048];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 11049];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 11050];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 11051];
+	optional ARLifeCycleComponent data = 2;
+}
+
+message ARLifeCycleComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 11052];
+	optional ARLifeCycleComponent data = 2;
+}

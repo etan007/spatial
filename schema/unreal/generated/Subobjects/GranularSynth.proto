@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message GranularSynth {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message GranularSynthDynamic1 {
+	optional uint32 msg_cid = 1[default = 22592];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic2 {
+	optional uint32 msg_cid = 1[default = 22593];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic3 {
+	optional uint32 msg_cid = 1[default = 22594];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic4 {
+	optional uint32 msg_cid = 1[default = 22595];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic5 {
+	optional uint32 msg_cid = 1[default = 22596];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic6 {
+	optional uint32 msg_cid = 1[default = 22597];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic7 {
+	optional uint32 msg_cid = 1[default = 22598];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic8 {
+	optional uint32 msg_cid = 1[default = 22599];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic9 {
+	optional uint32 msg_cid = 1[default = 22600];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic10 {
+	optional uint32 msg_cid = 1[default = 22601];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic11 {
+	optional uint32 msg_cid = 1[default = 22602];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic12 {
+	optional uint32 msg_cid = 1[default = 22603];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic13 {
+	optional uint32 msg_cid = 1[default = 22604];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic14 {
+	optional uint32 msg_cid = 1[default = 22605];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic15 {
+	optional uint32 msg_cid = 1[default = 22606];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic16 {
+	optional uint32 msg_cid = 1[default = 22607];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic17 {
+	optional uint32 msg_cid = 1[default = 22608];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic18 {
+	optional uint32 msg_cid = 1[default = 22609];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic19 {
+	optional uint32 msg_cid = 1[default = 22610];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic20 {
+	optional uint32 msg_cid = 1[default = 22611];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic21 {
+	optional uint32 msg_cid = 1[default = 22612];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic22 {
+	optional uint32 msg_cid = 1[default = 22613];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic23 {
+	optional uint32 msg_cid = 1[default = 22614];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic24 {
+	optional uint32 msg_cid = 1[default = 22615];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic25 {
+	optional uint32 msg_cid = 1[default = 22616];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic26 {
+	optional uint32 msg_cid = 1[default = 22617];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic27 {
+	optional uint32 msg_cid = 1[default = 22618];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic28 {
+	optional uint32 msg_cid = 1[default = 22619];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic29 {
+	optional uint32 msg_cid = 1[default = 22620];
+	optional GranularSynth data = 2;
+}
+
+message GranularSynthDynamic30 {
+	optional uint32 msg_cid = 1[default = 22621];
+	optional GranularSynth data = 2;
+}

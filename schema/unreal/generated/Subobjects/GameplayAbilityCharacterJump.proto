@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GameplayAbilityCharacterJump {
+}
+
+message GameplayAbilityCharacterJumpDynamic1 {
+	optional uint32 msg_cid = 1[default = 17376];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic2 {
+	optional uint32 msg_cid = 1[default = 17377];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic3 {
+	optional uint32 msg_cid = 1[default = 17378];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic4 {
+	optional uint32 msg_cid = 1[default = 17379];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic5 {
+	optional uint32 msg_cid = 1[default = 17380];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic6 {
+	optional uint32 msg_cid = 1[default = 17381];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic7 {
+	optional uint32 msg_cid = 1[default = 17382];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic8 {
+	optional uint32 msg_cid = 1[default = 17383];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic9 {
+	optional uint32 msg_cid = 1[default = 17384];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic10 {
+	optional uint32 msg_cid = 1[default = 17385];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic11 {
+	optional uint32 msg_cid = 1[default = 17386];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic12 {
+	optional uint32 msg_cid = 1[default = 17387];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic13 {
+	optional uint32 msg_cid = 1[default = 17388];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic14 {
+	optional uint32 msg_cid = 1[default = 17389];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic15 {
+	optional uint32 msg_cid = 1[default = 17390];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic16 {
+	optional uint32 msg_cid = 1[default = 17391];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic17 {
+	optional uint32 msg_cid = 1[default = 17392];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic18 {
+	optional uint32 msg_cid = 1[default = 17393];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic19 {
+	optional uint32 msg_cid = 1[default = 17394];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic20 {
+	optional uint32 msg_cid = 1[default = 17395];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic21 {
+	optional uint32 msg_cid = 1[default = 17396];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic22 {
+	optional uint32 msg_cid = 1[default = 17397];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic23 {
+	optional uint32 msg_cid = 1[default = 17398];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic24 {
+	optional uint32 msg_cid = 1[default = 17399];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic25 {
+	optional uint32 msg_cid = 1[default = 17400];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic26 {
+	optional uint32 msg_cid = 1[default = 17401];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic27 {
+	optional uint32 msg_cid = 1[default = 17402];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic28 {
+	optional uint32 msg_cid = 1[default = 17403];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic29 {
+	optional uint32 msg_cid = 1[default = 17404];
+	optional GameplayAbilityCharacterJump data = 2;
+}
+
+message GameplayAbilityCharacterJumpDynamic30 {
+	optional uint32 msg_cid = 1[default = 17405];
+	optional GameplayAbilityCharacterJump data = 2;
+}

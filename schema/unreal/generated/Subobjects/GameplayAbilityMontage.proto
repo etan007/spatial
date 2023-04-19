@@ -1,0 +1,157 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+message GameplayAbilityMontage {
+}
+
+message GameplayAbilityMontageDynamic1 {
+	optional uint32 msg_cid = 1[default = 17406];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic2 {
+	optional uint32 msg_cid = 1[default = 17407];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic3 {
+	optional uint32 msg_cid = 1[default = 17408];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic4 {
+	optional uint32 msg_cid = 1[default = 17409];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic5 {
+	optional uint32 msg_cid = 1[default = 17410];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic6 {
+	optional uint32 msg_cid = 1[default = 17411];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic7 {
+	optional uint32 msg_cid = 1[default = 17412];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic8 {
+	optional uint32 msg_cid = 1[default = 17413];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic9 {
+	optional uint32 msg_cid = 1[default = 17414];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic10 {
+	optional uint32 msg_cid = 1[default = 17415];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic11 {
+	optional uint32 msg_cid = 1[default = 17416];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic12 {
+	optional uint32 msg_cid = 1[default = 17417];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic13 {
+	optional uint32 msg_cid = 1[default = 17418];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic14 {
+	optional uint32 msg_cid = 1[default = 17419];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic15 {
+	optional uint32 msg_cid = 1[default = 17420];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic16 {
+	optional uint32 msg_cid = 1[default = 17421];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic17 {
+	optional uint32 msg_cid = 1[default = 17422];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic18 {
+	optional uint32 msg_cid = 1[default = 17423];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic19 {
+	optional uint32 msg_cid = 1[default = 17424];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic20 {
+	optional uint32 msg_cid = 1[default = 17425];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic21 {
+	optional uint32 msg_cid = 1[default = 17426];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic22 {
+	optional uint32 msg_cid = 1[default = 17427];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic23 {
+	optional uint32 msg_cid = 1[default = 17428];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic24 {
+	optional uint32 msg_cid = 1[default = 17429];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic25 {
+	optional uint32 msg_cid = 1[default = 17430];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic26 {
+	optional uint32 msg_cid = 1[default = 17431];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic27 {
+	optional uint32 msg_cid = 1[default = 17432];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic28 {
+	optional uint32 msg_cid = 1[default = 17433];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic29 {
+	optional uint32 msg_cid = 1[default = 17434];
+	optional GameplayAbilityMontage data = 2;
+}
+
+message GameplayAbilityMontageDynamic30 {
+	optional uint32 msg_cid = 1[default = 17435];
+	optional GameplayAbilityMontage data = 2;
+}

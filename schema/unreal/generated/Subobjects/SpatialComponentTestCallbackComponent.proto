@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message SpatialComponentTestCallbackComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message SpatialComponentTestCallbackComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 21637];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 21638];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 21639];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 21640];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 21641];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 21642];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 21643];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 21644];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 21645];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 21646];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 21647];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 21648];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 21649];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 21650];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 21651];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 21652];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 21653];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 21654];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 21655];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 21656];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 21657];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 21658];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 21659];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 21660];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 21661];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 21662];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 21663];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 21664];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 21665];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}
+
+message SpatialComponentTestCallbackComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 21666];
+	optional SpatialComponentTestCallbackComponent data = 2;
+}

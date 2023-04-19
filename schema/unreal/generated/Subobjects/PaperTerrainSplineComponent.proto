@@ -1,0 +1,176 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated;
+
+
+import "unreal/gdk/core_types.proto";
+
+message PaperTerrainSplineComponent {
+	 optional bool breplicates = 1;
+	 optional bool bisactive = 2;
+	 optional UnrealObjectRef attachparent = 3;
+	 optional string attachsocketname = 4;
+	 repeated UnrealObjectRef attachchildren = 5;
+	 optional bytes relativelocation = 6;
+	 optional bytes relativerotation = 7;
+	 optional bytes relativescale3d = 8;
+	 optional bool babsolutelocation = 9;
+	 optional bool babsoluterotation = 10;
+	 optional bool babsolutescale = 11;
+	 optional bool bvisible = 12;
+	 optional bool bshouldbeattached = 13;
+	 optional bool bshouldsnaplocationwhenattached = 14;
+	 optional bool bshouldsnaprotationwhenattached = 15;
+	 optional bool bshouldsnapscalewhenattached = 16;
+	 optional uint32 mobility = 17;
+}
+
+message PaperTerrainSplineComponentDynamic1 {
+	optional uint32 msg_cid = 1[default = 20893];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic2 {
+	optional uint32 msg_cid = 1[default = 20894];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic3 {
+	optional uint32 msg_cid = 1[default = 20895];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic4 {
+	optional uint32 msg_cid = 1[default = 20896];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic5 {
+	optional uint32 msg_cid = 1[default = 20897];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic6 {
+	optional uint32 msg_cid = 1[default = 20898];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic7 {
+	optional uint32 msg_cid = 1[default = 20899];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic8 {
+	optional uint32 msg_cid = 1[default = 20900];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic9 {
+	optional uint32 msg_cid = 1[default = 20901];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic10 {
+	optional uint32 msg_cid = 1[default = 20902];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic11 {
+	optional uint32 msg_cid = 1[default = 20903];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic12 {
+	optional uint32 msg_cid = 1[default = 20904];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic13 {
+	optional uint32 msg_cid = 1[default = 20905];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic14 {
+	optional uint32 msg_cid = 1[default = 20906];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic15 {
+	optional uint32 msg_cid = 1[default = 20907];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic16 {
+	optional uint32 msg_cid = 1[default = 20908];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic17 {
+	optional uint32 msg_cid = 1[default = 20909];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic18 {
+	optional uint32 msg_cid = 1[default = 20910];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic19 {
+	optional uint32 msg_cid = 1[default = 20911];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic20 {
+	optional uint32 msg_cid = 1[default = 20912];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic21 {
+	optional uint32 msg_cid = 1[default = 20913];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic22 {
+	optional uint32 msg_cid = 1[default = 20914];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic23 {
+	optional uint32 msg_cid = 1[default = 20915];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic24 {
+	optional uint32 msg_cid = 1[default = 20916];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic25 {
+	optional uint32 msg_cid = 1[default = 20917];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic26 {
+	optional uint32 msg_cid = 1[default = 20918];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic27 {
+	optional uint32 msg_cid = 1[default = 20919];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic28 {
+	optional uint32 msg_cid = 1[default = 20920];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic29 {
+	optional uint32 msg_cid = 1[default = 20921];
+	optional PaperTerrainSplineComponent data = 2;
+}
+
+message PaperTerrainSplineComponentDynamic30 {
+	optional uint32 msg_cid = 1[default = 20922];
+	optional PaperTerrainSplineComponent data = 2;
+}

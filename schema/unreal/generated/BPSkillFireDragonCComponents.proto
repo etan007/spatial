@@ -1,0 +1,27 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.bpskillfiredragonc.subobjects;
+
+import "unreal/generated/Subobjects/NiagaraComponent.proto";
+import "unreal/generated/Subobjects/SphereComponent.proto";
+import "unreal/generated/Subobjects/ProjectileMovementComponent.proto";
+
+message NSMageFireShield {
+	optional uint32 msg_cid = 1[default = 25635];
+	optional unreal.generated.NiagaraComponent data = 2;
+}
+
+message SphereComponent {
+	optional uint32 msg_cid = 1[default = 25636];
+	optional unreal.generated.SphereComponent data = 2;
+}
+
+message ProjectileMovement {
+	optional uint32 msg_cid = 1[default = 25637];
+	optional unreal.generated.ProjectileMovementComponent data = 2;
+}
+
+message ProjectileMovementServerOnly {
+	optional uint32 msg_cid = 1[default = 25638];
+	optional unreal.generated.ProjectileMovementComponentServerOnly data = 2;
+}

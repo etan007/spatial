@@ -1,0 +1,22 @@
+syntax = "proto2";
+// Note that this file has been generated automatically
+package unreal.generated.aicontroller.subobjects;
+
+import "unreal/generated/Subobjects/PathFollowingComponent.proto";
+import "unreal/generated/Subobjects/PawnActionsComponent.proto";
+import "unreal/generated/Subobjects/SceneComponent.proto";
+
+message PathFollowingComponent {
+	optional uint32 msg_cid = 1[default = 10032];
+	optional unreal.generated.PathFollowingComponent data = 2;
+}
+
+message ActionsComp {
+	optional uint32 msg_cid = 1[default = 10033];
+	optional unreal.generated.PawnActionsComponent data = 2;
+}
+
+message TransformComponent0 {
+	optional uint32 msg_cid = 1[default = 10034];
+	optional unreal.generated.SceneComponent data = 2;
+}
